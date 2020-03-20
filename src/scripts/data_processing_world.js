@@ -86,6 +86,7 @@ const deaths_fixes_dict = {
 }
 
 const recovered_fixes_dict = {
+    'United States of America||2020-03-20': 121,
     'Italy||2020-03-12': 1258,
     'Spain||2020-03-12': 189,
     'France|Metropolitan France|2020-03-12': 12,
@@ -180,12 +181,22 @@ function generateData(filename, metric) {
                 output_world[countryKey] = {
                     ENGLISH: country
                 }
+                if (country=== 'United States of America' && metric === 'curedCount') {
+                    console.info("")
+                }
+
                 output_world[countryKey][metric] = {}
             }
 
             dates.forEach((date, index) => {
                 let count = parseInt(lineSplit[index + 4], 10) || 0
-
+                if (country=== 'United States of America' && metric === 'curedCount') {
+                    console.info(`${country}|${province}|${date}\n`)
+                    if (province === '') {
+                        console.info("-------------Yes-------------\n")
+                    }
+                }
+                
                 // current day
                 if (index + 4 >= lineSplit.length) count = currCount
 
@@ -213,12 +224,30 @@ function generateData(filename, metric) {
                     if (output_world[countryKey][provinceKey][metric][date] == null)
                         output_world[countryKey][provinceKey][metric][date] = 0
                     output_world[countryKey][provinceKey][metric][date] += count
-
+                    
                     if (output_world[countryKey][metric][date] == null) output_world[countryKey][metric][date] = 0
+
+                    
                     output_world[countryKey][metric][date] += count
+                    
                 }
                 if (output_world[en2zh['Global']][metric][date] == null) output_world[en2zh['Global']][metric][date] = 0
-                output_world[en2zh['Global']][metric][date] += count
+                output_world[en2zh['Global']][metric][date] += count  
+            
+                // fix US recovered data issue
+                if (output_world[en2zh['United States of America']] != null &&
+                output_world[en2zh['United States of America']][metric] != null &&
+                (output_world[en2zh['United States of America']][metric][date] == null || 
+                output_world[en2zh['United States of America']][metric][date] == 0) &&
+                metric === 'curedCount') {
+                    console.info()
+                    if (recovered_fixes_dict[`United States of America||${date}`] != null) {
+                        output_world[en2zh['United States of America']][metric][date] = recovered_fixes_dict[`United States of America||${date}`]
+                    } else {
+                        output_world[en2zh['United States of America']][metric][date] = 0
+                    }
+                    
+                }
             })
         }
     })

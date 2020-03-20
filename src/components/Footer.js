@@ -18,20 +18,7 @@ export default class Footer extends Component {
         return (
             <Fragment>
                 <div className="footer">
-                    <span>
-                        <a 
-                            className="bmc-button"
-                            target="_blank"
-                            href="https://www.buymeacoffee.com/oyCV5vF"
-                            rel="noopener noreferrer"
-                        >
-                            <img
-                                src="https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg"
-                                alt="Buy me a coffee"
-                            />
-                            <span style={{ marginLeft: 15, fontSize: 19 }}>Buy me a coffee</span>
-                        </a>
-                    </span>
+                   
                     <FaInfoCircle
                         data-tip={!(isMobile || isIPad13) ? i18n.ABOUT[lang] : null}
                         size={18}

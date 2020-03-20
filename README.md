@@ -24,3 +24,73 @@ Pull requests are welcome. If you'd like to support the work and buy me a ☕, I
 
 ### Maps
 Original map shapefiles are from [GADM](https://gadm.org/), which are converted to TopoJSON files using [mapshaper](https://github.com/mbloch/mapshaper).
+
+### Tools
+#### Install yarn
+
+```
+curl -sS https://dl.yarnpkg.com/debian/pubkey.gpg | sudo apt-key add -
+echo "deb https://dl.yarnpkg.com/debian/ stable main" | sudo tee /etc/apt/sources.list.d/yarn.list
+
+sudo apt update && sudo apt install yarn
+## add this to .zshrc
+export PATH=$PATH:$HOME/.yarn/bin
+source ~/.zshrc
+
+yarn --version
+```
+#### Install node 10.x
+```
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.3/install.sh | bash
+## add this to .zshrc
+export NVM_DIR=$HOME/.nvm
+
+
+source ~/.zshrc
+
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm\n[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm
+
+nvm install v10.19.0
+
+node --version
+
+```
+#### Install pyton3.7
+```
+sudo apt install software-properties-common
+sudo add-apt-repository ppa:deadsnakes/ppa
+sudo apt install python3.7
+python ––version
+```
+#### Install pip for python3
+
+```
+sudo apt update
+sudo apt install python3-pip
+pip3 --version
+```
+
+
+
+### Build and Run
+
+### Build
+```
+git submodule sync --recursive
+git submodule update --remote
+yarn install
+yarn build
+```
+### Run
+First run, you need to install serve
+
+```
+yarn global add serve
+```
+
+start the website in local
+
+```
+serve -s build
+```
+

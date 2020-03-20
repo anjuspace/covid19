@@ -51,12 +51,9 @@ mkdir -p public/data
 
 # generate data in JSON format and include data in TOPOJSON maps
 pip3 install requests
-python3 data/1p3a-data/crawler.py
-if [ $? != 0 ]; then
-   exit 1
-fi
 
-data_processing_filenames="world_current world china korea italy us us_1p3a france germany japan austria australia canada spain switzerland"
+
+data_processing_filenames="world_current world china korea italy us france germany japan austria australia canada spain switzerland"
 
 for filename in $data_processing_filenames; do
     echo "Running data_processing_${filename}.js ..."

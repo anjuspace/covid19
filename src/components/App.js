@@ -179,8 +179,27 @@ class App extends Component {
                     <Fragment>
                         <Container className={`app-container ${fullMap ? 'map-full' : fullPlot ? 'plot-full' : ''}`}>
                             <Row>
+                                <Col lg='12'>
+                                    <span>
+                                        <a     
+                                            target="_blank"
+                                            href="https://www.buymeacoffee.com/oyCV5vF"
+                                            rel="noopener noreferrer"
+                                        >
+                                            <img
+                                                src="https://cdn.buymeacoffee.com/buttons/arial-orange.png"
+                                                alt="Buy me a coffee" 
+                                                style={{ wdith:157, height:37 }}
+                                            />
+                                        </a>
+                                    </span>
+                                </Col>
+                            </Row>
+                            <Row>
                                 <Col lg={!fullMap ? 7 : 12}>
+
                                     <div className="header">
+                                        
                                         <span className="header-icon" style={{ opacity: dataLoaded ? 1 : 0 }}>
                                             <Icon />
                                         </span>
