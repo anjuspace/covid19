@@ -1,6 +1,6 @@
 ## COVID-19 Coronavirus Map / 新型冠状病毒肺炎疫情图
 
-<img src="https://raw.githubusercontent.com/stevenliuyi/covid19/master/public/cover.png" width="400" />
+<img src="https://raw.githubusercontent.com/anjuspace/covid19/master/public/cover.png" width="400" />
 
 COVID-19 (2019-nCOV / SARS-CoV-2) Coronavirus Map (https://covid19.health) is an interactive, animated map for the COVID-19 coronavirus outbreak.
 
@@ -8,7 +8,7 @@ The map is based on multiple sources (see below for details). If you are interes
 
 Pull requests are welcome. If you'd like to support the work and buy me a ☕, I greatly appreciate it!
 
-<a href="https://www.buymeacoffee.com/stevenliuyi" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+<a href="https://www.buymeacoffee.com/oyCV5vF" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
 ### Data Sources
 - Worldwide/United States/Australia/Canada: [2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19)

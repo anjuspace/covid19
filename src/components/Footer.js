@@ -19,27 +19,10 @@ export default class Footer extends Component {
             <Fragment>
                 <div className="footer">
                     <span>
-                        <a href="https://yliu.io">Steven Liu</a> 2020
-                    </span>
-                    <FaInfoCircle
-                        data-tip={!(isMobile || isIPad13) ? i18n.ABOUT[lang] : null}
-                        size={18}
-                        onClick={() => this.setState({ modal: true })}
-                    />
-                    <FaGithub
-                        data-tip={!(isMobile || isIPad13) ? i18n.SOURCE_CODE[lang] : null}
-                        size={18}
-                        onClick={() => window.open('https://github.com/stevenliuyi/covid19')}
-                    />
-                </div>
-                <Modal isOpen={this.state.modal} centered={true} toggle={this.toggle}>
-                    <ModalHeader toggle={this.toggle}>{i18n.ABOUT[lang]}</ModalHeader>
-                    <ModalBody className="footer-about">
-                        <div dangerouslySetInnerHTML={{ __html: i18n.ABOUT_TEXT[lang] }} />
-                        <a
+                        <a 
                             className="bmc-button"
                             target="_blank"
-                            href="https://www.buymeacoffee.com/stevenliuyi"
+                            href="https://www.buymeacoffee.com/oyCV5vF"
                             rel="noopener noreferrer"
                         >
                             <img
@@ -48,6 +31,17 @@ export default class Footer extends Component {
                             />
                             <span style={{ marginLeft: 15, fontSize: 19 }}>Buy me a coffee</span>
                         </a>
+                    </span>
+                    <FaInfoCircle
+                        data-tip={!(isMobile || isIPad13) ? i18n.ABOUT[lang] : null}
+                        size={18}
+                        onClick={() => this.setState({ modal: true })}
+                    />
+                </div>
+                <Modal isOpen={this.state.modal} centered={true} toggle={this.toggle}>
+                    <ModalHeader toggle={this.toggle}>{i18n.ABOUT[lang]}</ModalHeader>
+                    <ModalBody className="footer-about">
+                        <div dangerouslySetInnerHTML={{ __html: i18n.ABOUT_TEXT[lang] }} />
                     </ModalBody>
                 </Modal>
             </Fragment>
