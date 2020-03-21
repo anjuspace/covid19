@@ -7,7 +7,7 @@ import i18n from '../data/i18n.yml'
 export default class Tree extends Component {
     state = {
         height: 280,
-        type: 'bubble'
+        type: 'table'
     }
 
     componentDidMount() {
