@@ -181,21 +181,12 @@ function generateData(filename, metric) {
                 output_world[countryKey] = {
                     ENGLISH: country
                 }
-                if (country=== 'United States of America' && metric === 'curedCount') {
-                    console.info("")
-                }
-
+    
                 output_world[countryKey][metric] = {}
             }
 
             dates.forEach((date, index) => {
                 let count = parseInt(lineSplit[index + 4], 10) || 0
-                if (country=== 'United States of America' && metric === 'curedCount') {
-                    console.info(`${country}|${province}|${date}\n`)
-                    if (province === '') {
-                        console.info("-------------Yes-------------\n")
-                    }
-                }
                 
                 // current day
                 if (index + 4 >= lineSplit.length) count = currCount
@@ -235,6 +226,7 @@ function generateData(filename, metric) {
                 output_world[en2zh['Global']][metric][date] += count  
             
                 // fix US recovered data issue
+                /*
                 if (output_world[en2zh['United States of America']] != null &&
                 output_world[en2zh['United States of America']][metric] != null &&
                 (output_world[en2zh['United States of America']][metric][date] == null || 
@@ -247,7 +239,7 @@ function generateData(filename, metric) {
                         output_world[en2zh['United States of America']][metric][date] = 0
                     }
                     
-                }
+                }*/
             })
         }
     })
