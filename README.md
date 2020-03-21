@@ -2,9 +2,9 @@
 
 <img src="https://raw.githubusercontent.com/anjuspace/covid19/master/public/cover.png" width="400" />
 
-COVID-19 (2019-nCOV / SARS-CoV-2) Coronavirus Map (https://covid19.health) is an interactive, animated map for the COVID-19 coronavirus outbreak.
+COVID-19 (2019-nCOV / SARS-CoV-2) Coronavirus Map (http://covid19records.com) is an interactive, animated map for the COVID-19 coronavirus outbreak.
 
-The map is based on multiple sources (see below for details). If you are interested, the integrated dataset can be found [here](https://github.com/stevenliuyi/covid19/blob/master/public/data/all.json). Note that numbers in different data sources may not match with each other exactly.
+The map is based on multiple sources (see below for details). If you are interested, the integrated dataset can be found [here](https://github.com/anjuspace/covid19/blob/master/public/data/all.json). Note that numbers in different data sources may not match with each other exactly.
 
 Pull requests are welcome. If you'd like to support the work and buy me a ☕, I greatly appreciate it!
 
@@ -78,6 +78,7 @@ pip3 --version
 ```
 git submodule sync --recursive
 git submodule update --remote
+git submodule update --init (may not needed)
 yarn install
 yarn build
 ```
