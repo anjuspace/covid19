@@ -181,15 +181,14 @@ class App extends Component {
                             <Row>
                                 <Col lg='12'>
                                     <span>
-                                        <a     
-                                            target="_blank"
-                                            href="https://www.buymeacoffee.com/oyCV5vF"
-                                            rel="noopener noreferrer"
+                                        <a 
+                                            href='https://ko-fi.com/B0B01J3N3' 
+                                            target='_blank'
                                         >
-                                            <img
-                                                src="https://cdn.buymeacoffee.com/buttons/arial-orange.png"
-                                                alt="Buy me a coffee" 
-                                                style={{ wdith:157, height:37 }}
+                                            <img 
+                                                src='https://az743702.vo.msecnd.net/cdn/kofi1.png?v=2' 
+                                                alt='Buy Me a Coffee' 
+                                                style={{ wdith:157, height:37, border:0 }}
                                             />
                                         </a>
                                     </span>
