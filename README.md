@@ -78,6 +78,7 @@ pip3 --version
 ```
 git submodule sync --recursive
 git submodule update --remote
+git submodule update --init (may not needed)
 yarn install
 yarn build
 ```
