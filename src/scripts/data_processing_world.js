@@ -86,7 +86,9 @@ const deaths_fixes_dict = {
 }
 
 const recovered_fixes_dict = {
-    'United States of America||2020-03-20': 121,
+    'United States of America||2020-03-19': 121,
+    'United States of America||2020-03-20': 147,
+    'United States of America||2020-03-21': 147,
     'Italy||2020-03-12': 1258,
     'Spain||2020-03-12': 189,
     'France|Metropolitan France|2020-03-12': 12,
@@ -226,7 +228,7 @@ function generateData(filename, metric) {
                 output_world[en2zh['Global']][metric][date] += count  
             
                 // fix US recovered data issue
-                /*
+                
                 if (output_world[en2zh['United States of America']] != null &&
                 output_world[en2zh['United States of America']][metric] != null &&
                 (output_world[en2zh['United States of America']][metric][date] == null || 
@@ -239,7 +241,7 @@ function generateData(filename, metric) {
                         output_world[en2zh['United States of America']][metric][date] = 0
                     }
                     
-                }*/
+                }
             })
         }
     })

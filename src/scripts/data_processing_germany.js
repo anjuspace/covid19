@@ -37,7 +37,11 @@ data.forEach((line, index) => {
             regionEnglish = 'Evacuation'
             region = '撤侨'
         }
-        assert(region != null, `${regionEnglish} does not exist!`)
+        // assert(region != null, `${regionEnglish} does not exist!`)
+        if (region == null) {
+            console.error(`${regionEnglish} does not exist!\n`)
+            return
+        }
 
         if (!(region in output_germany)) {
             output_germany[region] = { ENGLISH: regionEnglish, confirmedCount: {}, curedCount: {}, deadCount: {} }
