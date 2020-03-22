@@ -25,6 +25,10 @@ output_korea.ENGLISH = 'South Korea'
 const confirmed_data = fs.readFileSync(`${data_folder}/${geo_distribution_file}`, 'utf8').split(/\r?\n/)
 
 function addDataToRegion(newDate, currentDate, region, metric, count, isFirstDay) {
+    if (output_korea[region] == null) {
+        return
+    }
+    
     if (!(newDate in output_korea[region][metric])) {
         if (isFirstDay) {
             // first day for report
@@ -53,7 +57,10 @@ confirmed_data.forEach(function(line, index) {
         // region names in the header
         regions = lineSplit.slice(2, -1)
         // regions.push('Unknown Region')
-        assert(regions[regions.length - 1] === 'import', `${regions[regions.length - 1]} should be "import"!`)
+        if (regions[regions.length - 1] !== 'import') {
+            return
+        }
+        //  assert(regions[regions.length - 1] === 'import', `${regions[regions.length - 1]} should be "import"!`)
         regions[regions.length - 1] = 'Imported'
         regions.forEach((region) => {
             output_korea[en2zh[region]] = { ENGLISH: region, confirmedCount: {}, curedCount: {}, deadCount: {} }
