@@ -234,7 +234,6 @@ function generateData(filename, metric) {
                 (output_world[en2zh['United States of America']][metric][date] == null || 
                 output_world[en2zh['United States of America']][metric][date] == 0) &&
                 metric === 'curedCount') {
-                    console.info()
                     if (recovered_fixes_dict[`United States of America||${date}`] != null) {
                         output_world[en2zh['United States of America']][metric][date] = recovered_fixes_dict[`United States of America||${date}`]
                     } else {
