@@ -89,6 +89,7 @@ const recovered_fixes_dict = {
     'United States of America||2020-03-19': 121,
     'United States of America||2020-03-20': 147,
     'United States of America||2020-03-21': 147,
+    'United States of America||2020-03-22': 178,
     'Italy||2020-03-12': 1258,
     'Spain||2020-03-12': 189,
     'France|Metropolitan France|2020-03-12': 12,
