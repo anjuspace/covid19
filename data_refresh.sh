@@ -16,7 +16,7 @@ git push
 
 echo  `date +"%Y-%m-%d %T"` "-- End Refresh Data" >> ~/tmp/test.txt
 echo  `date +"%Y-%m-%d %T"` "-- Start Publish Data" >> ~/tmp/test.txt
-scp -r ./build/* shujun@sjwebbus1.westus2.cloudapp.azure.com:/var/www/html/covid19/ >> ~/tmp/test.txt
+scp -r /home/leizhao/ui/covid19/build/* shujun@sjwebbus1.westus2.cloudapp.azure.com:/var/www/html/covid19/ >> ~/tmp/test.txt
 #scp -r ./build/* shujun@sjwebbus1.westus2.cloudapp.azure.com:/home/shujun/download/320/ >> ~/tmp/test.txt
 echo  `date +"%Y-%m-%d %T"` "-- End Publish Data" >> ~/tmp/test.txt
 echo  $'--------------------------------------------------------------------------------\n\n\n\n\n\n' >> ~/tmp/test.txt
