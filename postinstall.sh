@@ -59,7 +59,7 @@ mkdir -p public/data
 
 # crawl data
 pip3 install requests beautifulsoup4
-crawlers="iran-data"
+crawlers="1p3a-data iran-data"
 
 for crawler in $crawlers; do
     python3 data/${crawler}/crawler.py
@@ -69,7 +69,7 @@ for crawler in $crawlers; do
 done
 
 # generate data in JSON format and include data in TOPOJSON maps
-data_processing_filenames="world_current world china china_overall world_dxy korea italy us france germany japan austria australia canada spain switzerland uk netherlands sweden poland norway iran"
+data_processing_filenames="world_current world china china_overall world_dxy korea italy us us_1p3a france germany japan austria australia canada spain switzerland uk netherlands sweden poland norway iran"
 
 for filename in $data_processing_filenames; do
     echo "Running data_processing_${filename}.js ..."
