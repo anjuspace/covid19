@@ -58839,7 +58839,7 @@
     "comments_en": "3/21 12 new positive cases of COVID-19, a new total of 66. Three of the new patients are hospitalized, Alexander-Scott said, and the new cases range in age from their 20s to 70s and include eight men and four women. She said the total number people hospitalized is “less than five,” and all are in stable condition. The rest of the patients are recovering at home.",
     "die_count": 0,
     "state_name": "RI",
-    "county": "Unassigned",
+    "county": "Providence",
     "num": 23924
   },
   {
@@ -59156,7 +59156,7 @@
   {
     "id": "us-5405",
     "confirmed_date": "3/21",
-    "comments": "截止03/21， 弗吉尼亚州 Chesterfield County County 累计确诊 7 例。",
+    "comments": "截止03/21， 弗吉尼亚州 Chesterfield County 累计确诊 7 例。",
     "links": [
       "http://www.vdh.virginia.gov/coronavirus/"
     ],
@@ -69346,7 +69346,7 @@
   {
     "id": "us-6271",
     "confirmed_date": "3/22",
-    "comments": "截止03/22， 弗吉尼亚州 Chesterfield County County 累计确诊 8 例。",
+    "comments": "截止03/22， 弗吉尼亚州 Chesterfield County 累计确诊 8 例。",
     "links": [
       "http://www.vdh.virginia.gov/coronavirus/"
     ],
@@ -70025,7 +70025,7 @@
   {
     "id": "us-6341",
     "confirmed_date": "3/22",
-    "comments": "AZ State Navajo County has in total 13 cases of CODIV-19 confirmed by 3/22, with 3 new cases added.",
+    "comments": "亚利桑那州Maricopa County新增32例，Maricopa County累计81例。",
     "links": [
       "https://www.azdhs.gov/preparedness/epidemiology-disease-control/infectious-disease-epidemiology/index.php#novel-coronavirus-home"
     ],
@@ -76980,20 +76980,6 @@
     "num": 35137
   },
   {
-    "id": "us-7057",
-    "confirmed_date": "3/22",
-    "comments": "德州Ellis County首2例确诊。一例在Midlothian ，另一例暂时不在Ennis。placeholder。",
-    "links": [
-      "https://www.nbcdfw.com/news/coronavirus/1st-covid-19-cases-confirmed-in-ennis-midlothian/2336615/?_osource=SocialFlowTwt_DFWBrand"
-    ],
-    "people_count": 2,
-    "comments_en": "Health officials in Ellis County reported two new cases of COVID-19 Sunday -- one outside of Ennis and one in Midlothian, The Midlothian case is in a man who has been hospitalized, while a woman who lives just outside of Ennis is isolating at home, officials said.",
-    "die_count": 0,
-    "state_name": "TX",
-    "county": "Ellis",
-    "num": 35139
-  },
-  {
     "id": "us-7058",
     "confirmed_date": "3/22",
     "comments": "截至3/22 5:00 p.m.，华盛顿州Grant County新增5例，累计23例。其中2例来自Quincy居民，2例来自Mattawa居民，1例来自Moses Lake。【华盛顿州官方数据于下午3:00更新，暂未收录Grant County此次新增数据】。",
@@ -77005,7 +76991,7 @@
     "die_count": 0,
     "state_name": "WA",
     "county": "Grant",
-    "num": 35144
+    "num": 35142
   },
   {
     "id": "us-7059",
@@ -77020,7 +77006,7 @@
     "die_count": 0,
     "state_name": "CA",
     "county": "Sonoma",
-    "num": 35147
+    "num": 35145
   },
   {
     "id": "us-7060",
@@ -77034,7 +77020,7 @@
     "die_count": 0,
     "state_name": "TX",
     "county": "Parker",
-    "num": 35148
+    "num": 35146
   },
   {
     "id": "us-7061",
@@ -77048,7 +77034,7 @@
     "die_count": 0,
     "state_name": "MO",
     "county": "Unassigned",
-    "num": 35150
+    "num": 35148
   },
   {
     "id": "us-7062",
@@ -77064,7 +77050,7 @@
     "age_range": "50+",
     "state_name": "PA",
     "county": "Monroe",
-    "num": 35150
+    "num": 35148
   },
   {
     "id": "us-7063",
@@ -77078,7 +77064,7 @@
     "die_count": 0,
     "state_name": "PA",
     "county": "Bucks",
-    "num": 35157
+    "num": 35155
   },
   {
     "id": "us-7064",
@@ -77092,7 +77078,7 @@
     "die_count": 0,
     "state_name": "CA",
     "county": "Merced",
-    "num": 35158
+    "num": 35156
   },
   {
     "id": "us-7065",
@@ -77106,7 +77092,7 @@
     "die_count": 0,
     "state_name": "CA",
     "county": "Stanislaus",
-    "num": 35161
+    "num": 35159
   },
   {
     "id": "us-7066",
@@ -77120,7 +77106,7 @@
     "die_count": 0,
     "state_name": "TX",
     "county": "El Paso",
-    "num": 35163
+    "num": 35161
   },
   {
     "id": "us-7067",
@@ -77134,7 +77120,7 @@
     "die_count": 0,
     "state_name": "TX",
     "county": "Guadalupe",
-    "num": 35164
+    "num": 35162
   },
   {
     "id": "us-7068",
@@ -77148,7 +77134,7 @@
     "die_count": 0,
     "state_name": "TX",
     "county": "Grayson",
-    "num": 35165
+    "num": 35163
   },
   {
     "id": "us-7069",
@@ -77162,7 +77148,7 @@
     "die_count": 0,
     "state_name": "IL",
     "county": "Champaign",
-    "num": 35166
+    "num": 35164
   },
   {
     "id": "us-7070",
@@ -77176,7 +77162,7 @@
     "die_count": 0,
     "state_name": "NV",
     "county": "Elko County",
-    "num": 35167
+    "num": 35165
   },
   {
     "id": "us-7072",
@@ -77191,7 +77177,7 @@
     "die_count": 0,
     "state_name": "MO",
     "county": "Greene",
-    "num": 35171
+    "num": 35169
   },
   {
     "id": "us-7074",
@@ -77205,7 +77191,7 @@
     "die_count": 0,
     "state_name": "AK",
     "county": "Anchorage",
-    "num": 35178
+    "num": 35176
   },
   {
     "id": "us-7075",
@@ -77219,7 +77205,7 @@
     "die_count": 0,
     "state_name": "AK",
     "county": "Matanuska-Susitna Borough",
-    "num": 35180
+    "num": 35178
   },
   {
     "id": "us-7076",
@@ -77233,7 +77219,7 @@
     "die_count": 0,
     "state_name": "AK",
     "county": "Juneau",
-    "num": 35181
+    "num": 35179
   },
   {
     "id": "us-7077",
@@ -77247,7 +77233,7 @@
     "die_count": 0,
     "state_name": "MO",
     "county": "Camden",
-    "num": 35182
+    "num": 35180
   },
   {
     "id": "us-7078",
@@ -77261,7 +77247,7 @@
     "die_count": 0,
     "state_name": "MO",
     "county": "Moniteau",
-    "num": 35183
+    "num": 35181
   },
   {
     "id": "us-7079",
@@ -77275,7 +77261,7 @@
     "die_count": 0,
     "state_name": "MO",
     "county": "Perry",
-    "num": 35184
+    "num": 35182
   },
   {
     "id": "us-7083",
@@ -77289,7 +77275,7 @@
     "links": [
       "https://www.solanocounty.com/depts/ph/coronavirus.asp"
     ],
-    "num": 35185
+    "num": 35183
   },
   {
     "id": "us-7087",
@@ -77303,7 +77289,7 @@
     "links": [
       "https://kfdm.com/news/local/developing-orange-county-reports-first-positive-covid-19-case"
     ],
-    "num": 35186
+    "num": 35184
   },
   {
     "id": "us-7091",
@@ -77317,7 +77303,7 @@
     "links": [
       "https://www.clickondetroit.com/news/local/2020/03/22/washtenaw-county-officials-announce-9th-covid-19-death-in-michigan/"
     ],
-    "num": 35186
+    "num": 35184
   },
   {
     "id": "us-7094",
@@ -77331,7 +77317,7 @@
     "links": [
       "https://www.facebook.com/YubaCountyOES/posts/2604373536340057"
     ],
-    "num": 35187
+    "num": 35185
   },
   {
     "id": "us-7097",
@@ -77347,7 +77333,7 @@
     "county": "Santa Clara",
     "gender": "女",
     "age_range": "60+",
-    "num": 35187
+    "num": 35185
   },
   {
     "id": "us-7100",
@@ -77361,7 +77347,7 @@
     "links": [
       "http://ldh.la.gov/coronavirus/"
     ],
-    "num": 35192
+    "num": 35190
   },
   {
     "id": "us-7103",
@@ -77375,7 +77361,7 @@
     "links": [
       "http://ldh.la.gov/coronavirus/"
     ],
-    "num": 35193
+    "num": 35191
   },
   {
     "id": "us-7107",
@@ -77389,7 +77375,7 @@
     "links": [
       "http://ldh.la.gov/coronavirus/"
     ],
-    "num": 35211
+    "num": 35209
   },
   {
     "id": "us-7111",
@@ -77403,7 +77389,7 @@
     "links": [
       "http://ldh.la.gov/coronavirus/"
     ],
-    "num": 35212
+    "num": 35210
   },
   {
     "id": "us-7115",
@@ -77417,7 +77403,7 @@
     "links": [
       "http://ldh.la.gov/coronavirus/"
     ],
-    "num": 35214
+    "num": 35212
   },
   {
     "id": "us-7116",
@@ -77431,7 +77417,7 @@
     "links": [
       "http://ldh.la.gov/coronavirus/"
     ],
-    "num": 35215
+    "num": 35213
   },
   {
     "id": "us-7121",
@@ -77445,7 +77431,7 @@
     "links": [
       "http://ldh.la.gov/coronavirus/"
     ],
-    "num": 35216
+    "num": 35214
   },
   {
     "id": "us-7123",
@@ -77459,7 +77445,7 @@
     "links": [
       "http://ldh.la.gov/coronavirus/"
     ],
-    "num": 35217
+    "num": 35215
   },
   {
     "id": "us-7124",
@@ -77473,7 +77459,7 @@
     "links": [
       "http://ldh.la.gov/coronavirus/"
     ],
-    "num": 35218
+    "num": 35216
   },
   {
     "id": "us-7126",
@@ -77487,7 +77473,7 @@
     "links": [
       "http://ldh.la.gov/coronavirus/"
     ],
-    "num": 35221
+    "num": 35219
   },
   {
     "id": "us-7128",
@@ -77501,7 +77487,7 @@
     "links": [
       "http://ldh.la.gov/coronavirus/"
     ],
-    "num": 35222
+    "num": 35220
   },
   {
     "id": "us-7144",
@@ -77517,7 +77503,7 @@
     "gender": "女",
     "age_range": "40+",
     "comments": "3/22 Montgomery County新增2例，总计15例。其中1例40多岁女性，位于西南区，她与之前Smith County的1例确诊在旅行时有过接触，现居家隔离。",
-    "num": 35223
+    "num": 35221
   },
   {
     "id": "us-7145",
@@ -77533,7 +77519,7 @@
     "age_range": "40+",
     "state_name": "TX",
     "county": "Montgomery",
-    "num": 35224
+    "num": 35222
   },
   {
     "id": "us-7146",
@@ -77549,7 +77535,7 @@
     "comments": "Galveston County第12例，女性，40多岁，近期有国际旅行，与确诊患者有过接触，现正自我隔离。",
     "age_range": "40+",
     "confirmed_date": "3/22",
-    "num": 35225
+    "num": 35223
   },
   {
     "id": "us-7147",
@@ -77563,7 +77549,7 @@
     ],
     "comments_en": "3/22 Matagorda County total 4.",
     "comments": "3/22 Matagorda County总计4例。",
-    "num": 35226
+    "num": 35224
   },
   {
     "id": "us-7148",
@@ -77578,7 +77564,7 @@
       "https://www.thv11.com/article/news/health/coronavirus/coronavirus-in-arkansas-covid-19-updates/91-797cf2a2-4aa6-4d8b-8fc4-6f3b690d0998"
     ],
     "comments_en": "As of 3/22, 2 more cases confirmed in Pulaski County, total 54 in this county. AR total case 165. ",
-    "num": 35228
+    "num": 35226
   },
   {
     "id": "us-7157",
@@ -77593,7 +77579,7 @@
       "https://adem.maps.arcgis.com/apps/opsdashboard/index.html#/f533ac8a8b6040e5896b05b47b17a647",
       "https://www.thv11.com/article/news/health/coronavirus/coronavirus-in-arkansas-covid-19-updates/91-797cf2a2-4aa6-4d8b-8fc4-6f3b690d0998"
     ],
-    "num": 35229
+    "num": 35227
   },
   {
     "id": "us-7221",
@@ -77607,7 +77593,7 @@
     "links": [
       "https://www.kwch.com/content/news/Jackson-Morris-counties-report-cases-of-COVID-19-568929991.html"
     ],
-    "num": 35230
+    "num": 35228
   },
   {
     "id": "us-7071",
@@ -77621,7 +77607,7 @@
     "die_count": 0,
     "state_name": "OK",
     "county": "Pontotoc",
-    "num": 35231
+    "num": 35229
   },
   {
     "id": "us-7088",
@@ -77637,7 +77623,7 @@
     ],
     "age_range": "70+",
     "gender": "女",
-    "num": 35231
+    "num": 35229
   },
   {
     "id": "us-7089",
@@ -77651,7 +77637,7 @@
     "links": [
       "https://www.elnuevodia.com/noticias/locales/nota/seregistralasegundamuerteporcoronavirusenpuertorico-2555038/"
     ],
-    "num": 35239
+    "num": 35237
   },
   {
     "id": "us-7092",
@@ -77665,7 +77651,7 @@
     ],
     "comments_en": "Butte County Public Health has received lab confirmation of the second case of COVID-19 in a Butte County resident.Officials say this case is travel related. The individual is an adult and experiencing mild illness. They went for a COVID-19 test after being notified they were potentially exposed during recent travel out of the country.",
     "comments": "3/23加州Butte County 第二例确诊，旅行相关。",
-    "num": 35240
+    "num": 35238
   },
   {
     "id": "us-7093",
@@ -77680,7 +77666,7 @@
     ],
     "comments": "加州Shasta County第二例确诊，系70多岁女性。",
     "gender": "女",
-    "num": 35241
+    "num": 35239
   },
   {
     "id": "us-7096",
@@ -77694,7 +77680,7 @@
     "links": [
       "https://www.fox17online.com/news/coronavirus/muskegon-county-confirms-its-first-covid-19-case"
     ],
-    "num": 35242
+    "num": 35240
   },
   {
     "id": "us-7104",
@@ -77708,7 +77694,7 @@
     "links": [
       "https://www.wtol.com/article/news/health/coronavirus/wood-county-confirms-2-covid-19-cases/512-8bc73928-a284-4a50-9e82-24a063c3051f"
     ],
-    "num": 35244
+    "num": 35242
   },
   {
     "id": "us-7129",
@@ -77722,7 +77708,7 @@
     "links": [
       "https://coronavirus.delaware.gov/"
     ],
-    "num": 35247
+    "num": 35245
   },
   {
     "id": "us-7130",
@@ -77736,7 +77722,7 @@
     "die_count": 0,
     "state_name": "DE",
     "county": "New Castle",
-    "num": 35251
+    "num": 35249
   },
   {
     "id": "us-7131",
@@ -77750,7 +77736,7 @@
     "die_count": 0,
     "state_name": "DE",
     "county": "Kent",
-    "num": 35252
+    "num": 35250
   },
   {
     "id": "us-7132",
@@ -77764,7 +77750,7 @@
     ],
     "comments_en": "3/23 KY total 104, no more detail at this moment.",
     "comments": "3/23 肯塔基州新增1例，总计104例，细节不详。",
-    "num": 35253
+    "num": 35251
   },
   {
     "id": "us-7133",
@@ -77778,7 +77764,7 @@
     "links": [
       "https://coronavirus.maryland.gov/"
     ],
-    "num": 35255
+    "num": 35253
   },
   {
     "id": "us-7134",
@@ -77792,7 +77778,7 @@
     "links": [
       "https://coronavirus.maryland.gov/"
     ],
-    "num": 35262
+    "num": 35260
   },
   {
     "id": "us-7135",
@@ -77806,7 +77792,7 @@
     "links": [
       "https://coronavirus.maryland.gov/"
     ],
-    "num": 35269
+    "num": 35267
   },
   {
     "id": "us-7136",
@@ -77820,7 +77806,7 @@
     "links": [
       "https://coronavirus.maryland.gov/"
     ],
-    "num": 35270
+    "num": 35268
   },
   {
     "id": "us-7137",
@@ -77834,7 +77820,7 @@
     "links": [
       "https://coronavirus.maryland.gov/"
     ],
-    "num": 35271
+    "num": 35269
   },
   {
     "id": "us-7138",
@@ -77848,7 +77834,7 @@
     "links": [
       "https://coronavirus.maryland.gov/"
     ],
-    "num": 35273
+    "num": 35271
   },
   {
     "id": "us-7139",
@@ -77862,7 +77848,7 @@
     "links": [
       "https://amp.indystar.com/amp/2896967001?__twitter_impression=true"
     ],
-    "num": 35329
+    "num": 35327
   },
   {
     "id": "us-7140",
@@ -77876,7 +77862,7 @@
     "links": [
       "https://coronavirus.maryland.gov/"
     ],
-    "num": 35340
+    "num": 35338
   },
   {
     "id": "us-7142",
@@ -77890,7 +77876,7 @@
     "links": [
       "https://coronavirus.maryland.gov/"
     ],
-    "num": 35347
+    "num": 35345
   },
   {
     "id": "us-7143",
@@ -77904,7 +77890,7 @@
     "links": [
       "https://coronavirus.maryland.gov/"
     ],
-    "num": 35349
+    "num": 35347
   },
   {
     "id": "us-7150",
@@ -77918,7 +77904,7 @@
     "die_count": 0,
     "state_name": "SD",
     "county": "Beadle",
-    "num": 35351
+    "num": 35349
   },
   {
     "id": "us-7152",
@@ -77932,7 +77918,7 @@
     "die_count": 0,
     "county": "Codington",
     "state_name": "SD",
-    "num": 35352
+    "num": 35350
   },
   {
     "id": "us-7153",
@@ -77946,7 +77932,7 @@
     "die_count": 0,
     "state_name": "SD",
     "county": "Davison",
-    "num": 35353
+    "num": 35351
   },
   {
     "id": "us-7154",
@@ -77960,7 +77946,7 @@
     "die_count": 0,
     "county": "Hughes",
     "state_name": "SD",
-    "num": 35354
+    "num": 35352
   },
   {
     "id": "us-7155",
@@ -77974,7 +77960,7 @@
     "die_count": 0,
     "county": "Lyman",
     "state_name": "SD",
-    "num": 35355
+    "num": 35353
   },
   {
     "id": "us-7156",
@@ -77988,7 +77974,7 @@
     "die_count": 0,
     "state_name": "SD",
     "county": "McCook",
-    "num": 35356
+    "num": 35354
   },
   {
     "id": "us-7158",
@@ -78002,7 +77988,7 @@
     ],
     "comments_en": "3/23 Alachua County total 37 cases, residents 34, non-residents 3.",
     "comments": "3/23 Alachua County 总计 37 cases, 佛州居民34例, 非佛州居民3例。",
-    "num": 35358
+    "num": 35356
   },
   {
     "id": "us-7159",
@@ -78016,7 +78002,7 @@
     "die_count": 0,
     "state_name": "FL",
     "county": "Broward",
-    "num": 35399
+    "num": 35397
   },
   {
     "id": "us-7160",
@@ -78030,7 +78016,7 @@
     "die_count": 0,
     "state_name": "FL",
     "county": "Baker",
-    "num": 35400
+    "num": 35398
   },
   {
     "id": "us-7161",
@@ -78044,7 +78030,7 @@
     "die_count": 0,
     "state_name": "FL",
     "county": "Charlotte",
-    "num": 35401
+    "num": 35399
   },
   {
     "id": "us-7162",
@@ -78058,7 +78044,7 @@
     "die_count": 0,
     "state_name": "FL",
     "county": "Citrus",
-    "num": 35402
+    "num": 35400
   },
   {
     "id": "us-7163",
@@ -78072,7 +78058,7 @@
     "die_count": 0,
     "state_name": "FL",
     "county": "Clay",
-    "num": 35403
+    "num": 35401
   },
   {
     "id": "us-7164",
@@ -78086,7 +78072,7 @@
     "die_count": 0,
     "state_name": "FL",
     "county": "Collier",
-    "num": 35404
+    "num": 35402
   },
   {
     "id": "us-7165",
@@ -78100,7 +78086,7 @@
     "die_count": 0,
     "state_name": "FL",
     "county": "Miami-Dade",
-    "num": 35444
+    "num": 35442
   },
   {
     "id": "us-7166",
@@ -78114,7 +78100,7 @@
     "die_count": 0,
     "state_name": "FL",
     "county": "Duval",
-    "num": 35451
+    "num": 35449
   },
   {
     "id": "us-7167",
@@ -78128,7 +78114,7 @@
     "die_count": 0,
     "state_name": "FL",
     "county": "Escambia",
-    "num": 35452
+    "num": 35450
   },
   {
     "id": "us-7168",
@@ -78142,7 +78128,7 @@
     "die_count": 0,
     "state_name": "FL",
     "county": "Flagler",
-    "num": 35454
+    "num": 35452
   },
   {
     "id": "us-7169",
@@ -78156,7 +78142,7 @@
     "die_count": 0,
     "state_name": "FL",
     "county": "Highlands",
-    "num": 35455
+    "num": 35453
   },
   {
     "id": "us-7170",
@@ -78170,7 +78156,7 @@
     "die_count": 0,
     "state_name": "FL",
     "county": "Hillsborough",
-    "num": 35470
+    "num": 35468
   },
   {
     "id": "us-7171",
@@ -78184,7 +78170,7 @@
     "die_count": 0,
     "state_name": "FL",
     "county": "Lake",
-    "num": 35471
+    "num": 35469
   },
   {
     "id": "us-7172",
@@ -78198,7 +78184,7 @@
     "die_count": 0,
     "state_name": "FL",
     "county": "Lee",
-    "num": 35473
+    "num": 35471
   },
   {
     "id": "us-7173",
@@ -78212,7 +78198,7 @@
       "https://www.mlive.com/news/kalamazoo/2020/03/3-coronavirus-cases-identified-in-kalamazoo-county.html"
     ],
     "comments": "Kalamazoo County确诊3名患者。3人间无联系，其中两人有Michigan旅行史，一人无旅行史。",
-    "num": 35474
+    "num": 35472
   },
   {
     "id": "us-7174",
@@ -78226,7 +78212,7 @@
     "die_count": 0,
     "state_name": "FL",
     "county": "Manatee",
-    "num": 35476
+    "num": 35474
   },
   {
     "id": "us-7175",
@@ -78240,7 +78226,7 @@
     "people_count": 1,
     "state_name": "FL",
     "county": "Marion",
-    "num": 35477
+    "num": 35475
   },
   {
     "id": "us-7176",
@@ -78254,7 +78240,7 @@
     "die_count": 0,
     "state_name": "FL",
     "county": "Monroe",
-    "num": 35478
+    "num": 35476
   },
   {
     "id": "us-7177",
@@ -78268,7 +78254,7 @@
     ],
     "comments_en": "The Kalamazoo County Health and Community Services Department has confirmed three cases of coronavirus in Kalamazoo County. The three adult cases are unrelated, the news release states. Two have travel histories within Michigan and one has no known travel history outside of Kalamazoo County, the news release states.",
     "comments": "Kalamazoo County确诊3名患者。3人间无联系，其中两人有Michigan旅行史，一人无旅行史。",
-    "num": 35479
+    "num": 35477
   },
   {
     "id": "us-7178",
@@ -78282,7 +78268,7 @@
     ],
     "comments_en": "The Kalamazoo County Health and Community Services Department has confirmed three cases of coronavirus in Kalamazoo County. The three adult cases are unrelated, the news release states. Two have travel histories within Michigan and one has no known travel history outside of Kalamazoo County, the news release states.",
     "comments": "Kalamazoo County确诊3名患者。3人间无联系，其中两人有Michigan旅行史，一人无旅行史。",
-    "num": 35480
+    "num": 35478
   },
   {
     "id": "us-7179",
@@ -78296,7 +78282,7 @@
     "die_count": 0,
     "state_name": "FL",
     "county": "Orange",
-    "num": 35492
+    "num": 35490
   },
   {
     "id": "us-7180",
@@ -78310,7 +78296,7 @@
     "die_count": 0,
     "state_name": "FL",
     "county": "Palm Beach",
-    "num": 35509
+    "num": 35507
   },
   {
     "id": "us-7181",
@@ -78324,7 +78310,7 @@
     "die_count": 0,
     "state_name": "FL",
     "county": "Pasco",
-    "num": 35511
+    "num": 35509
   },
   {
     "id": "us-7182",
@@ -78338,7 +78324,7 @@
     "die_count": 0,
     "state_name": "FL",
     "county": "Pinellas",
-    "num": 35513
+    "num": 35511
   },
   {
     "id": "us-7183",
@@ -78352,7 +78338,7 @@
     "die_count": 0,
     "state_name": "FL",
     "county": "Polk",
-    "num": 35515
+    "num": 35513
   },
   {
     "id": "us-7185",
@@ -78368,7 +78354,7 @@
     "links": [
       "https://www.fredericknewspost.com/news/continuing_coverage/coronavirus/coronavirus-daily-updates-two-new-covid--cases-in-frederick/article_47a88403-8c6a-5c80-9ab6-17c29b01cd44.html"
     ],
-    "num": 35517
+    "num": 35515
   },
   {
     "id": "us-7184",
@@ -78382,7 +78368,7 @@
     "links": [
       "https://www.guampdn.com/story/news/local/2020/03/23/2-more-positive-covid-19-test-results/2896947001/"
     ],
-    "num": 35519
+    "num": 35517
   },
   {
     "id": "us-7186",
@@ -78396,7 +78382,7 @@
     "die_count": 0,
     "state_name": "FL",
     "county": "Sarasota",
-    "num": 35521
+    "num": 35519
   },
   {
     "id": "us-7187",
@@ -78410,7 +78396,7 @@
     "die_count": 0,
     "state_name": "FL",
     "county": "Sarasota",
-    "num": 35522
+    "num": 35520
   },
   {
     "id": "us-7188",
@@ -78424,7 +78410,7 @@
     "die_count": 0,
     "state_name": "FL",
     "county": "St. Johns",
-    "num": 35524
+    "num": 35522
   },
   {
     "id": "us-7189",
@@ -78438,7 +78424,7 @@
     "die_count": 0,
     "state_name": "FL",
     "county": "Sumter",
-    "num": 35527
+    "num": 35525
   },
   {
     "id": "us-7190",
@@ -78452,7 +78438,7 @@
     "die_count": 0,
     "state_name": "FL",
     "county": "Volusia",
-    "num": 35528
+    "num": 35526
   },
   {
     "id": "us-7191",
@@ -78466,7 +78452,7 @@
     "die_count": 0,
     "state_name": "FL",
     "county": "Walton",
-    "num": 35529
+    "num": 35527
   },
   {
     "id": "us-7192",
@@ -78480,7 +78466,7 @@
     "links": [
       "https://triblive.com/local/pittsburgh-allegheny/allegheny-county-reports-48-cases-of-covid-19-6-people-hospitalized/"
     ],
-    "num": 35537
+    "num": 35535
   },
   {
     "id": "us-7193",
@@ -78495,7 +78481,7 @@
       "https://www.maine.gov/dhhs/mecdc/infectious-disease/epi/airborne/coronavirus.shtml",
       "https://bangordailynews.com/2020/03/23/news/state/maine-cdc-coronavirus-cases-top-100-across-the-state/"
     ],
-    "num": 35550
+    "num": 35548
   },
   {
     "id": "us-7194",
@@ -78510,7 +78496,7 @@
       "https://www.maine.gov/dhhs/mecdc/infectious-disease/epi/airborne/coronavirus.shtml",
       "https://bangordailynews.com/2020/03/23/news/state/maine-cdc-coronavirus-cases-top-100-across-the-state/"
     ],
-    "num": 35554
+    "num": 35552
   },
   {
     "id": "us-7195",
@@ -78524,7 +78510,7 @@
       "https://www.ny1.com/nyc/all-boroughs/news/2020/03/23/governor-cuomo-update-on-latest-coronavirus-case-numbers-and-response"
     ],
     "people_count": 3959,
-    "num": 39513
+    "num": 39511
   },
   {
     "id": "us-7198",
@@ -78538,7 +78524,7 @@
     "links": [
       "https://www.maine.gov/dhhs/mecdc/infectious-disease/epi/airborne/coronavirus.shtml"
     ],
-    "num": 39514
+    "num": 39512
   },
   {
     "id": "us-7199",
@@ -78552,7 +78538,7 @@
     "links": [
       "https://www.clickondetroit.com/news/local/2020/03/23/michigan-health-chief-confirms-15-deaths-due-to-covid-19/"
     ],
-    "num": 39704
+    "num": 39702
   },
   {
     "id": "us-7200",
@@ -78566,7 +78552,7 @@
       "https://www.khou.com/article/news/health/coronavirus/coronavirus-updates-live-blog-and-updates-for-march-23/285-e1ad8bd9-9ce1-42b1-8930-c6b940a245b1"
     ],
     "comments": "3/23 Galveston County 新增5例，总计17例。",
-    "num": 39709
+    "num": 39707
   },
   {
     "id": "us-7201",
@@ -78583,7 +78569,7 @@
     "county": "Brazoria",
     "gender": "女",
     "age_range": "20+",
-    "num": 39710
+    "num": 39708
   },
   {
     "id": "us-7202",
@@ -78597,7 +78583,7 @@
     ],
     "comments_en": "3/23 FL total death cases reached 14.",
     "comments": "3/23 佛州第14例死亡。",
-    "num": 39710
+    "num": 39708
   },
   {
     "id": "us-7203",
@@ -78611,7 +78597,7 @@
     "links": [
       "https://www.clickondetroit.com/news/local/2020/03/23/michigan-health-chief-confirms-15-deaths-due-to-covid-19/"
     ],
-    "num": 39710
+    "num": 39708
   },
   {
     "id": "us-7204",
@@ -78625,7 +78611,7 @@
     "links": [
       "https://www.maine.gov/dhhs/mecdc/infectious-disease/epi/airborne/coronavirus.shtml"
     ],
-    "num": 39711
+    "num": 39709
   },
   {
     "id": "us-7205",
@@ -78639,7 +78625,7 @@
     "links": [
       "https://www.maine.gov/dhhs/mecdc/infectious-disease/epi/airborne/coronavirus.shtml"
     ],
-    "num": 39712
+    "num": 39710
   },
   {
     "id": "us-7206",
@@ -78653,7 +78639,7 @@
     "links": [
       "https://www.maine.gov/dhhs/mecdc/infectious-disease/epi/airborne/coronavirus.shtml"
     ],
-    "num": 39713
+    "num": 39711
   },
   {
     "id": "us-7207",
@@ -78670,7 +78656,7 @@
     "age_range": "50+",
     "state_name": "TX",
     "county": "Brazoria",
-    "num": 39714
+    "num": 39712
   },
   {
     "id": "us-7208",
@@ -78684,7 +78670,7 @@
     "links": [
       "https://www.sfdph.org/dph/alerts/coronavirus.asp"
     ],
-    "num": 39737
+    "num": 39735
   },
   {
     "id": "us-7209",
@@ -78700,11 +78686,11 @@
       "https://www.tmj4.com/news/coronavirus/3rd-person-dies-from-coronavirus-in-milwaukee"
     ],
     "age_range": "50+",
-    "num": 39737
+    "num": 39735
   },
   {
     "id": "us-7213",
-    "people_count": 151,
+    "people_count": 70,
     "die_count": 0,
     "state_name": "GA",
     "county": "Unassigned",
@@ -78714,7 +78700,7 @@
     "links": [
       "https://dph.georgia.gov/covid-19-daily-status-report"
     ],
-    "num": 39888
+    "num": 39805
   },
   {
     "id": "us-7215",
@@ -78728,7 +78714,7 @@
     "links": [
       "https://www.nj.gov/health/"
     ],
-    "num": 40818
+    "num": 40735
   },
   {
     "id": "us-7216",
@@ -78742,7 +78728,7 @@
     "links": [
       "https://www.tmj4.com/news/coronavirus/3rd-person-dies-from-coronavirus-in-milwaukee"
     ],
-    "num": 40838
+    "num": 40755
   },
   {
     "id": "us-7217",
@@ -78756,7 +78742,7 @@
     "links": [
       "https://www.nj.gov/health/"
     ],
-    "num": 40838
+    "num": 40755
   },
   {
     "id": "us-7218",
@@ -78770,7 +78756,7 @@
     "links": [
       "https://www.lucascountyhealth.com/coronavirusupdates/"
     ],
-    "num": 40840
+    "num": 40757
   },
   {
     "id": "us-7219",
@@ -78784,7 +78770,7 @@
     "links": [
       "https://www.wral.com/live-nc-coronavirus-updates/19024746/"
     ],
-    "num": 40857
+    "num": 40774
   },
   {
     "id": "us-7220",
@@ -78798,7 +78784,7 @@
     "links": [
       "https://msdh.ms.gov/msdhsite/_static/14,0,420.html"
     ],
-    "num": 40899
+    "num": 40816
   },
   {
     "id": "us-7223",
@@ -78812,7 +78798,7 @@
     "die_count": 0,
     "state_name": "AL",
     "county": "Jefferson",
-    "num": 40907
+    "num": 40824
   },
   {
     "id": "us-7224",
@@ -78826,7 +78812,7 @@
     "die_count": 0,
     "state_name": "AL",
     "county": "Lee",
-    "num": 40908
+    "num": 40825
   },
   {
     "id": "us-7225",
@@ -78840,7 +78826,7 @@
     "die_count": 0,
     "state_name": "AL",
     "county": "Madison",
-    "num": 40909
+    "num": 40826
   },
   {
     "id": "us-7226",
@@ -78854,7 +78840,7 @@
     ],
     "comments_en": "3/23 PA total 644, Adams County 6 cases.",
     "comments": "3/23 宾州共计644例确诊，其中Adams County 6 例。",
-    "num": 40910
+    "num": 40827
   },
   {
     "id": "us-7227",
@@ -78868,7 +78854,7 @@
     "die_count": 0,
     "state_name": "PA",
     "county": "Berks",
-    "num": 40911
+    "num": 40828
   },
   {
     "id": "us-7228",
@@ -78882,7 +78868,7 @@
     "die_count": 0,
     "state_name": "PA",
     "county": "Bucks",
-    "num": 40913
+    "num": 40830
   },
   {
     "id": "us-7229",
@@ -78896,7 +78882,7 @@
     "die_count": 0,
     "state_name": "PA",
     "county": "Butler",
-    "num": 40917
+    "num": 40834
   },
   {
     "id": "us-7230",
@@ -78910,7 +78896,7 @@
     "links": [
       "https://www.newswest9.com/article/news/health/coronavirus/gaines-co-reports-first-case-of-covid-19/513-62df7a61-3862-4174-b914-c48f707d08bc"
     ],
-    "num": 40918
+    "num": 40835
   },
   {
     "id": "us-7231",
@@ -78924,7 +78910,7 @@
     "die_count": 0,
     "county": "Cambria",
     "state_name": "PA",
-    "num": 40919
+    "num": 40836
   },
   {
     "id": "us-7232",
@@ -78938,7 +78924,7 @@
     "die_count": 0,
     "state_name": "PA",
     "county": "Centre",
-    "num": 40921
+    "num": 40838
   },
   {
     "id": "us-7233",
@@ -78952,7 +78938,7 @@
     "die_count": 0,
     "state_name": "PA",
     "county": "Chester",
-    "num": 40938
+    "num": 40855
   },
   {
     "id": "us-7234",
@@ -78966,7 +78952,7 @@
     "die_count": 0,
     "state_name": "PA",
     "county": "Cumberland",
-    "num": 40939
+    "num": 40856
   },
   {
     "id": "us-7235",
@@ -78980,7 +78966,7 @@
     "die_count": 0,
     "state_name": "PA",
     "county": "Delaware",
-    "num": 40950
+    "num": 40867
   },
   {
     "id": "us-7236",
@@ -78994,7 +78980,7 @@
     "links": [
       "https://www.thedalleschronicle.com/free_news/hood-river-county-has-first-presumptive-case-of-covid/article_969f8812-6ca4-11ea-9610-9f524e5abc5d.html"
     ],
-    "num": 40951
+    "num": 40868
   },
   {
     "id": "us-7237",
@@ -79008,7 +78994,7 @@
     "die_count": 0,
     "state_name": "PA",
     "county": "Erie",
-    "num": 40952
+    "num": 40869
   },
   {
     "id": "us-7238",
@@ -79022,7 +79008,7 @@
     "die_count": 0,
     "state_name": "PA",
     "county": "Lackawanna",
-    "num": 40953
+    "num": 40870
   },
   {
     "id": "us-7239",
@@ -79031,9 +79017,12 @@
     "state_name": "IA",
     "county": "Allamakee",
     "confirmed_date": "3/23",
-    "comments": "3/23 爱荷华州新增15例，累计105例。Allamakee新增一例来自，年龄在18-40岁之间。",
-    "links": [],
-    "num": 40954
+    "comments": "3/23 爱荷华州新增15例，累计105例。Allamakee新增一例，年龄在18-40岁之间。",
+    "comments_en": "3/23 15 new cases reported in IA, total 105. 1 new case from Allamakee County, 1 adult (18-40 years).",
+    "links": [
+      "https://whotv.com/news/coronavirus/15-additional-covid-19-cases-confirmed-in-iowa/?fbclid=IwAR3XnYX0mi8nOgvz7OLg1lRxsHuavSg4dLf7pyTjcaozr-JdlkXjDf1pluA"
+    ],
+    "num": 40871
   },
   {
     "id": "us-7240",
@@ -79047,7 +79036,7 @@
     "die_count": 0,
     "state_name": "PA",
     "county": "Lehigh",
-    "num": 40960
+    "num": 40877
   },
   {
     "id": "us-7241",
@@ -79061,6 +79050,849 @@
     "die_count": 0,
     "state_name": "PA",
     "county": "Luzerne",
+    "num": 40880
+  },
+  {
+    "id": "us-7242",
+    "confirmed_date": "3/23",
+    "comments": "3/23 宾州共计644例确诊，其中Monroe County 43 例。",
+    "links": [
+      "https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx"
+    ],
+    "people_count": 12,
+    "comments_en": "3/23 PA total 644, Monroe County 43 cases.",
+    "die_count": 0,
+    "state_name": "PA",
+    "county": "Monroe",
+    "num": 40892
+  },
+  {
+    "id": "us-7243",
+    "confirmed_date": "3/23",
+    "comments": "3/23 宾州共计644例确诊，其中Montgomery County 129 例。",
+    "links": [
+      "https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx"
+    ],
+    "people_count": 19,
+    "comments_en": "3/23 PA total 644, Montgomery County 129 cases.",
+    "die_count": 0,
+    "state_name": "PA",
+    "county": "Montgomery",
+    "num": 40911
+  },
+  {
+    "id": "us-7244",
+    "confirmed_date": "3/23",
+    "comments": "3/23 宾州共计644例确诊，其中Northampton County 23 例。",
+    "links": [
+      "https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx"
+    ],
+    "people_count": 2,
+    "comments_en": "3/23 PA total 644, Northampton County 23 cases.",
+    "die_count": 0,
+    "state_name": "PA",
+    "county": "Northampton",
+    "num": 40913
+  },
+  {
+    "id": "us-7245",
+    "confirmed_date": "3/23",
+    "comments": "3/23 宾州共计644例确诊，其中Philadelphia County 128 例。",
+    "links": [
+      "https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx"
+    ],
+    "people_count": 32,
+    "comments_en": "3/23 PA total 644, Philadelphia County 128 cases.",
+    "die_count": 0,
+    "state_name": "PA",
+    "county": "Philadelphia",
+    "num": 40945
+  },
+  {
+    "id": "us-7246",
+    "people_count": 1,
+    "die_count": 0,
+    "state_name": "IA",
+    "county": "Dubuque",
+    "confirmed_date": "3/23",
+    "comments": "3/23 爱荷华州新增15例，累计105例。Dubuque新增一例，年龄在18-40岁之间。",
+    "comments_en": "3/23 15 new cases reported in IA, total 105. 1 new case from Dubuque County, 1 adult (18-40 years).",
+    "links": [
+      "https://whotv.com/news/coronavirus/15-additional-covid-19-cases-confirmed-in-iowa/?fbclid=IwAR3XnYX0mi8nOgvz7OLg1lRxsHuavSg4dLf7pyTjcaozr-JdlkXjDf1pluA"
+    ],
+    "num": 40946
+  },
+  {
+    "id": "us-7247",
+    "confirmed_date": "3/23",
+    "comments": "3/23 宾州共计644例确诊，其中Schuylkill County 3 例。",
+    "links": [
+      "https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx"
+    ],
+    "people_count": 2,
+    "comments_en": "3/23 PA total 644, Schuylkill County 3 cases.",
+    "die_count": 0,
+    "state_name": "PA",
+    "county": "Schuylkill",
+    "num": 40948
+  },
+  {
+    "id": "us-7248",
+    "confirmed_date": "3/23",
+    "comments": "3/23 宾州共计644例确诊，其中Wayne County 3 例。",
+    "links": [
+      "https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx"
+    ],
+    "people_count": 1,
+    "comments_en": "3/23 PA total 644, Wayne County 3 cases.",
+    "die_count": 0,
+    "state_name": "PA",
+    "county": "Wayne",
+    "num": 40949
+  },
+  {
+    "id": "us-7249",
+    "confirmed_date": "3/23",
+    "comments": "3/23 宾州共计644例确诊，其中​Westmoreland County 10 例。",
+    "links": [
+      "https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx"
+    ],
+    "people_count": 2,
+    "comments_en": "3/23 PA total 644, ​Westmoreland County 10 cases.",
+    "die_count": 0,
+    "state_name": "PA",
+    "county": "Westmoreland",
+    "num": 40951
+  },
+  {
+    "id": "us-7250",
+    "people_count": 2,
+    "die_count": 0,
+    "confirmed_date": "3/23",
+    "county": "Hancock",
+    "state_name": "IA",
+    "comments": "3/23 爱荷华州新增15例，累计105例。Dubuque新增2例，年龄均在61-80岁之间。",
+    "comments_en": "3/23 15 new cases reported in IA, total 105. 2 new cases from Dubuque County, 2 adult (61-80 years).",
+    "links": [
+      "https://whotv.com/news/coronavirus/15-additional-covid-19-cases-confirmed-in-iowa/?fbclid=IwAR3XnYX0mi8nOgvz7OLg1lRxsHuavSg4dLf7pyTjcaozr-JdlkXjDf1pluA"
+    ],
+    "num": 40953
+  },
+  {
+    "id": "us-7251",
+    "people_count": 10,
+    "die_count": 0,
+    "state_name": "TX",
+    "county": "Tarrant",
+    "confirmed_date": "3/23",
+    "comments_en": "Tarrant County public health officials confirm Monday another 10 people have been infected with COVID-19. The total number of infected in Tarrant County now totals 57; two people have recovered in the county including a patient in Benbrook and another in White Settlement.",
+    "comments": "3/23 Tarrant County新增10例，总计确诊57例。",
+    "links": [
+      "https://www.nbcdfw.com/news/coronavirus/tarrant-county-reports-10-more-covid-19-cases-monday/2336953/"
+    ],
     "num": 40963
+  },
+  {
+    "id": "us-7252",
+    "people_count": 1,
+    "die_count": 0,
+    "state_name": "AZ",
+    "county": "Apache",
+    "confirmed_date": "3/23",
+    "comments": "亚利桑那州Apache新增1例，累计确诊4例。",
+    "comments_en": "AZ Apache County has confirmed 1 new case in Apache, the total number confirmed is 4.",
+    "links": [
+      "https://www.azdhs.gov/preparedness/epidemiology-disease-control/infectious-disease-epidemiology/index.php#novel-coronavirus-home"
+    ],
+    "num": 40964
+  },
+  {
+    "id": "us-7253",
+    "confirmed_date": "3/23",
+    "gender": "男",
+    "people_count": 1,
+    "die_count": 0,
+    "links": [
+      "https://theflashtoday.com/2020/03/23/covid-19-confirmed-in-erath-county/"
+    ],
+    "county": "Erath",
+    "state_name": "TX",
+    "comments_en": "The man, who works for the Texas A&M Research Center in Stephenville, was tested last week and was notified Sunday. He then notified his colleagues and others with whom he had been in contact recently. Many of those notified then took to Facebook, letting their friends and families know they had been exposed and were quarantining.",
+    "comments": "Erath County首例确诊，男性，工作于Texas A&M Research Center",
+    "num": 40965
+  },
+  {
+    "id": "us-7254",
+    "people_count": 3,
+    "die_count": 0,
+    "state_name": "AZ",
+    "county": "Coconino",
+    "confirmed_date": "3/23",
+    "comments": "亚利桑那州Coconino新增3例，累计确诊17例。",
+    "comments_en": "AZ Coconino County has in total 17 cases confirmed, with 3 new cases added.",
+    "links": [
+      "https://www.azdhs.gov/preparedness/epidemiology-disease-control/infectious-disease-epidemiology/index.php#novel-coronavirus-home"
+    ],
+    "num": 40968
+  },
+  {
+    "id": "us-7255",
+    "people_count": 3,
+    "die_count": 0,
+    "confirmed_date": "3/23",
+    "state_name": "OK",
+    "county": "Cleveland",
+    "comments": "截至3/23  7:00 AM，俄克拉荷马州Cleveland County新增3例，累计16例。",
+    "comments_en": "As of 2020-03-23 at 7:00 AM, 3 new case in Cleveland County, and 16 cases in total.",
+    "links": [
+      "https://coronavirus.health.ok.gov/"
+    ],
+    "num": 40971
+  },
+  {
+    "id": "us-7256",
+    "people_count": 1,
+    "die_count": 0,
+    "confirmed_date": "3/23",
+    "state_name": "NC",
+    "county": "Union",
+    "comments": "截至3/23 12:05PM, 北卡Union County新增1例，累计13例。",
+    "comments_en": "By 3/23 12:05PM, 1 new case was confirmed in Union County, and 13 cases in total.",
+    "links": [
+      "http://www.unioncountync.gov/news/coronavirus-what-you-need-know"
+    ],
+    "num": 40972
+  },
+  {
+    "id": "us-7257",
+    "people_count": 58,
+    "die_count": 0,
+    "state_name": "AZ",
+    "county": "Maricopa",
+    "confirmed_date": "3/23",
+    "comments": "亚利桑那州Maricopa County新增58例，累计确诊139例。",
+    "comments_en": "AZ State Maricopa County has in total 139 cases confirmed, with 58 new cases added.",
+    "links": [
+      "https://www.azdhs.gov/preparedness/epidemiology-disease-control/infectious-disease-epidemiology/index.php#novel-coronavirus-home"
+    ],
+    "num": 41030
+  },
+  {
+    "id": "us-7258",
+    "people_count": 1,
+    "die_count": 0,
+    "confirmed_date": "3/23",
+    "state_name": "OK",
+    "county": "Kay",
+    "comments": "截至3/23  7:00 AM，俄克拉荷马州Kay County新增1例，累计5例。",
+    "comments_en": "As of 2020-03-23 at 7:00 AM, 1 new case in Kay County, and 5 cases in total.",
+    "links": [
+      "https://coronavirus.health.ok.gov/"
+    ],
+    "num": 41031
+  },
+  {
+    "id": "us-7259",
+    "people_count": 3,
+    "die_count": 0,
+    "confirmed_date": "3/23",
+    "state_name": "OK",
+    "county": "Oklahoma",
+    "comments": "截至3/23  7:00 AM，俄克拉荷马州Oklahoma County新增3例，累计29例。",
+    "comments_en": "As of 2020-03-23 at 7:00 AM, 3 new case in Oklahoma County, and 29 cases in total.",
+    "links": [
+      "https://coronavirus.health.ok.gov/"
+    ],
+    "num": 41034
+  },
+  {
+    "id": "us-7260",
+    "people_count": 1,
+    "die_count": 0,
+    "confirmed_date": "3/23",
+    "state_name": "OK",
+    "county": "Payne",
+    "comments": "截至3/23  7:00 AM，俄克拉荷马州Payne County新增1例，累计3例。",
+    "comments_en": "As of 2020-03-23 at 7:00 AM, 1 new case in Payne County, and 3 cases in total.",
+    "links": [
+      "https://coronavirus.health.ok.gov/"
+    ],
+    "num": 41035
+  },
+  {
+    "id": "us-7261",
+    "people_count": 12,
+    "die_count": 0,
+    "state_name": "AZ",
+    "county": "Navajo",
+    "confirmed_date": "3/23",
+    "comments": "亚利桑那州Navajo County新增12例，累计确诊25例。",
+    "comments_en": "AZ State Navajo County has in total 25 cases confirmed, with 12 new cases added.",
+    "links": [
+      "https://www.azdhs.gov/preparedness/epidemiology-disease-control/infectious-disease-epidemiology/index.php#novel-coronavirus-home"
+    ],
+    "num": 41047
+  },
+  {
+    "id": "us-7262",
+    "people_count": 5,
+    "die_count": 0,
+    "confirmed_date": "3/23",
+    "state_name": "OK",
+    "county": "Tulsa",
+    "comments": "截至3/23  7:00 AM，俄克拉荷马州Tulsa County新增5例，累计11例。",
+    "comments_en": "As of 2020-03-23 at 7:00 AM, 5 new case in Cleveland County, and 11 cases in total.",
+    "links": [
+      "https://coronavirus.health.ok.gov/"
+    ],
+    "num": 41052
+  },
+  {
+    "id": "us-7263",
+    "people_count": 5,
+    "die_count": 0,
+    "state_name": "RI",
+    "county": "Unassigned",
+    "confirmed_date": "3/23",
+    "comments_en": "Gov. Gina Raimondo announced Monday that Rhode Island has discovered 23 new cases of COVID-19, pushing the total over 100, as she prepares to order new restrictions on daily life in an effort to stem the spread.",
+    "links": [
+      "https://www.wpri.com/health/coronavirus/march-23-coronavirus-update/"
+    ],
+    "comments": "3/23 罗德岛新增23例，总数过百。",
+    "num": 41057
+  },
+  {
+    "id": "us-7264",
+    "die_count": 0,
+    "state_name": "AZ",
+    "county": "Pima",
+    "confirmed_date": "3/23",
+    "people_count": 7,
+    "comments": "亚利桑那州Pima County 新增7例， 累计确诊24例。",
+    "comments_en": "AZ Pima County adds 7 new case, making Pima County total 24 cases.",
+    "links": [
+      "https://www.azdhs.gov/preparedness/epidemiology-disease-control/infectious-disease-epidemiology/index.php#novel-coronavirus-home"
+    ],
+    "num": 41064
+  },
+  {
+    "id": "us-7265",
+    "people_count": 1,
+    "die_count": 0,
+    "state_name": "AZ",
+    "county": "Pinal",
+    "confirmed_date": "3/23",
+    "comments": "亚利桑那州Pinal County新增1例，累计17人确诊。",
+    "comments_en": "AZ Pinal County has identified 1 new case, the total number confirmed is 17. ",
+    "links": [
+      "https://www.azdhs.gov/preparedness/epidemiology-disease-control/infectious-disease-epidemiology/index.php#novel-coronavirus-home"
+    ],
+    "num": 41065
+  },
+  {
+    "id": "us-7266",
+    "people_count": 1,
+    "die_count": 0,
+    "state_name": "IA",
+    "county": "Johnson",
+    "confirmed_date": "3/23",
+    "comments": "3/23 爱荷华州新增15例，累计105例。Johnson新增3例，1例为中年年龄在41-60岁之间，2例年龄在61-80岁之间。",
+    "comments_en": "3/23 15 new cases reported in IA, total 105. 3 new cases from Johnson County, 1 middle-aged adult (41-60 years), 2 older adults (61-80 years).",
+    "links": [
+      "https://whotv.com/news/coronavirus/15-additional-covid-19-cases-confirmed-in-iowa/?fbclid=IwAR3XnYX0mi8nOgvz7OLg1lRxsHuavSg4dLf7pyTjcaozr-JdlkXjDf1pluA"
+    ],
+    "num": 41066
+  },
+  {
+    "id": "us-7267",
+    "people_count": 7,
+    "die_count": 0,
+    "state_name": "RI",
+    "county": "Providence",
+    "confirmed_date": "3/23",
+    "links": [
+      "https://www.wpri.com/health/coronavirus/march-23-coronavirus-update/"
+    ],
+    "comments_en": "3/23 RI total 106 cases, Providence 52 cases.",
+    "comments": "3/23 罗德岛总计106例，其中Providence 52 例。",
+    "num": 41073
+  },
+  {
+    "id": "us-7268",
+    "people_count": 2,
+    "die_count": 0,
+    "state_name": "IA",
+    "county": "Johnson",
+    "confirmed_date": "3/23",
+    "comments": "3/23 爱荷华州新增15例，累计105例。Johnson新增3例，1例为中年年龄在41-60岁之间，2例年龄在61-80岁之间。",
+    "comments_en": "3/23 15 new cases reported in IA, total 105. 3 new cases from Johnson County, 1 middle-aged adult (41-60 years), 2 older adults (61-80 years).",
+    "links": [
+      "https://whotv.com/news/coronavirus/15-additional-covid-19-cases-confirmed-in-iowa/?fbclid=IwAR3XnYX0mi8nOgvz7OLg1lRxsHuavSg4dLf7pyTjcaozr-JdlkXjDf1pluA"
+    ],
+    "num": 41075
+  },
+  {
+    "id": "us-7269",
+    "people_count": 1,
+    "die_count": 0,
+    "state_name": "IA",
+    "county": "Linn",
+    "confirmed_date": "3/23",
+    "comments": "3/23 爱荷华州新增15例，累计105例。Linn新增1例，年龄在18-40岁之间。",
+    "comments_en": "3/23 15 new cases reported in IA, total 105. 1 new case from Linn County, 1 adult (18-40 years).",
+    "links": [
+      "https://whotv.com/news/coronavirus/15-additional-covid-19-cases-confirmed-in-iowa/?fbclid=IwAR3XnYX0mi8nOgvz7OLg1lRxsHuavSg4dLf7pyTjcaozr-JdlkXjDf1pluA"
+    ],
+    "num": 41076
+  },
+  {
+    "id": "us-7270",
+    "confirmed_date": "3/23",
+    "comments": "3/23 罗德岛总计106例，其中Newport 9 例。",
+    "links": [
+      "https://www.wpri.com/health/coronavirus/march-23-coronavirus-update/"
+    ],
+    "people_count": 1,
+    "comments_en": "3/23 RI total 106 cases, Newport 9 cases.",
+    "die_count": 0,
+    "state_name": "RI",
+    "county": "Newport",
+    "num": 41077
+  },
+  {
+    "id": "us-7271",
+    "confirmed_date": "3/23",
+    "comments": "3/23 罗德岛总计106例，其中Bristol 24 例。",
+    "links": [
+      "https://www.wpri.com/health/coronavirus/march-23-coronavirus-update/"
+    ],
+    "people_count": 10,
+    "comments_en": "3/23 RI total 106 cases, Bristol 24 cases.",
+    "die_count": 0,
+    "state_name": "RI",
+    "county": "Bristol",
+    "num": 41087
+  },
+  {
+    "id": "us-7272",
+    "people_count": 1,
+    "die_count": 0,
+    "state_name": "IA",
+    "county": "Muscatine",
+    "confirmed_date": "3/23",
+    "comments": "3/23 爱荷华州新增15例，累计105例。Muscatine新增1例，年龄在41-60岁之间。",
+    "comments_en": "3/23 15 new cases reported in IA, total 105. 1 new case from Muscatine County, 1 adult (41-60 years).",
+    "links": [
+      "https://whotv.com/news/coronavirus/15-additional-covid-19-cases-confirmed-in-iowa/?fbclid=IwAR3XnYX0mi8nOgvz7OLg1lRxsHuavSg4dLf7pyTjcaozr-JdlkXjDf1pluA"
+    ],
+    "num": 41088
+  },
+  {
+    "id": "us-7274",
+    "people_count": 1,
+    "die_count": 0,
+    "state_name": "IA",
+    "county": "Polk",
+    "confirmed_date": "3/23",
+    "comments": "3/23 爱荷华州新增15例，累计105例。Polk新增1例，年龄在18-40岁之间。",
+    "comments_en": "3/23 15 new cases reported in IA, total 105. 1 new case from Polk County, 1 adult (18-40 years).",
+    "links": [
+      "https://whotv.com/news/coronavirus/15-additional-covid-19-cases-confirmed-in-iowa/?fbclid=IwAR3XnYX0mi8nOgvz7OLg1lRxsHuavSg4dLf7pyTjcaozr-JdlkXjDf1pluA"
+    ],
+    "num": 41089
+  },
+  {
+    "id": "us-7275",
+    "people_count": 1,
+    "die_count": 0,
+    "confirmed_date": "3/23",
+    "comments_en": "A person has tested positive for coronavirus COVID-19 in Eastland County, according to an Eastland County Today post Monday on Facebook. \n\nThe post stated the case was confirmed by Eastland County Judge Rex Fields during the County Commissioners meeting Monday morning.  \n\nThe patient is a Cisco resident who was tested in Comanche County, the post said. ",
+    "links": [
+      "https://www.reporternews.com/story/news/2020/03/23/eastland-county-reports-first-confirmed-coronavirus-covid-19-case-cisco-comanche-county/2899037001/"
+    ],
+    "county": "Eastland",
+    "state_name": "TX",
+    "comments": "1位Eastland County居民在Comanche County确诊。",
+    "num": 41090
+  },
+  {
+    "id": "us-7276",
+    "people_count": 335,
+    "die_count": 14,
+    "state_name": "LA",
+    "county": "Unassigned",
+    "confirmed_date": "3/23",
+    "comments_en": "3/23 LA total 1172, place holder",
+    "comments": "3/23 路易斯安那州总计1172例。",
+    "links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "num": 41425
+  },
+  {
+    "id": "us-7277",
+    "people_count": 5,
+    "die_count": 0,
+    "state_name": "TX",
+    "county": "Williamson",
+    "confirmed_date": "3/23",
+    "links": [
+      "http://www.wilco.org/coronavirus?fbclid=IwAR3dplQ2YzbFWbX1MaTmAKXc9j2cVl1_HC2y0cm8PQd6ZGFxDlPOgh470ms"
+    ],
+    "comments_en": "3/23 Williamson County total up to 14.",
+    "comments": "3/23 Williamson County 新增5例，总计14例。",
+    "num": 41430
+  },
+  {
+    "id": "us-7278",
+    "people_count": 1,
+    "die_count": 0,
+    "state_name": "TX",
+    "county": "Grayson",
+    "confirmed_date": "3/23",
+    "links": [
+      "https://www.kxii.com/content/news/Second-COVID-19-case-confirmed-in-Grayson-County-569029511.html"
+    ],
+    "comments_en": "The Grayson County Health Department confirmed Monday morning the second positive case of COVID-19 within Grayson County.\n\nHealth department officials said the second patient is in their 50’s with recent travel to the Dallas area.\n\n\"The patient is currently in home isolation to reduce the likelihood of the illness spreading,\" Grayson County Health Department Director Amanda Ortez said. \"Both of the confirmed cases are from Denison.\"",
+    "comments": "Grayson County第2例确诊，患者曾到过达拉斯，目前在家隔离。",
+    "age_range": "50+",
+    "num": 41431
+  },
+  {
+    "id": "us-7279",
+    "people_count": 1,
+    "die_count": 0,
+    "confirmed_date": "3/23",
+    "state_name": "VA",
+    "county": "Alexandria",
+    "comments": "截至03/23， 弗吉尼亚州 Alexandria County 累计确诊 6 例。",
+    "comments_en": "VA Alexandria County has in total 6 cases of CODIV-19 confirmed by 03/23.",
+    "links": [
+      "http://www.vdh.virginia.gov/coronavirus/"
+    ],
+    "num": 41432
+  },
+  {
+    "id": "us-7281",
+    "die_count": 0,
+    "confirmed_date": "3/23",
+    "state_name": "VA",
+    "county": "Arlington",
+    "people_count": 8,
+    "comments": "Arlington累计确诊34例，新增8例。",
+    "comments_en": "VA Arlington has a total of 34 cases at the moment, with an increase of 8 new cases reported today.",
+    "links": [
+      "http://www.vdh.virginia.gov/coronavirus/"
+    ],
+    "num": 41440
+  },
+  {
+    "id": "us-7282",
+    "people_count": 1,
+    "die_count": 0,
+    "confirmed_date": "3/23",
+    "state_name": "NY",
+    "county": "Madison",
+    "comments": "纽约州Madison County 5例确诊。",
+    "comments_en": "Madison County reported 5 cases by 3/23.",
+    "links": [
+      "https://www.madisoncounty.ny.gov/2479/Coronavirus-COVID-19"
+    ],
+    "num": 41441
+  },
+  {
+    "id": "us-7283",
+    "people_count": 34,
+    "die_count": 0,
+    "state_name": "GA",
+    "county": "Fulton",
+    "comments": "截止3/23, 乔治亚州 Fulton County 累计确诊 145 例, 新增34例。",
+    "confirmed_date": "3/23",
+    "comments_en": "GA State Fulton County has in total 145 cases of CODIV-19 confirmed by 3/23, with 34 new cases added.",
+    "links": [
+      "https://dph.georgia.gov/covid-19-daily-status-report"
+    ],
+    "num": 41475
+  },
+  {
+    "id": "us-7284",
+    "people_count": 1,
+    "die_count": 0,
+    "confirmed_date": "3/23",
+    "state_name": "KS",
+    "county": "Crawford",
+    "comments": "3/23 堪萨斯州Crawford County首例确诊。患者是一位5岁以下的儿童，现居家隔离中。",
+    "comments_en": "March 23, 2020, Crawford County Health Officials confirmed the first positive case of COVID-19. The patient, who is only being identified as a child under the age of 5, is currently isolated and has not been hospitalized.\n",
+    "links": [
+      "https://www.crawfordcountykansas.org/health-department.html"
+    ],
+    "age_range": "<10",
+    "num": 41476
+  },
+  {
+    "id": "us-7286",
+    "people_count": 1,
+    "die_count": 0,
+    "state_name": "NY",
+    "county": "Oneida",
+    "confirmed_date": "3/23",
+    "comments": "纽约州Oneida County第五例确诊。",
+    "comments_en": "A fifth positive case of the novel coronavirus, or COVID-19, has been confirmed in Oneida County, according to County Executive Anthony J. Picente Jr.No further information was released about the newest confirmed case.",
+    "links": [
+      "https://cnycentral.com/news/coronavirus/fifth-positive-case-of-coronavirus-confirmed-in-oneida-county"
+    ],
+    "num": 41477
+  },
+  {
+    "id": "us-7287",
+    "people_count": 1,
+    "die_count": 0,
+    "confirmed_date": "3/23",
+    "state_name": "VA",
+    "county": "Chesterfield",
+    "comments": "截至03/23， 弗吉尼亚州 Chesterfield County 累计确诊 9 例。",
+    "comments_en": "VA Chesterfield County has in total 9 cases of CODIV-19 confirmed by 03/23.",
+    "links": [
+      "http://www.vdh.virginia.gov/coronavirus/"
+    ],
+    "num": 41478
+  },
+  {
+    "id": "us-7288",
+    "people_count": 12,
+    "die_count": 0,
+    "state_name": "GA",
+    "county": "Cobb",
+    "comments": "截止3/23, 乔治亚州 Cobb County 累计确诊 79 例, 新增12例。",
+    "confirmed_date": "3/23",
+    "comments_en": "GA State Cobb County has in total 79 cases of CODIV-19 confirmed by 3/23, with 12 new cases added.",
+    "links": [
+      "https://dph.georgia.gov/covid-19-daily-status-report"
+    ],
+    "num": 41490
+  },
+  {
+    "id": "us-7289",
+    "people_count": 1,
+    "die_count": 0,
+    "confirmed_date": "3/23",
+    "state_name": "NY",
+    "county": "Otsego",
+    "comments": "纽约州Otsego County首例确诊。曾于其他County的其他患者密切接触过。",
+    "comments_en": " The Otsego County Department of Health has been notified of the first lab confirmed case of COVID-19 in a county resident. This individual is a close contact of a confirmed case (that resides in another county).",
+    "links": [
+      "https://www.allotsego.com/139161-2/"
+    ],
+    "num": 41491
+  },
+  {
+    "id": "us-7290",
+    "people_count": 22,
+    "die_count": 0,
+    "state_name": "GA",
+    "county": "DeKalb",
+    "confirmed_date": "3/23",
+    "comments": "截止3/23, 乔治亚州 Dekalb County 累计确诊 75 例, 新增22例。",
+    "comments_en": "GA State Dekalb County has in total 75 cases of CODIV-19 confirmed by 3/23, with 22 new cases added.",
+    "links": [
+      "https://dph.georgia.gov/covid-19-daily-status-report"
+    ],
+    "num": 41513
+  },
+  {
+    "id": "us-7292",
+    "people_count": 1,
+    "die_count": 0,
+    "confirmed_date": "3/23",
+    "state_name": "NC",
+    "county": "Brunswick",
+    "comments": "截至3/23，北卡Brunswick County累计确诊7例。第7例确诊病例有旅行史，正自我隔离中。",
+    "comments_en": "By 3/23, Brunswick County identified its seventh positive case of novel coronavirus (COVID-19). This case is travel-related and the individual was not symptomatic on their return to the area. The individual is isolating at home and is doing well.",
+    "links": [
+      "https://www.wwaytv3.com/2020/03/22/brunswick-county-identifies-seventh-presumptive-positive-case/?fbclid=IwAR3jo_V3v5YYe3LiC-rYFxRs8jrTHxdlZ6mxX1QdDm2ZP-dZMZLAbQ0F6ps"
+    ],
+    "num": 41514
+  },
+  {
+    "id": "us-7293",
+    "people_count": 12,
+    "die_count": 0,
+    "state_name": "GA",
+    "county": "Dougherty",
+    "comments": "截止3/23, 乔治亚州 Dougherty County 累计确诊 64 例, 新增12例。",
+    "confirmed_date": "3/23",
+    "comments_en": "GA State Dougherty County has in total 64 cases of CODIV-19 confirmed by 3/23, with 12 new cases added.",
+    "links": [
+      "https://dph.georgia.gov/covid-19-daily-status-report"
+    ],
+    "num": 41526
+  },
+  {
+    "id": "us-7294",
+    "people_count": 1,
+    "die_count": 0,
+    "confirmed_date": "3/23",
+    "state_name": "KS",
+    "county": "Crawford",
+    "comments": "3/23 堪萨斯州Crawford County第二例确诊。患者是一位60岁以下的成年女性，现居家隔离中。",
+    "comments_en": "March 23, 2020, Crawford County Health Officials confirmed the second positive case of COVID-19. The patient, who is only being identified as an Adult Female under the age of 60, is currently isolated and has not been hospitalized.",
+    "links": [
+      "https://www.crawfordcountykansas.org/health-department.html"
+    ],
+    "gender": "女",
+    "age_range": "50+",
+    "num": 41527
+  },
+  {
+    "id": "us-7295",
+    "people_count": 1,
+    "die_count": 0,
+    "state_name": "NY",
+    "county": "Monroe",
+    "confirmed_date": "3/23",
+    "links": [],
+    "num": 41528
+  },
+  {
+    "id": "us-7297",
+    "people_count": 1,
+    "die_count": 0,
+    "confirmed_date": "3/23",
+    "state_name": "VA",
+    "county": "Hanover",
+    "comments": "截至3/23，弗吉尼亚州Hanover County累计2例确诊。",
+    "comments_en": "By 3/23, there are 2 cases have been confirmed in Hanover County.",
+    "links": [
+      "http://www.vdh.virginia.gov/coronavirus/"
+    ],
+    "num": 41529
+  },
+  {
+    "id": "us-7298",
+    "people_count": 0,
+    "die_count": 1,
+    "state_name": "NY",
+    "county": "Monroe",
+    "confirmed_date": "3/23",
+    "comments": "纽约州Monroe County, NY第二例死亡。",
+    "comments_en": "New York Monroe County, NY reported the second death.",
+    "links": [
+      "https://twitter.com/countyexecbello/status/1242098189462880262?s=21"
+    ],
+    "gender": "Unknown",
+    "age_range": "Unknown",
+    "num": 41529
+  },
+  {
+    "id": "us-7299",
+    "die_count": 3,
+    "confirmed_date": "3/23",
+    "state_name": "VT",
+    "county": "Unassigned",
+    "people_count": 0,
+    "comments": "佛蒙特州死亡人数上升至5人。",
+    "comments_en": "Death toll rises to 5 in Vermont.",
+    "links": [
+      "https://www.healthvermont.gov/response/infectious-disease/2019-novel-coronavirus"
+    ],
+    "num": 41529
+  },
+  {
+    "id": "us-7301",
+    "die_count": 0,
+    "confirmed_date": "3/23",
+    "state_name": "VA",
+    "county": "Fairfax",
+    "people_count": 12,
+    "comments": "弗吉尼亚州Farifax新增12例确诊，共计43例。",
+    "comments_en": "A total of 43 cases has been reported in Fairfax, VA.",
+    "links": [
+      "http://www.vdh.virginia.gov/coronavirus/"
+    ],
+    "num": 41541
+  },
+  {
+    "id": "us-7300",
+    "people_count": 5,
+    "die_count": 0,
+    "state_name": "GA",
+    "county": "Bartow",
+    "comments": "截止3/23, 乔治亚州 Bartow County 累计确诊 61 例, 新增5例。",
+    "confirmed_date": "3/23",
+    "comments_en": "GA State Bartow County has in total 61 cases of CODIV-19 confirmed by 3/23, with 5 new cases added.",
+    "links": [
+      "https://dph.georgia.gov/covid-19-daily-status-report"
+    ],
+    "num": 41546
+  },
+  {
+    "id": "us-7302",
+    "people_count": 3,
+    "die_count": 0,
+    "state_name": "VT",
+    "county": "Addison",
+    "confirmed_date": "3/23",
+    "links": [],
+    "num": 41549
+  },
+  {
+    "id": "us-7303",
+    "people_count": 1,
+    "die_count": 0,
+    "confirmed_date": "3/23",
+    "county": "Wapello",
+    "state_name": "IA",
+    "comments": "3/23 爱荷华州新增15例，累计105例。Wapello County新增1例，年龄在61-80岁之间。",
+    "comments_en": "3/23 15 new cases reported in IA, total 105. 1 new case from Polk County, 1 adult (18-40 years).",
+    "links": [],
+    "num": 41550
+  },
+  {
+    "id": "us-7304",
+    "die_count": 0,
+    "confirmed_date": "3/23",
+    "state_name": "VA",
+    "county": "Henrico",
+    "people_count": 3,
+    "comments": "弗吉尼亚州Henrico新增3例确诊，共计11例。",
+    "comments_en": "Henrico has reported 3 additional cases, total 11.",
+    "links": [
+      "http://www.vdh.virginia.gov/coronavirus/"
+    ],
+    "num": 41553
+  },
+  {
+    "id": "us-7305",
+    "people_count": 10,
+    "die_count": 0,
+    "state_name": "VT",
+    "county": "Chittenden",
+    "confirmed_date": "3/23",
+    "links": [],
+    "num": 41563
+  },
+  {
+    "id": "us-7307",
+    "people_count": 1,
+    "die_count": 0,
+    "confirmed_date": "3/23",
+    "state_name": "VA",
+    "county": "Norfolk",
+    "comments": "截至03/23， 弗吉尼亚州 Norfolk City County 累计确诊 4 例。",
+    "comments_en": "VA Norfolk City County has in total 4 cases of CODIV-19 confirmed by 03/23.",
+    "links": [
+      "http://www.vdh.virginia.gov/coronavirus/"
+    ],
+    "num": 41564
+  },
+  {
+    "id": "us-7308",
+    "people_count": 1,
+    "die_count": 0,
+    "state_name": "VT",
+    "county": "Rutland",
+    "confirmed_date": "3/23",
+    "links": [],
+    "num": 41565
   }
 ]
