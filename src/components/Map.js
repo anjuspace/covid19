@@ -98,12 +98,12 @@ class Map extends Component {
 
         if (!darkMode) {
             return tinyColor.isDark()
-                ? colorScale(mapScale.invert(mapScale(counts) - 0.4))
-                : colorScale(mapScale.invert(mapScale(counts) + 0.15))
+                ? colorScale(mapScale.invert(mapScale(counts) - 0.6))
+                : colorScale(mapScale.invert(mapScale(counts) + 0.3))
         } else {
             return tinyColor.isDark()
-                ? colorScale(mapScale.invert(mapScale(counts) + 0.3))
-                : colorScale(mapScale.invert(mapScale(counts) - 0.3))
+                ? colorScale(mapScale.invert(mapScale(counts) + 0.5))
+                : colorScale(mapScale.invert(mapScale(counts) - 0.5))
         }
     }
 
@@ -117,7 +117,7 @@ class Map extends Component {
             this.props.currentMap === str.US_MAP2 && this.state.usState != null && this.state.usState in us_map
         const center = isUsState
             ? us_map[this.state.usState].center.split(',').map((d) => parseFloat(d))
-            : currentMap.center.split(',').map((d) => parseInt(d, 10))
+            : currentMap.center.split(',').map((d) => parseFloat(d))
         const scale = isUsState ? us_map[this.state.usState].scale : currentMap.scale
         const projection = isUsState ? 'geoMercator' : currentMap.projection
 
@@ -145,7 +145,9 @@ class Map extends Component {
                     projection={projection}
                     projectionConfig={{
                         scale: scale,
-                        rotation: [ 0, 0, 0 ],
+                        rotate: currentMap.rotate
+                            ? currentMap.rotate.split(',').map((x) => parseInt(x, 10))
+                            : [ 0, 0, 0 ],
                         parallels: [ 0, 0 ]
                     }}
                 >
@@ -154,6 +156,15 @@ class Map extends Component {
                         height={6}
                         width={6}
                         stroke={greyStrokeColor}
+                        strokeWidth={1}
+                        background={darkMode ? 'var(--darker-grey)' : '#fff'}
+                        orientation={[ 'diagonal' ]}
+                    />
+                    <PatternLines
+                        id="background-lines"
+                        height={6}
+                        width={6}
+                        stroke={darkMode ? '#333' : '#ddd'}
                         strokeWidth={1}
                         background={darkMode ? 'var(--darker-grey)' : '#fff'}
                         orientation={[ 'diagonal' ]}
@@ -172,9 +183,71 @@ class Map extends Component {
                             isMobile || isIPad13 ? () => this.setState({ clicked: true }) : null
                         }
                         center={center}
+                        minZoom={0.2}
+                        maxZoom={5}
                         disableZooming={isMobile || isIPad13}
                         disablePanning={isMobile || isIPad13}
                     >
+                        {![ str.WORLD_MAP, str.US_MAP ].includes(this.props.currentMap) && (
+                            <Geographies
+                                geography={`maps/${this.props.currentMap !== str.US_MAP2
+                                    ? 'world-50m'
+                                    : 'states-10m'}.json`}
+                                onMouseEnter={() => {
+                                    if (!this.state.loaded) {
+                                        this.setState({ loaded: true })
+                                        this.props.tooltipRebuild()
+                                    }
+                                }}
+                            >
+                                {({ geographies }) =>
+                                    geographies.map((geo) => {
+                                        let counts = 0
+                                        if (geo.properties.REGION != null) {
+                                            const region = getDataFromRegion(data, geo.properties.REGION.split('.'))
+                                            if (region && region[metric] && region[metric][date])
+                                                counts = region[metric][date]
+                                        }
+                                        const backgroundMap =
+                                            this.props.currentMap !== str.US_MAP2 ? str.WORLD_MAP : str.US_MAP
+                                        const name = geo.properties[maps[backgroundMap].name_key[lang]]
+                                        const isCurrentCountryOrState =
+                                            backgroundMap === str.WORLD_MAP
+                                                ? geo.properties.CHINESE_NAME === currentRegion[0]
+                                                : geo.properties.CHINESE_NAME === currentRegion[1]
+                                        if (isCurrentCountryOrState) return <div />
+                                        if (backgroundMap === str.US_MAP && currentRegion.length === 1) return <div />
+                                        return (
+                                            <Geography
+                                                className="map-geography"
+                                                key={geo.rsmKey}
+                                                geography={geo}
+                                                data-tip={`${name} <span class="plot-tooltip-bold">${counts}</span>`}
+                                                style={{
+                                                    default: {
+                                                        fill: darkMode ? 'var(--darker-grey)' : '#fff',
+                                                        stroke: darkMode ? '#333' : '#ddd',
+                                                        strokeWidth: 2
+                                                    },
+                                                    hover: {
+                                                        fill: `url("#background-lines") ${darkMode ? '#333' : '#ddd'}`,
+                                                        stroke: darkMode ? '#333' : '#ddd',
+                                                        strokeWidth: 2,
+                                                        cursor: counts > 0 ? 'pointer' : 'default'
+                                                    },
+                                                    pressed: {
+                                                        fill: `url("#background-lines") ${darkMode ? '#333' : '#ddd'}`,
+                                                        stroke: darkMode ? '#333' : '#ddd',
+                                                        strokeWidth: 2,
+                                                        cursor: counts > 0 ? 'pointer' : 'default'
+                                                    }
+                                                }}
+                                                onClick={this.handleGeographyClick(geo.properties.REGION)}
+                                            />
+                                        )
+                                    })}
+                            </Geographies>
+                        )}
                         <Geographies
                             geography={`maps/${currentMap.filename}`}
                             onMouseEnter={() => {
@@ -316,10 +389,10 @@ class Map extends Component {
                                 </g>
                             </Marker>
                         )}
-                        {this.props.currentMap === str.WORLD_MAP && (
+                        {(this.props.currentMap === str.WORLD_MAP || this.props.currentMap === str.JAPAN_MAP) && (
                             <Marker key={'diamond-princess'} coordinates={[ 139.6, 35.4 ]}>
                                 <FaShip
-                                    size={18}
+                                    size={this.props.currentMap === str.WORLD_MAP ? 18 : 36}
                                     color={colorScale(cruiseCounts)}
                                     className="map-ship"
                                     data-tip={`${lang === 'zh'

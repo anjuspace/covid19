@@ -41,10 +41,12 @@ export const metricText = {
 export const getDataFromRegion = (data, region) => [ data, ...region ].reduce((s, x) => s[x])
 
 export const simplifyName = (name, lang) => {
-    // remove parenthesis to save space for legend
     let simplified = name
+    // remove parenthesis to save space for legend
     if (lang === 'en') simplified = name.split('(')[0].trim()
+
     if (lang === 'en') simplified = simplified.replace('United States of America', 'USA')
+    if (lang === 'en') simplified = simplified.replace('United Kingdom', 'UK')
     if (lang === 'en') simplified = simplified.replace('International Conveyance', "Int'l Conveyance")
     if (lang === 'en') simplified = simplified.replace(' District', '')
     if (lang === 'en') simplified = simplified.replace(' County', '')
@@ -66,6 +68,7 @@ export const generateTreeData = (
     obj,
     date,
     lang,
+    simplified = true,
     childrenLabel = 'children',
     sortBy = null,
     rootRegion = str.GLOBAL_ZH
@@ -86,8 +89,26 @@ export const generateTreeData = (
                 curedCount: Object.keys(v.curedCount).length === 0 ? '—' : v.curedCount[date] ? v.curedCount[date] : 0
             }
 
+            // remove some regions for the simplicity of bubble plot
+            if (
+                simplified &&
+                (k === str.LONDON_EN ||
+                    (obj.ENGLISH === str.NETHERLANDS_EN && k === str.NETHERLANDS_ZH) ||
+                    obj.ENGLISH === str.US_EN)
+            ) {
+                return newdata
+            }
+
             if (Object.keys(v).length > 4) {
-                newdata[childrenLabel] = generateTreeData(v, date, lang, childrenLabel, sortBy, currentRegion)
+                newdata[childrenLabel] = generateTreeData(
+                    v,
+                    date,
+                    lang,
+                    simplified,
+                    childrenLabel,
+                    sortBy,
+                    currentRegion
+                )
             }
             return newdata
         })

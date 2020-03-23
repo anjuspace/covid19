@@ -4,7 +4,7 @@ mkdir -p ./data/maps
 mkdir -p ./public/maps
 
 # download maps
-gadm_maps="CHN HKG MAC TWN KOR ITA FRA DEU JPN AUT AUS USA CAN ESP CHE"
+gadm_maps="CHN HKG MAC TWN KOR ITA FRA DEU JPN AUT AUS USA CAN ESP CHE GBR SWE POL NOR IRN"
 for map in $gadm_maps; do
    wget -nc -q https://biogeo.ucdavis.edu/data/gadm3.6/shp/gadm36_${map}_shp.zip -O ./data/maps/gadm36_${map}_shp.zip
    unzip -q -o -d ./data/maps/ ./data/maps/gadm36_${map}_shp.zip
@@ -12,6 +12,8 @@ done
 
 wget -nc -q https://raw.githubusercontent.com/zcreativelabs/react-simple-maps/master/topojson-maps/world-50m-simplified.json -O ./data/maps/world-50m.json
 wget -nc -q https://cdn.jsdelivr.net/npm/us-atlas@3/states-10m.json -O ./data/maps/states-10m.json
+wget -nc -q https://raw.githubusercontent.com/deldersveld/topojson/master/countries/netherlands/nl-gemeentegrenzen-2016.json -O ./data/maps/netherlands.json
+wget -nc -q https://raw.githubusercontent.com/leakyMirror/map-of-europe/master/TopoJSON/europe.topojson -O ./public/maps/europe.json
 
 # simplify maps
 ./node_modules/mapshaper/bin/mapshaper ./data/maps/gadm36_CHN_1.shp -simplify 2% -clean -o format=topojson ./data/maps/gadm36_CHN_1.json
@@ -30,9 +32,15 @@ wget -nc -q https://cdn.jsdelivr.net/npm/us-atlas@3/states-10m.json -O ./data/ma
 ./node_modules/mapshaper/bin/mapshaper ./data/maps/gadm36_CAN_1.shp -simplify 0.3% -clean -o format=topojson ./public/maps/gadm36_CAN_1.json
 ./node_modules/mapshaper/bin/mapshaper ./data/maps/gadm36_ESP_1.shp -simplify 1% -clean -o format=topojson ./public/maps/gadm36_ESP_1.json
 ./node_modules/mapshaper/bin/mapshaper ./data/maps/gadm36_CHE_1.shp -simplify 10% -clean -o format=topojson ./public/maps/gadm36_CHE_1.json
+./node_modules/mapshaper/bin/mapshaper ./data/maps/gadm36_GBR_2.shp -simplify 2% -clean -o format=topojson ./public/maps/gadm36_GBR_2.json
+./node_modules/mapshaper/bin/mapshaper ./data/maps/gadm36_SWE_1.shp -simplify 0.5% -clean -o format=topojson ./public/maps/gadm36_SWE_1.json
+./node_modules/mapshaper/bin/mapshaper ./data/maps/gadm36_POL_1.shp -simplify 2% -clean -o format=topojson ./public/maps/gadm36_POL_1.json
+./node_modules/mapshaper/bin/mapshaper ./data/maps/gadm36_NOR_1.shp -simplify 1% -clean -o format=topojson ./public/maps/gadm36_NOR_1.json
+./node_modules/mapshaper/bin/mapshaper ./data/maps/gadm36_IRN_1.shp -simplify 5% -clean -o format=topojson ./public/maps/gadm36_IRN_1.json
 
 ./node_modules/mapshaper/bin/mapshaper ./data/maps/world-50m.json -filter 'NAME != "Antarctica"' -simplify 50% -clean -o format=topojson ./public/maps/world-50m.json
 ./node_modules/mapshaper/bin/mapshaper ./data/maps/states-10m.json -simplify 50% -clean -o format=topojson ./public/maps/states-10m.json
+./node_modules/mapshaper/bin/mapshaper ./data/maps/netherlands.json -simplify 10% -clean -o format=topojson ./public/maps/netherlands.json
 
 # combine maps
 ./node_modules/mapshaper/bin/mapshaper -i ./data/maps/gadm36_CHN_1.json ./data/maps/gadm36_HKG_0.json ./data/maps/gadm36_MAC_0.json ./data/maps/gadm36_TWN_0.json combine-files -merge-layers force -o format=topojson ./public/maps/gadm36_CHN_1.json
@@ -49,11 +57,19 @@ wget -q --no-check-certificate 'https://docs.google.com/spreadsheets/d/1nKRkOwnG
 # data folder
 mkdir -p public/data
 
+# crawl data
+pip3 install requests beautifulsoup4
+crawlers="1p3a-data iran-data"
+
+for crawler in $crawlers; do
+    python3 data/${crawler}/crawler.py
+    if [ $? != 0 ]; then
+       exit 1
+    fi
+done
+
 # generate data in JSON format and include data in TOPOJSON maps
-pip3 install requests
-
-
-data_processing_filenames="world_current world china korea italy us france germany japan austria australia canada spain switzerland"
+data_processing_filenames="world_current world china china_overall world_dxy korea italy us us_1p3a france germany japan austria australia canada spain switzerland uk netherlands sweden poland norway iran"
 
 for filename in $data_processing_filenames; do
     echo "Running data_processing_${filename}.js ..."
@@ -62,6 +78,10 @@ for filename in $data_processing_filenames; do
        exit 1
     fi
 done
+
+./node_modules/mapshaper/bin/mapshaper ./public/maps/gadm36_NOR_1.json -dissolve NAME_1 copy-fields=CHINESE_NAME,REGION -o format=topojson ./public/maps/gadm36_NOR_1.json
+./node_modules/mapshaper/bin/mapshaper ./public/maps/gadm36_GBR_2.json -dissolve NAME_2 copy-fields=CHINESE_NAME,COUNTRY_CHINESE_NAME,REGION -o format=topojson ./public/maps/gadm36_GBR_2.json
+./node_modules/mapshaper/bin/mapshaper ./public/maps/netherlands.json -dissolve GM_NAAM copy-fields=CHINESE_NAME,REGION -o format=topojson ./public/maps/netherlands.json
 
 script_filenames="data_merge missing_data_fix"
 

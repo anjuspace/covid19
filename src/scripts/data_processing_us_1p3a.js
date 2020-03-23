@@ -1,5 +1,6 @@
 const fs = require('fs')
 const assert = require('assert')
+const _ = require('lodash')
 
 const data_folder = 'data/1p3a-data'
 const data_file = 'raw.json'
@@ -20,6 +21,30 @@ function parseDate(date) {
     return new Date(year, month - 1, day)
 }
 
+const county_name_changes = {
+    'Walla Walla County, WA': 'Walla Walla',
+    'Walton County, FL': 'Walton',
+    'Delaware County, IN': 'Delaware',
+    'Berknap, NH': 'Belknap',
+    'Nashua, NH': 'Hillsborough',
+    'Elko County, NV': 'Elko',
+    'Filmore, MN': 'Fillmore',
+    'LeSeur, MN': 'Le Sueur',
+    'Blue earth, MN': 'Blue Earth',
+    'Brockton, MA': 'Plymouth',
+    'Stanley, NC': 'Gaston',
+    'Seward, AK': 'Kenai Peninsula',
+    'Soldotna, AK': 'Kenai Peninsula',
+    'Sterling, AK': 'Kenai Peninsula'
+}
+
+data = data.map((x) => {
+    if (`${x.county}, ${x.state_name}` in county_name_changes) {
+        x.county = county_name_changes[`${x.county}, ${x.state_name}`]
+    }
+    return x
+})
+
 let latestDate = [
     ...new Set(data.map((x) => convertDate(x.confirmed_date)).sort((a, b) => (parseDate(a) < parseDate(b) ? 1 : -1)))
 ][0]
@@ -27,11 +52,17 @@ let latestDate = [
 latestDate = parseDate(latestDate)
 
 Object.keys(states_abbr_zh).forEach((stateAbbr) => {
-    // data from Washington, D.C. are already obtained from JHU database
-    if (stateAbbr === 'DC') return
-
     // obtain data for a state
     const state = states_abbr_zh[stateAbbr]
+
+    // initialization
+    output_us[state] = {
+        ENGLISH: states_abbr_en[stateAbbr],
+        confirmedCount: {},
+        curedCount: {},
+        deadCount: {}
+    }
+
     const stateData = data
         .filter((caseData) => caseData.state_name === stateAbbr)
         .filter((caseData) => caseData.county != null && caseData.confirmed_date != null)
@@ -93,6 +124,19 @@ Object.keys(states_abbr_zh).forEach((stateAbbr) => {
     })
 })
 
+// total numbers of States
+Object.keys(states_abbr_zh).forEach((stateAbbr) => {
+    const state = states_abbr_zh[stateAbbr]
+    Object.keys(output_us[state]).forEach((county) => {
+        output_us[state]['confirmedCount'] = _.mergeWith(
+            {},
+            output_us[state]['confirmedCount'],
+            output_us[state][county]['confirmedCount'],
+            _.add
+        )
+    })
+})
+
 fs.writeFileSync(`public/data/us.json`, JSON.stringify(output_us))
 
 // modify map
@@ -110,17 +154,15 @@ geometries.forEach((geo) => {
 
     if (countyEnglish === 'Dupage' && stateAbbr === 'IL') countyEnglish = 'DuPage'
     if (countyEnglish === 'La Salle' && stateAbbr === 'IL') countyEnglish = 'LaSalle'
+    if (countyEnglish === 'De Kalb' && stateAbbr === 'IL') countyEnglish = 'DeKalb'
     if (countyEnglish === 'Virginia Beach' && stateAbbr === 'VA') countyEnglish = 'Virginia Beach City'
     if (countyEnglish === 'Alexandria' && stateAbbr === 'VA') countyEnglish = 'Alexandria City'
     if (countyEnglish === 'Portsmouth' && stateAbbr === 'VA') countyEnglish = 'Portsmouth City'
     if (countyEnglish === 'Richmond' && stateAbbr === 'VA' && geo.properties.TYPE_2 === 'Independent City')
         countyEnglish = 'Richmond City'
     if (countyEnglish === 'Hawaii' && stateAbbr === 'HI') countyEnglish = 'Hawaii Island'
-    if (countyEnglish === 'Ketchikan Gateway' && stateAbbr === 'AK') countyEnglish = 'Ketchikan Gateway Borough'
     if (countyEnglish === 'Dewitt' && stateAbbr === 'TX') countyEnglish = 'DeWitt'
-    if (countyEnglish === 'Walton' && stateAbbr === 'FL') countyEnglish = 'Walton County'
     if (countyEnglish === 'Miami-Dade' && stateAbbr === 'FL') countyEnglish = 'Dade'
-    if (countyEnglish === 'Belknap' && stateAbbr === 'NH') countyEnglish = 'Berknap'
 
     // New York boroughs
     if (countyEnglish === 'Bronx' && stateAbbr === 'NY') countyEnglish = 'New York'
@@ -145,7 +187,7 @@ geometries.forEach((geo) => {
 
 // check
 Object.keys(output_us).map((state) => {
-    Object.keys(output_us[state]).filter((x) => x !== 'Unassigned').map((county) => {
+    Object.keys(output_us[state]).filter((x) => ![ 'Unassigned', 'Unknown' ].includes(x)).map((county) => {
         const countyData = output_us[state][county]
         if (countyData.confirmedCount && !countyData.map) {
             console.log(`Cannot find ${county} (${output_us[state].ENGLISH}) in the map!`)
@@ -155,3 +197,22 @@ Object.keys(output_us).map((state) => {
 
 map.objects[mapName].geometries = geometries
 fs.writeFileSync(`public/maps/${mapName}.json`, JSON.stringify(map))
+
+// modify map
+map = JSON.parse(fs.readFileSync('public/maps/states-10m.json'))
+let objectName = 'states'
+geometries = map.objects[objectName].geometries
+
+geometries.forEach((geo) => {
+    let stateEnglish = geo.properties.name
+    if (stateEnglish === 'District of Columbia') stateEnglish = 'Washington, D.C.'
+    const stateAbbr = Object.keys(states_abbr_en).find((x) => states_abbr_en[x] === stateEnglish)
+    const state = states_abbr_zh[stateAbbr]
+
+    geo.properties.CHINESE_NAME = state
+    geo.properties.NAME = stateEnglish
+    if (output_us[state]) geo.properties.REGION = `美国.${state}`
+})
+
+map.objects[objectName].geometries = geometries
+fs.writeFileSync(`public/maps/states-10m.json`, JSON.stringify(map))

@@ -4,6 +4,7 @@ import ReactTooltip from 'react-tooltip'
 import { AiOutlineFullscreen, AiOutlineFullscreenExit } from 'react-icons/ai'
 import Helmet from 'react-helmet'
 import Measure from 'react-measure'
+import format from 'date-fns/format'
 import './App.css'
 import Map from './Map'
 import MapNavBar from './MapNavBar'
@@ -32,8 +33,7 @@ const defaultState = {
     scale: 'linear',
     mapZoom: 1,
     fullMap: false,
-    fullPlot: false,
-    plotType: 'plot_basic'
+    fullPlot: false
 }
 
 class App extends Component {
@@ -42,6 +42,7 @@ class App extends Component {
         endDate: '2020-02-14',
         date: '2020-02-14',
         tempDate: '2020-02-14',
+        plotDates: [ '2020-01-24', '2020-02-14' ],
         data: null,
         dataLoaded: false,
         lang: 'en',
@@ -54,13 +55,21 @@ class App extends Component {
             width: -1,
             height: -1
         },
+        plotType: 'plot_basic',
         ...defaultState
     }
 
     fetchData = () =>
         fetch('data/all_minified.json').then((res) => res.json()).then((res) => {
             const latest = Object.keys(res[str.GLOBAL_ZH].confirmedCount).pop()
-            this.setState({ data: res, dataLoaded: true, date: latest, tempDate: latest, endDate: latest })
+            this.setState({
+                data: res,
+                dataLoaded: true,
+                date: latest,
+                tempDate: latest,
+                endDate: latest,
+                plotDates: [ this.state.plotDates[0], latest ]
+            })
             this.tooltipRebuild()
         })
 
@@ -96,7 +105,8 @@ class App extends Component {
         this.setState({
             ...defaultState,
             date: this.state.endDate,
-            tempDate: this.state.endDate
+            tempDate: this.state.endDate,
+            plotDates: [ this.state.startDate, this.state.endDate ]
         })
 
     mapToggle = (newMap) =>
@@ -127,9 +137,12 @@ class App extends Component {
             } else {
                 this.mapToggle(str.US_MAP)
             }
+        } else if (newRegion[0] === str.INTL_CONVEYANCE_ZH) {
+            this.mapToggle(str.JAPAN_MAP)
         } else {
             let map = Object.keys(mapText).find((x) => mapText[x].regionName === newRegion[0])
             map = map != null ? map : str.WORLD_MAP
+            if (map === str.WORLD_MAP && currentMap === str.EUROPE_MAP) map = str.EUROPE_MAP
             this.mapToggle(map)
         }
     }
@@ -158,7 +171,14 @@ class App extends Component {
 
     handleDateChange = (newDate) => this.setState({ date: newDate, tempDate: newDate })
 
-    handleTempDateChange = (newDate) => this.setState({ tempDate: newDate })
+    handleTempDateChange = (newDates) => {
+        const newDateStrings = newDates.map((x) => format(x, 'yyyy-MM-dd'))
+        if (!this.state.fullPlot) {
+            this.setState({ tempDate: newDateStrings[0] })
+        } else {
+            this.setState({ plotDates: newDateStrings })
+        }
+    }
 
     handlePlotTypeChange = (newType) => this.setState({ plotType: newType })
 

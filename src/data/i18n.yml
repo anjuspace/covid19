@@ -143,10 +143,10 @@ ITALY_MAP:
   en: Italy
   zh: 意大利
 US_MAP:
-  en: U.S. (States)
+  en: US (States)
   zh: 美国（州级）
 US_MAP2:
-  en: U.S. (Counties)
+  en: US (Counties)
   zh: 美国（县级）
 FRANCE_MAP:
   en: France
@@ -172,6 +172,36 @@ SPAIN_MAP:
 SWITZERLAND_MAP:
   en: Switzerland
   zh: 瑞士
+UK_MAP:
+  en: United Kingdom
+  zh: 英国
+NETHERLANDS_MAP:
+  en: Netherlands
+  zh: 荷兰
+SWEDEN_MAP:
+  en: Sweden
+  zh: 瑞典
+POLAND_MAP:
+  en: Poland
+  zh: 波兰
+NORWAY_MAP:
+  en: Norway
+  zh: 挪威
+IRAN_MAP:
+  en: Iran
+  zh: 伊朗
+ASIA:
+  en: Asia
+  zh: 亚洲
+NORTH_AMERICA:
+  en: North America
+  zh: 北美洲
+EUROPE:
+  en: Europe
+  zh: 欧洲
+OCEANIA:
+  en: Oceania
+  zh: 大洋洲
 TRANSMISSIONS:
   en: Transmissions
   zh: 传播路线

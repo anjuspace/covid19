@@ -28,17 +28,18 @@ export default class BubblePlot extends Component {
             children: generateTreeData(data, date, lang)
         }
 
-        // remove US county data for better performance
-        const usIdx = plotData.children.findIndex((x) => x.name === str.US_ZH)
-        plotData.children[usIdx].children.forEach((state) => delete state.children)
-
         let currentNodePath =
             currentRegion[0] === str.GLOBAL_ZH ? str.GLOBAL_ZH : [ str.GLOBAL_ZH, ...currentRegion ].reverse().join('.')
 
         // TODO: Node does not exist when count is 0. Need to find the parent node that has non-zero count.
         const currentData = getDataFromRegion(data, currentRegion)
         const count = currentData[metric][date]
-        if (count == null || count === 0 || (currentRegion[0] === str.US_ZH && currentRegion.length === 3))
+        if (
+            count == null ||
+            count === 0 ||
+            (currentRegion[0] === str.US_ZH && currentRegion.length === 3) ||
+            (currentRegion[0] === str.UK_ZH && currentRegion.length > 3)
+        )
             currentNodePath = [ str.GLOBAL_ZH, ...currentRegion.slice(0, currentRegion.length - 1) ].reverse().join('.')
 
         let displayNodePath =
@@ -50,6 +51,9 @@ export default class BubblePlot extends Component {
 
         if (currentRegion[0] === str.US_ZH && currentRegion.length > 1)
             displayNodePath = [ str.GLOBAL_ZH, str.US_ZH ].reverse().join('.')
+
+        if (currentRegion[0] === str.UK_ZH && currentRegion.length > 2)
+            displayNodePath = [ str.GLOBAL_ZH, ...currentRegion.slice(0, 2) ].reverse().join('.')
 
         return (
             <div className="bubble-plot-wrap">
@@ -81,7 +85,7 @@ export default class BubblePlot extends Component {
                     enableLabel={true}
                     label={({ data }) => data.displayName}
                     labelTextColor={'#222'}
-                    labelSkipRadius={10}
+                    labelSkipRadius={8}
                     animate={!playing}
                     motionStiffness={50}
                     motionDamping={12}

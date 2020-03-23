@@ -3,16 +3,18 @@ const _ = require('lodash')
 const assert = require('assert')
 
 const data_folder = 'data/jhu-data/csse_covid_19_data/csse_covid_19_time_series'
-const confirmed_file = `${data_folder}/time_series_19-covid-Confirmed.csv`
-const cured_file = `${data_folder}/time_series_19-covid-Recovered.csv`
-const dead_file = `${data_folder}/time_series_19-covid-Deaths.csv`
+const confirmed_file = `${data_folder}/time_series_covid19_confirmed_global.csv`
+// const cured_file = `${data_folder}/time_series_19-covid-Recovered.csv`
+const dead_file = `${data_folder}/time_series_covid19_deaths_global.csv`
 const curr_data_file = 'data/jhu_current_data.csv'
 
 // match names between database and map
 const mapNames = {
     US: 'United States of America',
     'Korea, South': 'South Korea',
-    'Gambia, The': 'Gambia'
+    'Gambia, The': 'Gambia',
+    'Bahamas, The': 'Bahamas',
+    'Dominican Republic': 'Dominica'
 }
 
 // translations
@@ -29,6 +31,15 @@ fs.readFileSync(curr_data_file, 'utf8').split(/\r?\n/).forEach((line) => {
         curedCount: parseInt(lineSplit[3], 10),
         deadCount: parseInt(lineSplit[4], 10)
     }
+})
+// total numbers of US
+currData['US|'] = { confirmedCount: 0, curedCount: 0, deadCount: 0 }
+;[ 'confirmedCount', 'curedCount', 'deadCount' ].forEach((metric) => {
+    Object.keys(currData).forEach((x) => {
+        if (x.split('|')[0] === 'US' && x.split('|')[1] !== '') {
+            currData['US|'][metric] += currData[x][metric]
+        }
+    })
 })
 
 // ignore comma inside double quotes when processing data
@@ -156,7 +167,7 @@ function generateData(filename, metric) {
 
             // France
             if (country === 'France') {
-                if (province === 'France') province = 'Metropolitan France'
+                if (province === '') province = 'Metropolitan France'
             }
             if ([ 'French Guiana', 'Martinique', 'Reunion' ].includes(country)) {
                 province = country
@@ -167,19 +178,24 @@ function generateData(filename, metric) {
                 // match names from map
                 country = mapNames[country]
 
+            if ([ 'Denmark', 'Netherlands', 'United Kingdom' ].includes(country) && province === '') {
+                province = country
+            }
+
             const countryKey = en2zh[country] ? en2zh[country] : country
             let provinceKey = en2zh[province] ? en2zh[province] : province
 
             // US States
-            if (countryKey === '美国') {
-                let stateAbbr = Object.keys(states_abbr_en).find((x) => states_abbr_en[x] === province)
-                if (province.split(',').length === 2) stateAbbr = province.split(',')[1].trim()
-                if (province === 'Washington, D.C.') stateAbbr = 'DC'
-                if (stateAbbr) {
-                    provinceKey = states_abbr_zh[stateAbbr]
-                }
-            }
+            // if (countryKey === '美国') {
+            //     let stateAbbr = Object.keys(states_abbr_en).find((x) => states_abbr_en[x] === province)
+            //     if (province.split(',').length === 2) stateAbbr = province.split(',')[1].trim()
+            //     if (province === 'Washington, D.C.') stateAbbr = 'DC'
+            //     if (stateAbbr) {
+            //         provinceKey = states_abbr_zh[stateAbbr]
+            //     }
+            // }
 
+            // initialization
             if (!(countryKey in output_world)) {
                 output_world[countryKey] = {
                     ENGLISH: country
@@ -187,6 +203,15 @@ function generateData(filename, metric) {
     
                 output_world[countryKey][metric] = {}
             }
+            if (provinceKey !== '' && !(provinceKey in output_world[countryKey])) {
+                output_world[countryKey][provinceKey] = {
+                    ENGLISH: province
+                }
+                output_world[countryKey][provinceKey][metric] = {}
+            }
+
+            // recovered counts not reported by JHU database anymore
+            if (metric === 'curedCount') return output_world
 
             dates.forEach((date, index) => {
                 let count = parseInt(lineSplit[index + 4], 10) || 0
@@ -209,12 +234,6 @@ function generateData(filename, metric) {
                             ? count
                             : Math.max(output_world[countryKey][metric][date], count)
                 } else {
-                    if (!(provinceKey in output_world[countryKey])) {
-                        output_world[countryKey][provinceKey] = {
-                            ENGLISH: province
-                        }
-                        output_world[countryKey][provinceKey][metric] = {}
-                    }
                     if (output_world[countryKey][provinceKey][metric][date] == null)
                         output_world[countryKey][provinceKey][metric][date] = 0
                     output_world[countryKey][provinceKey][metric][date] += count
@@ -250,7 +269,7 @@ function generateData(filename, metric) {
 }
 
 const confirmedData = generateData(confirmed_file, 'confirmedCount')
-const curedData = generateData(cured_file, 'curedCount')
+const curedData = generateData(confirmed_file, 'curedCount')
 const deadData = generateData(dead_file, 'deadCount')
 let allData = _.merge(_.merge(confirmedData, curedData), deadData)
 
@@ -296,6 +315,12 @@ geometries.forEach((geo) => {
     if (countryName === 'Dominican Rep.') countryName = 'Dominican Republic'
     if (countryName === 'Dem. Rep. Congo') countryName = 'Congo (Kinshasa)'
     if (countryName === "Côte d'Ivoire") countryName = "Cote d'Ivoire"
+    if (countryName === 'Somaliland') countryName = 'Somalia'
+    if (countryName === 'Congo') countryName = 'Congo (Brazzaville)'
+    if (countryName === 'Bosnia and Herz.') countryName = 'Bosnia and Herzegovina'
+    if (countryName === 'Central African Rep.') countryName = 'Central African Republic'
+    if (countryName === 'Faeroe Is.') countryName = 'Faroe Islands'
+    if (countryName === 'Eq. Guinea') countryName = 'Equatorial Guinea'
 
     geo.properties.NAME = countryName
 
@@ -311,6 +336,12 @@ geometries.forEach((geo) => {
 
     if (countryKey in allData) {
         geo.properties.REGION = countryKey
+    } else if (countryName === 'Greenland' || countryName === 'Faroe Islands') {
+        geo.properties.REGION = `丹麦.${countryKey}`
+    } else if (countryName === 'Isle of Man') {
+        geo.properties.REGION = `英国.皇家属地.${countryKey}`
+    } else if (countryName === 'Puerto Rico') {
+        geo.properties.REGION = `美国.${countryKey}`
     } else {
         // add Chinese names for all unaffected countries
         if (geo.properties.ISO_A3) geo.properties.CHINESE_NAME = iso3166Codes[geo.properties.ISO_A3]
@@ -319,3 +350,31 @@ geometries.forEach((geo) => {
 
 map.objects[objectName].geometries = geometries
 fs.writeFileSync(`public/maps/world-50m.json`, JSON.stringify(map))
+
+// modify Europe map
+
+map = JSON.parse(fs.readFileSync('public/maps/europe.json'))
+objectName = 'europe'
+geometries = map.objects[objectName].geometries
+
+geometries.forEach((geo) => {
+    let countryName = geo.properties.NAME
+    if (countryName === 'Czech Republic') countryName = 'Czechia'
+    if (countryName === 'The former Yugoslav Republic of Macedonia') countryName = 'North Macedonia'
+    if (countryName === 'Holy See (Vatican City)') countryName = 'Holy See'
+
+    geo.properties.NAME = countryName
+
+    let countryKey = en2zh[countryName] ? en2zh[countryName] : countryName
+
+    geo.properties.CHINESE_NAME = countryKey
+
+    if (countryKey in allData) {
+        geo.properties.REGION = countryKey
+    } else if (countryName === 'Faroe Islands') {
+        geo.properties.REGION = `丹麦.${countryKey}`
+    }
+})
+
+map.objects[objectName].geometries = geometries
+fs.writeFileSync(`public/maps/europe.json`, JSON.stringify(map))

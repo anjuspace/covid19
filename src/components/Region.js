@@ -134,9 +134,10 @@ export default class Region extends Component {
                     )
                 })
                 const childData = getDataFromRegion(data, [ ...root, d ])
+                const showSubRegions = [ str.CHINA_ZH, str.FRANCE_ZH, str.UK_ZH, str.NETHERLANDS_ZH, str.DENMARK_ZH ]
                 if (
                     Object.keys(childData).length > 4 &&
-                    (!this.state.countryOnly || d === str.CHINA_ZH || d === str.FRANCE_ZH)
+                    (!this.state.countryOnly || (root.length === 0 && showSubRegions.includes(d)))
                 )
                     options = [ ...options, ...this.generateOptions([ ...root, d ]) ]
             })
@@ -168,12 +169,24 @@ export default class Region extends Component {
                 region !== `${str.FRANCE_ZH}${str.OVERSEAS_FRANCE_ZH}`
                     ? region.replace(`${str.FRANCE_ZH}${str.OVERSEAS_FRANCE_ZH}`, '')
                     : `${str.FRANCE_ZH}${str.OVERSEAS_FRANCE_ZH}`
+
+            // UK
+            region =
+                region !== `${str.UK_ZH}${str.OVERSEAS_TERRITORIES_ZH}`
+                    ? region.replace(`${str.UK_ZH}${str.OVERSEAS_TERRITORIES_ZH}`, '')
+                    : `${str.UK_ZH}${str.OVERSEAS_TERRITORIES_ZH}`
+            region =
+                region !== `${str.UK_ZH}${str.CROWN_DEPENDENCIES_ZH}`
+                    ? region.replace(`${str.UK_ZH}${str.CROWN_DEPENDENCIES_ZH}`, '')
+                    : `${str.UK_ZH}${str.CROWN_DEPENDENCIES_ZH}`
+
             return region
         } else {
             if (data == null) return
-            const englishRegion = [ ...Array(region.length).keys() ]
+            let englishRegion = [ ...Array(currentRegion.length).keys() ]
                 .map((i) => currentRegion.slice(0, i + 1))
                 .map((regionList) => getDataFromRegion(data, regionList).ENGLISH)
+            englishRegion = [ ...new Set(englishRegion) ]
             region = englishRegion.reverse().join(', ')
 
             // China
@@ -193,13 +206,26 @@ export default class Region extends Component {
                     ? region.replace(`, ${str.OVERSEAS_FRANCE_EN}, ${str.FRANCE_EN}`, '')
                     : str.OVERSEAS_FRANCE_EN
 
+            // Cruise ship
             region =
                 region !== str.INTL_CONVEYANCE_EN
                     ? region.replace(`, ${str.INTL_CONVEYANCE_EN}`, '')
                     : str.INTL_CONVEYANCE_EN
 
             // USA
-            region = region !== str.US_EN ? region.replace(str.US_EN, 'U.S.') : str.US_EN
+            region = region !== str.US_EN ? region.replace(str.US_EN, 'US') : str.US_EN
+
+            // UK
+            region = region !== str.UK_EN ? region.replace(str.UK_EN, 'UK') : str.UK_EN
+            region =
+                region !== `${str.OVERSEAS_TERRITORIES_EN}, ${str.UK_ABBR_EN}`
+                    ? region.replace(`, ${str.OVERSEAS_TERRITORIES_EN}, ${str.UK_ABBR_EN}`, '')
+                    : str.OVERSEAS_TERRITORIES_EN
+            region =
+                region !== `${str.CROWN_DEPENDENCIES_EN}, ${str.UK_ABBR_EN}`
+                    ? region.replace(`, ${str.CROWN_DEPENDENCIES_EN}, ${str.UK_ABBR_EN}`, '')
+                    : str.CROWN_DEPENDENCIES_EN
+
             return region
         }
     }
