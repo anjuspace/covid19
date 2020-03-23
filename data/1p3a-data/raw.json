@@ -65575,7 +65575,7 @@
     "id": "us-6024",
     "confirmed_date": "3/21",
     "gender": "女",
-    "comments": "亚利桑那州 Washoe County 3/21新增3例，其中1例系60多岁女性，和确诊病例有接触，自我隔离中。",
+    "comments": "内华达州 Washoe County 3/21新增3例，其中1例系60多岁女性，和确诊病例有接触，自我隔离中。",
     "links": [
       "https://www.rgj.com/story/news/2020/03/21/coronavirus-updates-latest-reno-sparks-and-las-vegas/2891116001/"
     ],
@@ -65605,7 +65605,7 @@
     "id": "us-6026",
     "confirmed_date": "3/21",
     "gender": "女",
-    "comments": "亚利桑那州 Washoe County 3/21新增3例，其中1例系50多岁女性，曾在国内旅行，自我隔离中。",
+    "comments": "内华达州 Washoe County 3/21新增3例，其中1例系50多岁女性，曾在国内旅行，自我隔离中。",
     "links": [
       "https://www.rgj.com/story/news/2020/03/21/coronavirus-updates-latest-reno-sparks-and-las-vegas/2891116001/"
     ],
@@ -65621,7 +65621,7 @@
     "id": "us-6027",
     "confirmed_date": "3/21",
     "gender": "男",
-    "comments": "亚利桑那州 Washoe County 3/21新增3例，其中1例系20多岁男性，曾国际旅行，自我隔离中。",
+    "comments": "内华达州 Washoe County 3/21新增3例，其中1例系20多岁男性，曾国际旅行，自我隔离中。",
     "links": [
       "https://www.rgj.com/story/news/2020/03/21/coronavirus-updates-latest-reno-sparks-and-las-vegas/2891116001/"
     ],
@@ -77677,17 +77677,18 @@
   },
   {
     "id": "us-7132",
-    "people_count": 1,
+    "people_count": 16,
     "die_count": 0,
     "state_name": "KY",
     "county": "Unassigned",
     "confirmed_date": "3/23",
     "links": [
-      "https://govstatus.egov.com/kycovid19"
+      "https://govstatus.egov.com/kycovid19",
+      "https://www.kentucky.com/news/politics-government/article241165146.html"
     ],
-    "comments_en": "3/23 KY total 104, no more detail at this moment.",
-    "comments": "3/23 肯塔基州新增1例，总计104例，细节不详。",
-    "num": 35249
+    "comments_en": "3/23, KY confirmed total cases of at least 119, we are updating details.",
+    "comments": "3/23 肯塔基州累计至少119例，细节正在核实更新中。",
+    "num": 35264
   },
   {
     "id": "us-7133",
@@ -77701,7 +77702,7 @@
     "links": [
       "https://coronavirus.maryland.gov/"
     ],
-    "num": 35251
+    "num": 35266
   },
   {
     "id": "us-7134",
@@ -77715,7 +77716,7 @@
     "links": [
       "https://coronavirus.maryland.gov/"
     ],
-    "num": 35258
+    "num": 35273
   },
   {
     "id": "us-7135",
@@ -77729,7 +77730,7 @@
     "links": [
       "https://coronavirus.maryland.gov/"
     ],
-    "num": 35265
+    "num": 35280
   },
   {
     "id": "us-7136",
@@ -77743,7 +77744,7 @@
     "links": [
       "https://coronavirus.maryland.gov/"
     ],
-    "num": 35266
+    "num": 35281
   },
   {
     "id": "us-7137",
@@ -77757,7 +77758,7 @@
     "links": [
       "https://coronavirus.maryland.gov/"
     ],
-    "num": 35267
+    "num": 35282
   },
   {
     "id": "us-7138",
@@ -77771,7 +77772,7 @@
     "links": [
       "https://coronavirus.maryland.gov/"
     ],
-    "num": 35269
+    "num": 35284
   },
   {
     "id": "us-7139",
@@ -77785,7 +77786,7 @@
     "links": [
       "https://amp.indystar.com/amp/2896967001?__twitter_impression=true"
     ],
-    "num": 35325
+    "num": 35340
   },
   {
     "id": "us-7140",
@@ -77799,7 +77800,7 @@
     "links": [
       "https://coronavirus.maryland.gov/"
     ],
-    "num": 35336
+    "num": 35351
   },
   {
     "id": "us-7142",
@@ -77813,7 +77814,7 @@
     "links": [
       "https://coronavirus.maryland.gov/"
     ],
-    "num": 35343
+    "num": 35358
   },
   {
     "id": "us-7143",
@@ -77827,7 +77828,7 @@
     "links": [
       "https://coronavirus.maryland.gov/"
     ],
-    "num": 35345
+    "num": 35360
   },
   {
     "id": "us-7150",
@@ -77841,7 +77842,7 @@
     "die_count": 0,
     "state_name": "SD",
     "county": "Beadle",
-    "num": 35347
+    "num": 35362
   },
   {
     "id": "us-7152",
@@ -77855,7 +77856,7 @@
     "die_count": 0,
     "county": "Codington",
     "state_name": "SD",
-    "num": 35348
+    "num": 35363
   },
   {
     "id": "us-7153",
@@ -77869,7 +77870,7 @@
     "die_count": 0,
     "state_name": "SD",
     "county": "Davison",
-    "num": 35349
+    "num": 35364
   },
   {
     "id": "us-7154",
@@ -77883,7 +77884,7 @@
     "die_count": 0,
     "county": "Hughes",
     "state_name": "SD",
-    "num": 35350
+    "num": 35365
   },
   {
     "id": "us-7155",
@@ -77897,7 +77898,7 @@
     "die_count": 0,
     "county": "Lyman",
     "state_name": "SD",
-    "num": 35351
+    "num": 35366
   },
   {
     "id": "us-7156",
@@ -77911,7 +77912,7 @@
     "die_count": 0,
     "state_name": "SD",
     "county": "McCook",
-    "num": 35352
+    "num": 35367
   },
   {
     "id": "us-7158",
@@ -77925,7 +77926,7 @@
     ],
     "comments_en": "3/23 Alachua County total 37 cases, residents 34, non-residents 3.",
     "comments": "3/23 Alachua County 总计 37 cases, 佛州居民34例, 非佛州居民3例。",
-    "num": 35354
+    "num": 35369
   },
   {
     "id": "us-7159",
@@ -77939,7 +77940,7 @@
     "die_count": 0,
     "state_name": "FL",
     "county": "Broward",
-    "num": 35395
+    "num": 35410
   },
   {
     "id": "us-7160",
@@ -77953,7 +77954,7 @@
     "die_count": 0,
     "state_name": "FL",
     "county": "Baker",
-    "num": 35396
+    "num": 35411
   },
   {
     "id": "us-7161",
@@ -77967,7 +77968,7 @@
     "die_count": 0,
     "state_name": "FL",
     "county": "Charlotte",
-    "num": 35397
+    "num": 35412
   },
   {
     "id": "us-7162",
@@ -77981,7 +77982,7 @@
     "die_count": 0,
     "state_name": "FL",
     "county": "Citrus",
-    "num": 35398
+    "num": 35413
   },
   {
     "id": "us-7163",
@@ -77995,7 +77996,7 @@
     "die_count": 0,
     "state_name": "FL",
     "county": "Clay",
-    "num": 35399
+    "num": 35414
   },
   {
     "id": "us-7164",
@@ -78009,7 +78010,7 @@
     "die_count": 0,
     "state_name": "FL",
     "county": "Collier",
-    "num": 35400
+    "num": 35415
   },
   {
     "id": "us-7165",
@@ -78023,7 +78024,7 @@
     "die_count": 0,
     "state_name": "FL",
     "county": "Miami-Dade",
-    "num": 35440
+    "num": 35455
   },
   {
     "id": "us-7166",
@@ -78037,7 +78038,7 @@
     "die_count": 0,
     "state_name": "FL",
     "county": "Duval",
-    "num": 35447
+    "num": 35462
   },
   {
     "id": "us-7167",
@@ -78051,7 +78052,7 @@
     "die_count": 0,
     "state_name": "FL",
     "county": "Escambia",
-    "num": 35448
+    "num": 35463
   },
   {
     "id": "us-7168",
@@ -78065,7 +78066,7 @@
     "die_count": 0,
     "state_name": "FL",
     "county": "Flagler",
-    "num": 35450
+    "num": 35465
   },
   {
     "id": "us-7169",
@@ -78079,7 +78080,7 @@
     "die_count": 0,
     "state_name": "FL",
     "county": "Highlands",
-    "num": 35451
+    "num": 35466
   },
   {
     "id": "us-7170",
@@ -78093,7 +78094,7 @@
     "die_count": 0,
     "state_name": "FL",
     "county": "Hillsborough",
-    "num": 35466
+    "num": 35481
   },
   {
     "id": "us-7171",
@@ -78107,7 +78108,7 @@
     "die_count": 0,
     "state_name": "FL",
     "county": "Lake",
-    "num": 35467
+    "num": 35482
   },
   {
     "id": "us-7172",
@@ -78121,7 +78122,7 @@
     "die_count": 0,
     "state_name": "FL",
     "county": "Lee",
-    "num": 35469
+    "num": 35484
   },
   {
     "id": "us-7173",
@@ -78135,7 +78136,7 @@
       "https://www.mlive.com/news/kalamazoo/2020/03/3-coronavirus-cases-identified-in-kalamazoo-county.html"
     ],
     "comments": "Kalamazoo County确诊3名患者。3人间无联系，其中两人有Michigan旅行史，一人无旅行史。",
-    "num": 35470
+    "num": 35485
   },
   {
     "id": "us-7174",
@@ -78149,7 +78150,7 @@
     "die_count": 0,
     "state_name": "FL",
     "county": "Manatee",
-    "num": 35472
+    "num": 35487
   },
   {
     "id": "us-7175",
@@ -78163,7 +78164,7 @@
     "people_count": 1,
     "state_name": "FL",
     "county": "Marion",
-    "num": 35473
+    "num": 35488
   },
   {
     "id": "us-7176",
@@ -78177,7 +78178,7 @@
     "die_count": 0,
     "state_name": "FL",
     "county": "Monroe",
-    "num": 35474
+    "num": 35489
   },
   {
     "id": "us-7177",
@@ -78191,7 +78192,7 @@
     ],
     "comments_en": "The Kalamazoo County Health and Community Services Department has confirmed three cases of coronavirus in Kalamazoo County. The three adult cases are unrelated, the news release states. Two have travel histories within Michigan and one has no known travel history outside of Kalamazoo County, the news release states.",
     "comments": "Kalamazoo County确诊3名患者。3人间无联系，其中两人有Michigan旅行史，一人无旅行史。",
-    "num": 35475
+    "num": 35490
   },
   {
     "id": "us-7178",
@@ -78205,7 +78206,7 @@
     ],
     "comments_en": "The Kalamazoo County Health and Community Services Department has confirmed three cases of coronavirus in Kalamazoo County. The three adult cases are unrelated, the news release states. Two have travel histories within Michigan and one has no known travel history outside of Kalamazoo County, the news release states.",
     "comments": "Kalamazoo County确诊3名患者。3人间无联系，其中两人有Michigan旅行史，一人无旅行史。",
-    "num": 35476
+    "num": 35491
   },
   {
     "id": "us-7179",
@@ -78219,7 +78220,7 @@
     "die_count": 0,
     "state_name": "FL",
     "county": "Orange",
-    "num": 35488
+    "num": 35503
   },
   {
     "id": "us-7180",
@@ -78233,7 +78234,7 @@
     "die_count": 0,
     "state_name": "FL",
     "county": "Palm Beach",
-    "num": 35505
+    "num": 35520
   },
   {
     "id": "us-7181",
@@ -78247,7 +78248,7 @@
     "die_count": 0,
     "state_name": "FL",
     "county": "Pasco",
-    "num": 35507
+    "num": 35522
   },
   {
     "id": "us-7182",
@@ -78261,7 +78262,7 @@
     "die_count": 0,
     "state_name": "FL",
     "county": "Pinellas",
-    "num": 35509
+    "num": 35524
   },
   {
     "id": "us-7183",
@@ -78275,7 +78276,7 @@
     "die_count": 0,
     "state_name": "FL",
     "county": "Polk",
-    "num": 35511
+    "num": 35526
   },
   {
     "id": "us-7185",
@@ -78291,7 +78292,7 @@
     "links": [
       "https://www.fredericknewspost.com/news/continuing_coverage/coronavirus/coronavirus-daily-updates-two-new-covid--cases-in-frederick/article_47a88403-8c6a-5c80-9ab6-17c29b01cd44.html"
     ],
-    "num": 35513
+    "num": 35528
   },
   {
     "id": "us-7184",
@@ -78305,7 +78306,7 @@
     "links": [
       "https://www.guampdn.com/story/news/local/2020/03/23/2-more-positive-covid-19-test-results/2896947001/"
     ],
-    "num": 35515
+    "num": 35530
   },
   {
     "id": "us-7186",
@@ -78319,7 +78320,7 @@
     "die_count": 0,
     "state_name": "FL",
     "county": "Sarasota",
-    "num": 35517
+    "num": 35532
   },
   {
     "id": "us-7187",
@@ -78333,7 +78334,7 @@
     "die_count": 0,
     "state_name": "FL",
     "county": "Sarasota",
-    "num": 35518
+    "num": 35533
   },
   {
     "id": "us-7188",
@@ -78347,7 +78348,7 @@
     "die_count": 0,
     "state_name": "FL",
     "county": "St. Johns",
-    "num": 35520
+    "num": 35535
   },
   {
     "id": "us-7189",
@@ -78361,7 +78362,7 @@
     "die_count": 0,
     "state_name": "FL",
     "county": "Sumter",
-    "num": 35523
+    "num": 35538
   },
   {
     "id": "us-7190",
@@ -78375,7 +78376,7 @@
     "die_count": 0,
     "state_name": "FL",
     "county": "Volusia",
-    "num": 35524
+    "num": 35539
   },
   {
     "id": "us-7191",
@@ -78389,7 +78390,7 @@
     "die_count": 0,
     "state_name": "FL",
     "county": "Walton",
-    "num": 35525
+    "num": 35540
   },
   {
     "id": "us-7192",
@@ -78403,7 +78404,7 @@
     "links": [
       "https://triblive.com/local/pittsburgh-allegheny/allegheny-county-reports-48-cases-of-covid-19-6-people-hospitalized/"
     ],
-    "num": 35533
+    "num": 35548
   },
   {
     "id": "us-7193",
@@ -78418,7 +78419,7 @@
       "https://www.maine.gov/dhhs/mecdc/infectious-disease/epi/airborne/coronavirus.shtml",
       "https://bangordailynews.com/2020/03/23/news/state/maine-cdc-coronavirus-cases-top-100-across-the-state/"
     ],
-    "num": 35546
+    "num": 35561
   },
   {
     "id": "us-7194",
@@ -78433,7 +78434,7 @@
       "https://www.maine.gov/dhhs/mecdc/infectious-disease/epi/airborne/coronavirus.shtml",
       "https://bangordailynews.com/2020/03/23/news/state/maine-cdc-coronavirus-cases-top-100-across-the-state/"
     ],
-    "num": 35550
+    "num": 35565
   },
   {
     "id": "us-7195",
@@ -78447,7 +78448,7 @@
       "https://www.ny1.com/nyc/all-boroughs/news/2020/03/23/governor-cuomo-update-on-latest-coronavirus-case-numbers-and-response"
     ],
     "people_count": 84,
-    "num": 35634
+    "num": 35649
   },
   {
     "id": "us-7198",
@@ -78461,7 +78462,7 @@
     "links": [
       "https://www.maine.gov/dhhs/mecdc/infectious-disease/epi/airborne/coronavirus.shtml"
     ],
-    "num": 35635
+    "num": 35650
   },
   {
     "id": "us-7199",
@@ -78476,7 +78477,7 @@
     "state_name": "MI",
     "county": "Wayne",
     "comments": "Wayne County新增161例。",
-    "num": 35796
+    "num": 35811
   },
   {
     "id": "us-7200",
@@ -78490,7 +78491,7 @@
       "https://www.khou.com/article/news/health/coronavirus/coronavirus-updates-live-blog-and-updates-for-march-23/285-e1ad8bd9-9ce1-42b1-8930-c6b940a245b1"
     ],
     "comments": "3/23 Galveston County 新增5例，总计17例。",
-    "num": 35801
+    "num": 35816
   },
   {
     "id": "us-7201",
@@ -78507,7 +78508,7 @@
     "county": "Brazoria",
     "gender": "女",
     "age_range": "20+",
-    "num": 35802
+    "num": 35817
   },
   {
     "id": "us-7202",
@@ -78521,7 +78522,7 @@
     ],
     "comments_en": "3/23 FL total death cases reached 14.",
     "comments": "3/23 佛州第14例死亡。",
-    "num": 35802
+    "num": 35817
   },
   {
     "id": "us-7204",
@@ -78535,7 +78536,7 @@
     "links": [
       "https://www.maine.gov/dhhs/mecdc/infectious-disease/epi/airborne/coronavirus.shtml"
     ],
-    "num": 35803
+    "num": 35818
   },
   {
     "id": "us-7205",
@@ -78549,7 +78550,7 @@
     "links": [
       "https://www.maine.gov/dhhs/mecdc/infectious-disease/epi/airborne/coronavirus.shtml"
     ],
-    "num": 35804
+    "num": 35819
   },
   {
     "id": "us-7206",
@@ -78563,7 +78564,7 @@
     "links": [
       "https://www.maine.gov/dhhs/mecdc/infectious-disease/epi/airborne/coronavirus.shtml"
     ],
-    "num": 35805
+    "num": 35820
   },
   {
     "id": "us-7207",
@@ -78580,7 +78581,7 @@
     "age_range": "50+",
     "state_name": "TX",
     "county": "Brazoria",
-    "num": 35806
+    "num": 35821
   },
   {
     "id": "us-7208",
@@ -78594,7 +78595,7 @@
     "links": [
       "https://www.sfdph.org/dph/alerts/coronavirus.asp"
     ],
-    "num": 35829
+    "num": 35844
   },
   {
     "id": "us-7209",
@@ -78610,7 +78611,7 @@
       "https://www.tmj4.com/news/coronavirus/3rd-person-dies-from-coronavirus-in-milwaukee"
     ],
     "age_range": "50+",
-    "num": 35829
+    "num": 35844
   },
   {
     "id": "us-7213",
@@ -78624,7 +78625,7 @@
       "https://dph.georgia.gov/covid-19-daily-status-report"
     ],
     "people_count": 17,
-    "num": 35846
+    "num": 35861
   },
   {
     "id": "us-7215",
@@ -78638,7 +78639,7 @@
     "links": [
       "https://www.nj.gov/health/"
     ],
-    "num": 36044
+    "num": 36059
   },
   {
     "id": "us-7216",
@@ -78652,7 +78653,7 @@
     "links": [
       "https://www.tmj4.com/news/coronavirus/3rd-person-dies-from-coronavirus-in-milwaukee"
     ],
-    "num": 36064
+    "num": 36079
   },
   {
     "id": "us-7217",
@@ -78666,7 +78667,7 @@
     "links": [
       "https://www.nj.gov/health/"
     ],
-    "num": 36064
+    "num": 36079
   },
   {
     "id": "us-7218",
@@ -78681,7 +78682,7 @@
       "https://coronavirus.ohio.gov/wps/portal/gov/covid-19/"
     ],
     "comments_en": "Total 442 cases found in Ohio.",
-    "num": 36066
+    "num": 36081
   },
   {
     "id": "us-7219",
@@ -78695,7 +78696,7 @@
     "links": [
       "https://www.wral.com/live-nc-coronavirus-updates/19024746/"
     ],
-    "num": 36083
+    "num": 36098
   },
   {
     "id": "us-7223",
@@ -78709,7 +78710,7 @@
     "die_count": 0,
     "state_name": "AL",
     "county": "Jefferson",
-    "num": 36091
+    "num": 36106
   },
   {
     "id": "us-7224",
@@ -78723,7 +78724,7 @@
     "die_count": 0,
     "state_name": "AL",
     "county": "Lee",
-    "num": 36092
+    "num": 36107
   },
   {
     "id": "us-7225",
@@ -78737,7 +78738,7 @@
     "die_count": 0,
     "state_name": "AL",
     "county": "Madison",
-    "num": 36093
+    "num": 36108
   },
   {
     "id": "us-7226",
@@ -78751,7 +78752,7 @@
     ],
     "comments_en": "3/23 PA total 644, Adams County 6 cases.",
     "comments": "3/23 宾州共计644例确诊，其中Adams County 6 例。",
-    "num": 36094
+    "num": 36109
   },
   {
     "id": "us-7227",
@@ -78765,7 +78766,7 @@
     "die_count": 0,
     "state_name": "PA",
     "county": "Berks",
-    "num": 36095
+    "num": 36110
   },
   {
     "id": "us-7228",
@@ -78779,7 +78780,7 @@
     "die_count": 0,
     "state_name": "PA",
     "county": "Bucks",
-    "num": 36097
+    "num": 36112
   },
   {
     "id": "us-7229",
@@ -78793,7 +78794,7 @@
     "die_count": 0,
     "state_name": "PA",
     "county": "Butler",
-    "num": 36101
+    "num": 36116
   },
   {
     "id": "us-7230",
@@ -78807,7 +78808,7 @@
     "links": [
       "https://www.newswest9.com/article/news/health/coronavirus/gaines-co-reports-first-case-of-covid-19/513-62df7a61-3862-4174-b914-c48f707d08bc"
     ],
-    "num": 36102
+    "num": 36117
   },
   {
     "id": "us-7231",
@@ -78821,7 +78822,7 @@
     "die_count": 0,
     "county": "Cambria",
     "state_name": "PA",
-    "num": 36103
+    "num": 36118
   },
   {
     "id": "us-7232",
@@ -78835,7 +78836,7 @@
     "die_count": 0,
     "state_name": "PA",
     "county": "Centre",
-    "num": 36105
+    "num": 36120
   },
   {
     "id": "us-7233",
@@ -78849,7 +78850,7 @@
     "die_count": 0,
     "state_name": "PA",
     "county": "Chester",
-    "num": 36122
+    "num": 36137
   },
   {
     "id": "us-7234",
@@ -78863,7 +78864,7 @@
     "die_count": 0,
     "state_name": "PA",
     "county": "Cumberland",
-    "num": 36123
+    "num": 36138
   },
   {
     "id": "us-7235",
@@ -78877,7 +78878,7 @@
     "die_count": 0,
     "state_name": "PA",
     "county": "Delaware",
-    "num": 36134
+    "num": 36149
   },
   {
     "id": "us-7236",
@@ -78891,7 +78892,7 @@
     "links": [
       "https://www.thedalleschronicle.com/free_news/hood-river-county-has-first-presumptive-case-of-covid/article_969f8812-6ca4-11ea-9610-9f524e5abc5d.html"
     ],
-    "num": 36135
+    "num": 36150
   },
   {
     "id": "us-7237",
@@ -78905,7 +78906,7 @@
     "die_count": 0,
     "state_name": "PA",
     "county": "Erie",
-    "num": 36136
+    "num": 36151
   },
   {
     "id": "us-7238",
@@ -78919,7 +78920,7 @@
     "die_count": 0,
     "state_name": "PA",
     "county": "Lackawanna",
-    "num": 36137
+    "num": 36152
   },
   {
     "id": "us-7239",
@@ -78933,7 +78934,7 @@
     "links": [
       "https://whotv.com/news/coronavirus/15-additional-covid-19-cases-confirmed-in-iowa/?fbclid=IwAR3XnYX0mi8nOgvz7OLg1lRxsHuavSg4dLf7pyTjcaozr-JdlkXjDf1pluA"
     ],
-    "num": 36138
+    "num": 36153
   },
   {
     "id": "us-7240",
@@ -78947,7 +78948,7 @@
     "die_count": 0,
     "state_name": "PA",
     "county": "Lehigh",
-    "num": 36144
+    "num": 36159
   },
   {
     "id": "us-7241",
@@ -78961,7 +78962,7 @@
     "die_count": 0,
     "state_name": "PA",
     "county": "Luzerne",
-    "num": 36147
+    "num": 36162
   },
   {
     "id": "us-7242",
@@ -78975,7 +78976,7 @@
     "die_count": 0,
     "state_name": "PA",
     "county": "Monroe",
-    "num": 36159
+    "num": 36174
   },
   {
     "id": "us-7243",
@@ -78989,7 +78990,7 @@
     "die_count": 0,
     "state_name": "PA",
     "county": "Montgomery",
-    "num": 36178
+    "num": 36193
   },
   {
     "id": "us-7244",
@@ -79003,7 +79004,7 @@
     "die_count": 0,
     "state_name": "PA",
     "county": "Northampton",
-    "num": 36180
+    "num": 36195
   },
   {
     "id": "us-7245",
@@ -79017,7 +79018,7 @@
     "die_count": 0,
     "state_name": "PA",
     "county": "Philadelphia",
-    "num": 36212
+    "num": 36227
   },
   {
     "id": "us-7246",
@@ -79031,7 +79032,7 @@
     "links": [
       "https://whotv.com/news/coronavirus/15-additional-covid-19-cases-confirmed-in-iowa/?fbclid=IwAR3XnYX0mi8nOgvz7OLg1lRxsHuavSg4dLf7pyTjcaozr-JdlkXjDf1pluA"
     ],
-    "num": 36213
+    "num": 36228
   },
   {
     "id": "us-7247",
@@ -79045,7 +79046,7 @@
     "die_count": 0,
     "state_name": "PA",
     "county": "Schuylkill",
-    "num": 36215
+    "num": 36230
   },
   {
     "id": "us-7248",
@@ -79059,7 +79060,7 @@
     "die_count": 0,
     "state_name": "PA",
     "county": "Wayne",
-    "num": 36216
+    "num": 36231
   },
   {
     "id": "us-7249",
@@ -79073,7 +79074,7 @@
     "die_count": 0,
     "state_name": "PA",
     "county": "Westmoreland",
-    "num": 36218
+    "num": 36233
   },
   {
     "id": "us-7250",
@@ -79087,7 +79088,7 @@
     "links": [
       "https://whotv.com/news/coronavirus/15-additional-covid-19-cases-confirmed-in-iowa/?fbclid=IwAR3XnYX0mi8nOgvz7OLg1lRxsHuavSg4dLf7pyTjcaozr-JdlkXjDf1pluA"
     ],
-    "num": 36220
+    "num": 36235
   },
   {
     "id": "us-7251",
@@ -79101,7 +79102,7 @@
     "links": [
       "https://www.nbcdfw.com/news/coronavirus/tarrant-county-reports-10-more-covid-19-cases-monday/2336953/"
     ],
-    "num": 36230
+    "num": 36245
   },
   {
     "id": "us-7252",
@@ -79115,7 +79116,7 @@
     "links": [
       "https://www.azdhs.gov/preparedness/epidemiology-disease-control/infectious-disease-epidemiology/index.php#novel-coronavirus-home"
     ],
-    "num": 36231
+    "num": 36246
   },
   {
     "id": "us-7253",
@@ -79130,7 +79131,7 @@
     "state_name": "TX",
     "comments_en": "The man, who works for the Texas A&M Research Center in Stephenville, was tested last week and was notified Sunday. He then notified his colleagues and others with whom he had been in contact recently. Many of those notified then took to Facebook, letting their friends and families know they had been exposed and were quarantining.",
     "comments": "Erath County首例确诊，男性，工作于Texas A&M Research Center",
-    "num": 36232
+    "num": 36247
   },
   {
     "id": "us-7254",
@@ -79144,7 +79145,7 @@
     "links": [
       "https://www.azdhs.gov/preparedness/epidemiology-disease-control/infectious-disease-epidemiology/index.php#novel-coronavirus-home"
     ],
-    "num": 36235
+    "num": 36250
   },
   {
     "id": "us-7255",
@@ -79158,7 +79159,7 @@
     "links": [
       "https://coronavirus.health.ok.gov/"
     ],
-    "num": 36238
+    "num": 36253
   },
   {
     "id": "us-7256",
@@ -79172,7 +79173,7 @@
     "links": [
       "http://www.unioncountync.gov/news/coronavirus-what-you-need-know"
     ],
-    "num": 36239
+    "num": 36254
   },
   {
     "id": "us-7257",
@@ -79186,7 +79187,7 @@
     "links": [
       "https://www.azdhs.gov/preparedness/epidemiology-disease-control/infectious-disease-epidemiology/index.php#novel-coronavirus-home"
     ],
-    "num": 36297
+    "num": 36312
   },
   {
     "id": "us-7258",
@@ -79200,7 +79201,7 @@
     "links": [
       "https://coronavirus.health.ok.gov/"
     ],
-    "num": 36298
+    "num": 36313
   },
   {
     "id": "us-7259",
@@ -79214,7 +79215,7 @@
     "links": [
       "https://coronavirus.health.ok.gov/"
     ],
-    "num": 36301
+    "num": 36316
   },
   {
     "id": "us-7260",
@@ -79228,7 +79229,7 @@
     "links": [
       "https://coronavirus.health.ok.gov/"
     ],
-    "num": 36302
+    "num": 36317
   },
   {
     "id": "us-7261",
@@ -79242,7 +79243,7 @@
     "links": [
       "https://www.azdhs.gov/preparedness/epidemiology-disease-control/infectious-disease-epidemiology/index.php#novel-coronavirus-home"
     ],
-    "num": 36314
+    "num": 36329
   },
   {
     "id": "us-7262",
@@ -79256,7 +79257,7 @@
     "links": [
       "https://coronavirus.health.ok.gov/"
     ],
-    "num": 36319
+    "num": 36334
   },
   {
     "id": "us-7263",
@@ -79270,7 +79271,7 @@
       "https://www.wpri.com/health/coronavirus/march-23-coronavirus-update/"
     ],
     "comments": "3/23 罗德岛新增23例，总数过百。",
-    "num": 36324
+    "num": 36339
   },
   {
     "id": "us-7264",
@@ -79284,7 +79285,7 @@
     "links": [
       "https://www.azdhs.gov/preparedness/epidemiology-disease-control/infectious-disease-epidemiology/index.php#novel-coronavirus-home"
     ],
-    "num": 36331
+    "num": 36346
   },
   {
     "id": "us-7265",
@@ -79298,7 +79299,7 @@
     "links": [
       "https://www.azdhs.gov/preparedness/epidemiology-disease-control/infectious-disease-epidemiology/index.php#novel-coronavirus-home"
     ],
-    "num": 36332
+    "num": 36347
   },
   {
     "id": "us-7266",
@@ -79312,7 +79313,7 @@
     "links": [
       "https://whotv.com/news/coronavirus/15-additional-covid-19-cases-confirmed-in-iowa/?fbclid=IwAR3XnYX0mi8nOgvz7OLg1lRxsHuavSg4dLf7pyTjcaozr-JdlkXjDf1pluA"
     ],
-    "num": 36333
+    "num": 36348
   },
   {
     "id": "us-7267",
@@ -79326,7 +79327,7 @@
     ],
     "comments_en": "3/23 RI total 106 cases, Providence 52 cases.",
     "comments": "3/23 罗德岛总计106例，其中Providence 52 例。",
-    "num": 36340
+    "num": 36355
   },
   {
     "id": "us-7268",
@@ -79340,7 +79341,7 @@
     "links": [
       "https://whotv.com/news/coronavirus/15-additional-covid-19-cases-confirmed-in-iowa/?fbclid=IwAR3XnYX0mi8nOgvz7OLg1lRxsHuavSg4dLf7pyTjcaozr-JdlkXjDf1pluA"
     ],
-    "num": 36342
+    "num": 36357
   },
   {
     "id": "us-7269",
@@ -79354,7 +79355,7 @@
     "links": [
       "https://whotv.com/news/coronavirus/15-additional-covid-19-cases-confirmed-in-iowa/?fbclid=IwAR3XnYX0mi8nOgvz7OLg1lRxsHuavSg4dLf7pyTjcaozr-JdlkXjDf1pluA"
     ],
-    "num": 36343
+    "num": 36358
   },
   {
     "id": "us-7270",
@@ -79368,7 +79369,7 @@
     "die_count": 0,
     "state_name": "RI",
     "county": "Newport",
-    "num": 36344
+    "num": 36359
   },
   {
     "id": "us-7271",
@@ -79382,7 +79383,7 @@
     "die_count": 0,
     "state_name": "RI",
     "county": "Bristol",
-    "num": 36354
+    "num": 36369
   },
   {
     "id": "us-7272",
@@ -79396,7 +79397,7 @@
     "links": [
       "https://whotv.com/news/coronavirus/15-additional-covid-19-cases-confirmed-in-iowa/?fbclid=IwAR3XnYX0mi8nOgvz7OLg1lRxsHuavSg4dLf7pyTjcaozr-JdlkXjDf1pluA"
     ],
-    "num": 36355
+    "num": 36370
   },
   {
     "id": "us-7274",
@@ -79410,7 +79411,7 @@
     "links": [
       "https://whotv.com/news/coronavirus/15-additional-covid-19-cases-confirmed-in-iowa/?fbclid=IwAR3XnYX0mi8nOgvz7OLg1lRxsHuavSg4dLf7pyTjcaozr-JdlkXjDf1pluA"
     ],
-    "num": 36356
+    "num": 36371
   },
   {
     "id": "us-7275",
@@ -79424,7 +79425,7 @@
     "county": "Eastland",
     "state_name": "TX",
     "comments": "1位Eastland County居民在Comanche County确诊。",
-    "num": 36357
+    "num": 36372
   },
   {
     "id": "us-7277",
@@ -79438,7 +79439,7 @@
     ],
     "comments_en": "3/23 Williamson County total up to 14.",
     "comments": "3/23 Williamson County 新增5例，总计14例。",
-    "num": 36362
+    "num": 36377
   },
   {
     "id": "us-7278",
@@ -79453,7 +79454,7 @@
     "comments_en": "The Grayson County Health Department confirmed Monday morning the second positive case of COVID-19 within Grayson County.\n\nHealth department officials said the second patient is in their 50’s with recent travel to the Dallas area.\n\n\"The patient is currently in home isolation to reduce the likelihood of the illness spreading,\" Grayson County Health Department Director Amanda Ortez said. \"Both of the confirmed cases are from Denison.\"",
     "comments": "Grayson County第2例确诊，患者曾到过达拉斯，目前在家隔离。",
     "age_range": "50+",
-    "num": 36363
+    "num": 36378
   },
   {
     "id": "us-7279",
@@ -79467,7 +79468,7 @@
     "links": [
       "http://www.vdh.virginia.gov/coronavirus/"
     ],
-    "num": 36364
+    "num": 36379
   },
   {
     "id": "us-7281",
@@ -79481,7 +79482,7 @@
     "links": [
       "http://www.vdh.virginia.gov/coronavirus/"
     ],
-    "num": 36372
+    "num": 36387
   },
   {
     "id": "us-7282",
@@ -79495,7 +79496,7 @@
     "links": [
       "https://www.madisoncounty.ny.gov/2479/Coronavirus-COVID-19"
     ],
-    "num": 36373
+    "num": 36388
   },
   {
     "id": "us-7283",
@@ -79509,7 +79510,7 @@
     "links": [
       "https://dph.georgia.gov/covid-19-daily-status-report"
     ],
-    "num": 36407
+    "num": 36422
   },
   {
     "id": "us-7284",
@@ -79524,7 +79525,7 @@
       "https://www.crawfordcountykansas.org/health-department.html"
     ],
     "age_range": "<10",
-    "num": 36408
+    "num": 36423
   },
   {
     "id": "us-7286",
@@ -79538,7 +79539,7 @@
     "links": [
       "https://cnycentral.com/news/coronavirus/fifth-positive-case-of-coronavirus-confirmed-in-oneida-county"
     ],
-    "num": 36409
+    "num": 36424
   },
   {
     "id": "us-7287",
@@ -79552,7 +79553,7 @@
     "links": [
       "http://www.vdh.virginia.gov/coronavirus/"
     ],
-    "num": 36410
+    "num": 36425
   },
   {
     "id": "us-7288",
@@ -79566,7 +79567,7 @@
     "links": [
       "https://dph.georgia.gov/covid-19-daily-status-report"
     ],
-    "num": 36422
+    "num": 36437
   },
   {
     "id": "us-7289",
@@ -79580,7 +79581,7 @@
     "links": [
       "https://www.allotsego.com/139161-2/"
     ],
-    "num": 36423
+    "num": 36438
   },
   {
     "id": "us-7290",
@@ -79594,7 +79595,7 @@
     "links": [
       "https://dph.georgia.gov/covid-19-daily-status-report"
     ],
-    "num": 36445
+    "num": 36460
   },
   {
     "id": "us-7292",
@@ -79608,7 +79609,7 @@
     "links": [
       "https://www.wwaytv3.com/2020/03/22/brunswick-county-identifies-seventh-presumptive-positive-case/?fbclid=IwAR3jo_V3v5YYe3LiC-rYFxRs8jrTHxdlZ6mxX1QdDm2ZP-dZMZLAbQ0F6ps"
     ],
-    "num": 36446
+    "num": 36461
   },
   {
     "id": "us-7293",
@@ -79622,7 +79623,7 @@
     "links": [
       "https://dph.georgia.gov/covid-19-daily-status-report"
     ],
-    "num": 36458
+    "num": 36473
   },
   {
     "id": "us-7294",
@@ -79638,7 +79639,7 @@
     ],
     "gender": "女",
     "age_range": "50+",
-    "num": 36459
+    "num": 36474
   },
   {
     "id": "us-7297",
@@ -79652,7 +79653,7 @@
     "links": [
       "http://www.vdh.virginia.gov/coronavirus/"
     ],
-    "num": 36460
+    "num": 36475
   },
   {
     "id": "us-7298",
@@ -79668,7 +79669,7 @@
     ],
     "gender": "Unknown",
     "age_range": "Unknown",
-    "num": 36460
+    "num": 36475
   },
   {
     "id": "us-7299",
@@ -79682,7 +79683,7 @@
     "links": [
       "https://www.healthvermont.gov/response/infectious-disease/2019-novel-coronavirus"
     ],
-    "num": 36460
+    "num": 36475
   },
   {
     "id": "us-7301",
@@ -79696,7 +79697,7 @@
     "links": [
       "http://www.vdh.virginia.gov/coronavirus/"
     ],
-    "num": 36472
+    "num": 36487
   },
   {
     "id": "us-7300",
@@ -79710,7 +79711,7 @@
     "links": [
       "https://dph.georgia.gov/covid-19-daily-status-report"
     ],
-    "num": 36477
+    "num": 36492
   },
   {
     "id": "us-7303",
@@ -79724,7 +79725,7 @@
     "links": [
       "https://whotv.com/news/coronavirus/15-additional-covid-19-cases-confirmed-in-iowa/?fbclid=IwAR3XnYX0mi8nOgvz7OLg1lRxsHuavSg4dLf7pyTjcaozr-JdlkXjDf1pluA"
     ],
-    "num": 36478
+    "num": 36493
   },
   {
     "id": "us-7304",
@@ -79738,7 +79739,7 @@
     "links": [
       "http://www.vdh.virginia.gov/coronavirus/"
     ],
-    "num": 36481
+    "num": 36496
   },
   {
     "id": "us-7305",
@@ -79752,7 +79753,7 @@
     "links": [
       "https://www.healthvermont.gov/response/infectious-disease/2019-novel-coronavirus"
     ],
-    "num": 36491
+    "num": 36506
   },
   {
     "id": "us-7307",
@@ -79766,7 +79767,7 @@
     "links": [
       "http://www.vdh.virginia.gov/coronavirus/"
     ],
-    "num": 36492
+    "num": 36507
   },
   {
     "id": "us-7308",
@@ -79780,7 +79781,7 @@
     "links": [
       "https://www.healthvermont.gov/response/infectious-disease/2019-novel-coronavirus"
     ],
-    "num": 36493
+    "num": 36508
   },
   {
     "id": "us-7309",
@@ -79796,7 +79797,7 @@
     ],
     "age_range": "60+",
     "gender": "男",
-    "num": 36493
+    "num": 36508
   },
   {
     "id": "us-7310",
@@ -79810,7 +79811,7 @@
     "links": [
       "https://dph.georgia.gov/covid-19-daily-status-report"
     ],
-    "num": 36500
+    "num": 36515
   },
   {
     "id": "us-7311",
@@ -79824,7 +79825,7 @@
     "links": [
       "https://www.nbcdfw.com/news/coronavirus/dallas-county-confirms-24-new-covid-19-cases-2-deaths/2336972/"
     ],
-    "num": 36524
+    "num": 36539
   },
   {
     "id": "us-7312",
@@ -79838,7 +79839,7 @@
     "links": [
       "https://whotv.com/news/coronavirus/15-additional-covid-19-cases-confirmed-in-iowa/?fbclid=IwAR3XnYX0mi8nOgvz7OLg1lRxsHuavSg4dLf7pyTjcaozr-JdlkXjDf1pluA"
     ],
-    "num": 36525
+    "num": 36540
   },
   {
     "id": "us-7313",
@@ -79852,7 +79853,7 @@
     "links": [
       "https://dph.georgia.gov/covid-19-daily-status-report"
     ],
-    "num": 36530
+    "num": 36545
   },
   {
     "id": "us-7314",
@@ -79866,7 +79867,7 @@
     "links": [
       "http://www.vdh.virginia.gov/coronavirus/"
     ],
-    "num": 36532
+    "num": 36547
   },
   {
     "id": "us-7315",
@@ -79880,7 +79881,7 @@
     "links": [
       "https://www.wmur.com/article/new-hampshire-governor-state-officials-give-coronavirus-updates-march-23-2020/31896865"
     ],
-    "num": 36555
+    "num": 36570
   },
   {
     "id": "us-7316",
@@ -79894,7 +79895,7 @@
     "links": [
       "https://dph.georgia.gov/covid-19-daily-status-report"
     ],
-    "num": 36557
+    "num": 36572
   },
   {
     "id": "us-7317",
@@ -79908,7 +79909,7 @@
     "links": [
       "http://www.vdh.virginia.gov/coronavirus/"
     ],
-    "num": 36558
+    "num": 36573
   },
   {
     "id": "us-7318",
@@ -79922,7 +79923,7 @@
     "links": [
       "https://whotv.com/news/coronavirus/15-additional-covid-19-cases-confirmed-in-iowa/?fbclid=IwAR3XnYX0mi8nOgvz7OLg1lRxsHuavSg4dLf7pyTjcaozr-JdlkXjDf1pluA"
     ],
-    "num": 36559
+    "num": 36574
   },
   {
     "id": "us-7319",
@@ -79936,7 +79937,7 @@
     "links": [
       "https://dph.georgia.gov/covid-19-daily-status-report"
     ],
-    "num": 36564
+    "num": 36579
   },
   {
     "id": "us-7320",
@@ -79950,7 +79951,7 @@
     "links": [
       "http://www.vdh.virginia.gov/coronavirus/"
     ],
-    "num": 36566
+    "num": 36581
   },
   {
     "id": "us-7321",
@@ -79964,7 +79965,7 @@
       "https://dph.georgia.gov/covid-19-daily-status-report"
     ],
     "confirmed_date": "3/23",
-    "num": 36570
+    "num": 36585
   },
   {
     "id": "us-7322",
@@ -79980,7 +79981,7 @@
     ],
     "age_range": "60+",
     "gender": "男",
-    "num": 36570
+    "num": 36585
   },
   {
     "id": "us-7324",
@@ -79994,7 +79995,7 @@
       "https://www.healthvermont.gov/response/infectious-disease/2019-novel-coronavirus"
     ],
     "people_count": 2,
-    "num": 36572
+    "num": 36587
   },
   {
     "id": "us-7325",
@@ -80008,7 +80009,7 @@
     "links": [
       "http://www.vdh.virginia.gov/coronavirus/"
     ],
-    "num": 36573
+    "num": 36588
   },
   {
     "id": "us-7326",
@@ -80022,7 +80023,7 @@
     "links": [
       "https://whotv.com/news/coronavirus/15-additional-covid-19-cases-confirmed-in-iowa/?fbclid=IwAR3XnYX0mi8nOgvz7OLg1lRxsHuavSg4dLf7pyTjcaozr-JdlkXjDf1pluA"
     ],
-    "num": 36574
+    "num": 36589
   },
   {
     "id": "us-7328",
@@ -80036,7 +80037,7 @@
     "links": [
       "https://www.wfmynews2.com/article/news/local/davidson-county-second-coronavirus-case-health-department/83-7ca7feb1-6249-4491-936b-f68773c49d77"
     ],
-    "num": 36575
+    "num": 36590
   },
   {
     "id": "us-7329",
@@ -80050,7 +80051,7 @@
     "links": [
       "https://www.healthvermont.gov/response/infectious-disease/2019-novel-coronavirus"
     ],
-    "num": 36576
+    "num": 36591
   },
   {
     "id": "us-7330",
@@ -80064,7 +80065,7 @@
     "links": [
       "https://www.healthvermont.gov/response/infectious-disease/2019-novel-coronavirus"
     ],
-    "num": 36577
+    "num": 36592
   },
   {
     "id": "us-7331",
@@ -80078,7 +80079,7 @@
     "links": [
       "https://whotv.com/news/coronavirus/15-additional-covid-19-cases-confirmed-in-iowa/?fbclid=IwAR3XnYX0mi8nOgvz7OLg1lRxsHuavSg4dLf7pyTjcaozr-JdlkXjDf1pluA"
     ],
-    "num": 36578
+    "num": 36593
   },
   {
     "id": "us-7332",
@@ -80092,7 +80093,7 @@
     "links": [
       "https://www.healthvermont.gov/response/infectious-disease/2019-novel-coronavirus"
     ],
-    "num": 36579
+    "num": 36594
   },
   {
     "id": "us-7333",
@@ -80106,7 +80107,7 @@
     "links": [
       "https://www.healthvermont.gov/response/infectious-disease/2019-novel-coronavirus"
     ],
-    "num": 36582
+    "num": 36597
   },
   {
     "id": "us-7334",
@@ -80120,7 +80121,7 @@
     "links": [
       "https://www.healthvermont.gov/response/infectious-disease/2019-novel-coronavirus"
     ],
-    "num": 36586
+    "num": 36601
   },
   {
     "id": "us-7335",
@@ -80134,7 +80135,7 @@
     "links": [
       "https://dph.georgia.gov/covid-19-daily-status-report"
     ],
-    "num": 36587
+    "num": 36602
   },
   {
     "id": "us-7336",
@@ -80148,7 +80149,7 @@
     "links": [
       "https://www.rochesterfirst.com/coronavirus/2nd-death-from-covid-19-in-monroe-county/"
     ],
-    "num": 36599
+    "num": 36614
   },
   {
     "id": "us-7337",
@@ -80162,7 +80163,7 @@
     "links": [
       "https://dph.georgia.gov/covid-19-daily-status-report"
     ],
-    "num": 36600
+    "num": 36615
   },
   {
     "id": "us-7338",
@@ -80176,7 +80177,7 @@
     "links": [
       "https://dph.georgia.gov/covid-19-daily-status-report"
     ],
-    "num": 36601
+    "num": 36616
   },
   {
     "id": "us-7339",
@@ -80190,7 +80191,7 @@
     "links": [
       "https://dph.georgia.gov/covid-19-daily-status-report"
     ],
-    "num": 36602
+    "num": 36617
   },
   {
     "id": "us-7341",
@@ -80204,7 +80205,7 @@
     "links": [
       "https://www.wivb.com/news/local-news/erie-county/positive-covid-19-cases-now-29-in-erie-county-new-list-of-public-exposure-locations-released/"
     ],
-    "num": 36633
+    "num": 36648
   },
   {
     "id": "us-7342",
@@ -80218,7 +80219,7 @@
     "links": [
       "https://dph.georgia.gov/covid-19-daily-status-report"
     ],
-    "num": 36635
+    "num": 36650
   },
   {
     "id": "us-7343",
@@ -80232,7 +80233,7 @@
     "links": [
       "https://pullmanradio.com/second-confirmed-case-of-coronavirus-in-whitman-county/"
     ],
-    "num": 36636
+    "num": 36651
   },
   {
     "id": "us-7344",
@@ -80246,7 +80247,7 @@
     "links": [
       "https://dph.georgia.gov/covid-19-daily-status-report"
     ],
-    "num": 36639
+    "num": 36654
   },
   {
     "id": "us-7345",
@@ -80260,7 +80261,7 @@
     "links": [
       "https://www.nydailynews.com/coronavirus/ny-coronavirus-cuomo-hospitals-20200323-ftdwilhhqbckpjdvhnhxyi77ja-story.html?outputType=amp"
     ],
-    "num": 38180
+    "num": 38195
   },
   {
     "id": "us-7346",
@@ -80274,7 +80275,7 @@
     "links": [
       "https://dph.georgia.gov/covid-19-daily-status-report"
     ],
-    "num": 38182
+    "num": 38197
   },
   {
     "id": "us-7347",
@@ -80288,7 +80289,7 @@
     "links": [
       "https://dph.georgia.gov/covid-19-daily-status-report"
     ],
-    "num": 38183
+    "num": 38198
   },
   {
     "id": "us-7348",
@@ -80302,7 +80303,7 @@
     "links": [
       "https://dph.georgia.gov/covid-19-daily-status-report"
     ],
-    "num": 38184
+    "num": 38199
   },
   {
     "id": "us-7349",
@@ -80316,7 +80317,7 @@
     "links": [
       "https://twitter.com/markpoloncarz/status/1242109074176606208"
     ],
-    "num": 39205
+    "num": 39220
   },
   {
     "id": "us-7350",
@@ -80330,7 +80331,7 @@
     "links": [
       "https://dph.georgia.gov/covid-19-daily-status-report"
     ],
-    "num": 39207
+    "num": 39222
   },
   {
     "id": "us-7351",
@@ -80344,7 +80345,7 @@
     "links": [
       "https://dph.georgia.gov/covid-19-daily-status-report"
     ],
-    "num": 39209
+    "num": 39224
   },
   {
     "id": "us-7352",
@@ -80358,7 +80359,7 @@
     "links": [
       "https://twitter.com/markpoloncarz/status/1242109074176606208"
     ],
-    "num": 39633
+    "num": 39648
   },
   {
     "id": "us-7353",
@@ -80372,7 +80373,7 @@
     "links": [
       "https://dph.georgia.gov/covid-19-daily-status-report"
     ],
-    "num": 39634
+    "num": 39649
   },
   {
     "id": "us-7354",
@@ -80386,7 +80387,7 @@
     "links": [
       "https://dph.georgia.gov/covid-19-daily-status-report"
     ],
-    "num": 39635
+    "num": 39650
   },
   {
     "id": "us-7355",
@@ -80400,7 +80401,7 @@
     "links": [
       "https://twitter.com/markpoloncarz/status/1242109074176606208"
     ],
-    "num": 39772
+    "num": 39787
   },
   {
     "id": "us-7356",
@@ -80414,7 +80415,7 @@
     "links": [
       "https://dph.georgia.gov/covid-19-daily-status-report"
     ],
-    "num": 39773
+    "num": 39788
   },
   {
     "id": "us-7357",
@@ -80428,7 +80429,7 @@
     "links": [
       "https://dph.georgia.gov/covid-19-daily-status-report"
     ],
-    "num": 39774
+    "num": 39789
   },
   {
     "id": "us-7358",
@@ -80442,7 +80443,7 @@
     "links": [
       "https://twitter.com/markpoloncarz/status/1242109074176606208"
     ],
-    "num": 39916
+    "num": 39931
   },
   {
     "id": "us-7359",
@@ -80456,7 +80457,7 @@
     "links": [
       "https://twitter.com/markpoloncarz/status/1242109074176606208"
     ],
-    "num": 40458
+    "num": 40473
   },
   {
     "id": "us-7360",
@@ -80470,7 +80471,7 @@
     "links": [
       "https://dph.georgia.gov/covid-19-daily-status-report"
     ],
-    "num": 40459
+    "num": 40474
   },
   {
     "id": "us-7361",
@@ -80484,7 +80485,7 @@
     "links": [
       "https://twitter.com/markpoloncarz/status/1242109074176606208"
     ],
-    "num": 40477
+    "num": 40492
   },
   {
     "id": "us-7362",
@@ -80498,7 +80499,7 @@
     "links": [
       "https://dph.georgia.gov/covid-19-daily-status-report"
     ],
-    "num": 40478
+    "num": 40493
   },
   {
     "id": "us-7363",
@@ -80512,7 +80513,7 @@
     "links": [
       "https://twitter.com/markpoloncarz/status/1242109074176606208"
     ],
-    "num": 40482
+    "num": 40497
   },
   {
     "id": "us-7364",
@@ -80526,7 +80527,7 @@
     "links": [
       "https://yubanet.com/regional/nevada-county-public-health-reports-second-person-with-confirmed-covid-19/"
     ],
-    "num": 40483
+    "num": 40498
   },
   {
     "id": "us-7365",
@@ -80540,7 +80541,7 @@
     "links": [
       "https://dph.georgia.gov/covid-19-daily-status-report"
     ],
-    "num": 40484
+    "num": 40499
   },
   {
     "id": "us-7366",
@@ -80554,7 +80555,7 @@
     "links": [
       "https://www.smchealth.org/coronavirus"
     ],
-    "num": 40509
+    "num": 40524
   },
   {
     "id": "us-7367",
@@ -80568,7 +80569,7 @@
     "links": [
       "https://dph.georgia.gov/covid-19-daily-status-report"
     ],
-    "num": 40510
+    "num": 40525
   },
   {
     "id": "us-7368",
@@ -80582,7 +80583,7 @@
     "links": [
       "https://dph.georgia.gov/covid-19-daily-status-report"
     ],
-    "num": 40511
+    "num": 40526
   },
   {
     "id": "us-7369",
@@ -80596,7 +80597,7 @@
     "die_count": 0,
     "county": "Allen",
     "state_name": "LA",
-    "num": 40513
+    "num": 40528
   },
   {
     "id": "us-7372",
@@ -80610,7 +80611,7 @@
     "die_count": 0,
     "state_name": "LA",
     "county": "Ascension",
-    "num": 40522
+    "num": 40537
   },
   {
     "id": "us-7371",
@@ -80624,7 +80625,7 @@
     "links": [
       "https://www.springfieldmo.gov/CivicAlerts.aspx?AID=6625"
     ],
-    "num": 40525
+    "num": 40540
   },
   {
     "id": "us-7373",
@@ -80639,7 +80640,7 @@
       "https://gethealthycarsoncity.org/novel-coronavirus-2019/"
     ],
     "gender": "女",
-    "num": 40526
+    "num": 40541
   },
   {
     "id": "us-7374",
@@ -80653,7 +80654,7 @@
     ],
     "comments_en": "By 3/23, Anoka reported a total of 7 cases.",
     "comments": "3/23 Anoka County确诊总数为7例。",
-    "num": 40528
+    "num": 40543
   },
   {
     "id": "us-7375",
@@ -80667,7 +80668,7 @@
     "die_count": 1,
     "state_name": "LA",
     "county": "Ascension",
-    "num": 40528
+    "num": 40543
   },
   {
     "id": "us-7376",
@@ -80681,7 +80682,7 @@
     "links": [
       "https://www.health.state.mn.us/diseases/coronavirus/situation.html"
     ],
-    "num": 40529
+    "num": 40544
   },
   {
     "id": "us-7377",
@@ -80695,7 +80696,7 @@
     "links": [
       "https://coronavirus.ohio.gov/wps/portal/gov/covid-19/"
     ],
-    "num": 40529
+    "num": 40544
   },
   {
     "id": "us-7378",
@@ -80709,7 +80710,7 @@
     "die_count": 0,
     "state_name": "LA",
     "county": "Bossier",
-    "num": 40536
+    "num": 40551
   },
   {
     "id": "us-7379",
@@ -80723,7 +80724,7 @@
     "die_count": 0,
     "state_name": "LA",
     "county": "Caddo",
-    "num": 40554
+    "num": 40569
   },
   {
     "id": "us-7382",
@@ -80737,7 +80738,7 @@
     ],
     "comments": "3月23日俄亥俄州新增3例死亡病例。",
     "comments_en": "3 more deaths in Ohio on March 23.",
-    "num": 40554
+    "num": 40569
   },
   {
     "id": "us-7383",
@@ -80751,7 +80752,7 @@
     "die_count": 0,
     "state_name": "LA",
     "county": "Claiborne",
-    "num": 40555
+    "num": 40570
   },
   {
     "id": "us-7384",
@@ -80765,7 +80766,7 @@
     "die_count": 0,
     "state_name": "LA",
     "county": "De Soto",
-    "num": 40558
+    "num": 40573
   },
   {
     "id": "us-7385",
@@ -80779,7 +80780,7 @@
     "die_count": 0,
     "state_name": "LA",
     "county": "East Baton Rouge",
-    "num": 40581
+    "num": 40596
   },
   {
     "id": "us-7386",
@@ -80793,7 +80794,7 @@
     "die_count": 0,
     "county": "Grant",
     "state_name": "LA",
-    "num": 40582
+    "num": 40597
   },
   {
     "id": "us-7387",
@@ -80807,7 +80808,7 @@
     "die_count": 0,
     "state_name": "LA",
     "county": "Iberia",
-    "num": 40583
+    "num": 40598
   },
   {
     "id": "us-7388",
@@ -80821,7 +80822,7 @@
     "die_count": 0,
     "state_name": "LA",
     "county": "Iberville",
-    "num": 40591
+    "num": 40606
   },
   {
     "id": "us-7389",
@@ -80835,7 +80836,7 @@
     "die_count": 0,
     "state_name": "LA",
     "county": "Jefferson",
-    "num": 40659
+    "num": 40674
   },
   {
     "id": "us-7390",
@@ -80849,7 +80850,7 @@
     ],
     "comments_en": "3/23 Big Stone County reports one total case.",
     "comments": "3/23 Big Stone County累计确诊1例。",
-    "num": 40660
+    "num": 40675
   },
   {
     "id": "us-7391",
@@ -80863,7 +80864,7 @@
     "die_count": 0,
     "state_name": "LA",
     "county": "Lafayette",
-    "num": 40663
+    "num": 40678
   },
   {
     "id": "us-7392",
@@ -80877,7 +80878,7 @@
     "die_count": 0,
     "state_name": "LA",
     "county": "Lafourche",
-    "num": 40666
+    "num": 40681
   },
   {
     "id": "us-7393",
@@ -80891,7 +80892,7 @@
     "links": [
       "https://covid19.nj.gov/"
     ],
-    "num": 40818
+    "num": 40833
   },
   {
     "id": "us-7394",
@@ -80905,7 +80906,7 @@
     "links": [
       "https://www.rochesterfirst.com/coronavirus/1st-covid-19-death-in-wyoming-county/"
     ],
-    "num": 40818
+    "num": 40833
   },
   {
     "id": "us-7395",
@@ -80919,7 +80920,7 @@
     "die_count": 0,
     "county": "Lincoln",
     "state_name": "LA",
-    "num": 40820
+    "num": 40835
   },
   {
     "id": "us-7396",
@@ -80933,7 +80934,7 @@
     "die_count": 0,
     "state_name": "LA",
     "county": "Livingston",
-    "num": 40823
+    "num": 40838
   },
   {
     "id": "us-7397",
@@ -80947,7 +80948,7 @@
     "die_count": 0,
     "county": "Natchitoches",
     "state_name": "LA",
-    "num": 40825
+    "num": 40840
   },
   {
     "id": "us-7398",
@@ -80961,7 +80962,7 @@
     "die_count": 0,
     "state_name": "LA",
     "county": "Orleans",
-    "num": 40941
+    "num": 40956
   },
   {
     "id": "us-7399",
@@ -80975,7 +80976,7 @@
     "die_count": 0,
     "state_name": "LA",
     "county": "Ouachita",
-    "num": 40946
+    "num": 40961
   },
   {
     "id": "us-7400",
@@ -80989,7 +80990,7 @@
     "links": [
       "https://kernpublichealth.com/2019-novel-coronavirus/"
     ],
-    "num": 40952
+    "num": 40967
   },
   {
     "id": "us-7401",
@@ -81003,7 +81004,7 @@
     ],
     "confirmed_date": "3/23",
     "die_count": 0,
-    "num": 41015
+    "num": 41030
   },
   {
     "id": "us-7402",
@@ -81017,7 +81018,7 @@
     "die_count": 0,
     "state_name": "LA",
     "county": "Plaquemines",
-    "num": 41018
+    "num": 41033
   },
   {
     "id": "us-7403",
@@ -81031,7 +81032,7 @@
     "die_count": 0,
     "state_name": "LA",
     "county": "Rapides",
-    "num": 41023
+    "num": 41038
   },
   {
     "id": "us-7404",
@@ -81045,7 +81046,7 @@
     "die_count": 0,
     "county": "Richland",
     "state_name": "LA",
-    "num": 41025
+    "num": 41040
   },
   {
     "id": "us-7405",
@@ -81059,7 +81060,7 @@
     "die_count": 0,
     "state_name": "LA",
     "county": "St. Bernard",
-    "num": 41027
+    "num": 41042
   },
   {
     "id": "us-7407",
@@ -81073,7 +81074,7 @@
     "die_count": 0,
     "state_name": "LA",
     "county": "St. Charles",
-    "num": 41034
+    "num": 41049
   },
   {
     "id": "us-7406",
@@ -81087,7 +81088,7 @@
     ],
     "die_count": 0,
     "confirmed_date": "3/23",
-    "num": 41135
+    "num": 41150
   },
   {
     "id": "us-7408",
@@ -81101,7 +81102,7 @@
     "links": [
       "https://www.wndu.com/content/news/Starke-County-reports-first-case-of-coronavirus-569032101.html?fbclid=IwAR0zL9sOIuar2Rpio_7TbjPdm6gxaMb6-L-KmgOhuN7Kv3wT1JNpK92uTtM"
     ],
-    "num": 41136
+    "num": 41151
   },
   {
     "id": "us-7409",
@@ -81115,7 +81116,7 @@
     "die_count": 0,
     "state_name": "LA",
     "county": "St. James",
-    "num": 41143
+    "num": 41158
   },
   {
     "id": "us-7410",
@@ -81129,7 +81130,7 @@
     ],
     "comments_en": "3/23 Carver County reported 8 cases in total.",
     "comments": "3/23 Carver County累计确诊8例。",
-    "num": 41144
+    "num": 41159
   },
   {
     "id": "us-7411",
@@ -81143,7 +81144,7 @@
     "links": [
       "https://covid19.nj.gov/"
     ],
-    "num": 41208
+    "num": 41223
   },
   {
     "id": "us-7412",
@@ -81157,7 +81158,7 @@
     "die_count": 0,
     "state_name": "LA",
     "county": "St. John the Baptist",
-    "num": 41214
+    "num": 41229
   },
   {
     "id": "us-7413",
@@ -81171,7 +81172,7 @@
     ],
     "comments_en": "3/23 Carver County reported two cases in total.",
     "comments": "3/23Carver County累计确诊2例。",
-    "num": 41215
+    "num": 41230
   },
   {
     "id": "us-7414",
@@ -81185,7 +81186,7 @@
     "die_count": 0,
     "state_name": "LA",
     "county": "St. Tammany",
-    "num": 41237
+    "num": 41252
   },
   {
     "id": "us-7415",
@@ -81199,7 +81200,7 @@
     ],
     "comments_en": "3/23 Dakota reported a total of 18 cases.",
     "comments": "3/23 Dakota累计确诊18例。",
-    "num": 41244
+    "num": 41259
   },
   {
     "id": "us-7416",
@@ -81213,7 +81214,7 @@
     "die_count": 0,
     "state_name": "LA",
     "county": "Terrebonne",
-    "num": 41246
+    "num": 41261
   },
   {
     "id": "us-7417",
@@ -81227,7 +81228,7 @@
     "links": [
       "https://covid19.nj.gov/"
     ],
-    "num": 41326
+    "num": 41341
   },
   {
     "id": "us-7418",
@@ -81241,7 +81242,7 @@
     "die_count": 0,
     "state_name": "LA",
     "county": "Webster",
-    "num": 41328
+    "num": 41343
   },
   {
     "id": "us-7419",
@@ -81255,7 +81256,7 @@
     ],
     "comments_en": "3/23 Filmore County reported a total of three cases",
     "comments": "3/23 Filmore County累计确诊3例。",
-    "num": 41329
+    "num": 41344
   },
   {
     "id": "us-7420",
@@ -81269,7 +81270,7 @@
     "links": [
       "https://covid19.nj.gov/"
     ],
-    "num": 41371
+    "num": 41386
   },
   {
     "id": "us-7421",
@@ -81283,7 +81284,7 @@
     "die_count": 0,
     "state_name": "LA",
     "county": "West Baton Rouge",
-    "num": 41373
+    "num": 41388
   },
   {
     "id": "us-7422",
@@ -81297,7 +81298,7 @@
       "https://www.health.state.mn.us/diseases/coronavirus/situation.html"
     ],
     "comments": "3/23Hennepin累计确诊89例。",
-    "num": 41405
+    "num": 41420
   },
   {
     "id": "us-7423",
@@ -81311,7 +81312,7 @@
     "links": [
       "https://covid19.nj.gov/"
     ],
-    "num": 41451
+    "num": 41466
   },
   {
     "id": "us-7424",
@@ -81325,7 +81326,7 @@
     "links": [
       "https://covid19.nj.gov/"
     ],
-    "num": 41516
+    "num": 41531
   },
   {
     "id": "us-7425",
@@ -81339,7 +81340,7 @@
     "links": [
       "https://covid19.nj.gov/"
     ],
-    "num": 41574
+    "num": 41589
   },
   {
     "id": "us-7426",
@@ -81353,7 +81354,7 @@
     ],
     "comments_en": "Lac Qui Parle County reported one case on 3/23.",
     "comments": "3/23Lac Qui Parle County累计确诊1例。",
-    "num": 41575
+    "num": 41590
   },
   {
     "id": "us-7427",
@@ -81367,7 +81368,7 @@
     "links": [
       "https://covid19.nj.gov/"
     ],
-    "num": 41591
+    "num": 41606
   },
   {
     "id": "us-7428",
@@ -81381,7 +81382,7 @@
     "links": [
       "https://www.nydailynews.com/coronavirus/ny-coronavirus-cuomo-hospitals-20200323-ftdwilhhqbckpjdvhnhxyi77ja-story.html?outputType=amp"
     ],
-    "num": 41591
+    "num": 41606
   },
   {
     "id": "us-7429",
@@ -81395,7 +81396,7 @@
     "links": [
       "https://covid19.nj.gov/"
     ],
-    "num": 41601
+    "num": 41616
   },
   {
     "id": "us-7430",
@@ -81409,7 +81410,7 @@
     "links": [
       "https://covid19.nj.gov/"
     ],
-    "num": 41611
+    "num": 41626
   },
   {
     "id": "us-7431",
@@ -81423,7 +81424,7 @@
       "https://www.hickoryrecord.com/news/local/new-cases-of-covid--reported-in-catawba-county-total/article_c7443cfe-6d2d-11ea-af77-c33942f9b357.html"
     ],
     "comments": "Catawba County新增3名确诊病例。",
-    "num": 41614
+    "num": 41629
   },
   {
     "id": "us-7432",
@@ -81437,7 +81438,7 @@
     ],
     "comments_en": "3/23 Olmsted County reported a total 16 cases.",
     "comments": "3/23 Olmsted累计确诊16例。",
-    "num": 41616
+    "num": 41631
   },
   {
     "id": "us-7433",
@@ -81451,7 +81452,7 @@
     "links": [
       "https://covid19.nj.gov/"
     ],
-    "num": 41627
+    "num": 41642
   },
   {
     "id": "us-7434",
@@ -81465,7 +81466,7 @@
     "links": [
       "https://covid19.nj.gov/"
     ],
-    "num": 41629
+    "num": 41644
   },
   {
     "id": "us-7435",
@@ -81479,7 +81480,7 @@
     "links": [
       "https://covid19.nj.gov/"
     ],
-    "num": 41630
+    "num": 41645
   },
   {
     "id": "us-7436",
@@ -81494,7 +81495,7 @@
       "https://www.lucascountyhealth.com/coronavirusupdates/",
       "https://coronavirus.ohio.gov/wps/portal/gov/covid-19/"
     ],
-    "num": 41631
+    "num": 41646
   },
   {
     "id": "us-7437",
@@ -81508,7 +81509,7 @@
     "links": [
       "https://covid19.nj.gov/"
     ],
-    "num": 41636
+    "num": 41651
   },
   {
     "id": "us-7438",
@@ -81523,7 +81524,7 @@
       "https://www.lucascountyhealth.com/coronavirusupdates/",
       "https://coronavirus.ohio.gov/wps/portal/gov/covid-19/"
     ],
-    "num": 41637
+    "num": 41652
   },
   {
     "id": "us-7439",
@@ -81537,7 +81538,7 @@
     "links": [
       "https://covid19.nj.gov/"
     ],
-    "num": 41640
+    "num": 41655
   },
   {
     "id": "us-7440",
@@ -81551,7 +81552,7 @@
     "links": [
       "https://covid19.nj.gov/"
     ],
-    "num": 41643
+    "num": 41658
   },
   {
     "id": "us-7441",
@@ -81565,7 +81566,7 @@
     ],
     "comments_en": "3/23 Ramsey County reported a total of 24 cases.",
     "comments": "3/23 Ramsey累计确诊24例。",
-    "num": 41649
+    "num": 41664
   },
   {
     "id": "us-7442",
@@ -81580,7 +81581,7 @@
       "https://www.lucascountyhealth.com/coronavirusupdates/",
       "https://coronavirus.ohio.gov/wps/portal/gov/covid-19/"
     ],
-    "num": 41650
+    "num": 41665
   },
   {
     "id": "us-7443",
@@ -81594,7 +81595,7 @@
     ],
     "comments_en": "3/23 Rice County reported a total of 2 cases.",
     "comments": "3/23 Rice County累计确诊2例。",
-    "num": 41651
+    "num": 41666
   },
   {
     "id": "us-7445",
@@ -81608,7 +81609,7 @@
     "links": [
       "https://www.nj.gov/health/"
     ],
-    "num": 41651
+    "num": 41666
   },
   {
     "id": "us-7446",
@@ -81623,7 +81624,7 @@
       "https://www.lucascountyhealth.com/coronavirusupdates/",
       "https://coronavirus.ohio.gov/wps/portal/gov/covid-19/"
     ],
-    "num": 41675
+    "num": 41690
   },
   {
     "id": "us-7447",
@@ -81637,7 +81638,7 @@
     ],
     "comments": "3/23 Scott累计确诊5例",
     "comments_en": "3/23 Scott County reported a total of 5 cases.",
-    "num": 41677
+    "num": 41692
   },
   {
     "id": "us-7448",
@@ -81651,7 +81652,7 @@
     "links": [
       "https://www.nj.gov/health/"
     ],
-    "num": 41677
+    "num": 41692
   },
   {
     "id": "us-7449",
@@ -81665,7 +81666,7 @@
     "links": [
       "https://www.nj.gov/health/"
     ],
-    "num": 41677
+    "num": 41692
   },
   {
     "id": "us-7450",
@@ -81680,7 +81681,7 @@
       "https://coronavirus.ohio.gov/wps/portal/gov/covid-19/"
     ],
     "people_count": 1,
-    "num": 41678
+    "num": 41693
   },
   {
     "id": "us-7451",
@@ -81694,7 +81695,7 @@
     "links": [
       "https://www.nj.gov/health/"
     ],
-    "num": 41678
+    "num": 41693
   },
   {
     "id": "us-7452",
@@ -81708,7 +81709,7 @@
     ],
     "comments_en": "3/23 St. Louis reported a total of 2 cases.",
     "comments": "3/23 St. Louis累计确诊2例。",
-    "num": 41679
+    "num": 41694
   },
   {
     "id": "us-7453",
@@ -81722,7 +81723,7 @@
     "links": [
       "https://www.nj.gov/health/"
     ],
-    "num": 41679
+    "num": 41694
   },
   {
     "id": "us-7454",
@@ -81736,7 +81737,7 @@
     "links": [
       "https://coronavirus.utah.gov/case-counts/"
     ],
-    "num": 41708
+    "num": 41723
   },
   {
     "id": "us-7455",
@@ -81750,7 +81751,7 @@
     ],
     "comments_en": "3/23 Stearns County reported a total of 5 cases.",
     "comments": "3/23 Stearns County累计确诊5例。",
-    "num": 41709
+    "num": 41724
   },
   {
     "id": "us-7456",
@@ -81765,7 +81766,7 @@
       "https://www.lucascountyhealth.com/coronavirusupdates/",
       "https://coronavirus.ohio.gov/wps/portal/gov/covid-19/"
     ],
-    "num": 41719
+    "num": 41734
   },
   {
     "id": "us-7457",
@@ -81779,7 +81780,7 @@
     "links": [
       "https://coronavirus.utah.gov/case-counts/"
     ],
-    "num": 41741
+    "num": 41756
   },
   {
     "id": "us-7458",
@@ -81793,7 +81794,7 @@
       "http://ldh.la.gov/coronavirus/"
     ],
     "comments": "Catahoula首例死亡。",
-    "num": 41741
+    "num": 41756
   },
   {
     "id": "us-7459",
@@ -81807,7 +81808,7 @@
     ],
     "comments_en": "3/23 Waseca County reported a total of 2 cases.",
     "comments": "3/23 Waseca County累计确诊2例。",
-    "num": 41742
+    "num": 41757
   },
   {
     "id": "us-7460",
@@ -81822,7 +81823,7 @@
       "https://www.lucascountyhealth.com/coronavirusupdates/",
       "https://coronavirus.ohio.gov/wps/portal/gov/covid-19/"
     ],
-    "num": 41749
+    "num": 41764
   },
   {
     "id": "us-7461",
@@ -81836,7 +81837,7 @@
     "links": [
       "https://coronavirus.utah.gov/case-counts/"
     ],
-    "num": 41759
+    "num": 41774
   },
   {
     "id": "us-7462",
@@ -81850,7 +81851,7 @@
     ],
     "comments_en": "3/23 Washington County reported a total of 10 cases.",
     "comments": "3/23 Washington 累计确诊10例。",
-    "num": 41762
+    "num": 41777
   },
   {
     "id": "us-7463",
@@ -81865,7 +81866,7 @@
       "https://www.lucascountyhealth.com/coronavirusupdates/",
       "https://coronavirus.ohio.gov/wps/portal/gov/covid-19/"
     ],
-    "num": 41763
+    "num": 41778
   },
   {
     "id": "us-7464",
@@ -81879,7 +81880,7 @@
       "https://coronavirus.utah.gov/case-counts/"
     ],
     "comments_en": "Utah reports a total of 13 visitor cases, including Salt Lake 3, Summit 8, Utah County 1,  Wasatch County 1.",
-    "num": 41764
+    "num": 41779
   },
   {
     "id": "us-7465",
@@ -81893,7 +81894,7 @@
     "die_count": 1,
     "state_name": "LA",
     "county": "East Baton Rouge",
-    "num": 41764
+    "num": 41779
   },
   {
     "id": "us-7466",
@@ -81907,7 +81908,7 @@
       "https://coronavirus.utah.gov/case-counts/"
     ],
     "comments_en": "Wasatch County has a total of 11 residents who tested positive for COVID-19.",
-    "num": 41767
+    "num": 41782
   },
   {
     "id": "us-7467",
@@ -81923,7 +81924,7 @@
     "county": "Jefferson",
     "age_range": "Unknown",
     "gender": "Unknown",
-    "num": 41767
+    "num": 41782
   },
   {
     "id": "us-7468",
@@ -81938,7 +81939,7 @@
       "https://www.lucascountyhealth.com/coronavirusupdates/",
       "https://coronavirus.ohio.gov/wps/portal/gov/covid-19/"
     ],
-    "num": 41769
+    "num": 41784
   },
   {
     "id": "us-7469",
@@ -81953,7 +81954,7 @@
       "https://www.lucascountyhealth.com/coronavirusupdates/",
       "https://coronavirus.ohio.gov/wps/portal/gov/covid-19/"
     ],
-    "num": 41770
+    "num": 41785
   },
   {
     "id": "us-7470",
@@ -81969,7 +81970,7 @@
     "age_range": "Unknown",
     "state_name": "LA",
     "county": "Jefferson",
-    "num": 41770
+    "num": 41785
   },
   {
     "id": "us-7471",
@@ -81983,7 +81984,7 @@
       "https://coronavirus.utah.gov/case-counts/"
     ],
     "comments_en": "Utah County has a total of 11 residents who tested positive for COVID-19.",
-    "num": 41775
+    "num": 41790
   },
   {
     "id": "us-7473",
@@ -81999,7 +82000,7 @@
     "age_range": "Unknown",
     "state_name": "LA",
     "county": "Orleans",
-    "num": 41775
+    "num": 41790
   },
   {
     "id": "us-7474",
@@ -82014,7 +82015,7 @@
       "https://www.lucascountyhealth.com/coronavirusupdates/",
       "https://coronavirus.ohio.gov/wps/portal/gov/covid-19/"
     ],
-    "num": 41780
+    "num": 41795
   },
   {
     "id": "us-7475",
@@ -82028,7 +82029,7 @@
       "https://coronavirus.utah.gov/case-counts/"
     ],
     "comments_en": "Weber-Morgan County has a total of 8 residents who tested positive for COVID-19.",
-    "num": 41782
+    "num": 41797
   },
   {
     "id": "us-7476",
@@ -82044,7 +82045,7 @@
     "age_range": "Unknown",
     "state_name": "LA",
     "county": "Orleans",
-    "num": 41782
+    "num": 41797
   },
   {
     "id": "us-7477",
@@ -82060,7 +82061,7 @@
     "age_range": "Unknown",
     "state_name": "LA",
     "county": "Orleans",
-    "num": 41782
+    "num": 41797
   },
   {
     "id": "us-7478",
@@ -82076,7 +82077,7 @@
     "age_range": "Unknown",
     "state_name": "LA",
     "county": "Orleans",
-    "num": 41782
+    "num": 41797
   },
   {
     "id": "us-7479",
@@ -82092,7 +82093,7 @@
     "age_range": "Unknown",
     "state_name": "LA",
     "county": "Orleans",
-    "num": 41782
+    "num": 41797
   },
   {
     "id": "us-7480",
@@ -82107,7 +82108,7 @@
       "https://www.lucascountyhealth.com/coronavirusupdates/",
       "https://coronavirus.ohio.gov/wps/portal/gov/covid-19/"
     ],
-    "num": 41787
+    "num": 41802
   },
   {
     "id": "us-7481",
@@ -82121,7 +82122,7 @@
     "die_count": 1,
     "state_name": "LA",
     "county": "Ouachita",
-    "num": 41787
+    "num": 41802
   },
   {
     "id": "us-7483",
@@ -82135,7 +82136,7 @@
       "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html"
     ],
     "die_count": 0,
-    "num": 41794
+    "num": 41809
   },
   {
     "id": "us-7485",
@@ -82150,7 +82151,7 @@
       "https://www.lucascountyhealth.com/coronavirusupdates/",
       "https://coronavirus.ohio.gov/wps/portal/gov/covid-19/"
     ],
-    "num": 41796
+    "num": 41811
   },
   {
     "id": "us-7486",
@@ -82164,7 +82165,7 @@
     "die_count": 1,
     "state_name": "LA",
     "county": "Rapides",
-    "num": 41796
+    "num": 41811
   },
   {
     "id": "us-7487",
@@ -82178,7 +82179,7 @@
       "http://www.santacruzhealth.org/HSAHome/HSADivisions/PublicHealth/CommunicableDiseaseControl/Coronavirus.aspx"
     ],
     "comments_en": "According to the Office Site, the total number confirmed of COVID-19 is 22, increased 7 by yesterday.",
-    "num": 41803
+    "num": 41818
   },
   {
     "id": "us-7488",
@@ -82193,7 +82194,7 @@
       "https://www.lucascountyhealth.com/coronavirusupdates/",
       "https://coronavirus.ohio.gov/wps/portal/gov/covid-19/"
     ],
-    "num": 41808
+    "num": 41823
   },
   {
     "id": "us-7489",
@@ -82207,7 +82208,7 @@
     "die_count": 1,
     "state_name": "LA",
     "county": "Washington",
-    "num": 41808
+    "num": 41823
   },
   {
     "id": "us-7490",
@@ -82222,7 +82223,7 @@
       "https://coronavirus.ohio.gov/wps/portal/gov/covid-19/"
     ],
     "people_count": 4,
-    "num": 41812
+    "num": 41827
   },
   {
     "id": "us-7491",
@@ -82236,7 +82237,7 @@
     "links": [
       "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html"
     ],
-    "num": 41847
+    "num": 41862
   },
   {
     "id": "us-7492",
@@ -82250,7 +82251,7 @@
       "https://coronavirus.utah.gov/case-counts/"
     ],
     "comments_en": "Cache County has a total of 3 residents who tested positive for COVID-19.",
-    "num": 41848
+    "num": 41863
   },
   {
     "id": "us-7493",
@@ -82264,7 +82265,7 @@
     "die_count": 1,
     "state_name": "LA",
     "county": "Webster",
-    "num": 41848
+    "num": 41863
   },
   {
     "id": "us-7494",
@@ -82279,7 +82280,7 @@
       "https://www.lucascountyhealth.com/coronavirusupdates/",
       "https://coronavirus.ohio.gov/wps/portal/gov/covid-19/"
     ],
-    "num": 41850
+    "num": 41865
   },
   {
     "id": "us-7495",
@@ -82293,7 +82294,7 @@
       "https://coronavirus.utah.gov/case-counts/"
     ],
     "comments_en": "Southwest County has a total of 5 residents who tested positive for COVID-19.",
-    "num": 41854
+    "num": 41869
   },
   {
     "id": "us-7496",
@@ -82307,7 +82308,7 @@
     "die_count": 1,
     "state_name": "LA",
     "county": "West Baton Rouge",
-    "num": 41854
+    "num": 41869
   },
   {
     "id": "us-7497",
@@ -82322,7 +82323,7 @@
       "https://www.lucascountyhealth.com/coronavirusupdates/",
       "https://coronavirus.ohio.gov/wps/portal/gov/covid-19/"
     ],
-    "num": 41855
+    "num": 41870
   },
   {
     "id": "us-7498",
@@ -82336,7 +82337,7 @@
     "links": [
       "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html"
     ],
-    "num": 41857
+    "num": 41872
   },
   {
     "id": "us-7499",
@@ -82351,7 +82352,7 @@
       "https://www.lucascountyhealth.com/coronavirusupdates/",
       "https://coronavirus.ohio.gov/wps/portal/gov/covid-19/"
     ],
-    "num": 41858
+    "num": 41873
   },
   {
     "id": "us-7500",
@@ -82366,7 +82367,7 @@
       "https://www.lucascountyhealth.com/coronavirusupdates/",
       "https://coronavirus.ohio.gov/wps/portal/gov/covid-19/"
     ],
-    "num": 41860
+    "num": 41875
   },
   {
     "id": "us-7501",
@@ -82380,7 +82381,7 @@
     ],
     "comments": "Calhoun新增1例确诊。",
     "comments_en": "Calhoun reports one more case.",
-    "num": 41861
+    "num": 41876
   },
   {
     "id": "us-7502",
@@ -82395,7 +82396,7 @@
       "https://www.lucascountyhealth.com/coronavirusupdates/",
       "https://coronavirus.ohio.gov/wps/portal/gov/covid-19/"
     ],
-    "num": 41866
+    "num": 41881
   },
   {
     "id": "us-7503",
@@ -82409,7 +82410,7 @@
     "links": [
       "https://www.dhs.wisconsin.gov/outbreaks/index.htm"
     ],
-    "num": 41868
+    "num": 41883
   },
   {
     "id": "us-7504",
@@ -82423,7 +82424,7 @@
     "links": [
       "https://www.dhs.wisconsin.gov/outbreaks/index.htm"
     ],
-    "num": 41869
+    "num": 41884
   },
   {
     "id": "us-7505",
@@ -82437,7 +82438,7 @@
     "links": [
       "https://www.dhs.wisconsin.gov/outbreaks/index.htm"
     ],
-    "num": 41870
+    "num": 41885
   },
   {
     "id": "us-7506",
@@ -82451,7 +82452,7 @@
     "links": [
       "https://www.dhs.wisconsin.gov/outbreaks/index.htm"
     ],
-    "num": 41871
+    "num": 41886
   },
   {
     "id": "us-7508",
@@ -82465,7 +82466,7 @@
     "links": [
       "https://www.dhs.wisconsin.gov/outbreaks/index.htm"
     ],
-    "num": 41873
+    "num": 41888
   },
   {
     "id": "us-7509",
@@ -82479,7 +82480,7 @@
     "links": [
       "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html"
     ],
-    "num": 41882
+    "num": 41897
   },
   {
     "id": "us-7510",
@@ -82494,7 +82495,7 @@
       "https://www.lucascountyhealth.com/coronavirusupdates/",
       "https://coronavirus.ohio.gov/wps/portal/gov/covid-19/"
     ],
-    "num": 41884
+    "num": 41899
   },
   {
     "id": "us-7511",
@@ -82508,7 +82509,7 @@
     "links": [
       "https://khap2.kdhe.state.ks.us/NewsRelease/COVID19/COVID-19_March_23_2020_.pdf"
     ],
-    "num": 41885
+    "num": 41900
   },
   {
     "id": "us-7512",
@@ -82522,7 +82523,7 @@
     "links": [
       "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html"
     ],
-    "num": 41886
+    "num": 41901
   },
   {
     "id": "us-7513",
@@ -82536,7 +82537,7 @@
     "links": [
       "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html"
     ],
-    "num": 41892
+    "num": 41907
   },
   {
     "id": "us-7514",
@@ -82550,7 +82551,7 @@
     "links": [
       "https://khap2.kdhe.state.ks.us/NewsRelease/COVID19/COVID-19_March_23_2020_.pdf"
     ],
-    "num": 41896
+    "num": 41911
   },
   {
     "id": "us-7515",
@@ -82564,7 +82565,7 @@
     "links": [
       "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html"
     ],
-    "num": 41897
+    "num": 41912
   },
   {
     "id": "us-7516",
@@ -82578,7 +82579,7 @@
     "links": [
       "https://khap2.kdhe.state.ks.us/NewsRelease/COVID19/COVID-19_March_23_2020_.pdf"
     ],
-    "num": 41901
+    "num": 41916
   },
   {
     "id": "us-7517",
@@ -82592,7 +82593,7 @@
     "links": [
       "https://khap2.kdhe.state.ks.us/NewsRelease/COVID19/COVID-19_March_23_2020_.pdf"
     ],
-    "num": 41902
+    "num": 41917
   },
   {
     "id": "us-7519",
@@ -82606,7 +82607,7 @@
     "links": [
       "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html"
     ],
-    "num": 41903
+    "num": 41918
   },
   {
     "id": "us-7520",
@@ -82620,7 +82621,7 @@
     "die_count": 0,
     "state_name": "KS",
     "county": "Mitchell",
-    "num": 41904
+    "num": 41919
   },
   {
     "id": "us-7521",
@@ -82634,7 +82635,7 @@
     "links": [
       "https://www.dhs.wisconsin.gov/outbreaks/index.htm"
     ],
-    "num": 41905
+    "num": 41920
   },
   {
     "id": "us-7522",
@@ -82648,7 +82649,7 @@
     "links": [
       "https://www.dhs.wisconsin.gov/outbreaks/index.htm"
     ],
-    "num": 41906
+    "num": 41921
   },
   {
     "id": "us-7523",
@@ -82662,7 +82663,7 @@
     "links": [
       "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html"
     ],
-    "num": 41907
+    "num": 41922
   },
   {
     "id": "us-7524",
@@ -82676,7 +82677,7 @@
     "links": [
       "https://www.dhs.wisconsin.gov/outbreaks/index.htm"
     ],
-    "num": 41908
+    "num": 41923
   },
   {
     "id": "us-7525",
@@ -82690,7 +82691,7 @@
     "links": [
       "https://www.dhs.wisconsin.gov/outbreaks/index.htm"
     ],
-    "num": 41909
+    "num": 41924
   },
   {
     "id": "us-7526",
@@ -82704,7 +82705,7 @@
     "links": [
       "https://www.dhs.wisconsin.gov/outbreaks/index.htm"
     ],
-    "num": 41911
+    "num": 41926
   },
   {
     "id": "us-7527",
@@ -82718,7 +82719,7 @@
     "die_count": 0,
     "county": "Pottawatomie",
     "state_name": "KS",
-    "num": 41912
+    "num": 41927
   },
   {
     "id": "us-7528",
@@ -82732,7 +82733,7 @@
     "die_count": 0,
     "state_name": "KS",
     "county": "Reno",
-    "num": 41913
+    "num": 41928
   },
   {
     "id": "us-7529",
@@ -82746,7 +82747,7 @@
       "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html"
     ],
     "die_count": 2,
-    "num": 41965
+    "num": 41980
   },
   {
     "id": "us-7530",
@@ -82760,7 +82761,7 @@
     "die_count": 0,
     "state_name": "KS",
     "county": "Wyandotte",
-    "num": 41967
+    "num": 41982
   },
   {
     "id": "us-7531",
@@ -82774,7 +82775,7 @@
     "links": [
       "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html"
     ],
-    "num": 41969
+    "num": 41984
   },
   {
     "id": "us-7532",
@@ -82788,7 +82789,7 @@
     "links": [
       "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html"
     ],
-    "num": 41974
+    "num": 41989
   },
   {
     "id": "us-7533",
@@ -82804,7 +82805,7 @@
     "links": [
       "https://fox4kc.com/tracking-coronavirus/woman-in-her-30s-reported-as-first-coronavirus-death-in-st-louis-city/"
     ],
-    "num": 41974
+    "num": 41989
   },
   {
     "id": "us-7534",
@@ -82818,7 +82819,7 @@
     "links": [
       "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html"
     ],
-    "num": 41976
+    "num": 41991
   },
   {
     "id": "us-7535",
@@ -82832,7 +82833,7 @@
     "links": [
       "https://msdh.ms.gov/msdhsite/_static/14,0,420.html"
     ],
-    "num": 41977
+    "num": 41992
   },
   {
     "id": "us-7537",
@@ -82846,7 +82847,7 @@
     "links": [
       "https://msdh.ms.gov/msdhsite/_static/14,0,420.html"
     ],
-    "num": 41978
+    "num": 41993
   },
   {
     "id": "us-7538",
@@ -82860,7 +82861,7 @@
     "links": [
       "https://msdh.ms.gov/msdhsite/_static/14,0,420.html"
     ],
-    "num": 41980
+    "num": 41995
   },
   {
     "id": "us-7539",
@@ -82874,7 +82875,7 @@
     ],
     "comments_en": "3/23 OR total 191 cases, Clackamas 14 cases.",
     "comments": "3/23 俄勒冈州总计191例，其中Clackamas 14例。",
-    "num": 41982
+    "num": 41997
   },
   {
     "id": "us-7541",
@@ -82888,7 +82889,7 @@
     "die_count": 0,
     "state_name": "OR",
     "county": "Linn",
-    "num": 41983
+    "num": 41998
   },
   {
     "id": "us-7542",
@@ -82902,7 +82903,7 @@
     "links": [
       "https://msdh.ms.gov/msdhsite/_static/14,0,420.html"
     ],
-    "num": 41984
+    "num": 41999
   },
   {
     "id": "us-7543",
@@ -82916,7 +82917,7 @@
     "die_count": 0,
     "state_name": "OR",
     "county": "Marion",
-    "num": 41992
+    "num": 42007
   },
   {
     "id": "us-7544",
@@ -82930,7 +82931,7 @@
     "links": [
       "https://msdh.ms.gov/msdhsite/_static/14,0,420.html"
     ],
-    "num": 41997
+    "num": 42012
   },
   {
     "id": "us-7545",
@@ -82944,7 +82945,7 @@
     "die_count": 0,
     "state_name": "OR",
     "county": "Multnomah",
-    "num": 41999
+    "num": 42014
   },
   {
     "id": "us-7546",
@@ -82958,7 +82959,7 @@
     "links": [
       "https://msdh.ms.gov/msdhsite/_static/14,0,420.html"
     ],
-    "num": 42005
+    "num": 42020
   },
   {
     "id": "us-7547",
@@ -82972,7 +82973,7 @@
     "die_count": 0,
     "state_name": "OR",
     "county": "Polk",
-    "num": 42007
+    "num": 42022
   },
   {
     "id": "us-7548",
@@ -82986,7 +82987,7 @@
     "die_count": 0,
     "state_name": "OR",
     "county": "Washington",
-    "num": 42021
+    "num": 42036
   },
   {
     "id": "us-7549",
@@ -83000,7 +83001,7 @@
     "links": [
       "https://msdh.ms.gov/msdhsite/_static/14,0,420.html"
     ],
-    "num": 42023
+    "num": 42038
   },
   {
     "id": "us-7550",
@@ -83014,7 +83015,7 @@
     "links": [
       "https://msdh.ms.gov/msdhsite/_static/14,0,420.html"
     ],
-    "num": 42025
+    "num": 42040
   },
   {
     "id": "us-7551",
@@ -83028,7 +83029,7 @@
     "links": [
       "https://msdh.ms.gov/msdhsite/_static/14,0,420.html"
     ],
-    "num": 42027
+    "num": 42042
   },
   {
     "id": "us-7552",
@@ -83042,7 +83043,7 @@
     "links": [
       "https://msdh.ms.gov/msdhsite/_static/14,0,420.html"
     ],
-    "num": 42029
+    "num": 42044
   },
   {
     "id": "us-7553",
@@ -83056,7 +83057,7 @@
     "links": [
       "https://msdh.ms.gov/msdhsite/_static/14,0,420.html"
     ],
-    "num": 42032
+    "num": 42047
   },
   {
     "id": "us-7554",
@@ -83070,7 +83071,7 @@
     ],
     "comments_en": "place holder",
     "comments": "place holder",
-    "num": 42093
+    "num": 42108
   },
   {
     "id": "us-7555",
@@ -83084,7 +83085,7 @@
     "links": [
       "https://msdh.ms.gov/msdhsite/_static/14,0,420.html"
     ],
-    "num": 42095
+    "num": 42110
   },
   {
     "id": "us-7556",
@@ -83098,7 +83099,7 @@
     "links": [
       "https://msdh.ms.gov/msdhsite/_static/14,0,420.html"
     ],
-    "num": 42096
+    "num": 42111
   },
   {
     "id": "us-7557",
@@ -83112,7 +83113,7 @@
     "links": [
       "https://msdh.ms.gov/msdhsite/_static/14,0,420.html"
     ],
-    "num": 42097
+    "num": 42112
   },
   {
     "id": "us-7558",
@@ -83126,7 +83127,7 @@
     "links": [
       "https://msdh.ms.gov/msdhsite/_static/14,0,420.html"
     ],
-    "num": 42099
+    "num": 42114
   },
   {
     "id": "us-7559",
@@ -83140,7 +83141,7 @@
     "links": [
       "https://msdh.ms.gov/msdhsite/_static/14,0,420.html"
     ],
-    "num": 42100
+    "num": 42115
   },
   {
     "id": "us-7560",
@@ -83154,7 +83155,7 @@
     "links": [
       "https://msdh.ms.gov/msdhsite/_static/14,0,420.html"
     ],
-    "num": 42101
+    "num": 42116
   },
   {
     "id": "us-7561",
@@ -83168,7 +83169,7 @@
     "links": [
       "https://msdh.ms.gov/msdhsite/_static/14,0,420.html"
     ],
-    "num": 42102
+    "num": 42117
   },
   {
     "id": "us-7562",
@@ -83182,7 +83183,7 @@
     "links": [
       "https://msdh.ms.gov/msdhsite/_static/14,0,420.html"
     ],
-    "num": 42103
+    "num": 42118
   },
   {
     "id": "us-7563",
@@ -83196,7 +83197,7 @@
     "links": [
       "https://msdh.ms.gov/msdhsite/_static/14,0,420.html"
     ],
-    "num": 42104
+    "num": 42119
   },
   {
     "id": "us-7564",
@@ -83210,7 +83211,7 @@
       "https://adem.maps.arcgis.com/apps/opsdashboard/index.html#/f533ac8a8b6040e5896b05b47b17a647"
     ],
     "comments": "3/23 阿肯色州总计174例，其中Pulaski 58 例。",
-    "num": 42108
+    "num": 42123
   },
   {
     "id": "us-7565",
@@ -83225,7 +83226,7 @@
     "die_count": 0,
     "county": "Lawrence",
     "state_name": "AR",
-    "num": 42109
+    "num": 42124
   },
   {
     "id": "us-7566",
@@ -83239,7 +83240,7 @@
     "county": "Unassigned",
     "comments_en": "place holder",
     "comments": "place holder",
-    "num": 42112
+    "num": 42127
   },
   {
     "id": "us-7568",
@@ -83253,7 +83254,7 @@
     ],
     "comments_en": "place holder",
     "comments": "place holder",
-    "num": 42165
+    "num": 42180
   },
   {
     "id": "us-7569",
@@ -83267,7 +83268,7 @@
     ],
     "comments": "3/26 伊利诺伊州共1285例，Cook 922 例。",
     "comments_en": "3/26 IL total 1285, Cook 922 cases.",
-    "num": 42282
+    "num": 42297
   },
   {
     "id": "us-7570",
@@ -83281,7 +83282,7 @@
     "die_count": 0,
     "state_name": "IL",
     "county": "DuPage",
-    "num": 42298
+    "num": 42313
   },
   {
     "id": "us-7571",
@@ -83295,7 +83296,7 @@
     "die_count": 0,
     "state_name": "IL",
     "county": "Will",
-    "num": 42301
+    "num": 42316
   },
   {
     "id": "us-7572",
@@ -83309,7 +83310,7 @@
     "die_count": 0,
     "state_name": "IL",
     "county": "Kane",
-    "num": 42306
+    "num": 42321
   },
   {
     "id": "us-7573",
@@ -83323,7 +83324,7 @@
     "die_count": 0,
     "state_name": "IL",
     "county": "Lake",
-    "num": 42333
+    "num": 42348
   },
   {
     "id": "us-7574",
@@ -83337,7 +83338,7 @@
     "links": [
       "https://www.ochealthinfo.com/phs/about/epidasmt/epi/dip/prevention/novel_coronavirus"
     ],
-    "num": 42363
+    "num": 42378
   },
   {
     "id": "us-7575",
@@ -83351,7 +83352,7 @@
     "links": [
       "https://wlos.com/news/local/covid-19-in-western-north-carolina-a-breakdown-by-county"
     ],
-    "num": 42364
+    "num": 42379
   },
   {
     "id": "us-7576",
@@ -83365,7 +83366,7 @@
     "die_count": 0,
     "state_name": "IL",
     "county": "Winnebago",
-    "num": 42365
+    "num": 42380
   },
   {
     "id": "us-7577",
@@ -83379,7 +83380,7 @@
     "links": [
       "https://www.wfmynews2.com/article/news/local/randolph-county-first-coronavirus-case-health-department/83-a13e20a2-4919-479e-8e10-248f5faf17bc"
     ],
-    "num": 42366
+    "num": 42381
   },
   {
     "id": "us-7578",
@@ -83393,7 +83394,7 @@
     "die_count": 0,
     "state_name": "IL",
     "county": "Kankakee",
-    "num": 42367
+    "num": 42382
   },
   {
     "id": "us-7579",
@@ -83408,7 +83409,7 @@
     "die_count": 0,
     "state_name": "IL",
     "county": "LaSalle",
-    "num": 42368
+    "num": 42383
   },
   {
     "id": "us-7580",
@@ -83422,7 +83423,7 @@
       "https://www.wnct.com/local-news/pitt-county-confirms-two-more-cases-of-covid-19/"
     ],
     "comments_en": "NC Pitt County has confirmed 6 cases in total as of Monday.",
-    "num": 42371
+    "num": 42386
   },
   {
     "id": "us-7581",
@@ -83437,7 +83438,7 @@
     "die_count": 0,
     "state_name": "IL",
     "county": "McLean",
-    "num": 42372
+    "num": 42387
   },
   {
     "id": "us-7582",
@@ -83452,7 +83453,7 @@
     "die_count": 0,
     "county": "Monroe",
     "state_name": "IL",
-    "num": 42373
+    "num": 42388
   },
   {
     "id": "us-7583",
@@ -83467,7 +83468,7 @@
     "die_count": 0,
     "state_name": "IL",
     "county": "St. Clair",
-    "num": 42374
+    "num": 42389
   },
   {
     "id": "us-7584",
@@ -83484,7 +83485,7 @@
     ],
     "gender": "Unknown",
     "age_range": "Unknown",
-    "num": 42374
+    "num": 42389
   },
   {
     "id": "us-7585",
@@ -83498,7 +83499,7 @@
     "links": [
       "https://www.saccounty.net/COVID-19/Pages/default.aspx"
     ],
-    "num": 42409
+    "num": 42424
   },
   {
     "id": "us-7586",
@@ -83515,7 +83516,7 @@
     "county": "Cook",
     "gender": "Unknown",
     "age_range": "Unknown",
-    "num": 42409
+    "num": 42424
   },
   {
     "id": "us-7587",
@@ -83529,7 +83530,7 @@
     "links": [
       "https://www.health.state.mn.us/diseases/coronavirus/situation.html"
     ],
-    "num": 42410
+    "num": 42425
   },
   {
     "id": "us-7588",
@@ -83546,7 +83547,7 @@
     "age_range": "Unknown",
     "state_name": "IL",
     "county": "Cook",
-    "num": 42410
+    "num": 42425
   },
   {
     "id": "us-7589",
@@ -83563,7 +83564,7 @@
     "age_range": "Unknown",
     "state_name": "IL",
     "county": "Cook",
-    "num": 42410
+    "num": 42425
   },
   {
     "id": "us-7590",
@@ -83580,7 +83581,7 @@
     "age_range": "Unknown",
     "state_name": "IL",
     "county": "Cook",
-    "num": 42410
+    "num": 42425
   },
   {
     "id": "us-7591",
@@ -83594,7 +83595,7 @@
     "links": [
       "https://www.saccounty.net/COVID-19/Pages/default.aspx"
     ],
-    "num": 42410
+    "num": 42425
   },
   {
     "id": "us-7592",
@@ -83608,7 +83609,7 @@
     "links": [
       "https://www.foxla.com/news/two-additional-coronavirus-deaths-reported-in-la-county-total-of-536-confirmed-cases"
     ],
-    "num": 42537
+    "num": 42552
   },
   {
     "id": "us-7593",
@@ -83622,7 +83623,7 @@
     "links": [
       "https://www.foxla.com/news/two-additional-coronavirus-deaths-reported-in-la-county-total-of-536-confirmed-cases"
     ],
-    "num": 42537
+    "num": 42552
   },
   {
     "id": "us-7594",
@@ -83636,7 +83637,7 @@
     "links": [
       "https://www.foxla.com/news/two-additional-coronavirus-deaths-reported-in-la-county-total-of-536-confirmed-cases"
     ],
-    "num": 42537
+    "num": 42552
   },
   {
     "id": "us-7596",
@@ -83650,7 +83651,7 @@
     "links": [
       "https://www.health.state.mn.us/diseases/coronavirus/situation.html"
     ],
-    "num": 42538
+    "num": 42553
   },
   {
     "id": "us-7597",
@@ -83664,7 +83665,7 @@
     "links": [
       "https://www.kbtx.com/content/news/Milam-County-confirms-second-case-bringing-total-in-Brazos-Valley-to-17-569033311.html"
     ],
-    "num": 42539
+    "num": 42554
   },
   {
     "id": "us-7598",
@@ -83678,7 +83679,7 @@
     "links": [
       "https://www.dailyadvance.com/special/public_info/hertford-county-reports-covid--case/article_7ddd99b4-3028-54b5-ac04-3143554a2e37.html"
     ],
-    "num": 42540
+    "num": 42555
   },
   {
     "id": "us-7600",
@@ -83692,7 +83693,7 @@
     "comments": "3/23 Claiborne 首例。",
     "county": "Claiborne",
     "state_name": "TN",
-    "num": 42541
+    "num": 42556
   },
   {
     "id": "us-7601",
@@ -83706,7 +83707,7 @@
       "https://www.publichealthmdc.com/coronavirus"
     ],
     "comments": "3/23 威斯康辛州Dane County累计确诊70例。\n",
-    "num": 42550
+    "num": 42565
   },
   {
     "id": "us-7603",
@@ -83720,7 +83721,7 @@
     "die_count": 0,
     "county": "Dekalb",
     "state_name": "TN",
-    "num": 42551
+    "num": 42566
   },
   {
     "id": "us-7604",
@@ -83734,7 +83735,7 @@
     "die_count": 0,
     "state_name": "TN",
     "county": "Dickson",
-    "num": 42552
+    "num": 42567
   },
   {
     "id": "us-7605",
@@ -83748,7 +83749,7 @@
       "https://www.visaliatimesdelta.com/story/news/2020/03/23/coronavirus-tulare-county-live-updates-what-we-know-monday/2896282001/"
     ],
     "comments_en": "3/23 Tulare County health officials stated Monday afternoon that four more case were add to the total number of patients who tested positive for COVID-19. Tulare County, with a population of 440,000 people, has 16 cases since March 11. ",
-    "num": 42556
+    "num": 42571
   },
   {
     "id": "us-7606",
@@ -83762,7 +83763,7 @@
     "die_count": 0,
     "state_name": "TN",
     "county": "Greene",
-    "num": 42558
+    "num": 42573
   },
   {
     "id": "us-7607",
@@ -83776,7 +83777,7 @@
     "die_count": 0,
     "state_name": "TN",
     "county": "Hamblen",
-    "num": 42559
+    "num": 42574
   },
   {
     "id": "us-7608",
@@ -83790,7 +83791,7 @@
     "die_count": 0,
     "state_name": "TN",
     "county": "Hamilton",
-    "num": 42563
+    "num": 42578
   },
   {
     "id": "us-7609",
@@ -83804,7 +83805,7 @@
     "links": [
       "https://www.gjsentinel.com/breaking/th-covid--case-reported-in-mesa-county-new-hospital/article_0bcc7d82-6d33-11ea-bb1f-03273751c4c0.html"
     ],
-    "num": 42564
+    "num": 42579
   },
   {
     "id": "us-7610",
@@ -83818,7 +83819,7 @@
     "die_count": 0,
     "county": "Hardin",
     "state_name": "TN",
-    "num": 42565
+    "num": 42580
   },
   {
     "id": "us-7611",
@@ -83832,7 +83833,7 @@
     "die_count": 0,
     "state_name": "TN",
     "county": "Knox",
-    "num": 42572
+    "num": 42587
   },
   {
     "id": "us-7612",
@@ -83846,7 +83847,7 @@
     "die_count": 0,
     "county": "Lincoln",
     "state_name": "TN",
-    "num": 42573
+    "num": 42588
   },
   {
     "id": "us-7613",
@@ -83860,7 +83861,7 @@
     "die_count": 0,
     "state_name": "TN",
     "county": "Maury",
-    "num": 42577
+    "num": 42592
   },
   {
     "id": "us-7614",
@@ -83874,7 +83875,7 @@
     "links": [
       "https://www.statesville.com/news/local/eight-cases-of-coronavirus-now-reported-in-iredell-county-officials/article_4ab7ee4c-c9ce-526a-99fb-ad12bb54912e.html"
     ],
-    "num": 42579
+    "num": 42594
   },
   {
     "id": "us-7615",
@@ -83888,7 +83889,7 @@
     "die_count": 0,
     "state_name": "TN",
     "county": "McMinn",
-    "num": 42580
+    "num": 42595
   },
   {
     "id": "us-7616",
@@ -83902,7 +83903,7 @@
     "die_count": 0,
     "state_name": "TN",
     "county": "Perry",
-    "num": 42581
+    "num": 42596
   },
   {
     "id": "us-7617",
@@ -83916,7 +83917,7 @@
     "die_count": 0,
     "state_name": "TN",
     "county": "Robertson",
-    "num": 42584
+    "num": 42599
   },
   {
     "id": "us-7618",
@@ -83930,7 +83931,7 @@
     "die_count": 0,
     "state_name": "TN",
     "county": "Rutherford",
-    "num": 42585
+    "num": 42600
   },
   {
     "id": "us-7620",
@@ -83944,7 +83945,7 @@
     "die_count": 0,
     "state_name": "TN",
     "county": "Shelby",
-    "num": 42612
+    "num": 42627
   },
   {
     "id": "us-7621",
@@ -83958,7 +83959,7 @@
     "links": [
       "https://www.citizen-times.com/story/news/local/2020/03/23/asheville-coronavirus-5-covid-19-cases-identified-buncombe-county-wnc/2899192001/"
     ],
-    "num": 42616
+    "num": 42631
   },
   {
     "id": "us-7622",
@@ -83973,7 +83974,7 @@
       "https://www.kansascity.com/news/coronavirus/article241437016.html",
       "https://health.mo.gov/living/healthcondiseases/communicable/novel-coronavirus/"
     ],
-    "num": 42646
+    "num": 42661
   },
   {
     "id": "us-7623",
@@ -83987,7 +83988,7 @@
     "die_count": 0,
     "state_name": "TN",
     "county": "Sullivan",
-    "num": 42647
+    "num": 42662
   },
   {
     "id": "us-7624",
@@ -84001,7 +84002,7 @@
     "die_count": 0,
     "state_name": "TN",
     "county": "Sumner",
-    "num": 42659
+    "num": 42674
   },
   {
     "id": "us-7625",
@@ -84015,7 +84016,7 @@
     "die_count": 0,
     "state_name": "TN",
     "county": "Tipton",
-    "num": 42660
+    "num": 42675
   },
   {
     "id": "us-7626",
@@ -84029,7 +84030,7 @@
     "die_count": 0,
     "county": "Weakley",
     "state_name": "TN",
-    "num": 42661
+    "num": 42676
   },
   {
     "id": "us-7627",
@@ -84043,7 +84044,7 @@
     "die_count": 0,
     "state_name": "TN",
     "county": "Washington",
-    "num": 42665
+    "num": 42680
   },
   {
     "id": "us-7628",
@@ -84057,7 +84058,7 @@
     "die_count": 0,
     "state_name": "TN",
     "county": "Williamson",
-    "num": 42670
+    "num": 42685
   },
   {
     "id": "us-7629",
@@ -84071,7 +84072,7 @@
     "state_name": "TN",
     "county": "Wilson",
     "people_count": 4,
-    "num": 42674
+    "num": 42689
   },
   {
     "id": "us-7630",
@@ -84085,7 +84086,7 @@
     "die_count": 0,
     "state_name": "TN",
     "county": "Unknown",
-    "num": 42698
+    "num": 42713
   },
   {
     "id": "us-7631",
@@ -84099,7 +84100,7 @@
     "links": [
       "https://wlos.com/news/local/covid-19-in-western-north-carolina-a-breakdown-by-county"
     ],
-    "num": 42699
+    "num": 42714
   },
   {
     "id": "us-7632",
@@ -84113,7 +84114,7 @@
     "die_count": 0,
     "state_name": "TN",
     "county": "Out-of-state",
-    "num": 42706
+    "num": 42721
   },
   {
     "id": "us-7633",
@@ -84127,7 +84128,7 @@
     "links": [
       "https://wlos.com/news/local/covid-19-in-western-north-carolina-a-breakdown-by-county"
     ],
-    "num": 42707
+    "num": 42722
   },
   {
     "id": "us-7634",
@@ -84141,7 +84142,7 @@
     "die_count": 0,
     "state_name": "TN",
     "county": "Jefferson",
-    "num": 42708
+    "num": 42723
   },
   {
     "id": "us-7635",
@@ -84155,7 +84156,7 @@
     "die_count": 0,
     "state_name": "TN",
     "county": "Blount",
-    "num": 42709
+    "num": 42724
   },
   {
     "id": "us-7636",
@@ -84170,7 +84171,7 @@
     "links": [
       "https://www.mass.gov/doc/covid-19-cases-in-massachusetts-as-of-march-23-2020/download"
     ],
-    "num": 42709
+    "num": 42724
   },
   {
     "id": "us-7637",
@@ -84179,8 +84180,9 @@
     "confirmed_date": "3/23",
     "state_name": "CT",
     "county": "Fairfield",
+    "comments": "康涅狄格州3/23新增88例确诊，总计415例。Fairfield County新增62例，总计270例。",
     "links": [],
-    "num": 42771
+    "num": 42786
   },
   {
     "id": "us-7638",
@@ -84196,7 +84198,7 @@
     "links": [
       "https://www.kwtx.com/content/news/Bell-County-reports-8th-COVID-19-case-569000941.html"
     ],
-    "num": 42772
+    "num": 42787
   },
   {
     "id": "us-7639",
@@ -84205,8 +84207,9 @@
     "confirmed_date": "3/23",
     "state_name": "CT",
     "county": "Hartford",
+    "comments": "康涅狄格州3/23新增88例确诊，总计415例。Fairfield County新增7例，总计270例。",
     "links": [],
-    "num": 42779
+    "num": 42794
   },
   {
     "id": "us-7640",
@@ -84215,8 +84218,9 @@
     "state_name": "CT",
     "county": "Litchfield",
     "confirmed_date": "3/23",
+    "comments": "康涅狄格州3/23新增88例确诊，总计415例。Fairfield County新增1例，总计270例。",
     "links": [],
-    "num": 42780
+    "num": 42795
   },
   {
     "id": "us-7641",
@@ -84225,8 +84229,9 @@
     "confirmed_date": "3/23",
     "state_name": "CT",
     "county": "Middlesex",
+    "comments": "康涅狄格州3/23新增88例确诊，总计415例。Fairfield County新增2例，总计270例。",
     "links": [],
-    "num": 42782
+    "num": 42797
   },
   {
     "id": "us-7642",
@@ -84242,7 +84247,7 @@
     "links": [
       "https://www.kwtx.com/content/news/Bell-County-reports-8th-COVID-19-case-569000941.html"
     ],
-    "num": 42783
+    "num": 42798
   },
   {
     "id": "us-7643",
@@ -84251,8 +84256,9 @@
     "confirmed_date": "3/23",
     "state_name": "CT",
     "county": "New Haven",
+    "comments": "康涅狄格州3/23新增88例确诊，总计415例。Fairfield County新增62例，总计270例。",
     "links": [],
-    "num": 42795
+    "num": 42810
   },
   {
     "id": "us-7644",
@@ -84261,8 +84267,9 @@
     "confirmed_date": "3/23",
     "state_name": "CT",
     "county": "New London",
+    "comments": "康涅狄格州3/23新增88例确诊，总计415例。Fairfield County新增62例，总计270例。",
     "links": [],
-    "num": 42796
+    "num": 42811
   },
   {
     "id": "us-7645",
@@ -84271,8 +84278,9 @@
     "confirmed_date": "3/23",
     "state_name": "CT",
     "county": "Tolland",
+    "comments": "康涅狄格州3/23新增88例确诊，总计415例。Fairfield County新增62例，总计270例。",
     "links": [],
-    "num": 42798
+    "num": 42813
   },
   {
     "id": "us-7646",
@@ -84281,8 +84289,9 @@
     "confirmed_date": "3/23",
     "state_name": "CT",
     "county": "Windham",
+    "comments": "康涅狄格州3/23新增88例确诊，总计415例。Fairfield County新增62例，总计270例。",
     "links": [],
-    "num": 42799
+    "num": 42814
   },
   {
     "id": "us-7647",
@@ -84295,7 +84304,70 @@
       "https://www.kwtx.com/content/news/Bell-County-reports-8th-COVID-19-case-569000941.html"
     ],
     "comments_en": "The number of confirmed COVID-19 cases in Bell County increased to 16 Monday afternoon.",
-    "comments": "3/23 Bell County新增6例",
-    "num": 42803
+    "comments": "3/23 Bell County新增6例，共16例。",
+    "num": 42818
+  },
+  {
+    "id": "us-7648",
+    "people_count": 1,
+    "die_count": 0,
+    "state_name": "NC",
+    "county": "Wilson",
+    "confirmed_date": "3/23",
+    "comments": "3/23 北卡罗来纳州 Wilson County 累计确诊 4例, 新增1例。",
+    "comments_en": "NC State Wilson County has in total 4 cases of CODIV-19 confirmed by 3/23, with 1 new cases added. The case is also travel-related, and the patient is at home quarantined.",
+    "links": [
+      "204404",
+      "http://wilsontimes.com/stories/4-covid-19-patient-here-had-traveled-recently-s2"
+    ],
+    "num": 42819
+  },
+  {
+    "id": "us-7649",
+    "confirmed_date": "3/23",
+    "gender": "男",
+    "comments": "Harris County 第52例，男性，50-59岁，居住于西北区，旅行相关。",
+    "people_count": 1,
+    "comments_en": "A 50-59 year-old man, who lives in the Northwest quadrant of Harris County- (travel-related)",
+    "die_count": 0,
+    "state_name": "TX",
+    "county": "Harris",
+    "age_range": "50+",
+    "links": [
+      "https://www.readyharris.org/Newsroom/News-Releases/All-News-Releases/hcph-harris-county-covid-19-case-count-mon1500"
+    ],
+    "num": 42820
+  },
+  {
+    "id": "us-7650",
+    "confirmed_date": "3/23",
+    "gender": "女",
+    "comments": "Harris County 第53例，女性，60-69岁，居住于西北区，社区感染。",
+    "links": [
+      "https://www.readyharris.org/Newsroom/News-Releases/All-News-Releases/hcph-harris-county-covid-19-case-count-mon1500"
+    ],
+    "people_count": 1,
+    "comments_en": "A 60-69 year-old woman, who lives in the Northwest quadrant of Harris County- (community spread)",
+    "die_count": 0,
+    "age_range": "60+",
+    "state_name": "TX",
+    "county": "Harris",
+    "num": 42821
+  },
+  {
+    "id": "us-7651",
+    "confirmed_date": "3/23",
+    "gender": "男",
+    "comments": "Harris County 第54例，男性，40-49岁，居住于西北区，已治愈。",
+    "links": [
+      "https://www.readyharris.org/Newsroom/News-Releases/All-News-Releases/hcph-harris-county-covid-19-case-count-mon1500"
+    ],
+    "people_count": 1,
+    "comments_en": "A 40-49 year-old woman, who lives in the Northwest quadrant of Harris County- (recovered)\n",
+    "die_count": 0,
+    "age_range": "40+",
+    "state_name": "TX",
+    "county": "Harris",
+    "num": 42822
   }
 ]
