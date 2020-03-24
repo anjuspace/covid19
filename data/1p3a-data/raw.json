@@ -88456,12 +88456,12 @@
     "links": [
       "https://www.nbcnewyork.com/news/local/how-many-in-tri-state-have-tested-positive-for-coronavirus-here-are-latest-cases-by-the-numbers/2317721/"
     ],
-    "people_count": 1524,
+    "people_count": 1517,
     "comments_en": "By 3/23 10:13PM EST, New York reported 23230 total cases in the state.",
     "die_count": 0,
     "state_name": "NY",
     "county": "Unassigned",
-    "num": 46247
+    "num": 46240
   },
   {
     "id": "us-8007",
@@ -88475,7 +88475,7 @@
     "die_count": 0,
     "state_name": "NY",
     "county": "Unassigned",
-    "num": 46247
+    "num": 46240
   },
   {
     "id": "us-8008",
@@ -88490,7 +88490,7 @@
     "die_count": 0,
     "state_name": "WV",
     "county": "Kanawha",
-    "num": 46248
+    "num": 46241
   },
   {
     "id": "us-8010",
@@ -88504,7 +88504,7 @@
     "die_count": 0,
     "state_name": "WA",
     "county": "Jefferson",
-    "num": 46249
+    "num": 46242
   },
   {
     "id": "us-8011",
@@ -88519,7 +88519,7 @@
     "die_count": 0,
     "state_name": "WV",
     "county": "Monongalia",
-    "num": 46252
+    "num": 46245
   },
   {
     "id": "us-8012",
@@ -88533,7 +88533,7 @@
     "die_count": 0,
     "state_name": "AK",
     "county": "Anchorage",
-    "num": 46256
+    "num": 46249
   },
   {
     "id": "us-8013",
@@ -88547,7 +88547,7 @@
     "die_count": 0,
     "state_name": "NY",
     "county": "Cayuga",
-    "num": 46258
+    "num": 46251
   },
   {
     "id": "us-8014",
@@ -88561,7 +88561,7 @@
     "die_count": 0,
     "state_name": "NY",
     "county": "St. Lawrence",
-    "num": 46259
+    "num": 46252
   },
   {
     "id": "us-8015",
@@ -88575,7 +88575,7 @@
     "die_count": 0,
     "state_name": "TX",
     "county": "Nueces",
-    "num": 46264
+    "num": 46257
   },
   {
     "id": "us-8016",
@@ -88589,7 +88589,7 @@
     "die_count": 0,
     "state_name": "NC",
     "county": "Harnett",
-    "num": 46265
+    "num": 46258
   },
   {
     "id": "us-8017",
@@ -88603,7 +88603,7 @@
     "die_count": 0,
     "state_name": "NC",
     "county": "Johnston",
-    "num": 46266
+    "num": 46259
   },
   {
     "id": "us-8019",
@@ -88617,7 +88617,7 @@
     "die_count": 0,
     "state_name": "CA",
     "county": "Marin",
-    "num": 46275
+    "num": 46268
   },
   {
     "id": "us-8020",
@@ -88631,7 +88631,7 @@
     "die_count": 0,
     "state_name": "NC",
     "county": "Davidson",
-    "num": 46276
+    "num": 46269
   },
   {
     "id": "us-8021",
@@ -88646,7 +88646,7 @@
     "die_count": 0,
     "state_name": "NC",
     "county": "Alamance",
-    "num": 46277
+    "num": 46270
   },
   {
     "id": "us-8022",
@@ -88660,7 +88660,7 @@
     "die_count": 0,
     "state_name": "NC",
     "county": "Nash",
-    "num": 46279
+    "num": 46272
   },
   {
     "id": "us-8024",
@@ -88675,7 +88675,7 @@
     "age_range": "60+",
     "state_name": "NE",
     "county": "Washington",
-    "num": 46281
+    "num": 46274
   },
   {
     "id": "us-8025",
@@ -88691,7 +88691,7 @@
     "age_range": "30+",
     "state_name": "NE",
     "county": "Madison",
-    "num": 46282
+    "num": 46275
   },
   {
     "id": "us-8026",
@@ -88705,7 +88705,7 @@
     "die_count": 0,
     "state_name": "NE",
     "county": "Sarpy",
-    "num": 46285
+    "num": 46278
   },
   {
     "id": "us-8027",
@@ -88719,7 +88719,7 @@
     "die_count": 0,
     "state_name": "NE",
     "county": "Cass",
-    "num": 46286
+    "num": 46279
   },
   {
     "id": "us-8029",
@@ -88733,7 +88733,7 @@
     "die_count": 0,
     "state_name": "NE",
     "county": "Douglas",
-    "num": 46290
+    "num": 46283
   },
   {
     "id": "us-8030",
@@ -88748,7 +88748,7 @@
     "die_count": 0,
     "state_name": "TX",
     "county": "Denton",
-    "num": 46296
+    "num": 46289
   },
   {
     "id": "us-8033",
@@ -88762,7 +88762,7 @@
     "die_count": 0,
     "state_name": "NV",
     "county": "Clark",
-    "num": 46357
+    "num": 46350
   },
   {
     "id": "us-8034",
@@ -88776,7 +88776,7 @@
     "die_count": 0,
     "state_name": "KS",
     "county": "Sedgwick",
-    "num": 46358
+    "num": 46351
   },
   {
     "id": "us-8035",
@@ -88791,7 +88791,7 @@
     "die_count": 1,
     "state_name": "AZ",
     "county": "Pima",
-    "num": 46358
+    "num": 46351
   },
   {
     "id": "us-8036",
@@ -88805,7 +88805,7 @@
     "die_count": 0,
     "state_name": "TX",
     "county": "Ellis",
-    "num": 46359
+    "num": 46352
   },
   {
     "id": "us-8037",
@@ -88819,7 +88819,7 @@
     "die_count": 0,
     "state_name": "TX",
     "county": "Fort Bend",
-    "num": 46372
+    "num": 46365
   },
   {
     "id": "us-8038",
@@ -88833,7 +88833,7 @@
     "die_count": 0,
     "state_name": "NV",
     "county": "Unassigned",
-    "num": 46374
+    "num": 46367
   },
   {
     "id": "us-8039",
@@ -88847,7 +88847,7 @@
     "die_count": 0,
     "state_name": "NV",
     "county": "Washoe",
-    "num": 46390
+    "num": 46383
   },
   {
     "id": "us-8040",
@@ -88861,7 +88861,7 @@
     "die_count": 0,
     "state_name": "TX",
     "county": "Ellis",
-    "num": 46392
+    "num": 46385
   },
   {
     "id": "us-8041",
@@ -88876,7 +88876,7 @@
     "die_count": 0,
     "state_name": "TX",
     "county": "Collin",
-    "num": 46393
+    "num": 46386
   },
   {
     "id": "us-8043",
@@ -88891,7 +88891,7 @@
     "die_count": 0,
     "state_name": "TX",
     "county": "Collin",
-    "num": 46394
+    "num": 46387
   },
   {
     "id": "us-8044",
@@ -88906,7 +88906,7 @@
     "die_count": 0,
     "state_name": "TX",
     "county": "Collin",
-    "num": 46395
+    "num": 46388
   },
   {
     "id": "us-8045",
@@ -88921,7 +88921,7 @@
     "die_count": 0,
     "state_name": "TX",
     "county": "Collin",
-    "num": 46396
+    "num": 46389
   },
   {
     "id": "us-8046",
@@ -88936,7 +88936,7 @@
     "die_count": 0,
     "state_name": "TX",
     "county": "Collin",
-    "num": 46397
+    "num": 46390
   },
   {
     "id": "us-8047",
@@ -88951,7 +88951,7 @@
     "die_count": 0,
     "state_name": "TX",
     "county": "Collin",
-    "num": 46398
+    "num": 46391
   },
   {
     "id": "us-8048",
@@ -88966,7 +88966,7 @@
     "die_count": 0,
     "state_name": "TX",
     "county": "Collin",
-    "num": 46399
+    "num": 46392
   },
   {
     "id": "us-8049",
@@ -88980,7 +88980,7 @@
     "die_count": 0,
     "state_name": "MO",
     "county": "St. Louis",
-    "num": 46420
+    "num": 46413
   },
   {
     "id": "us-8050",
@@ -88996,7 +88996,7 @@
     "age_range": "70+",
     "state_name": "PA",
     "county": "Lackawanna",
-    "num": 46420
+    "num": 46413
   },
   {
     "id": "us-8051",
@@ -89010,7 +89010,7 @@
     "die_count": 0,
     "state_name": "TX",
     "county": "McLennan",
-    "num": 46424
+    "num": 46417
   },
   {
     "id": "us-8052",
@@ -89024,7 +89024,7 @@
     "die_count": 1,
     "state_name": "NY",
     "county": "Madison",
-    "num": 46424
+    "num": 46417
   },
   {
     "id": "us-8053",
@@ -89041,7 +89041,7 @@
     "age_range": "80+",
     "state_name": "MO",
     "county": "Greene",
-    "num": 46424
+    "num": 46417
   },
   {
     "id": "us-8054",
@@ -89057,7 +89057,7 @@
     "gender": "Unknown",
     "age_range": "70+",
     "comments_en": "Rockland County confirmed 5 death, One on Sunday and one on Monday. One was 79 and the other 66, county health officials said. Both had other significant health problems.",
-    "num": 46424
+    "num": 46417
   },
   {
     "id": "us-8055",
@@ -89073,7 +89073,7 @@
     "age_range": "60+",
     "state_name": "NY",
     "county": "Rockland",
-    "num": 46424
+    "num": 46417
   },
   {
     "id": "us-8056",
@@ -89087,7 +89087,7 @@
     "die_count": 2,
     "state_name": "NY",
     "county": "Rockland",
-    "num": 46424
+    "num": 46417
   },
   {
     "id": "us-8057",
@@ -89101,7 +89101,7 @@
     ],
     "state_name": "CA",
     "county": "Monterey",
-    "num": 46430
+    "num": 46423
   },
   {
     "id": "us-8058",
@@ -89115,7 +89115,7 @@
     "links": [
       "https://www.yolocounty.org/health-human-services/adults/communicable-disease-investigation-and-control/novel-coronavirus-2019"
     ],
-    "num": 46432
+    "num": 46425
   },
   {
     "id": "us-8064",
@@ -89129,7 +89129,7 @@
     "links": [
       "https://www.nh.gov/covid19/"
     ],
-    "num": 46442
+    "num": 46435
   },
   {
     "id": "us-8066",
@@ -89143,7 +89143,7 @@
     "links": [
       "https://www.nh.gov/covid19/"
     ],
-    "num": 46445
+    "num": 46438
   },
   {
     "id": "us-8067",
@@ -89157,7 +89157,49 @@
     "links": [
       "https://www.nh.gov/covid19/"
     ],
-    "num": 46446
+    "num": 46439
+  },
+  {
+    "id": "us-8068",
+    "people_count": 1,
+    "die_count": 0,
+    "state_name": "NH",
+    "county": "Carroll",
+    "confirmed_date": "3/23",
+    "comments": "3/23上午 新罕布什尔州Caroll County累计确诊7例。",
+    "comments_en": "By 3/23, Caroll County, NH reported 7 cases in total.",
+    "links": [
+      "https://www.nh.gov/covid19/"
+    ],
+    "num": 46440
+  },
+  {
+    "id": "us-8069",
+    "people_count": 3,
+    "die_count": 0,
+    "state_name": "NH",
+    "county": "Berknap",
+    "confirmed_date": "3/23",
+    "comments": "3/23上午 新罕布什尔州Berknap County累计确诊7例。",
+    "comments_en": "By 3/23, Berknap County, NH reported 7 cases in total.",
+    "links": [
+      "https://www.nh.gov/covid19/"
+    ],
+    "num": 46443
+  },
+  {
+    "id": "us-8070",
+    "die_count": 0,
+    "state_name": "NY",
+    "county": "Erie",
+    "people_count": 5,
+    "confirmed_date": "3/23",
+    "comments": "纽约州Erie County于3/23晚上累计确诊96例。",
+    "comments_en": "There are 96 total cases in Erie County by 3/23 night.",
+    "links": [
+      "https://buffalonews.com/2020/03/23/23-more-covid-19-cases-in-erie-county-total-now-at-87/"
+    ],
+    "num": 46448
   },
   {
     "id": "us-8059",
@@ -89171,7 +89213,7 @@
     "links": [
       "https://www.elnuevodia.com/noticias/locales/nota/loscasospositivosdecoronavirusenpuertoricosubena39-2555292/"
     ],
-    "num": 46454
+    "num": 46456
   },
   {
     "id": "us-8060",
@@ -89185,7 +89227,7 @@
     "links": [
       "https://www.houstonchronicle.com/coronavirus/article/texas-coronavirus-map-cases-houston-covid-19-15137466.php"
     ],
-    "num": 46477
+    "num": 46479
   },
   {
     "id": "us-8061",
@@ -89199,7 +89241,7 @@
     "links": [
       "https://www.oregonlive.com/coronavirus/2020/03/linn-county-veteran-tests-positive-for-coronavirus-after-previously-testing-negative.html"
     ],
-    "num": 46478
+    "num": 46480
   },
   {
     "id": "us-8063",
@@ -89213,7 +89255,21 @@
     "links": [
       "https://www.oregonlive.com/coronavirus/2020/03/linn-county-veteran-tests-positive-for-coronavirus-after-previously-testing-negative.html"
     ],
-    "num": 46479
+    "num": 46481
+  },
+  {
+    "id": "us-8072",
+    "people_count": 2,
+    "die_count": 0,
+    "state_name": "NY",
+    "county": "Broome",
+    "confirmed_date": "3/24",
+    "comments": "截至3/24上午，纽约州Broome累计确诊9例。【更新】报告于地方政府。",
+    "comments_en": "Broome County, NY reported 9 total cases by 3/24 morning. 【Note】It is reported by Broome County, not including in NY total right now.",
+    "links": [
+      "http://www.gobroomecounty.com/hd/coronavirus"
+    ],
+    "num": 46483
   },
   {
     "id": "us-8065",
@@ -89227,6 +89283,6 @@
     "links": [
       "https://www.nh.gov/covid19/"
     ],
-    "num": 46484
+    "num": 46488
   }
 ]
