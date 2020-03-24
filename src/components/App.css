@@ -470,6 +470,7 @@ ul.map-nav-bar:not(:hover) li.current {
     justify-content: center;
     flex-direction: column;
     align-items: center;
+    cursor: default;
 }
 
 .count {

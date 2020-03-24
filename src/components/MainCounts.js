@@ -3,6 +3,20 @@ import { metricText, getDataFromRegion, previousDay } from '../utils/utils'
 import i18n from '../data/i18n.yml'
 
 export default class MainCounts extends Component {
+    state = {
+        showNewCases: {
+            confirmedCount: false,
+            deadCount: false,
+            curedCount: false
+        }
+    }
+
+    toggleView = (metric) => {
+        let showNewCases = this.state.showNewCases
+        showNewCases[metric] = !showNewCases[metric]
+        this.setState({ showNewCases })
+    }
+
     render() {
         const { data, currentRegion, date, lang, fullPlot } = this.props
         if (data == null) return <div />
