@@ -77628,6 +77628,50 @@
     "num": 35187
   },
   {
+    "id": "us-8078",
+    "people_count": 2,
+    "die_count": 0,
+    "state_name": "NC",
+    "county": "Cabarrus",
+    "confirmed_date": "3/22",
+    "comments": "3/22 Cabarrus County, NC累计确诊8例。",
+    "comments_en": "By 3/22, Cabarrus County, NC reported 8 cases in total.",
+    "links": [
+      "https://www.independenttribune.com/news/zip-codes-of-now-confirmed-cases-of-covid--in/article_66f3c57e-6d4e-11ea-95f3-bf2623745116.html"
+    ],
+    "num": 35189
+  },
+  {
+    "id": "us-8093",
+    "people_count": 1,
+    "die_count": 0,
+    "state_name": "TX",
+    "county": "Lubbock",
+    "links": [
+      "https://ci.lubbock.tx.us/departments/health-department/about-us/coronavirus-disease-2019-covid-19"
+    ],
+    "comments_en": "Case 10 from 03/22",
+    "confirmed_date": "3/22",
+    "age_range": "60+",
+    "comments": "03/22 第10例，详情未知。",
+    "num": 35190
+  },
+  {
+    "id": "us-8094",
+    "confirmed_date": "3/22",
+    "comments": "03/22 第11例，详情未知。",
+    "links": [
+      "https://ci.lubbock.tx.us/departments/health-department/about-us/coronavirus-disease-2019-covid-19"
+    ],
+    "people_count": 1,
+    "comments_en": "Case 11 from 03/22",
+    "die_count": 0,
+    "age_range": "20+",
+    "state_name": "TX",
+    "county": "Lubbock",
+    "num": 35191
+  },
+  {
     "id": "us-6140",
     "confirmed_date": "3/23",
     "comments": "截止3/23, 密西西比州 Hinds County 累计确诊 24 例, 新增4例。",
@@ -77639,7 +77683,7 @@
     "die_count": 0,
     "state_name": "MS",
     "county": "Hinds",
-    "num": 35191
+    "num": 35195
   },
   {
     "id": "us-7071",
@@ -77653,7 +77697,7 @@
     "die_count": 0,
     "state_name": "OK",
     "county": "Pontotoc",
-    "num": 35192
+    "num": 35196
   },
   {
     "id": "us-7088",
@@ -77669,7 +77713,7 @@
     "age_range": "70+",
     "state_name": "PR",
     "county": "Puerto Rico",
-    "num": 35192
+    "num": 35196
   },
   {
     "id": "us-7089",
@@ -77683,7 +77727,7 @@
     "die_count": 0,
     "state_name": "PR",
     "county": "Puerto Rico",
-    "num": 35200
+    "num": 35204
   },
   {
     "id": "us-7092",
@@ -77697,7 +77741,7 @@
     "die_count": 0,
     "state_name": "CA",
     "county": "Butte",
-    "num": 35201
+    "num": 35205
   },
   {
     "id": "us-7093",
@@ -77712,7 +77756,7 @@
     "die_count": 0,
     "state_name": "CA",
     "county": "Shasta",
-    "num": 35202
+    "num": 35206
   },
   {
     "id": "us-7096",
@@ -77726,7 +77770,7 @@
     "die_count": 0,
     "state_name": "MI",
     "county": "Muskegon",
-    "num": 35203
+    "num": 35207
   },
   {
     "id": "us-7104",
@@ -77741,7 +77785,7 @@
     "die_count": 0,
     "state_name": "OH",
     "county": "Wood",
-    "num": 35204
+    "num": 35208
   },
   {
     "id": "us-7129",
@@ -77755,7 +77799,7 @@
     "die_count": 0,
     "state_name": "DE",
     "county": "Sussex",
-    "num": 35210
+    "num": 35214
   },
   {
     "id": "us-7130",
@@ -77769,7 +77813,7 @@
     "die_count": 0,
     "state_name": "DE",
     "county": "New Castle",
-    "num": 35215
+    "num": 35219
   },
   {
     "id": "us-7131",
@@ -77783,7 +77827,7 @@
     "die_count": 0,
     "state_name": "DE",
     "county": "Kent",
-    "num": 35216
+    "num": 35220
   },
   {
     "id": "us-7132",
@@ -77797,7 +77841,7 @@
     "die_count": 0,
     "state_name": "KY",
     "county": "Unassigned",
-    "num": 35231
+    "num": 35235
   },
   {
     "id": "us-7133",
@@ -77811,7 +77855,7 @@
     "die_count": 0,
     "state_name": "MD",
     "county": "Anne Arundel",
-    "num": 35233
+    "num": 35237
   },
   {
     "id": "us-7134",
@@ -77825,7 +77869,7 @@
     "die_count": 0,
     "state_name": "MD",
     "county": "Baltimore",
-    "num": 35240
+    "num": 35244
   },
   {
     "id": "us-7135",
@@ -77839,7 +77883,7 @@
     "die_count": 0,
     "state_name": "MD",
     "county": "Baltimore City",
-    "num": 35247
+    "num": 35251
   },
   {
     "id": "us-7136",
@@ -77853,7 +77897,7 @@
     "die_count": 0,
     "state_name": "MD",
     "county": "Carroll",
-    "num": 35248
+    "num": 35252
   },
   {
     "id": "us-7137",
@@ -77867,7 +77911,7 @@
     "die_count": 0,
     "state_name": "MD",
     "county": "Garrett",
-    "num": 35249
+    "num": 35253
   },
   {
     "id": "us-7138",
@@ -77881,7 +77925,7 @@
     "die_count": 0,
     "state_name": "MD",
     "county": "Howard",
-    "num": 35251
+    "num": 35255
   },
   {
     "id": "us-7139",
@@ -77895,7 +77939,7 @@
     "die_count": 0,
     "state_name": "IN",
     "county": "Unassigned",
-    "num": 35307
+    "num": 35311
   },
   {
     "id": "us-7140",
@@ -77909,7 +77953,7 @@
     "die_count": 0,
     "state_name": "MD",
     "county": "Montgomery",
-    "num": 35318
+    "num": 35322
   },
   {
     "id": "us-7142",
@@ -77923,7 +77967,7 @@
     "die_count": 0,
     "state_name": "MD",
     "county": "Prince George's",
-    "num": 35325
+    "num": 35329
   },
   {
     "id": "us-7143",
@@ -77937,7 +77981,7 @@
     "die_count": 0,
     "state_name": "MD",
     "county": "Wicomico",
-    "num": 35327
+    "num": 35331
   },
   {
     "id": "us-7150",
@@ -77951,7 +77995,7 @@
     "die_count": 0,
     "state_name": "SD",
     "county": "Beadle",
-    "num": 35329
+    "num": 35333
   },
   {
     "id": "us-7152",
@@ -77965,7 +78009,7 @@
     "die_count": 0,
     "state_name": "SD",
     "county": "Codington",
-    "num": 35330
+    "num": 35334
   },
   {
     "id": "us-7153",
@@ -77979,7 +78023,7 @@
     "die_count": 0,
     "state_name": "SD",
     "county": "Davison",
-    "num": 35331
+    "num": 35335
   },
   {
     "id": "us-7154",
@@ -77993,7 +78037,7 @@
     "die_count": 0,
     "state_name": "SD",
     "county": "Hughes",
-    "num": 35332
+    "num": 35336
   },
   {
     "id": "us-7155",
@@ -78007,7 +78051,7 @@
     "die_count": 0,
     "state_name": "SD",
     "county": "Lyman",
-    "num": 35333
+    "num": 35337
   },
   {
     "id": "us-7156",
@@ -78021,7 +78065,7 @@
     "die_count": 0,
     "state_name": "SD",
     "county": "McCook",
-    "num": 35334
+    "num": 35338
   },
   {
     "id": "us-7158",
@@ -78035,7 +78079,7 @@
     "die_count": 0,
     "state_name": "FL",
     "county": "Alachua",
-    "num": 35335
+    "num": 35339
   },
   {
     "id": "us-7159",
@@ -78049,7 +78093,7 @@
     "die_count": 0,
     "state_name": "FL",
     "county": "Broward",
-    "num": 35376
+    "num": 35380
   },
   {
     "id": "us-7160",
@@ -78063,7 +78107,7 @@
     "die_count": 0,
     "state_name": "FL",
     "county": "Baker",
-    "num": 35377
+    "num": 35381
   },
   {
     "id": "us-7161",
@@ -78077,7 +78121,7 @@
     "die_count": 0,
     "state_name": "FL",
     "county": "Charlotte",
-    "num": 35378
+    "num": 35382
   },
   {
     "id": "us-7162",
@@ -78091,7 +78135,7 @@
     "die_count": 0,
     "state_name": "FL",
     "county": "Citrus",
-    "num": 35379
+    "num": 35383
   },
   {
     "id": "us-7163",
@@ -78105,7 +78149,7 @@
     "die_count": 0,
     "state_name": "FL",
     "county": "Clay",
-    "num": 35380
+    "num": 35384
   },
   {
     "id": "us-7164",
@@ -78119,7 +78163,7 @@
     "die_count": 0,
     "state_name": "FL",
     "county": "Collier",
-    "num": 35381
+    "num": 35385
   },
   {
     "id": "us-7165",
@@ -78133,7 +78177,7 @@
     "die_count": 0,
     "state_name": "FL",
     "county": "Miami-Dade",
-    "num": 35421
+    "num": 35425
   },
   {
     "id": "us-7166",
@@ -78147,7 +78191,7 @@
     "die_count": 0,
     "state_name": "FL",
     "county": "Duval",
-    "num": 35428
+    "num": 35432
   },
   {
     "id": "us-7167",
@@ -78161,7 +78205,7 @@
     "die_count": 0,
     "state_name": "FL",
     "county": "Escambia",
-    "num": 35429
+    "num": 35433
   },
   {
     "id": "us-7168",
@@ -78175,7 +78219,7 @@
     "die_count": 0,
     "state_name": "FL",
     "county": "Flagler",
-    "num": 35431
+    "num": 35435
   },
   {
     "id": "us-7169",
@@ -78189,7 +78233,7 @@
     "die_count": 0,
     "state_name": "FL",
     "county": "Highlands",
-    "num": 35432
+    "num": 35436
   },
   {
     "id": "us-7170",
@@ -78203,7 +78247,7 @@
     "die_count": 0,
     "state_name": "FL",
     "county": "Hillsborough",
-    "num": 35447
+    "num": 35451
   },
   {
     "id": "us-7171",
@@ -78217,7 +78261,7 @@
     "die_count": 0,
     "state_name": "FL",
     "county": "Lake",
-    "num": 35448
+    "num": 35452
   },
   {
     "id": "us-7172",
@@ -78231,7 +78275,7 @@
     "die_count": 0,
     "state_name": "FL",
     "county": "Lee",
-    "num": 35450
+    "num": 35454
   },
   {
     "id": "us-7173",
@@ -78245,7 +78289,7 @@
     "die_count": 0,
     "state_name": "MI",
     "county": "Kalamazoo",
-    "num": 35451
+    "num": 35455
   },
   {
     "id": "us-7174",
@@ -78259,7 +78303,7 @@
     "die_count": 0,
     "state_name": "FL",
     "county": "Manatee",
-    "num": 35453
+    "num": 35457
   },
   {
     "id": "us-7175",
@@ -78273,7 +78317,7 @@
     "die_count": 0,
     "state_name": "FL",
     "county": "Marion",
-    "num": 35454
+    "num": 35458
   },
   {
     "id": "us-7176",
@@ -78287,7 +78331,7 @@
     "die_count": 0,
     "state_name": "FL",
     "county": "Monroe",
-    "num": 35455
+    "num": 35459
   },
   {
     "id": "us-7177",
@@ -78301,7 +78345,7 @@
     "die_count": 0,
     "state_name": "MI",
     "county": "Kalamazoo",
-    "num": 35456
+    "num": 35460
   },
   {
     "id": "us-7178",
@@ -78315,7 +78359,7 @@
     "die_count": 0,
     "state_name": "MI",
     "county": "Kalamazoo",
-    "num": 35457
+    "num": 35461
   },
   {
     "id": "us-7179",
@@ -78329,7 +78373,7 @@
     "die_count": 0,
     "state_name": "FL",
     "county": "Orange",
-    "num": 35469
+    "num": 35473
   },
   {
     "id": "us-7180",
@@ -78343,7 +78387,7 @@
     "die_count": 0,
     "state_name": "FL",
     "county": "Palm Beach",
-    "num": 35486
+    "num": 35490
   },
   {
     "id": "us-7181",
@@ -78357,7 +78401,7 @@
     "die_count": 0,
     "state_name": "FL",
     "county": "Pasco",
-    "num": 35488
+    "num": 35492
   },
   {
     "id": "us-7182",
@@ -78371,7 +78415,7 @@
     "die_count": 0,
     "state_name": "FL",
     "county": "Pinellas",
-    "num": 35490
+    "num": 35494
   },
   {
     "id": "us-7183",
@@ -78385,7 +78429,7 @@
     "die_count": 0,
     "state_name": "FL",
     "county": "Polk",
-    "num": 35492
+    "num": 35496
   },
   {
     "id": "us-7185",
@@ -78401,7 +78445,7 @@
     "age_range": "20+",
     "state_name": "MD",
     "county": "Frederick",
-    "num": 35494
+    "num": 35498
   },
   {
     "id": "us-7184",
@@ -78415,7 +78459,7 @@
     "die_count": 0,
     "state_name": "GU",
     "county": "Guam",
-    "num": 35496
+    "num": 35500
   },
   {
     "id": "us-7186",
@@ -78429,7 +78473,7 @@
     "die_count": 0,
     "state_name": "FL",
     "county": "Sarasota",
-    "num": 35498
+    "num": 35502
   },
   {
     "id": "us-7187",
@@ -78443,7 +78487,7 @@
     "die_count": 0,
     "state_name": "FL",
     "county": "Sarasota",
-    "num": 35500
+    "num": 35504
   },
   {
     "id": "us-7188",
@@ -78457,7 +78501,7 @@
     "die_count": 0,
     "state_name": "FL",
     "county": "St. Johns",
-    "num": 35502
+    "num": 35506
   },
   {
     "id": "us-7189",
@@ -78471,7 +78515,7 @@
     "die_count": 0,
     "state_name": "FL",
     "county": "Sumter",
-    "num": 35505
+    "num": 35509
   },
   {
     "id": "us-7190",
@@ -78485,7 +78529,7 @@
     "die_count": 0,
     "state_name": "FL",
     "county": "Volusia",
-    "num": 35506
+    "num": 35510
   },
   {
     "id": "us-7191",
@@ -78499,7 +78543,7 @@
     "die_count": 0,
     "state_name": "FL",
     "county": "Walton",
-    "num": 35507
+    "num": 35511
   },
   {
     "id": "us-7192",
@@ -78513,7 +78557,7 @@
     "die_count": 0,
     "state_name": "PA",
     "county": "Allegheny",
-    "num": 35515
+    "num": 35519
   },
   {
     "id": "us-7193",
@@ -78528,7 +78572,7 @@
     "die_count": 0,
     "state_name": "ME",
     "county": "Cumberland",
-    "num": 35528
+    "num": 35532
   },
   {
     "id": "us-7194",
@@ -78543,7 +78587,7 @@
     "die_count": 0,
     "state_name": "ME",
     "county": "York",
-    "num": 35532
+    "num": 35536
   },
   {
     "id": "us-7198",
@@ -78557,7 +78601,7 @@
     "die_count": 0,
     "state_name": "ME",
     "county": "Lincoln",
-    "num": 35533
+    "num": 35537
   },
   {
     "id": "us-7199",
@@ -78572,7 +78616,7 @@
     "die_count": 3,
     "state_name": "MI",
     "county": "Wayne",
-    "num": 35694
+    "num": 35698
   },
   {
     "id": "us-7200",
@@ -78586,7 +78630,7 @@
     "die_count": 0,
     "state_name": "TX",
     "county": "Galveston",
-    "num": 35699
+    "num": 35703
   },
   {
     "id": "us-7201",
@@ -78603,7 +78647,7 @@
     "age_range": "20+",
     "state_name": "TX",
     "county": "Brazoria",
-    "num": 35700
+    "num": 35704
   },
   {
     "id": "us-7202",
@@ -78617,7 +78661,7 @@
     "die_count": 1,
     "state_name": "FL",
     "county": "Unassigned",
-    "num": 35700
+    "num": 35704
   },
   {
     "id": "us-7204",
@@ -78631,7 +78675,7 @@
     "die_count": 0,
     "state_name": "ME",
     "county": "Oxford",
-    "num": 35701
+    "num": 35705
   },
   {
     "id": "us-7205",
@@ -78645,7 +78689,7 @@
     "die_count": 0,
     "state_name": "ME",
     "county": "Penobscot",
-    "num": 35702
+    "num": 35706
   },
   {
     "id": "us-7206",
@@ -78659,7 +78703,7 @@
     "die_count": 0,
     "state_name": "ME",
     "county": "Knox",
-    "num": 35703
+    "num": 35707
   },
   {
     "id": "us-7207",
@@ -78676,7 +78720,7 @@
     "age_range": "50+",
     "state_name": "TX",
     "county": "Brazoria",
-    "num": 35704
+    "num": 35708
   },
   {
     "id": "us-7208",
@@ -78690,7 +78734,7 @@
     "die_count": 0,
     "state_name": "CA",
     "county": "San Francisco",
-    "num": 35727
+    "num": 35731
   },
   {
     "id": "us-7209",
@@ -78706,7 +78750,7 @@
     "age_range": "50+",
     "state_name": "WI",
     "county": "Milwaukee",
-    "num": 35727
+    "num": 35731
   },
   {
     "id": "us-7213",
@@ -78720,7 +78764,7 @@
     "die_count": 0,
     "state_name": "GA",
     "county": "Unassigned",
-    "num": 35745
+    "num": 35749
   },
   {
     "id": "us-7215",
@@ -78734,7 +78778,7 @@
     "die_count": 0,
     "state_name": "NJ",
     "county": "Unassigned",
-    "num": 35943
+    "num": 35947
   },
   {
     "id": "us-7216",
@@ -78748,7 +78792,7 @@
     "die_count": 0,
     "state_name": "WI",
     "county": "Milwaukee",
-    "num": 35963
+    "num": 35967
   },
   {
     "id": "us-7217",
@@ -78762,7 +78806,7 @@
     "die_count": 1,
     "state_name": "NJ",
     "county": "Unassigned",
-    "num": 35963
+    "num": 35967
   },
   {
     "id": "us-7218",
@@ -78777,7 +78821,7 @@
     "die_count": 0,
     "state_name": "OH",
     "county": "Lucas",
-    "num": 35966
+    "num": 35970
   },
   {
     "id": "us-7219",
@@ -78791,7 +78835,7 @@
     "die_count": 0,
     "state_name": "NC",
     "county": "Mecklenburg",
-    "num": 35992
+    "num": 35996
   },
   {
     "id": "us-7223",
@@ -78805,7 +78849,7 @@
     "die_count": 0,
     "state_name": "AL",
     "county": "Jefferson",
-    "num": 36000
+    "num": 36004
   },
   {
     "id": "us-7224",
@@ -78819,7 +78863,7 @@
     "die_count": 0,
     "state_name": "AL",
     "county": "Lee",
-    "num": 36001
+    "num": 36005
   },
   {
     "id": "us-7225",
@@ -78833,7 +78877,7 @@
     "die_count": 0,
     "state_name": "AL",
     "county": "Madison",
-    "num": 36002
+    "num": 36006
   },
   {
     "id": "us-7226",
@@ -78847,7 +78891,7 @@
     "die_count": 0,
     "state_name": "PA",
     "county": "Adams",
-    "num": 36003
+    "num": 36007
   },
   {
     "id": "us-7227",
@@ -78861,7 +78905,7 @@
     "die_count": 0,
     "state_name": "PA",
     "county": "Berks",
-    "num": 36004
+    "num": 36008
   },
   {
     "id": "us-7228",
@@ -78875,7 +78919,7 @@
     "die_count": 0,
     "state_name": "PA",
     "county": "Bucks",
-    "num": 36006
+    "num": 36010
   },
   {
     "id": "us-7229",
@@ -78889,7 +78933,7 @@
     "die_count": 0,
     "state_name": "PA",
     "county": "Butler",
-    "num": 36010
+    "num": 36014
   },
   {
     "id": "us-7230",
@@ -78903,7 +78947,7 @@
     "die_count": 0,
     "state_name": "TX",
     "county": "Gaines",
-    "num": 36011
+    "num": 36015
   },
   {
     "id": "us-7231",
@@ -78917,7 +78961,7 @@
     "die_count": 0,
     "state_name": "PA",
     "county": "Cambria",
-    "num": 36012
+    "num": 36016
   },
   {
     "id": "us-7232",
@@ -78931,7 +78975,7 @@
     "die_count": 0,
     "state_name": "PA",
     "county": "Centre",
-    "num": 36014
+    "num": 36018
   },
   {
     "id": "us-7233",
@@ -78945,7 +78989,7 @@
     "die_count": 0,
     "state_name": "PA",
     "county": "Chester",
-    "num": 36031
+    "num": 36035
   },
   {
     "id": "us-7234",
@@ -78959,7 +79003,7 @@
     "die_count": 0,
     "state_name": "PA",
     "county": "Cumberland",
-    "num": 36032
+    "num": 36036
   },
   {
     "id": "us-7235",
@@ -78973,7 +79017,7 @@
     "die_count": 0,
     "state_name": "PA",
     "county": "Delaware",
-    "num": 36043
+    "num": 36047
   },
   {
     "id": "us-7236",
@@ -78987,7 +79031,7 @@
     "die_count": 0,
     "state_name": "OR",
     "county": "Hood River",
-    "num": 36044
+    "num": 36048
   },
   {
     "id": "us-7237",
@@ -79001,7 +79045,7 @@
     "die_count": 0,
     "state_name": "PA",
     "county": "Erie",
-    "num": 36045
+    "num": 36049
   },
   {
     "id": "us-7238",
@@ -79015,7 +79059,7 @@
     "die_count": 0,
     "state_name": "PA",
     "county": "Lackawanna",
-    "num": 36046
+    "num": 36050
   },
   {
     "id": "us-7239",
@@ -79029,7 +79073,7 @@
     "die_count": 0,
     "state_name": "IA",
     "county": "Allamakee",
-    "num": 36047
+    "num": 36051
   },
   {
     "id": "us-7240",
@@ -79043,7 +79087,7 @@
     "die_count": 0,
     "state_name": "PA",
     "county": "Lehigh",
-    "num": 36053
+    "num": 36057
   },
   {
     "id": "us-7241",
@@ -79057,7 +79101,7 @@
     "die_count": 0,
     "state_name": "PA",
     "county": "Luzerne",
-    "num": 36056
+    "num": 36060
   },
   {
     "id": "us-7242",
@@ -79071,7 +79115,7 @@
     "die_count": 0,
     "state_name": "PA",
     "county": "Monroe",
-    "num": 36068
+    "num": 36072
   },
   {
     "id": "us-7243",
@@ -79085,7 +79129,7 @@
     "die_count": 0,
     "state_name": "PA",
     "county": "Montgomery",
-    "num": 36087
+    "num": 36091
   },
   {
     "id": "us-7244",
@@ -79099,7 +79143,7 @@
     "die_count": 0,
     "state_name": "PA",
     "county": "Northampton",
-    "num": 36089
+    "num": 36093
   },
   {
     "id": "us-7245",
@@ -79113,7 +79157,7 @@
     "die_count": 0,
     "state_name": "PA",
     "county": "Philadelphia",
-    "num": 36121
+    "num": 36125
   },
   {
     "id": "us-7246",
@@ -79127,7 +79171,7 @@
     "die_count": 0,
     "state_name": "IA",
     "county": "Dubuque",
-    "num": 36122
+    "num": 36126
   },
   {
     "id": "us-7247",
@@ -79141,7 +79185,7 @@
     "die_count": 0,
     "state_name": "PA",
     "county": "Schuylkill",
-    "num": 36124
+    "num": 36128
   },
   {
     "id": "us-7248",
@@ -79155,7 +79199,7 @@
     "die_count": 0,
     "state_name": "PA",
     "county": "Wayne",
-    "num": 36125
+    "num": 36129
   },
   {
     "id": "us-7249",
@@ -79169,7 +79213,7 @@
     "die_count": 0,
     "state_name": "PA",
     "county": "Westmoreland",
-    "num": 36127
+    "num": 36131
   },
   {
     "id": "us-7250",
@@ -79183,7 +79227,7 @@
     "die_count": 0,
     "state_name": "IA",
     "county": "Hancock",
-    "num": 36129
+    "num": 36133
   },
   {
     "id": "us-7251",
@@ -79197,7 +79241,7 @@
     "die_count": 0,
     "state_name": "TX",
     "county": "Tarrant",
-    "num": 36139
+    "num": 36143
   },
   {
     "id": "us-7252",
@@ -79211,7 +79255,7 @@
     "die_count": 0,
     "state_name": "AZ",
     "county": "Apache",
-    "num": 36140
+    "num": 36144
   },
   {
     "id": "us-7253",
@@ -79226,7 +79270,7 @@
     "die_count": 0,
     "state_name": "TX",
     "county": "Erath",
-    "num": 36141
+    "num": 36145
   },
   {
     "id": "us-7254",
@@ -79240,7 +79284,7 @@
     "die_count": 0,
     "state_name": "AZ",
     "county": "Coconino",
-    "num": 36144
+    "num": 36148
   },
   {
     "id": "us-7255",
@@ -79254,7 +79298,7 @@
     "die_count": 0,
     "state_name": "OK",
     "county": "Cleveland",
-    "num": 36147
+    "num": 36151
   },
   {
     "id": "us-7256",
@@ -79268,7 +79312,7 @@
     "die_count": 0,
     "state_name": "NC",
     "county": "Union",
-    "num": 36148
+    "num": 36152
   },
   {
     "id": "us-7257",
@@ -79282,7 +79326,7 @@
     "die_count": 0,
     "state_name": "AZ",
     "county": "Maricopa",
-    "num": 36206
+    "num": 36210
   },
   {
     "id": "us-7258",
@@ -79296,7 +79340,7 @@
     "die_count": 0,
     "state_name": "OK",
     "county": "Kay",
-    "num": 36207
+    "num": 36211
   },
   {
     "id": "us-7259",
@@ -79310,7 +79354,7 @@
     "die_count": 0,
     "state_name": "OK",
     "county": "Oklahoma",
-    "num": 36210
+    "num": 36214
   },
   {
     "id": "us-7260",
@@ -79324,7 +79368,7 @@
     "die_count": 0,
     "state_name": "OK",
     "county": "Payne",
-    "num": 36211
+    "num": 36215
   },
   {
     "id": "us-7261",
@@ -79338,7 +79382,7 @@
     "die_count": 0,
     "state_name": "AZ",
     "county": "Navajo",
-    "num": 36223
+    "num": 36227
   },
   {
     "id": "us-7262",
@@ -79352,7 +79396,7 @@
     "die_count": 0,
     "state_name": "OK",
     "county": "Tulsa",
-    "num": 36228
+    "num": 36232
   },
   {
     "id": "us-7263",
@@ -79366,7 +79410,7 @@
     "die_count": 0,
     "state_name": "RI",
     "county": "Unassigned",
-    "num": 36233
+    "num": 36237
   },
   {
     "id": "us-7264",
@@ -79380,7 +79424,7 @@
     "die_count": 0,
     "state_name": "AZ",
     "county": "Pima",
-    "num": 36240
+    "num": 36244
   },
   {
     "id": "us-7265",
@@ -79394,7 +79438,7 @@
     "die_count": 0,
     "state_name": "AZ",
     "county": "Pinal",
-    "num": 36241
+    "num": 36245
   },
   {
     "id": "us-7266",
@@ -79408,7 +79452,7 @@
     "die_count": 0,
     "state_name": "IA",
     "county": "Johnson",
-    "num": 36242
+    "num": 36246
   },
   {
     "id": "us-7267",
@@ -79422,7 +79466,7 @@
     "die_count": 0,
     "state_name": "RI",
     "county": "Providence",
-    "num": 36249
+    "num": 36253
   },
   {
     "id": "us-7268",
@@ -79436,7 +79480,7 @@
     "die_count": 0,
     "state_name": "IA",
     "county": "Johnson",
-    "num": 36251
+    "num": 36255
   },
   {
     "id": "us-7269",
@@ -79450,7 +79494,7 @@
     "die_count": 0,
     "state_name": "IA",
     "county": "Linn",
-    "num": 36252
+    "num": 36256
   },
   {
     "id": "us-7270",
@@ -79464,7 +79508,7 @@
     "die_count": 0,
     "state_name": "RI",
     "county": "Newport",
-    "num": 36253
+    "num": 36257
   },
   {
     "id": "us-7271",
@@ -79478,7 +79522,7 @@
     "die_count": 0,
     "state_name": "RI",
     "county": "Bristol",
-    "num": 36263
+    "num": 36267
   },
   {
     "id": "us-7272",
@@ -79492,7 +79536,7 @@
     "die_count": 0,
     "state_name": "IA",
     "county": "Muscatine",
-    "num": 36264
+    "num": 36268
   },
   {
     "id": "us-7274",
@@ -79506,7 +79550,7 @@
     "die_count": 0,
     "state_name": "IA",
     "county": "Polk",
-    "num": 36265
+    "num": 36269
   },
   {
     "id": "us-7275",
@@ -79520,7 +79564,7 @@
     "die_count": 0,
     "state_name": "TX",
     "county": "Eastland",
-    "num": 36266
+    "num": 36270
   },
   {
     "id": "us-7277",
@@ -79534,7 +79578,7 @@
     "die_count": 0,
     "state_name": "TX",
     "county": "Williamson",
-    "num": 36271
+    "num": 36275
   },
   {
     "id": "us-7278",
@@ -79549,7 +79593,7 @@
     "age_range": "50+",
     "state_name": "TX",
     "county": "Grayson",
-    "num": 36272
+    "num": 36276
   },
   {
     "id": "us-7279",
@@ -79563,7 +79607,7 @@
     "die_count": 0,
     "state_name": "VA",
     "county": "Alexandria",
-    "num": 36273
+    "num": 36277
   },
   {
     "id": "us-7281",
@@ -79577,7 +79621,7 @@
     "die_count": 0,
     "state_name": "VA",
     "county": "Arlington",
-    "num": 36281
+    "num": 36285
   },
   {
     "id": "us-7282",
@@ -79591,7 +79635,7 @@
     "die_count": 0,
     "state_name": "NY",
     "county": "Madison",
-    "num": 36282
+    "num": 36286
   },
   {
     "id": "us-7283",
@@ -79605,7 +79649,7 @@
     "die_count": 0,
     "state_name": "GA",
     "county": "Fulton",
-    "num": 36323
+    "num": 36327
   },
   {
     "id": "us-7284",
@@ -79620,7 +79664,7 @@
     "age_range": "<10",
     "state_name": "KS",
     "county": "Crawford",
-    "num": 36324
+    "num": 36328
   },
   {
     "id": "us-7286",
@@ -79634,7 +79678,7 @@
     "die_count": 0,
     "state_name": "NY",
     "county": "Oneida",
-    "num": 36325
+    "num": 36329
   },
   {
     "id": "us-7287",
@@ -79648,7 +79692,7 @@
     "die_count": 0,
     "state_name": "VA",
     "county": "Chesterfield",
-    "num": 36326
+    "num": 36330
   },
   {
     "id": "us-7288",
@@ -79662,7 +79706,7 @@
     "die_count": 0,
     "state_name": "GA",
     "county": "Cobb",
-    "num": 36338
+    "num": 36342
   },
   {
     "id": "us-7289",
@@ -79676,7 +79720,7 @@
     "die_count": 0,
     "state_name": "NY",
     "county": "Otsego",
-    "num": 36339
+    "num": 36343
   },
   {
     "id": "us-7290",
@@ -79690,7 +79734,7 @@
     "die_count": 0,
     "state_name": "GA",
     "county": "DeKalb",
-    "num": 36360
+    "num": 36364
   },
   {
     "id": "us-7292",
@@ -79704,7 +79748,7 @@
     "die_count": 0,
     "state_name": "NC",
     "county": "Brunswick",
-    "num": 36361
+    "num": 36365
   },
   {
     "id": "us-7293",
@@ -79718,7 +79762,7 @@
     "die_count": 0,
     "state_name": "GA",
     "county": "Dougherty",
-    "num": 36378
+    "num": 36382
   },
   {
     "id": "us-7294",
@@ -79734,7 +79778,7 @@
     "age_range": "50+",
     "state_name": "KS",
     "county": "Crawford",
-    "num": 36379
+    "num": 36383
   },
   {
     "id": "us-7297",
@@ -79748,7 +79792,7 @@
     "die_count": 0,
     "state_name": "VA",
     "county": "Hanover",
-    "num": 36380
+    "num": 36384
   },
   {
     "id": "us-7298",
@@ -79764,7 +79808,7 @@
     "age_range": "Unknown",
     "state_name": "NY",
     "county": "Monroe",
-    "num": 36380
+    "num": 36384
   },
   {
     "id": "us-7299",
@@ -79779,7 +79823,7 @@
     "die_count": 3,
     "state_name": "VT",
     "county": "Chittenden",
-    "num": 36380
+    "num": 36384
   },
   {
     "id": "us-7301",
@@ -79793,7 +79837,7 @@
     "die_count": 0,
     "state_name": "VA",
     "county": "Fairfax",
-    "num": 36392
+    "num": 36396
   },
   {
     "id": "us-7300",
@@ -79807,7 +79851,7 @@
     "die_count": 0,
     "state_name": "GA",
     "county": "Bartow",
-    "num": 36397
+    "num": 36401
   },
   {
     "id": "us-7303",
@@ -79821,7 +79865,7 @@
     "die_count": 0,
     "state_name": "IA",
     "county": "Wapello",
-    "num": 36398
+    "num": 36402
   },
   {
     "id": "us-7304",
@@ -79835,7 +79879,7 @@
     "die_count": 0,
     "state_name": "VA",
     "county": "Henrico",
-    "num": 36401
+    "num": 36405
   },
   {
     "id": "us-7305",
@@ -79849,7 +79893,7 @@
     "die_count": 0,
     "state_name": "VT",
     "county": "Chittenden",
-    "num": 36411
+    "num": 36415
   },
   {
     "id": "us-7307",
@@ -79863,7 +79907,7 @@
     "die_count": 0,
     "state_name": "VA",
     "county": "Norfolk",
-    "num": 36412
+    "num": 36416
   },
   {
     "id": "us-7308",
@@ -79877,7 +79921,7 @@
     "die_count": 0,
     "state_name": "VT",
     "county": "Rutland",
-    "num": 36413
+    "num": 36417
   },
   {
     "id": "us-7309",
@@ -79893,7 +79937,7 @@
     "age_range": "60+",
     "state_name": "NH",
     "county": "Hillsborough",
-    "num": 36413
+    "num": 36417
   },
   {
     "id": "us-7310",
@@ -79907,7 +79951,7 @@
     "die_count": 0,
     "state_name": "GA",
     "county": "Gwinnett",
-    "num": 36421
+    "num": 36425
   },
   {
     "id": "us-7311",
@@ -79921,7 +79965,7 @@
     "die_count": 0,
     "state_name": "TX",
     "county": "Dallas",
-    "num": 36445
+    "num": 36449
   },
   {
     "id": "us-7312",
@@ -79935,7 +79979,7 @@
     "die_count": 0,
     "state_name": "IA",
     "county": "Woodbury",
-    "num": 36446
+    "num": 36450
   },
   {
     "id": "us-7313",
@@ -79949,7 +79993,7 @@
     "die_count": 0,
     "state_name": "GA",
     "county": "Carroll",
-    "num": 36451
+    "num": 36455
   },
   {
     "id": "us-7314",
@@ -79963,7 +80007,7 @@
     "die_count": 0,
     "state_name": "VA",
     "county": "James City",
-    "num": 36453
+    "num": 36457
   },
   {
     "id": "us-7316",
@@ -79977,7 +80021,7 @@
     "die_count": 0,
     "state_name": "GA",
     "county": "Cherokee",
-    "num": 36459
+    "num": 36463
   },
   {
     "id": "us-7317",
@@ -79991,7 +80035,7 @@
     "die_count": 0,
     "state_name": "VA",
     "county": "Stafford",
-    "num": 36460
+    "num": 36464
   },
   {
     "id": "us-7318",
@@ -80005,7 +80049,7 @@
     "die_count": 0,
     "state_name": "IA",
     "county": "Polk",
-    "num": 36461
+    "num": 36465
   },
   {
     "id": "us-7319",
@@ -80019,7 +80063,7 @@
     "die_count": 0,
     "state_name": "GA",
     "county": "Clayton",
-    "num": 36467
+    "num": 36471
   },
   {
     "id": "us-7320",
@@ -80033,7 +80077,7 @@
     "die_count": 0,
     "state_name": "VA",
     "county": "Richmond City",
-    "num": 36469
+    "num": 36473
   },
   {
     "id": "us-7321",
@@ -80047,7 +80091,7 @@
     "die_count": 0,
     "state_name": "GA",
     "county": "Clarke",
-    "num": 36473
+    "num": 36477
   },
   {
     "id": "us-7322",
@@ -80063,7 +80107,7 @@
     "age_range": "60+",
     "state_name": "TX",
     "county": "Dallas",
-    "num": 36473
+    "num": 36477
   },
   {
     "id": "us-7324",
@@ -80077,7 +80121,7 @@
     "die_count": 0,
     "state_name": "VT",
     "county": "Orleans",
-    "num": 36475
+    "num": 36479
   },
   {
     "id": "us-7325",
@@ -80091,7 +80135,7 @@
     "die_count": 0,
     "state_name": "VA",
     "county": "Louisa",
-    "num": 36476
+    "num": 36480
   },
   {
     "id": "us-7326",
@@ -80105,7 +80149,7 @@
     "die_count": 0,
     "state_name": "IA",
     "county": "Linn",
-    "num": 36477
+    "num": 36481
   },
   {
     "id": "us-7328",
@@ -80119,7 +80163,7 @@
     "die_count": 0,
     "state_name": "NC",
     "county": "Davidson",
-    "num": 36478
+    "num": 36482
   },
   {
     "id": "us-7329",
@@ -80133,7 +80177,7 @@
     "die_count": 0,
     "state_name": "VT",
     "county": "Lamoille",
-    "num": 36479
+    "num": 36483
   },
   {
     "id": "us-7330",
@@ -80147,7 +80191,7 @@
     "die_count": 0,
     "state_name": "VT",
     "county": "Caledonia",
-    "num": 36480
+    "num": 36484
   },
   {
     "id": "us-7331",
@@ -80161,7 +80205,7 @@
     "die_count": 0,
     "state_name": "IA",
     "county": "Dubuque",
-    "num": 36481
+    "num": 36485
   },
   {
     "id": "us-7332",
@@ -80175,7 +80219,7 @@
     "die_count": 0,
     "state_name": "VT",
     "county": "Washington",
-    "num": 36482
+    "num": 36486
   },
   {
     "id": "us-7333",
@@ -80189,7 +80233,7 @@
     "die_count": 0,
     "state_name": "VT",
     "county": "Addison",
-    "num": 36485
+    "num": 36489
   },
   {
     "id": "us-7334",
@@ -80203,7 +80247,7 @@
     "die_count": 0,
     "state_name": "VT",
     "county": "Windsor",
-    "num": 36489
+    "num": 36493
   },
   {
     "id": "us-7335",
@@ -80217,7 +80261,7 @@
     "die_count": 0,
     "state_name": "GA",
     "county": "Richmond",
-    "num": 36490
+    "num": 36494
   },
   {
     "id": "us-7336",
@@ -80231,7 +80275,7 @@
     "die_count": 0,
     "state_name": "NY",
     "county": "Monroe",
-    "num": 36502
+    "num": 36506
   },
   {
     "id": "us-7337",
@@ -80245,7 +80289,7 @@
     "die_count": 0,
     "state_name": "GA",
     "county": "Fayette",
-    "num": 36504
+    "num": 36508
   },
   {
     "id": "us-7338",
@@ -80259,7 +80303,7 @@
     "die_count": 0,
     "state_name": "GA",
     "county": "Floyd",
-    "num": 36505
+    "num": 36509
   },
   {
     "id": "us-7339",
@@ -80273,7 +80317,7 @@
     "die_count": 0,
     "state_name": "GA",
     "county": "Hall",
-    "num": 36506
+    "num": 36510
   },
   {
     "id": "us-7341",
@@ -80287,7 +80331,7 @@
     "die_count": 0,
     "state_name": "NY",
     "county": "Erie",
-    "num": 36537
+    "num": 36541
   },
   {
     "id": "us-7342",
@@ -80301,7 +80345,7 @@
     "die_count": 0,
     "state_name": "GA",
     "county": "Henry",
-    "num": 36539
+    "num": 36543
   },
   {
     "id": "us-7343",
@@ -80315,7 +80359,7 @@
     "die_count": 0,
     "state_name": "WA",
     "county": "Whitman",
-    "num": 36540
+    "num": 36544
   },
   {
     "id": "us-7344",
@@ -80329,7 +80373,7 @@
     "die_count": 0,
     "state_name": "GA",
     "county": "Douglas",
-    "num": 36543
+    "num": 36547
   },
   {
     "id": "us-7345",
@@ -80343,7 +80387,7 @@
     "die_count": 0,
     "state_name": "NY",
     "county": "New York",
-    "num": 38084
+    "num": 38088
   },
   {
     "id": "us-7346",
@@ -80357,7 +80401,7 @@
     "die_count": 0,
     "state_name": "GA",
     "county": "Forsyth",
-    "num": 38086
+    "num": 38090
   },
   {
     "id": "us-7347",
@@ -80371,7 +80415,7 @@
     "die_count": 0,
     "state_name": "GA",
     "county": "Gordon",
-    "num": 38088
+    "num": 38092
   },
   {
     "id": "us-7348",
@@ -80385,7 +80429,7 @@
     "die_count": 0,
     "state_name": "GA",
     "county": "Paulding",
-    "num": 38089
+    "num": 38093
   },
   {
     "id": "us-7349",
@@ -80399,7 +80443,7 @@
     "die_count": 0,
     "state_name": "NY",
     "county": "Westchester",
-    "num": 39110
+    "num": 39114
   },
   {
     "id": "us-7350",
@@ -80413,7 +80457,7 @@
     "die_count": 0,
     "state_name": "GA",
     "county": "Rockdale",
-    "num": 39113
+    "num": 39117
   },
   {
     "id": "us-7351",
@@ -80427,7 +80471,7 @@
     "die_count": 0,
     "state_name": "GA",
     "county": "Spalding",
-    "num": 39115
+    "num": 39119
   },
   {
     "id": "us-7352",
@@ -80442,7 +80486,7 @@
     "die_count": 1,
     "state_name": "NY",
     "county": "Suffolk",
-    "num": 39539
+    "num": 39543
   },
   {
     "id": "us-7353",
@@ -80456,7 +80500,7 @@
     "die_count": 0,
     "state_name": "GA",
     "county": "Oconee",
-    "num": 39540
+    "num": 39544
   },
   {
     "id": "us-7354",
@@ -80470,7 +80514,7 @@
     "die_count": 0,
     "state_name": "GA",
     "county": "Worth",
-    "num": 39541
+    "num": 39545
   },
   {
     "id": "us-7355",
@@ -80484,7 +80528,7 @@
     "die_count": 0,
     "state_name": "NY",
     "county": "Rockland",
-    "num": 39678
+    "num": 39682
   },
   {
     "id": "us-7356",
@@ -80498,7 +80542,7 @@
     "die_count": 0,
     "state_name": "GA",
     "county": "Bibb",
-    "num": 39679
+    "num": 39683
   },
   {
     "id": "us-7357",
@@ -80512,7 +80556,7 @@
     "die_count": 0,
     "state_name": "GA",
     "county": "Lumpkin",
-    "num": 39680
+    "num": 39684
   },
   {
     "id": "us-7358",
@@ -80526,7 +80570,7 @@
     "die_count": 0,
     "state_name": "NY",
     "county": "Orange",
-    "num": 39822
+    "num": 39826
   },
   {
     "id": "us-7359",
@@ -80540,7 +80584,7 @@
     "die_count": 0,
     "state_name": "NY",
     "county": "Nassau",
-    "num": 40364
+    "num": 40368
   },
   {
     "id": "us-7360",
@@ -80554,7 +80598,7 @@
     "die_count": 0,
     "state_name": "GA",
     "county": "Catoosa",
-    "num": 40365
+    "num": 40369
   },
   {
     "id": "us-7361",
@@ -80568,7 +80612,7 @@
     "die_count": 0,
     "state_name": "NY",
     "county": "Dutchess",
-    "num": 40383
+    "num": 40387
   },
   {
     "id": "us-7362",
@@ -80582,7 +80626,7 @@
     "die_count": 0,
     "state_name": "GA",
     "county": "Madison",
-    "num": 40384
+    "num": 40388
   },
   {
     "id": "us-7363",
@@ -80596,7 +80640,7 @@
     "die_count": 0,
     "state_name": "NY",
     "county": "Albany",
-    "num": 40388
+    "num": 40392
   },
   {
     "id": "us-7364",
@@ -80610,7 +80654,7 @@
     "die_count": 0,
     "state_name": "CA",
     "county": "Nevada",
-    "num": 40389
+    "num": 40393
   },
   {
     "id": "us-7365",
@@ -80624,7 +80668,7 @@
     "die_count": 0,
     "state_name": "GA",
     "county": "Morgan",
-    "num": 40390
+    "num": 40394
   },
   {
     "id": "us-7366",
@@ -80638,7 +80682,7 @@
     "die_count": 0,
     "state_name": "CA",
     "county": "San Mateo",
-    "num": 40415
+    "num": 40419
   },
   {
     "id": "us-7367",
@@ -80652,7 +80696,7 @@
     "die_count": 0,
     "state_name": "GA",
     "county": "Pierce",
-    "num": 40416
+    "num": 40420
   },
   {
     "id": "us-7368",
@@ -80666,7 +80710,7 @@
     "die_count": 0,
     "state_name": "GA",
     "county": "Washington",
-    "num": 40417
+    "num": 40421
   },
   {
     "id": "us-7369",
@@ -80680,7 +80724,7 @@
     "die_count": 0,
     "state_name": "LA",
     "county": "Allen",
-    "num": 40419
+    "num": 40423
   },
   {
     "id": "us-7372",
@@ -80694,7 +80738,7 @@
     "die_count": 0,
     "state_name": "LA",
     "county": "Ascension",
-    "num": 40428
+    "num": 40432
   },
   {
     "id": "us-7371",
@@ -80708,7 +80752,7 @@
     "die_count": 0,
     "state_name": "MO",
     "county": "Greene",
-    "num": 40431
+    "num": 40435
   },
   {
     "id": "us-7373",
@@ -80723,7 +80767,7 @@
     "die_count": 0,
     "state_name": "NV",
     "county": "Carson City",
-    "num": 40432
+    "num": 40436
   },
   {
     "id": "us-7374",
@@ -80737,7 +80781,7 @@
     "die_count": 0,
     "state_name": "MN",
     "county": "Anoka",
-    "num": 40434
+    "num": 40438
   },
   {
     "id": "us-7375",
@@ -80751,7 +80795,7 @@
     "die_count": 1,
     "state_name": "LA",
     "county": "Ascension",
-    "num": 40434
+    "num": 40438
   },
   {
     "id": "us-7376",
@@ -80765,7 +80809,7 @@
     "die_count": 0,
     "state_name": "MN",
     "county": "Blue earth",
-    "num": 40435
+    "num": 40439
   },
   {
     "id": "us-7377",
@@ -80779,7 +80823,7 @@
     "die_count": 2,
     "state_name": "OH",
     "county": "Franklin",
-    "num": 40435
+    "num": 40439
   },
   {
     "id": "us-7378",
@@ -80793,7 +80837,7 @@
     "die_count": 0,
     "state_name": "LA",
     "county": "Bossier",
-    "num": 40442
+    "num": 40446
   },
   {
     "id": "us-7379",
@@ -80807,7 +80851,7 @@
     "die_count": 0,
     "state_name": "LA",
     "county": "Caddo",
-    "num": 40460
+    "num": 40464
   },
   {
     "id": "us-7382",
@@ -80821,7 +80865,7 @@
     "die_count": 1,
     "state_name": "OH",
     "county": "Stark",
-    "num": 40460
+    "num": 40464
   },
   {
     "id": "us-7383",
@@ -80835,7 +80879,7 @@
     "die_count": 0,
     "state_name": "LA",
     "county": "Claiborne",
-    "num": 40461
+    "num": 40465
   },
   {
     "id": "us-7384",
@@ -80849,7 +80893,7 @@
     "die_count": 0,
     "state_name": "LA",
     "county": "De Soto",
-    "num": 40464
+    "num": 40468
   },
   {
     "id": "us-7385",
@@ -80863,7 +80907,7 @@
     "die_count": 0,
     "state_name": "LA",
     "county": "East Baton Rouge",
-    "num": 40487
+    "num": 40491
   },
   {
     "id": "us-7386",
@@ -80877,7 +80921,7 @@
     "die_count": 0,
     "state_name": "LA",
     "county": "Grant",
-    "num": 40488
+    "num": 40492
   },
   {
     "id": "us-7387",
@@ -80891,7 +80935,7 @@
     "die_count": 0,
     "state_name": "LA",
     "county": "Iberia",
-    "num": 40489
+    "num": 40493
   },
   {
     "id": "us-7388",
@@ -80905,7 +80949,7 @@
     "die_count": 0,
     "state_name": "LA",
     "county": "Iberville",
-    "num": 40497
+    "num": 40501
   },
   {
     "id": "us-7389",
@@ -80919,7 +80963,7 @@
     "die_count": 0,
     "state_name": "LA",
     "county": "Jefferson",
-    "num": 40565
+    "num": 40569
   },
   {
     "id": "us-7390",
@@ -80933,7 +80977,7 @@
     "die_count": 0,
     "state_name": "MN",
     "county": "Big Stone",
-    "num": 40566
+    "num": 40570
   },
   {
     "id": "us-7391",
@@ -80947,7 +80991,7 @@
     "die_count": 0,
     "state_name": "LA",
     "county": "Lafayette",
-    "num": 40569
+    "num": 40573
   },
   {
     "id": "us-7392",
@@ -80961,7 +81005,7 @@
     "die_count": 0,
     "state_name": "LA",
     "county": "Lafourche",
-    "num": 40572
+    "num": 40576
   },
   {
     "id": "us-7393",
@@ -80975,7 +81019,7 @@
     "die_count": 0,
     "state_name": "NJ",
     "county": "Bergen",
-    "num": 40724
+    "num": 40728
   },
   {
     "id": "us-7394",
@@ -80989,7 +81033,7 @@
     "die_count": 1,
     "state_name": "NY",
     "county": "Wyoming",
-    "num": 40724
+    "num": 40728
   },
   {
     "id": "us-7395",
@@ -81003,7 +81047,7 @@
     "die_count": 0,
     "state_name": "LA",
     "county": "Lincoln",
-    "num": 40726
+    "num": 40730
   },
   {
     "id": "us-7396",
@@ -81017,7 +81061,7 @@
     "die_count": 0,
     "state_name": "LA",
     "county": "Livingston",
-    "num": 40729
+    "num": 40733
   },
   {
     "id": "us-7397",
@@ -81031,7 +81075,7 @@
     "die_count": 0,
     "state_name": "LA",
     "county": "Natchitoches",
-    "num": 40731
+    "num": 40735
   },
   {
     "id": "us-7398",
@@ -81045,7 +81089,7 @@
     "die_count": 0,
     "state_name": "LA",
     "county": "Orleans",
-    "num": 40847
+    "num": 40851
   },
   {
     "id": "us-7399",
@@ -81059,7 +81103,7 @@
     "die_count": 0,
     "state_name": "LA",
     "county": "Ouachita",
-    "num": 40852
+    "num": 40856
   },
   {
     "id": "us-7400",
@@ -81074,7 +81118,7 @@
     "die_count": 0,
     "state_name": "CA",
     "county": "Kern",
-    "num": 40859
+    "num": 40863
   },
   {
     "id": "us-7401",
@@ -81088,7 +81132,7 @@
     "die_count": 0,
     "state_name": "NJ",
     "county": "Middlesex",
-    "num": 40922
+    "num": 40926
   },
   {
     "id": "us-7402",
@@ -81102,7 +81146,7 @@
     "die_count": 0,
     "state_name": "LA",
     "county": "Plaquemines",
-    "num": 40925
+    "num": 40929
   },
   {
     "id": "us-7403",
@@ -81116,7 +81160,7 @@
     "die_count": 0,
     "state_name": "LA",
     "county": "Rapides",
-    "num": 40930
+    "num": 40934
   },
   {
     "id": "us-7404",
@@ -81130,7 +81174,7 @@
     "die_count": 0,
     "state_name": "LA",
     "county": "Richland",
-    "num": 40932
+    "num": 40936
   },
   {
     "id": "us-7405",
@@ -81144,7 +81188,7 @@
     "die_count": 0,
     "state_name": "LA",
     "county": "St. Bernard",
-    "num": 40934
+    "num": 40938
   },
   {
     "id": "us-7407",
@@ -81158,7 +81202,7 @@
     "die_count": 0,
     "state_name": "LA",
     "county": "St. Charles",
-    "num": 40941
+    "num": 40945
   },
   {
     "id": "us-7406",
@@ -81172,7 +81216,7 @@
     "die_count": 0,
     "state_name": "NJ",
     "county": "Essex",
-    "num": 41042
+    "num": 41046
   },
   {
     "id": "us-7408",
@@ -81186,7 +81230,7 @@
     "die_count": 0,
     "state_name": "IN",
     "county": "Starke",
-    "num": 41043
+    "num": 41047
   },
   {
     "id": "us-7409",
@@ -81200,7 +81244,7 @@
     "die_count": 0,
     "state_name": "LA",
     "county": "St. James",
-    "num": 41050
+    "num": 41054
   },
   {
     "id": "us-7410",
@@ -81214,7 +81258,7 @@
     "die_count": 0,
     "state_name": "MN",
     "county": "Carver",
-    "num": 41051
+    "num": 41055
   },
   {
     "id": "us-7411",
@@ -81228,7 +81272,7 @@
     "die_count": 0,
     "state_name": "NJ",
     "county": "Hudson",
-    "num": 41115
+    "num": 41119
   },
   {
     "id": "us-7412",
@@ -81242,7 +81286,7 @@
     "die_count": 0,
     "state_name": "LA",
     "county": "St. John the Baptist",
-    "num": 41121
+    "num": 41125
   },
   {
     "id": "us-7413",
@@ -81256,7 +81300,7 @@
     "die_count": 0,
     "state_name": "MN",
     "county": "Chisago",
-    "num": 41122
+    "num": 41126
   },
   {
     "id": "us-7414",
@@ -81270,7 +81314,7 @@
     "die_count": 0,
     "state_name": "LA",
     "county": "St. Tammany",
-    "num": 41144
+    "num": 41148
   },
   {
     "id": "us-7415",
@@ -81284,7 +81328,7 @@
     "die_count": 0,
     "state_name": "MN",
     "county": "Dakota",
-    "num": 41151
+    "num": 41155
   },
   {
     "id": "us-7416",
@@ -81298,7 +81342,7 @@
     "die_count": 0,
     "state_name": "LA",
     "county": "Terrebonne",
-    "num": 41153
+    "num": 41157
   },
   {
     "id": "us-7417",
@@ -81312,7 +81356,7 @@
     "die_count": 0,
     "state_name": "NJ",
     "county": "Monmouth",
-    "num": 41233
+    "num": 41237
   },
   {
     "id": "us-7418",
@@ -81326,7 +81370,7 @@
     "die_count": 0,
     "state_name": "LA",
     "county": "Webster",
-    "num": 41235
+    "num": 41239
   },
   {
     "id": "us-7419",
@@ -81340,7 +81384,7 @@
     "die_count": 0,
     "state_name": "MN",
     "county": "Filmore",
-    "num": 41236
+    "num": 41240
   },
   {
     "id": "us-7420",
@@ -81354,7 +81398,7 @@
     "die_count": 0,
     "state_name": "NJ",
     "county": "Ocean",
-    "num": 41278
+    "num": 41282
   },
   {
     "id": "us-7421",
@@ -81368,7 +81412,7 @@
     "die_count": 0,
     "state_name": "LA",
     "county": "West Baton Rouge",
-    "num": 41280
+    "num": 41284
   },
   {
     "id": "us-7422",
@@ -81382,7 +81426,7 @@
     "die_count": 0,
     "state_name": "MN",
     "county": "Hennepin",
-    "num": 41312
+    "num": 41316
   },
   {
     "id": "us-7423",
@@ -81396,7 +81440,7 @@
     "die_count": 0,
     "state_name": "NJ",
     "county": "Passaic",
-    "num": 41358
+    "num": 41362
   },
   {
     "id": "us-7424",
@@ -81410,7 +81454,7 @@
     "die_count": 0,
     "state_name": "NJ",
     "county": "Union",
-    "num": 41423
+    "num": 41427
   },
   {
     "id": "us-7425",
@@ -81424,7 +81468,7 @@
     "die_count": 0,
     "state_name": "NJ",
     "county": "Morris",
-    "num": 41481
+    "num": 41485
   },
   {
     "id": "us-7426",
@@ -81438,7 +81482,7 @@
     "die_count": 0,
     "state_name": "MN",
     "county": "Lac Qui Parle",
-    "num": 41482
+    "num": 41486
   },
   {
     "id": "us-7427",
@@ -81452,7 +81496,7 @@
     "die_count": 0,
     "state_name": "NJ",
     "county": "Somerset",
-    "num": 41498
+    "num": 41502
   },
   {
     "id": "us-7428",
@@ -81468,7 +81512,7 @@
     "die_count": 27,
     "state_name": "NY",
     "county": "New York",
-    "num": 42312
+    "num": 42316
   },
   {
     "id": "us-7429",
@@ -81482,7 +81526,7 @@
     "die_count": 0,
     "state_name": "NJ",
     "county": "Mercer",
-    "num": 42322
+    "num": 42326
   },
   {
     "id": "us-7430",
@@ -81496,7 +81540,7 @@
     "die_count": 0,
     "state_name": "NJ",
     "county": "Burlington",
-    "num": 42332
+    "num": 42336
   },
   {
     "id": "us-7431",
@@ -81510,7 +81554,7 @@
     "die_count": 0,
     "state_name": "NC",
     "county": "Catawba",
-    "num": 42335
+    "num": 42339
   },
   {
     "id": "us-7432",
@@ -81524,7 +81568,7 @@
     "die_count": 0,
     "state_name": "MN",
     "county": "Olmsted",
-    "num": 42337
+    "num": 42341
   },
   {
     "id": "us-7433",
@@ -81538,7 +81582,7 @@
     "die_count": 0,
     "state_name": "NJ",
     "county": "Camden",
-    "num": 42348
+    "num": 42352
   },
   {
     "id": "us-7434",
@@ -81552,7 +81596,7 @@
     "die_count": 0,
     "state_name": "NJ",
     "county": "Hunterdon",
-    "num": 42350
+    "num": 42354
   },
   {
     "id": "us-7435",
@@ -81566,7 +81610,7 @@
     "die_count": 0,
     "state_name": "NJ",
     "county": "Atlantic",
-    "num": 42351
+    "num": 42355
   },
   {
     "id": "us-7436",
@@ -81581,7 +81625,7 @@
     "die_count": 0,
     "state_name": "OH",
     "county": "Ashtabula",
-    "num": 42352
+    "num": 42356
   },
   {
     "id": "us-7437",
@@ -81595,7 +81639,7 @@
     "die_count": 0,
     "state_name": "NJ",
     "county": "Gloucester",
-    "num": 42357
+    "num": 42361
   },
   {
     "id": "us-7438",
@@ -81610,7 +81654,7 @@
     "die_count": 0,
     "state_name": "OH",
     "county": "Carroll",
-    "num": 42358
+    "num": 42362
   },
   {
     "id": "us-7439",
@@ -81624,7 +81668,7 @@
     "die_count": 0,
     "state_name": "NJ",
     "county": "Sussex",
-    "num": 42361
+    "num": 42365
   },
   {
     "id": "us-7440",
@@ -81638,7 +81682,7 @@
     "die_count": 0,
     "state_name": "NJ",
     "county": "Warren",
-    "num": 42364
+    "num": 42368
   },
   {
     "id": "us-7441",
@@ -81652,7 +81696,7 @@
     "die_count": 0,
     "state_name": "MN",
     "county": "Ramsey",
-    "num": 42370
+    "num": 42374
   },
   {
     "id": "us-7442",
@@ -81667,7 +81711,7 @@
     "die_count": 0,
     "state_name": "OH",
     "county": "Coshocton",
-    "num": 42371
+    "num": 42375
   },
   {
     "id": "us-7443",
@@ -81681,7 +81725,7 @@
     "die_count": 0,
     "state_name": "MN",
     "county": "Rice",
-    "num": 42372
+    "num": 42376
   },
   {
     "id": "us-7445",
@@ -81695,7 +81739,7 @@
     "die_count": 1,
     "state_name": "NJ",
     "county": "Unassigned",
-    "num": 42372
+    "num": 42376
   },
   {
     "id": "us-7446",
@@ -81710,7 +81754,7 @@
     "die_count": 0,
     "state_name": "OH",
     "county": "Cuyahoga",
-    "num": 42396
+    "num": 42400
   },
   {
     "id": "us-7447",
@@ -81724,7 +81768,7 @@
     "die_count": 0,
     "state_name": "MN",
     "county": "Scott",
-    "num": 42398
+    "num": 42402
   },
   {
     "id": "us-7448",
@@ -81738,7 +81782,7 @@
     "die_count": 1,
     "state_name": "NJ",
     "county": "Unassigned",
-    "num": 42398
+    "num": 42402
   },
   {
     "id": "us-7449",
@@ -81752,7 +81796,7 @@
     "die_count": 1,
     "state_name": "NJ",
     "county": "Unassigned",
-    "num": 42398
+    "num": 42402
   },
   {
     "id": "us-7450",
@@ -81767,7 +81811,7 @@
     "die_count": 0,
     "state_name": "OH",
     "county": "Delaware",
-    "num": 42399
+    "num": 42403
   },
   {
     "id": "us-7451",
@@ -81781,7 +81825,7 @@
     "die_count": 1,
     "state_name": "NJ",
     "county": "Unassigned",
-    "num": 42399
+    "num": 42403
   },
   {
     "id": "us-7452",
@@ -81795,7 +81839,7 @@
     "die_count": 0,
     "state_name": "MN",
     "county": "St. Louis",
-    "num": 42400
+    "num": 42404
   },
   {
     "id": "us-7453",
@@ -81809,7 +81853,7 @@
     "die_count": 1,
     "state_name": "NJ",
     "county": "Unassigned",
-    "num": 42400
+    "num": 42404
   },
   {
     "id": "us-7454",
@@ -81823,7 +81867,7 @@
     "die_count": 0,
     "state_name": "UT",
     "county": "Salt Lake",
-    "num": 42429
+    "num": 42433
   },
   {
     "id": "us-7455",
@@ -81837,7 +81881,7 @@
     "die_count": 0,
     "state_name": "MN",
     "county": "Stearns",
-    "num": 42430
+    "num": 42434
   },
   {
     "id": "us-7456",
@@ -81852,7 +81896,7 @@
     "die_count": 0,
     "state_name": "OH",
     "county": "Franklin",
-    "num": 42440
+    "num": 42444
   },
   {
     "id": "us-7457",
@@ -81866,7 +81910,7 @@
     "die_count": 0,
     "state_name": "UT",
     "county": "Summit",
-    "num": 42462
+    "num": 42466
   },
   {
     "id": "us-7458",
@@ -81880,7 +81924,7 @@
     "die_count": 1,
     "state_name": "LA",
     "county": "Catahoula",
-    "num": 42462
+    "num": 42466
   },
   {
     "id": "us-7459",
@@ -81894,7 +81938,7 @@
     "die_count": 0,
     "state_name": "MN",
     "county": "Waseca",
-    "num": 42463
+    "num": 42467
   },
   {
     "id": "us-7460",
@@ -81909,7 +81953,7 @@
     "die_count": 0,
     "state_name": "OH",
     "county": "Hamilton",
-    "num": 42470
+    "num": 42474
   },
   {
     "id": "us-7461",
@@ -81923,7 +81967,7 @@
     "die_count": 0,
     "state_name": "UT",
     "county": "Davis",
-    "num": 42480
+    "num": 42484
   },
   {
     "id": "us-7462",
@@ -81937,7 +81981,7 @@
     "die_count": 0,
     "state_name": "MN",
     "county": "Washington",
-    "num": 42483
+    "num": 42487
   },
   {
     "id": "us-7463",
@@ -81952,7 +81996,7 @@
     "die_count": 0,
     "state_name": "OH",
     "county": "Highland",
-    "num": 42484
+    "num": 42488
   },
   {
     "id": "us-7464",
@@ -81966,7 +82010,7 @@
     "die_count": 0,
     "state_name": "UT",
     "county": "Non-Utah resident",
-    "num": 42485
+    "num": 42489
   },
   {
     "id": "us-7465",
@@ -81981,7 +82025,7 @@
     "die_count": 1,
     "state_name": "LA",
     "county": "East Baton Rouge",
-    "num": 42485
+    "num": 42489
   },
   {
     "id": "us-7466",
@@ -81995,7 +82039,7 @@
     "die_count": 0,
     "state_name": "UT",
     "county": "Wasatch",
-    "num": 42488
+    "num": 42492
   },
   {
     "id": "us-7467",
@@ -82011,7 +82055,7 @@
     "age_range": "Unknown",
     "state_name": "LA",
     "county": "Jefferson",
-    "num": 42488
+    "num": 42492
   },
   {
     "id": "us-7468",
@@ -82026,7 +82070,7 @@
     "die_count": 0,
     "state_name": "OH",
     "county": "Lake",
-    "num": 42490
+    "num": 42494
   },
   {
     "id": "us-7469",
@@ -82041,7 +82085,7 @@
     "die_count": 0,
     "state_name": "OH",
     "county": "Logan",
-    "num": 42491
+    "num": 42495
   },
   {
     "id": "us-7470",
@@ -82057,7 +82101,7 @@
     "age_range": "Unknown",
     "state_name": "LA",
     "county": "Jefferson",
-    "num": 42491
+    "num": 42495
   },
   {
     "id": "us-7471",
@@ -82071,7 +82115,7 @@
     "die_count": 0,
     "state_name": "UT",
     "county": "Utah",
-    "num": 42496
+    "num": 42500
   },
   {
     "id": "us-7473",
@@ -82087,7 +82131,7 @@
     "age_range": "Unknown",
     "state_name": "LA",
     "county": "Orleans",
-    "num": 42496
+    "num": 42500
   },
   {
     "id": "us-7474",
@@ -82102,7 +82146,7 @@
     "die_count": 0,
     "state_name": "OH",
     "county": "Lorain",
-    "num": 42501
+    "num": 42505
   },
   {
     "id": "us-7475",
@@ -82116,7 +82160,7 @@
     "die_count": 0,
     "state_name": "UT",
     "county": "Weber-Morgan",
-    "num": 42503
+    "num": 42507
   },
   {
     "id": "us-7476",
@@ -82132,7 +82176,7 @@
     "age_range": "Unknown",
     "state_name": "LA",
     "county": "Orleans",
-    "num": 42503
+    "num": 42507
   },
   {
     "id": "us-7477",
@@ -82148,7 +82192,7 @@
     "age_range": "Unknown",
     "state_name": "LA",
     "county": "Orleans",
-    "num": 42503
+    "num": 42507
   },
   {
     "id": "us-7478",
@@ -82164,7 +82208,7 @@
     "age_range": "Unknown",
     "state_name": "LA",
     "county": "Orleans",
-    "num": 42503
+    "num": 42507
   },
   {
     "id": "us-7479",
@@ -82180,7 +82224,7 @@
     "age_range": "Unknown",
     "state_name": "LA",
     "county": "Orleans",
-    "num": 42503
+    "num": 42507
   },
   {
     "id": "us-7480",
@@ -82195,7 +82239,7 @@
     "die_count": 0,
     "state_name": "OH",
     "county": "Mahoning",
-    "num": 42508
+    "num": 42512
   },
   {
     "id": "us-7481",
@@ -82209,7 +82253,7 @@
     "die_count": 1,
     "state_name": "LA",
     "county": "Ouachita",
-    "num": 42508
+    "num": 42512
   },
   {
     "id": "us-7483",
@@ -82223,7 +82267,7 @@
     "die_count": 0,
     "state_name": "MI",
     "county": "Washtenaw",
-    "num": 42515
+    "num": 42519
   },
   {
     "id": "us-7485",
@@ -82238,7 +82282,7 @@
     "die_count": 0,
     "state_name": "OH",
     "county": "Marion",
-    "num": 42517
+    "num": 42521
   },
   {
     "id": "us-7486",
@@ -82252,7 +82296,7 @@
     "die_count": 1,
     "state_name": "LA",
     "county": "Rapides",
-    "num": 42517
+    "num": 42521
   },
   {
     "id": "us-7487",
@@ -82266,7 +82310,7 @@
     "die_count": 0,
     "state_name": "CA",
     "county": "Santa Cruz",
-    "num": 42524
+    "num": 42528
   },
   {
     "id": "us-7488",
@@ -82281,7 +82325,7 @@
     "die_count": 0,
     "state_name": "OH",
     "county": "Medina",
-    "num": 42529
+    "num": 42533
   },
   {
     "id": "us-7489",
@@ -82295,7 +82339,7 @@
     "die_count": 1,
     "state_name": "LA",
     "county": "Washington",
-    "num": 42529
+    "num": 42533
   },
   {
     "id": "us-7490",
@@ -82310,7 +82354,7 @@
     "die_count": 0,
     "state_name": "OH",
     "county": "Miami",
-    "num": 42533
+    "num": 42537
   },
   {
     "id": "us-7491",
@@ -82324,7 +82368,7 @@
     "die_count": 1,
     "state_name": "MI",
     "county": "Macomb",
-    "num": 42568
+    "num": 42572
   },
   {
     "id": "us-7492",
@@ -82338,7 +82382,7 @@
     "die_count": 0,
     "state_name": "UT",
     "county": "Cache",
-    "num": 42569
+    "num": 42573
   },
   {
     "id": "us-7493",
@@ -82352,7 +82396,7 @@
     "die_count": 1,
     "state_name": "LA",
     "county": "Webster",
-    "num": 42569
+    "num": 42573
   },
   {
     "id": "us-7494",
@@ -82367,7 +82411,7 @@
     "die_count": 0,
     "state_name": "OH",
     "county": "Montgomery",
-    "num": 42571
+    "num": 42575
   },
   {
     "id": "us-7495",
@@ -82381,7 +82425,7 @@
     "die_count": 0,
     "state_name": "UT",
     "county": "Southwest Utah",
-    "num": 42575
+    "num": 42579
   },
   {
     "id": "us-7496",
@@ -82395,7 +82439,7 @@
     "die_count": 1,
     "state_name": "LA",
     "county": "West Baton Rouge",
-    "num": 42575
+    "num": 42579
   },
   {
     "id": "us-7497",
@@ -82410,7 +82454,7 @@
     "die_count": 0,
     "state_name": "OH",
     "county": "Portage",
-    "num": 42576
+    "num": 42580
   },
   {
     "id": "us-7498",
@@ -82424,7 +82468,7 @@
     "die_count": 0,
     "state_name": "MI",
     "county": "Berrien",
-    "num": 42578
+    "num": 42582
   },
   {
     "id": "us-7499",
@@ -82439,7 +82483,7 @@
     "die_count": 0,
     "state_name": "OH",
     "county": "Sandusky",
-    "num": 42579
+    "num": 42583
   },
   {
     "id": "us-7500",
@@ -82454,7 +82498,7 @@
     "die_count": 0,
     "state_name": "OH",
     "county": "Stark",
-    "num": 42581
+    "num": 42585
   },
   {
     "id": "us-7501",
@@ -82468,7 +82512,7 @@
     "die_count": 0,
     "state_name": "MI",
     "county": "Calhoun",
-    "num": 42582
+    "num": 42586
   },
   {
     "id": "us-7502",
@@ -82483,7 +82527,7 @@
     "die_count": 0,
     "state_name": "OH",
     "county": "Summit",
-    "num": 42587
+    "num": 42591
   },
   {
     "id": "us-7503",
@@ -82497,7 +82541,7 @@
     "die_count": 0,
     "state_name": "WI",
     "county": "Milwaukee",
-    "num": 42589
+    "num": 42593
   },
   {
     "id": "us-7504",
@@ -82511,7 +82555,7 @@
     "die_count": 0,
     "state_name": "WI",
     "county": "Waukesha",
-    "num": 42590
+    "num": 42594
   },
   {
     "id": "us-7505",
@@ -82525,7 +82569,7 @@
     "die_count": 0,
     "state_name": "WI",
     "county": "Washington",
-    "num": 42591
+    "num": 42595
   },
   {
     "id": "us-7506",
@@ -82539,7 +82583,7 @@
     "die_count": 0,
     "state_name": "WI",
     "county": "Ozaukee",
-    "num": 42592
+    "num": 42596
   },
   {
     "id": "us-7508",
@@ -82553,7 +82597,7 @@
     "die_count": 0,
     "state_name": "WI",
     "county": "Kenosha",
-    "num": 42594
+    "num": 42598
   },
   {
     "id": "us-7509",
@@ -82567,7 +82611,7 @@
     "die_count": 0,
     "state_name": "MI",
     "county": "Genesee",
-    "num": 42603
+    "num": 42607
   },
   {
     "id": "us-7510",
@@ -82582,7 +82626,7 @@
     "die_count": 0,
     "state_name": "OH",
     "county": "Warren",
-    "num": 42605
+    "num": 42609
   },
   {
     "id": "us-7511",
@@ -82596,7 +82640,7 @@
     "die_count": 0,
     "state_name": "KS",
     "county": "Cherokee",
-    "num": 42606
+    "num": 42610
   },
   {
     "id": "us-7512",
@@ -82610,7 +82654,7 @@
     "die_count": 0,
     "state_name": "MI",
     "county": "Ingham",
-    "num": 42607
+    "num": 42611
   },
   {
     "id": "us-7513",
@@ -82624,7 +82668,7 @@
     "die_count": 0,
     "state_name": "MI",
     "county": "Kent",
-    "num": 42613
+    "num": 42617
   },
   {
     "id": "us-7514",
@@ -82638,7 +82682,7 @@
     "die_count": 0,
     "state_name": "KS",
     "county": "Douglas",
-    "num": 42617
+    "num": 42621
   },
   {
     "id": "us-7515",
@@ -82652,7 +82696,7 @@
     "die_count": 0,
     "state_name": "MI",
     "county": "Livingston",
-    "num": 42618
+    "num": 42622
   },
   {
     "id": "us-7516",
@@ -82666,7 +82710,7 @@
     "die_count": 0,
     "state_name": "KS",
     "county": "Johnson",
-    "num": 42622
+    "num": 42626
   },
   {
     "id": "us-7517",
@@ -82680,7 +82724,7 @@
     "die_count": 0,
     "state_name": "KS",
     "county": "Leavenworth",
-    "num": 42623
+    "num": 42627
   },
   {
     "id": "us-7519",
@@ -82694,7 +82738,7 @@
     "die_count": 0,
     "state_name": "MI",
     "county": "Monroe",
-    "num": 42624
+    "num": 42628
   },
   {
     "id": "us-7520",
@@ -82708,7 +82752,7 @@
     "die_count": 0,
     "state_name": "KS",
     "county": "Mitchell",
-    "num": 42625
+    "num": 42629
   },
   {
     "id": "us-7521",
@@ -82722,7 +82766,7 @@
     "die_count": 0,
     "state_name": "WI",
     "county": "Racine",
-    "num": 42626
+    "num": 42630
   },
   {
     "id": "us-7522",
@@ -82736,7 +82780,7 @@
     "die_count": 0,
     "state_name": "WI",
     "county": "Sauk",
-    "num": 42627
+    "num": 42631
   },
   {
     "id": "us-7523",
@@ -82750,7 +82794,7 @@
     "die_count": 0,
     "state_name": "MI",
     "county": "Newaygo",
-    "num": 42628
+    "num": 42632
   },
   {
     "id": "us-7524",
@@ -82764,7 +82808,7 @@
     "die_count": 0,
     "state_name": "WI",
     "county": "St. Croix",
-    "num": 42629
+    "num": 42633
   },
   {
     "id": "us-7525",
@@ -82778,7 +82822,7 @@
     "die_count": 0,
     "state_name": "WI",
     "county": "Douglas",
-    "num": 42630
+    "num": 42634
   },
   {
     "id": "us-7526",
@@ -82792,7 +82836,7 @@
     "die_count": 0,
     "state_name": "WI",
     "county": "Pierce",
-    "num": 42632
+    "num": 42636
   },
   {
     "id": "us-7527",
@@ -82806,7 +82850,7 @@
     "die_count": 0,
     "state_name": "KS",
     "county": "Pottawatomie",
-    "num": 42633
+    "num": 42637
   },
   {
     "id": "us-7528",
@@ -82820,7 +82864,7 @@
     "die_count": 0,
     "state_name": "KS",
     "county": "Reno",
-    "num": 42634
+    "num": 42638
   },
   {
     "id": "us-7529",
@@ -82834,7 +82878,7 @@
     "die_count": 2,
     "state_name": "MI",
     "county": "Oakland",
-    "num": 42686
+    "num": 42690
   },
   {
     "id": "us-7530",
@@ -82848,7 +82892,7 @@
     "die_count": 0,
     "state_name": "KS",
     "county": "Wyandotte",
-    "num": 42688
+    "num": 42692
   },
   {
     "id": "us-7531",
@@ -82862,7 +82906,7 @@
     "die_count": 0,
     "state_name": "MI",
     "county": "Otsego",
-    "num": 42690
+    "num": 42694
   },
   {
     "id": "us-7532",
@@ -82876,7 +82920,7 @@
     "die_count": 0,
     "state_name": "MI",
     "county": "Ottawa",
-    "num": 42695
+    "num": 42699
   },
   {
     "id": "us-7533",
@@ -82892,7 +82936,7 @@
     "age_range": "30+",
     "state_name": "MO",
     "county": "St. Louis City",
-    "num": 42695
+    "num": 42699
   },
   {
     "id": "us-7534",
@@ -82906,7 +82950,7 @@
     "die_count": 0,
     "state_name": "MI",
     "county": "Out of State",
-    "num": 42697
+    "num": 42701
   },
   {
     "id": "us-7535",
@@ -82920,7 +82964,7 @@
     "die_count": 0,
     "state_name": "MS",
     "county": "Adams",
-    "num": 42698
+    "num": 42702
   },
   {
     "id": "us-7537",
@@ -82934,7 +82978,7 @@
     "die_count": 0,
     "state_name": "MS",
     "county": "Bolivar",
-    "num": 42699
+    "num": 42703
   },
   {
     "id": "us-7538",
@@ -82948,7 +82992,7 @@
     "die_count": 0,
     "state_name": "MS",
     "county": "Chickasaw",
-    "num": 42701
+    "num": 42705
   },
   {
     "id": "us-7539",
@@ -82962,7 +83006,7 @@
     "die_count": 0,
     "state_name": "OR",
     "county": "Clackamas",
-    "num": 42703
+    "num": 42707
   },
   {
     "id": "us-7541",
@@ -82976,7 +83020,7 @@
     "die_count": 0,
     "state_name": "OR",
     "county": "Linn",
-    "num": 42704
+    "num": 42708
   },
   {
     "id": "us-7542",
@@ -82990,7 +83034,7 @@
     "die_count": 0,
     "state_name": "MS",
     "county": "Coahoma",
-    "num": 42705
+    "num": 42709
   },
   {
     "id": "us-7543",
@@ -83004,7 +83048,7 @@
     "die_count": 0,
     "state_name": "OR",
     "county": "Marion",
-    "num": 42713
+    "num": 42717
   },
   {
     "id": "us-7544",
@@ -83018,7 +83062,7 @@
     "die_count": 0,
     "state_name": "MS",
     "county": "DeSoto",
-    "num": 42718
+    "num": 42722
   },
   {
     "id": "us-7545",
@@ -83032,7 +83076,7 @@
     "die_count": 0,
     "state_name": "OR",
     "county": "Multnomah",
-    "num": 42720
+    "num": 42724
   },
   {
     "id": "us-7546",
@@ -83046,7 +83090,7 @@
     "die_count": 0,
     "state_name": "MS",
     "county": "Harrison",
-    "num": 42726
+    "num": 42730
   },
   {
     "id": "us-7547",
@@ -83060,7 +83104,7 @@
     "die_count": 0,
     "state_name": "OR",
     "county": "Polk",
-    "num": 42728
+    "num": 42732
   },
   {
     "id": "us-7548",
@@ -83074,7 +83118,7 @@
     "die_count": 0,
     "state_name": "OR",
     "county": "Washington",
-    "num": 42742
+    "num": 42746
   },
   {
     "id": "us-7549",
@@ -83088,7 +83132,7 @@
     "die_count": 0,
     "state_name": "MS",
     "county": "Jackson",
-    "num": 42744
+    "num": 42748
   },
   {
     "id": "us-7550",
@@ -83102,7 +83146,7 @@
     "die_count": 0,
     "state_name": "MS",
     "county": "Lee",
-    "num": 42746
+    "num": 42750
   },
   {
     "id": "us-7551",
@@ -83116,7 +83160,7 @@
     "die_count": 0,
     "state_name": "MS",
     "county": "Lowndes",
-    "num": 42748
+    "num": 42752
   },
   {
     "id": "us-7552",
@@ -83130,7 +83174,7 @@
     "die_count": 0,
     "state_name": "MS",
     "county": "Madison",
-    "num": 42750
+    "num": 42754
   },
   {
     "id": "us-7553",
@@ -83144,7 +83188,7 @@
     "die_count": 0,
     "state_name": "MS",
     "county": "Oktibbeha",
-    "num": 42753
+    "num": 42757
   },
   {
     "id": "us-7554",
@@ -83158,7 +83202,7 @@
     "die_count": 0,
     "state_name": "IL",
     "county": "Unassigned",
-    "num": 42814
+    "num": 42818
   },
   {
     "id": "us-7555",
@@ -83172,7 +83216,7 @@
     "die_count": 0,
     "state_name": "MS",
     "county": "Pearl River",
-    "num": 42816
+    "num": 42820
   },
   {
     "id": "us-7556",
@@ -83186,7 +83230,7 @@
     "die_count": 0,
     "state_name": "MS",
     "county": "Pike",
-    "num": 42817
+    "num": 42821
   },
   {
     "id": "us-7557",
@@ -83200,7 +83244,7 @@
     "die_count": 0,
     "state_name": "MS",
     "county": "Rankin",
-    "num": 42818
+    "num": 42822
   },
   {
     "id": "us-7558",
@@ -83214,7 +83258,7 @@
     "die_count": 0,
     "state_name": "MS",
     "county": "Tippah",
-    "num": 42820
+    "num": 42824
   },
   {
     "id": "us-7559",
@@ -83228,7 +83272,7 @@
     "die_count": 0,
     "state_name": "MS",
     "county": "Washington",
-    "num": 42821
+    "num": 42825
   },
   {
     "id": "us-7560",
@@ -83242,7 +83286,7 @@
     "die_count": 0,
     "state_name": "MS",
     "county": "Lamar",
-    "num": 42822
+    "num": 42826
   },
   {
     "id": "us-7561",
@@ -83256,7 +83300,7 @@
     "die_count": 0,
     "state_name": "MS",
     "county": "Marion",
-    "num": 42823
+    "num": 42827
   },
   {
     "id": "us-7562",
@@ -83270,7 +83314,7 @@
     "die_count": 0,
     "state_name": "MS",
     "county": "Tallahatchie",
-    "num": 42824
+    "num": 42828
   },
   {
     "id": "us-7563",
@@ -83284,7 +83328,7 @@
     "die_count": 0,
     "state_name": "MS",
     "county": "Leflore",
-    "num": 42825
+    "num": 42829
   },
   {
     "id": "us-7564",
@@ -83298,7 +83342,7 @@
     "die_count": 0,
     "state_name": "AR",
     "county": "Pulaski",
-    "num": 42829
+    "num": 42833
   },
   {
     "id": "us-7565",
@@ -83313,7 +83357,7 @@
     "die_count": 0,
     "state_name": "AR",
     "county": "Lawrence",
-    "num": 42830
+    "num": 42834
   },
   {
     "id": "us-7566",
@@ -83327,7 +83371,7 @@
     "die_count": 0,
     "state_name": "AR",
     "county": "Unassigned",
-    "num": 42833
+    "num": 42837
   },
   {
     "id": "us-7569",
@@ -83341,7 +83385,7 @@
     "die_count": 0,
     "state_name": "IL",
     "county": "Cook",
-    "num": 42950
+    "num": 42954
   },
   {
     "id": "us-7570",
@@ -83355,7 +83399,7 @@
     "die_count": 0,
     "state_name": "IL",
     "county": "DuPage",
-    "num": 42966
+    "num": 42970
   },
   {
     "id": "us-7571",
@@ -83369,7 +83413,7 @@
     "die_count": 0,
     "state_name": "IL",
     "county": "Will",
-    "num": 42969
+    "num": 42973
   },
   {
     "id": "us-7572",
@@ -83383,7 +83427,7 @@
     "die_count": 0,
     "state_name": "IL",
     "county": "Kane",
-    "num": 42974
+    "num": 42978
   },
   {
     "id": "us-7573",
@@ -83397,7 +83441,7 @@
     "die_count": 0,
     "state_name": "IL",
     "county": "Lake",
-    "num": 43001
+    "num": 43005
   },
   {
     "id": "us-7574",
@@ -83411,7 +83455,7 @@
     "die_count": 0,
     "state_name": "CA",
     "county": "Orange",
-    "num": 43031
+    "num": 43035
   },
   {
     "id": "us-7575",
@@ -83425,7 +83469,7 @@
     "die_count": 0,
     "state_name": "NC",
     "county": "Henderson",
-    "num": 43032
+    "num": 43036
   },
   {
     "id": "us-7576",
@@ -83439,7 +83483,7 @@
     "die_count": 0,
     "state_name": "IL",
     "county": "Winnebago",
-    "num": 43033
+    "num": 43037
   },
   {
     "id": "us-7577",
@@ -83454,7 +83498,7 @@
     "die_count": 0,
     "state_name": "NC",
     "county": "Randolph",
-    "num": 43035
+    "num": 43039
   },
   {
     "id": "us-7578",
@@ -83468,7 +83512,7 @@
     "die_count": 0,
     "state_name": "IL",
     "county": "Kankakee",
-    "num": 43036
+    "num": 43040
   },
   {
     "id": "us-7579",
@@ -83483,7 +83527,7 @@
     "die_count": 0,
     "state_name": "IL",
     "county": "LaSalle",
-    "num": 43037
+    "num": 43041
   },
   {
     "id": "us-7580",
@@ -83497,7 +83541,7 @@
     "die_count": 0,
     "state_name": "NC",
     "county": "Pitt",
-    "num": 43040
+    "num": 43044
   },
   {
     "id": "us-7581",
@@ -83512,7 +83556,7 @@
     "die_count": 0,
     "state_name": "IL",
     "county": "McLean",
-    "num": 43041
+    "num": 43045
   },
   {
     "id": "us-7582",
@@ -83527,7 +83571,7 @@
     "die_count": 0,
     "state_name": "IL",
     "county": "Monroe",
-    "num": 43042
+    "num": 43046
   },
   {
     "id": "us-7583",
@@ -83542,7 +83586,7 @@
     "die_count": 0,
     "state_name": "IL",
     "county": "St. Clair",
-    "num": 43043
+    "num": 43047
   },
   {
     "id": "us-7584",
@@ -83559,7 +83603,7 @@
     "age_range": "Unknown",
     "state_name": "IL",
     "county": "Cook",
-    "num": 43043
+    "num": 43047
   },
   {
     "id": "us-7585",
@@ -83573,7 +83617,7 @@
     "die_count": 0,
     "state_name": "CA",
     "county": "Sacramento",
-    "num": 43078
+    "num": 43082
   },
   {
     "id": "us-7586",
@@ -83590,7 +83634,7 @@
     "age_range": "Unknown",
     "state_name": "IL",
     "county": "Cook",
-    "num": 43078
+    "num": 43082
   },
   {
     "id": "us-7587",
@@ -83604,7 +83648,7 @@
     "die_count": 0,
     "state_name": "MN",
     "county": "Sherburne",
-    "num": 43079
+    "num": 43083
   },
   {
     "id": "us-7588",
@@ -83621,7 +83665,7 @@
     "age_range": "Unknown",
     "state_name": "IL",
     "county": "Cook",
-    "num": 43079
+    "num": 43083
   },
   {
     "id": "us-7589",
@@ -83638,7 +83682,7 @@
     "age_range": "Unknown",
     "state_name": "IL",
     "county": "Cook",
-    "num": 43079
+    "num": 43083
   },
   {
     "id": "us-7590",
@@ -83655,7 +83699,7 @@
     "age_range": "Unknown",
     "state_name": "IL",
     "county": "Cook",
-    "num": 43079
+    "num": 43083
   },
   {
     "id": "us-7591",
@@ -83669,7 +83713,7 @@
     "die_count": 1,
     "state_name": "CA",
     "county": "Sacramento",
-    "num": 43079
+    "num": 43083
   },
   {
     "id": "us-7592",
@@ -83684,7 +83728,7 @@
     "die_count": 0,
     "state_name": "CA",
     "county": "Los Angeles",
-    "num": 43206
+    "num": 43210
   },
   {
     "id": "us-7593",
@@ -83701,7 +83745,7 @@
     "age_range": "60+",
     "state_name": "CA",
     "county": "Los Angeles",
-    "num": 43206
+    "num": 43210
   },
   {
     "id": "us-7594",
@@ -83717,7 +83761,7 @@
     "die_count": 1,
     "state_name": "CA",
     "county": "Los Angeles",
-    "num": 43206
+    "num": 43210
   },
   {
     "id": "us-7596",
@@ -83731,7 +83775,7 @@
     "die_count": 0,
     "state_name": "MN",
     "county": "Unassigned",
-    "num": 43207
+    "num": 43211
   },
   {
     "id": "us-7597",
@@ -83745,7 +83789,7 @@
     "die_count": 0,
     "state_name": "TX",
     "county": "Milam",
-    "num": 43208
+    "num": 43212
   },
   {
     "id": "us-7598",
@@ -83759,7 +83803,7 @@
     "die_count": 0,
     "state_name": "NC",
     "county": "Hertford",
-    "num": 43209
+    "num": 43213
   },
   {
     "id": "us-7600",
@@ -83773,7 +83817,7 @@
     "die_count": 0,
     "state_name": "TN",
     "county": "Claiborne",
-    "num": 43210
+    "num": 43214
   },
   {
     "id": "us-7601",
@@ -83787,7 +83831,7 @@
     "die_count": 0,
     "state_name": "WI",
     "county": "Dane",
-    "num": 43219
+    "num": 43223
   },
   {
     "id": "us-7603",
@@ -83801,7 +83845,7 @@
     "die_count": 0,
     "state_name": "TN",
     "county": "Dekalb",
-    "num": 43220
+    "num": 43224
   },
   {
     "id": "us-7604",
@@ -83815,7 +83859,7 @@
     "die_count": 0,
     "state_name": "TN",
     "county": "Dickson",
-    "num": 43221
+    "num": 43225
   },
   {
     "id": "us-7605",
@@ -83829,7 +83873,7 @@
     "die_count": 0,
     "state_name": "CA",
     "county": "Tulare",
-    "num": 43225
+    "num": 43229
   },
   {
     "id": "us-7606",
@@ -83843,7 +83887,7 @@
     "die_count": 0,
     "state_name": "TN",
     "county": "Greene",
-    "num": 43227
+    "num": 43231
   },
   {
     "id": "us-7607",
@@ -83857,7 +83901,7 @@
     "die_count": 0,
     "state_name": "TN",
     "county": "Hamblen",
-    "num": 43228
+    "num": 43232
   },
   {
     "id": "us-7608",
@@ -83871,7 +83915,7 @@
     "die_count": 0,
     "state_name": "TN",
     "county": "Hamilton",
-    "num": 43232
+    "num": 43236
   },
   {
     "id": "us-7609",
@@ -83885,7 +83929,7 @@
     "die_count": 0,
     "state_name": "CO",
     "county": "Mesa",
-    "num": 43233
+    "num": 43237
   },
   {
     "id": "us-7610",
@@ -83899,7 +83943,7 @@
     "die_count": 0,
     "state_name": "TN",
     "county": "Hardin",
-    "num": 43234
+    "num": 43238
   },
   {
     "id": "us-7611",
@@ -83913,7 +83957,7 @@
     "die_count": 0,
     "state_name": "TN",
     "county": "Knox",
-    "num": 43241
+    "num": 43245
   },
   {
     "id": "us-7612",
@@ -83927,7 +83971,7 @@
     "die_count": 0,
     "state_name": "TN",
     "county": "Lincoln",
-    "num": 43242
+    "num": 43246
   },
   {
     "id": "us-7613",
@@ -83941,7 +83985,7 @@
     "die_count": 0,
     "state_name": "TN",
     "county": "Maury",
-    "num": 43246
+    "num": 43250
   },
   {
     "id": "us-7614",
@@ -83955,7 +83999,7 @@
     "die_count": 0,
     "state_name": "NC",
     "county": "Iredell",
-    "num": 43248
+    "num": 43252
   },
   {
     "id": "us-7615",
@@ -83969,7 +84013,7 @@
     "die_count": 0,
     "state_name": "TN",
     "county": "McMinn",
-    "num": 43249
+    "num": 43253
   },
   {
     "id": "us-7616",
@@ -83983,7 +84027,7 @@
     "die_count": 0,
     "state_name": "TN",
     "county": "Perry",
-    "num": 43250
+    "num": 43254
   },
   {
     "id": "us-7617",
@@ -83997,7 +84041,7 @@
     "die_count": 0,
     "state_name": "TN",
     "county": "Robertson",
-    "num": 43253
+    "num": 43257
   },
   {
     "id": "us-7618",
@@ -84011,7 +84055,7 @@
     "die_count": 0,
     "state_name": "TN",
     "county": "Rutherford",
-    "num": 43254
+    "num": 43258
   },
   {
     "id": "us-7620",
@@ -84025,7 +84069,7 @@
     "die_count": 0,
     "state_name": "TN",
     "county": "Shelby",
-    "num": 43281
+    "num": 43285
   },
   {
     "id": "us-7621",
@@ -84039,7 +84083,7 @@
     "die_count": 0,
     "state_name": "NC",
     "county": "Buncombe",
-    "num": 43285
+    "num": 43289
   },
   {
     "id": "us-7622",
@@ -84054,7 +84098,7 @@
     "die_count": 0,
     "state_name": "MO",
     "county": "Unassigned",
-    "num": 43287
+    "num": 43291
   },
   {
     "id": "us-7623",
@@ -84068,7 +84112,7 @@
     "die_count": 0,
     "state_name": "TN",
     "county": "Sullivan",
-    "num": 43288
+    "num": 43292
   },
   {
     "id": "us-7624",
@@ -84082,7 +84126,7 @@
     "die_count": 0,
     "state_name": "TN",
     "county": "Sumner",
-    "num": 43300
+    "num": 43304
   },
   {
     "id": "us-7625",
@@ -84096,7 +84140,7 @@
     "die_count": 0,
     "state_name": "TN",
     "county": "Tipton",
-    "num": 43301
+    "num": 43305
   },
   {
     "id": "us-7626",
@@ -84110,7 +84154,7 @@
     "die_count": 0,
     "state_name": "TN",
     "county": "Weakley",
-    "num": 43302
+    "num": 43306
   },
   {
     "id": "us-7627",
@@ -84124,7 +84168,7 @@
     "die_count": 0,
     "state_name": "TN",
     "county": "Washington",
-    "num": 43306
+    "num": 43310
   },
   {
     "id": "us-7628",
@@ -84138,7 +84182,7 @@
     "die_count": 0,
     "state_name": "TN",
     "county": "Williamson",
-    "num": 43311
+    "num": 43315
   },
   {
     "id": "us-7629",
@@ -84152,7 +84196,7 @@
     "die_count": 0,
     "state_name": "TN",
     "county": "Wilson",
-    "num": 43315
+    "num": 43319
   },
   {
     "id": "us-7630",
@@ -84166,7 +84210,7 @@
     "die_count": 0,
     "state_name": "TN",
     "county": "Unassigned",
-    "num": 43339
+    "num": 43343
   },
   {
     "id": "us-7631",
@@ -84180,7 +84224,7 @@
     "die_count": 0,
     "state_name": "NC",
     "county": "Jackson",
-    "num": 43340
+    "num": 43344
   },
   {
     "id": "us-7632",
@@ -84194,7 +84238,7 @@
     "die_count": 0,
     "state_name": "TN",
     "county": "Out-of-state",
-    "num": 43347
+    "num": 43351
   },
   {
     "id": "us-7633",
@@ -84208,7 +84252,7 @@
     "die_count": 0,
     "state_name": "NC",
     "county": "Transylvania",
-    "num": 43348
+    "num": 43352
   },
   {
     "id": "us-7634",
@@ -84222,7 +84266,7 @@
     "die_count": 0,
     "state_name": "TN",
     "county": "Jefferson",
-    "num": 43349
+    "num": 43353
   },
   {
     "id": "us-7635",
@@ -84236,7 +84280,7 @@
     "die_count": 0,
     "state_name": "TN",
     "county": "Blount",
-    "num": 43350
+    "num": 43354
   },
   {
     "id": "us-7636",
@@ -84251,7 +84295,7 @@
     "die_count": 4,
     "state_name": "MA",
     "county": "Unassigned",
-    "num": 43350
+    "num": 43354
   },
   {
     "id": "us-7637",
@@ -84265,7 +84309,7 @@
     "die_count": 0,
     "state_name": "CT",
     "county": "Fairfield",
-    "num": 43412
+    "num": 43416
   },
   {
     "id": "us-7638",
@@ -84281,7 +84325,7 @@
     "age_range": "30+",
     "state_name": "TX",
     "county": "Bell",
-    "num": 43413
+    "num": 43417
   },
   {
     "id": "us-7639",
@@ -84295,7 +84339,7 @@
     "die_count": 0,
     "state_name": "CT",
     "county": "Hartford",
-    "num": 43420
+    "num": 43424
   },
   {
     "id": "us-7640",
@@ -84309,7 +84353,7 @@
     "die_count": 0,
     "state_name": "CT",
     "county": "Litchfield",
-    "num": 43421
+    "num": 43425
   },
   {
     "id": "us-7641",
@@ -84323,7 +84367,7 @@
     "die_count": 0,
     "state_name": "CT",
     "county": "Middlesex",
-    "num": 43423
+    "num": 43427
   },
   {
     "id": "us-7642",
@@ -84339,7 +84383,7 @@
     "age_range": "40+",
     "state_name": "TX",
     "county": "Bell",
-    "num": 43424
+    "num": 43428
   },
   {
     "id": "us-7643",
@@ -84353,7 +84397,7 @@
     "die_count": 0,
     "state_name": "CT",
     "county": "New Haven",
-    "num": 43436
+    "num": 43440
   },
   {
     "id": "us-7644",
@@ -84367,7 +84411,7 @@
     "die_count": 0,
     "state_name": "CT",
     "county": "New London",
-    "num": 43437
+    "num": 43441
   },
   {
     "id": "us-7645",
@@ -84381,7 +84425,7 @@
     "die_count": 0,
     "state_name": "CT",
     "county": "Tolland",
-    "num": 43439
+    "num": 43443
   },
   {
     "id": "us-7646",
@@ -84395,7 +84439,7 @@
     "die_count": 0,
     "state_name": "CT",
     "county": "Windham",
-    "num": 43440
+    "num": 43444
   },
   {
     "id": "us-7647",
@@ -84409,7 +84453,7 @@
     "die_count": 0,
     "state_name": "TX",
     "county": "Bell",
-    "num": 43444
+    "num": 43448
   },
   {
     "id": "us-7648",
@@ -84424,7 +84468,7 @@
     "die_count": 0,
     "state_name": "NC",
     "county": "Wilson",
-    "num": 43445
+    "num": 43449
   },
   {
     "id": "us-7649",
@@ -84440,7 +84484,7 @@
     "age_range": "50+",
     "state_name": "TX",
     "county": "Harris",
-    "num": 43446
+    "num": 43450
   },
   {
     "id": "us-7650",
@@ -84456,7 +84500,7 @@
     "age_range": "60+",
     "state_name": "TX",
     "county": "Harris",
-    "num": 43447
+    "num": 43451
   },
   {
     "id": "us-7651",
@@ -84472,7 +84516,7 @@
     "age_range": "40+",
     "state_name": "TX",
     "county": "Harris",
-    "num": 43448
+    "num": 43452
   },
   {
     "id": "us-7654",
@@ -84489,7 +84533,7 @@
     "age_range": "70+",
     "state_name": "NV",
     "county": "Clark",
-    "num": 43448
+    "num": 43452
   },
   {
     "id": "us-7656",
@@ -84506,7 +84550,7 @@
     "age_range": "60+",
     "state_name": "NV",
     "county": "Clark",
-    "num": 43448
+    "num": 43452
   },
   {
     "id": "us-7658",
@@ -84520,7 +84564,7 @@
     "die_count": 0,
     "state_name": "CA",
     "county": "Monterey",
-    "num": 43451
+    "num": 43455
   },
   {
     "id": "us-7659",
@@ -84534,7 +84578,7 @@
     "die_count": 0,
     "state_name": "PA",
     "county": "Montgomery",
-    "num": 43458
+    "num": 43462
   },
   {
     "id": "us-7663",
@@ -84548,7 +84592,7 @@
     "die_count": 1,
     "state_name": "CT",
     "county": "Fairfield",
-    "num": 43458
+    "num": 43462
   },
   {
     "id": "us-7664",
@@ -84562,7 +84606,7 @@
     "die_count": 1,
     "state_name": "CT",
     "county": "Hartford",
-    "num": 43458
+    "num": 43462
   },
   {
     "id": "us-7666",
@@ -84576,7 +84620,7 @@
     "die_count": 0,
     "state_name": "CA",
     "county": "San Benito",
-    "num": 43459
+    "num": 43463
   },
   {
     "id": "us-7669",
@@ -84591,7 +84635,7 @@
     "die_count": 0,
     "state_name": "TX",
     "county": "Blanco",
-    "num": 43460
+    "num": 43464
   },
   {
     "id": "us-7671",
@@ -84605,7 +84649,7 @@
     "die_count": 0,
     "state_name": "MO",
     "county": "Platte",
-    "num": 43461
+    "num": 43465
   },
   {
     "id": "us-7673",
@@ -84619,7 +84663,7 @@
     "die_count": 0,
     "state_name": "MA",
     "county": "Middlesex",
-    "num": 43494
+    "num": 43498
   },
   {
     "id": "us-7674",
@@ -84633,7 +84677,7 @@
     "die_count": 0,
     "state_name": "MA",
     "county": "Suffolk",
-    "num": 43522
+    "num": 43526
   },
   {
     "id": "us-7675",
@@ -84648,7 +84692,7 @@
     "die_count": 0,
     "state_name": "SC",
     "county": "Kershaw",
-    "num": 43532
+    "num": 43536
   },
   {
     "id": "us-7676",
@@ -84664,7 +84708,7 @@
     "age_range": "<10",
     "state_name": "TX",
     "county": "Galveston",
-    "num": 43533
+    "num": 43537
   },
   {
     "id": "us-7677",
@@ -84679,7 +84723,7 @@
     "die_count": 0,
     "state_name": "SC",
     "county": "Richland",
-    "num": 43547
+    "num": 43551
   },
   {
     "id": "us-7680",
@@ -84693,7 +84737,7 @@
     "die_count": 0,
     "state_name": "MA",
     "county": "Norfolk",
-    "num": 43554
+    "num": 43558
   },
   {
     "id": "us-7681",
@@ -84707,7 +84751,7 @@
     "die_count": 0,
     "state_name": "MA",
     "county": "Essex",
-    "num": 43567
+    "num": 43571
   },
   {
     "id": "us-7682",
@@ -84722,7 +84766,7 @@
     "die_count": 0,
     "state_name": "SC",
     "county": "Charleston",
-    "num": 43584
+    "num": 43588
   },
   {
     "id": "us-7686",
@@ -84737,7 +84781,7 @@
     "die_count": 0,
     "state_name": "SC",
     "county": "Greenville",
-    "num": 43596
+    "num": 43600
   },
   {
     "id": "us-7687",
@@ -84751,7 +84795,7 @@
     "die_count": 0,
     "state_name": "TX",
     "county": "Harris",
-    "num": 43597
+    "num": 43601
   },
   {
     "id": "us-7688",
@@ -84766,7 +84810,7 @@
     "die_count": 0,
     "state_name": "TX",
     "county": "Montgomery",
-    "num": 43598
+    "num": 43602
   },
   {
     "id": "us-7691",
@@ -84780,7 +84824,7 @@
     "die_count": 0,
     "state_name": "KY",
     "county": "Anderson",
-    "num": 43599
+    "num": 43603
   },
   {
     "id": "us-7692",
@@ -84794,7 +84838,7 @@
     "die_count": 0,
     "state_name": "MA",
     "county": "Worcester",
-    "num": 43604
+    "num": 43608
   },
   {
     "id": "us-7693",
@@ -84809,7 +84853,7 @@
     "die_count": 0,
     "state_name": "SC",
     "county": "Beaufort",
-    "num": 43611
+    "num": 43615
   },
   {
     "id": "us-7694",
@@ -84824,7 +84868,7 @@
     "die_count": 0,
     "state_name": "SC",
     "county": "Lexington",
-    "num": 43616
+    "num": 43620
   },
   {
     "id": "us-7695",
@@ -84838,7 +84882,7 @@
     "die_count": 0,
     "state_name": "MA",
     "county": "Plymouth",
-    "num": 43623
+    "num": 43627
   },
   {
     "id": "us-7697",
@@ -84854,7 +84898,7 @@
     "age_range": "20+",
     "state_name": "TX",
     "county": "Montgomery",
-    "num": 43624
+    "num": 43628
   },
   {
     "id": "us-7698",
@@ -84870,7 +84914,7 @@
     "age_range": "50+",
     "state_name": "TX",
     "county": "Montgomery",
-    "num": 43625
+    "num": 43629
   },
   {
     "id": "us-7699",
@@ -84886,7 +84930,7 @@
     "age_range": "50+",
     "state_name": "TX",
     "county": "Montgomery",
-    "num": 43626
+    "num": 43630
   },
   {
     "id": "us-7700",
@@ -84900,7 +84944,7 @@
     "die_count": 0,
     "state_name": "MA",
     "county": "Barnstable",
-    "num": 43632
+    "num": 43636
   },
   {
     "id": "us-7701",
@@ -84914,7 +84958,7 @@
     "die_count": 0,
     "state_name": "TX",
     "county": "Waller",
-    "num": 43633
+    "num": 43637
   },
   {
     "id": "us-7703",
@@ -84929,7 +84973,7 @@
     "die_count": 0,
     "state_name": "SC",
     "county": "Horry",
-    "num": 43638
+    "num": 43642
   },
   {
     "id": "us-7706",
@@ -84943,7 +84987,7 @@
     "die_count": 0,
     "state_name": "MA",
     "county": "Bristol",
-    "num": 43639
+    "num": 43643
   },
   {
     "id": "us-7709",
@@ -84958,7 +85002,7 @@
     "die_count": 0,
     "state_name": "SC",
     "county": "Anderson",
-    "num": 43644
+    "num": 43648
   },
   {
     "id": "us-7711",
@@ -84972,7 +85016,7 @@
     "die_count": 0,
     "state_name": "MA",
     "county": "Berkshire",
-    "num": 43647
+    "num": 43651
   },
   {
     "id": "us-7712",
@@ -84987,7 +85031,7 @@
     "die_count": 0,
     "state_name": "SC",
     "county": "Orangeburg",
-    "num": 43652
+    "num": 43656
   },
   {
     "id": "us-7713",
@@ -85001,7 +85045,7 @@
     "die_count": 0,
     "state_name": "MA",
     "county": "Hampden",
-    "num": 43655
+    "num": 43659
   },
   {
     "id": "us-7714",
@@ -85016,7 +85060,7 @@
     "die_count": 0,
     "state_name": "SC",
     "county": "Darlington",
-    "num": 43657
+    "num": 43661
   },
   {
     "id": "us-7716",
@@ -85030,7 +85074,7 @@
     "die_count": 0,
     "state_name": "MA",
     "county": "Hampshire",
-    "num": 43659
+    "num": 43663
   },
   {
     "id": "us-7717",
@@ -85045,7 +85089,7 @@
     "die_count": 0,
     "state_name": "SC",
     "county": "Lancaster",
-    "num": 43661
+    "num": 43665
   },
   {
     "id": "us-7718",
@@ -85059,7 +85103,7 @@
     "die_count": 0,
     "state_name": "TX",
     "county": "Falls",
-    "num": 43662
+    "num": 43666
   },
   {
     "id": "us-7720",
@@ -85073,7 +85117,7 @@
     "die_count": 0,
     "state_name": "MA",
     "county": "Unassigned",
-    "num": 43685
+    "num": 43689
   },
   {
     "id": "us-7721",
@@ -85088,7 +85132,7 @@
     "die_count": 0,
     "state_name": "SC",
     "county": "York",
-    "num": 43688
+    "num": 43692
   },
   {
     "id": "us-7722",
@@ -85103,7 +85147,7 @@
     "die_count": 0,
     "state_name": "SC",
     "county": "Berkeley",
-    "num": 43690
+    "num": 43694
   },
   {
     "id": "us-7724",
@@ -85117,7 +85161,7 @@
     "die_count": 0,
     "state_name": "PA",
     "county": "Philadelphia",
-    "num": 43737
+    "num": 43741
   },
   {
     "id": "us-7726",
@@ -85131,7 +85175,7 @@
     "die_count": 0,
     "state_name": "TX",
     "county": "Potter",
-    "num": 43739
+    "num": 43743
   },
   {
     "id": "us-7727",
@@ -85146,7 +85190,7 @@
     "die_count": 0,
     "state_name": "SC",
     "county": "Clarendon",
-    "num": 43743
+    "num": 43747
   },
   {
     "id": "us-7729",
@@ -85161,7 +85205,7 @@
     "die_count": 0,
     "state_name": "SC",
     "county": "Sumter",
-    "num": 43744
+    "num": 43748
   },
   {
     "id": "us-7730",
@@ -85176,7 +85220,7 @@
     "die_count": 0,
     "state_name": "SC",
     "county": "Florence",
-    "num": 43746
+    "num": 43750
   },
   {
     "id": "us-7732",
@@ -85190,7 +85234,7 @@
     "die_count": 0,
     "state_name": "KY",
     "county": "Kenton",
-    "num": 43748
+    "num": 43752
   },
   {
     "id": "us-7733",
@@ -85204,7 +85248,7 @@
     "die_count": 0,
     "state_name": "TX",
     "county": "Bexar",
-    "num": 43759
+    "num": 43763
   },
   {
     "id": "us-7734",
@@ -85219,7 +85263,7 @@
     "die_count": 0,
     "state_name": "SC",
     "county": "Spartanburg",
-    "num": 43760
+    "num": 43764
   },
   {
     "id": "us-7735",
@@ -85234,7 +85278,7 @@
     "die_count": 0,
     "state_name": "SC",
     "county": "Dorchester",
-    "num": 43761
+    "num": 43765
   },
   {
     "id": "us-7736",
@@ -85249,7 +85293,7 @@
     "die_count": 0,
     "state_name": "SC",
     "county": "Fairfield",
-    "num": 43762
+    "num": 43766
   },
   {
     "id": "us-7737",
@@ -85263,7 +85307,7 @@
     "die_count": 0,
     "state_name": "ID",
     "county": "Cassia",
-    "num": 43763
+    "num": 43767
   },
   {
     "id": "us-7739",
@@ -85278,7 +85322,7 @@
     "die_count": 0,
     "state_name": "SC",
     "county": "Georgetown",
-    "num": 43765
+    "num": 43769
   },
   {
     "id": "us-7740",
@@ -85292,7 +85336,7 @@
     "die_count": 0,
     "state_name": "KY",
     "county": "Pulaski",
-    "num": 43766
+    "num": 43770
   },
   {
     "id": "us-7741",
@@ -85306,7 +85350,7 @@
     "die_count": 0,
     "state_name": "ID",
     "county": "Blaine",
-    "num": 43780
+    "num": 43784
   },
   {
     "id": "us-7742",
@@ -85320,7 +85364,7 @@
     "die_count": 0,
     "state_name": "KY",
     "county": "Warren",
-    "num": 43782
+    "num": 43786
   },
   {
     "id": "us-7743",
@@ -85334,7 +85378,7 @@
     "die_count": 0,
     "state_name": "ID",
     "county": "Bannock",
-    "num": 43784
+    "num": 43788
   },
   {
     "id": "us-7744",
@@ -85349,7 +85393,7 @@
     "die_count": 0,
     "state_name": "SC",
     "county": "Lee",
-    "num": 43785
+    "num": 43789
   },
   {
     "id": "us-7745",
@@ -85364,7 +85408,7 @@
     "die_count": 0,
     "state_name": "SC",
     "county": "Oconee",
-    "num": 43787
+    "num": 43791
   },
   {
     "id": "us-7746",
@@ -85379,7 +85423,7 @@
     "die_count": 1,
     "state_name": "LA",
     "county": "East Baton Rouge",
-    "num": 43787
+    "num": 43791
   },
   {
     "id": "us-7747",
@@ -85395,7 +85439,7 @@
     "age_range": "Unknown",
     "state_name": "NY",
     "county": "Unassigned",
-    "num": 43787
+    "num": 43791
   },
   {
     "id": "us-7753",
@@ -85409,7 +85453,7 @@
     "die_count": 1,
     "state_name": "SC",
     "county": "Clarendon",
-    "num": 43787
+    "num": 43791
   },
   {
     "id": "us-7755",
@@ -85423,7 +85467,7 @@
     "die_count": 1,
     "state_name": "SC",
     "county": "Kershaw",
-    "num": 43787
+    "num": 43791
   },
   {
     "id": "us-7757",
@@ -85437,7 +85481,7 @@
     "die_count": 0,
     "state_name": "FL",
     "county": "Broward",
-    "num": 43792
+    "num": 43796
   },
   {
     "id": "us-7758",
@@ -85451,7 +85495,7 @@
     "die_count": 0,
     "state_name": "MO",
     "county": "Clay",
-    "num": 43795
+    "num": 43799
   },
   {
     "id": "us-7759",
@@ -85465,7 +85509,7 @@
     "die_count": 0,
     "state_name": "FL",
     "county": "Collier",
-    "num": 43800
+    "num": 43804
   },
   {
     "id": "us-7760",
@@ -85481,7 +85525,7 @@
     "age_range": "90+",
     "state_name": "TX",
     "county": "Robertson",
-    "num": 43801
+    "num": 43805
   },
   {
     "id": "us-7761",
@@ -85496,7 +85540,7 @@
     "die_count": 1,
     "state_name": "KY",
     "county": "Fayette",
-    "num": 43801
+    "num": 43805
   },
   {
     "id": "us-7762",
@@ -85510,7 +85554,7 @@
     "die_count": 0,
     "state_name": "FL",
     "county": "Miami-Dade",
-    "num": 43812
+    "num": 43816
   },
   {
     "id": "us-7763",
@@ -85525,7 +85569,7 @@
     "die_count": 0,
     "state_name": "MO",
     "county": "Clinton",
-    "num": 43813
+    "num": 43817
   },
   {
     "id": "us-7765",
@@ -85539,7 +85583,7 @@
     "die_count": 0,
     "state_name": "FL",
     "county": "Duval",
-    "num": 43817
+    "num": 43821
   },
   {
     "id": "us-7766",
@@ -85553,7 +85597,7 @@
     "die_count": 0,
     "state_name": "AL",
     "county": "Baldwin",
-    "num": 43818
+    "num": 43822
   },
   {
     "id": "us-7767",
@@ -85568,7 +85612,7 @@
     "die_count": 0,
     "state_name": "MO",
     "county": "St. Louis",
-    "num": 43832
+    "num": 43836
   },
   {
     "id": "us-7768",
@@ -85582,7 +85626,7 @@
     "die_count": 0,
     "state_name": "AL",
     "county": "Calhoun",
-    "num": 43833
+    "num": 43837
   },
   {
     "id": "us-7769",
@@ -85597,7 +85641,7 @@
     "die_count": 1,
     "state_name": "PA",
     "county": "Northampton",
-    "num": 43833
+    "num": 43837
   },
   {
     "id": "us-7770",
@@ -85611,7 +85655,7 @@
     "die_count": 0,
     "state_name": "AL",
     "county": "Franklin",
-    "num": 43834
+    "num": 43838
   },
   {
     "id": "us-7771",
@@ -85625,7 +85669,7 @@
     "die_count": 0,
     "state_name": "AL",
     "county": "Houston",
-    "num": 43835
+    "num": 43839
   },
   {
     "id": "us-7772",
@@ -85639,7 +85683,7 @@
     "die_count": 0,
     "state_name": "FL",
     "county": "Escambia",
-    "num": 43839
+    "num": 43843
   },
   {
     "id": "us-7773",
@@ -85653,7 +85697,7 @@
     "die_count": 0,
     "state_name": "AL",
     "county": "Jefferson",
-    "num": 43846
+    "num": 43850
   },
   {
     "id": "us-7774",
@@ -85668,22 +85712,21 @@
     "die_count": 0,
     "state_name": "MO",
     "county": "Kansas City",
-    "num": 43850
+    "num": 43854
   },
   {
     "id": "us-7775",
     "confirmed_date": "3/23",
-    "comments": "密苏里州 州官网3/23  St. Louis City 累计 15例(包含1例死亡病例)。",
-    "links": [
-      "https://health.mo.gov/living/healthcondiseases/communicable/novel-coronavirus/results.php",
-      "https://www.kshb.com/news/coronavirus/covid-19-case-tracker-where-we-stand-in-mo-ks-nationwide"
-    ],
-    "people_count": 1,
-    "comments_en": "As of 3/23 MO state official publish, St. Louis City total 15 cases(including 1 death).",
+    "comments": "密苏里州 州官网3/23  St. Louis City 累计 22例(包含1例死亡病例)。",
+    "comments_en": "As of 3/23 MO state official publish, St. Louis City total 22 cases(including 1 death).",
     "die_count": 0,
     "state_name": "MO",
     "county": "St. Louis City",
-    "num": 43851
+    "people_count": 8,
+    "links": [
+      "https://www.stlouis-mo.gov/government/departments/health/communicable-disease/covid-19/index.cfm#CP_JUMP_808170"
+    ],
+    "num": 43862
   },
   {
     "id": "us-7776",
@@ -85697,7 +85740,7 @@
     "die_count": 0,
     "state_name": "AL",
     "county": "Lauderdale",
-    "num": 43852
+    "num": 43863
   },
   {
     "id": "us-7777",
@@ -85711,7 +85754,7 @@
     "die_count": 0,
     "state_name": "AL",
     "county": "Lee",
-    "num": 43854
+    "num": 43865
   },
   {
     "id": "us-7778",
@@ -85725,7 +85768,7 @@
     "die_count": 0,
     "state_name": "FL",
     "county": "Hillsborough",
-    "num": 43856
+    "num": 43867
   },
   {
     "id": "us-7779",
@@ -85739,7 +85782,7 @@
     "die_count": 0,
     "state_name": "AL",
     "county": "Madison",
-    "num": 43860
+    "num": 43871
   },
   {
     "id": "us-7783",
@@ -85753,7 +85796,7 @@
     "die_count": 0,
     "state_name": "WA",
     "county": "Snohomish",
-    "num": 43899
+    "num": 43910
   },
   {
     "id": "us-7784",
@@ -85767,7 +85810,7 @@
     "die_count": 0,
     "state_name": "AL",
     "county": "Shelby",
-    "num": 43904
+    "num": 43915
   },
   {
     "id": "us-7786",
@@ -85781,7 +85824,7 @@
     "die_count": 0,
     "state_name": "AL",
     "county": "Tallapoosa",
-    "num": 43905
+    "num": 43916
   },
   {
     "id": "us-7788",
@@ -85796,7 +85839,7 @@
     "die_count": 0,
     "state_name": "MO",
     "county": "Jackson",
-    "num": 43907
+    "num": 43918
   },
   {
     "id": "us-7789",
@@ -85810,7 +85853,7 @@
     "die_count": 0,
     "state_name": "FL",
     "county": "Indian River",
-    "num": 43909
+    "num": 43920
   },
   {
     "id": "us-7790",
@@ -85824,7 +85867,7 @@
     "die_count": 0,
     "state_name": "AL",
     "county": "Tuscaloosa",
-    "num": 43911
+    "num": 43922
   },
   {
     "id": "us-7794",
@@ -85838,7 +85881,7 @@
     "die_count": 0,
     "state_name": "AL",
     "county": "Walker",
-    "num": 43913
+    "num": 43924
   },
   {
     "id": "us-7795",
@@ -85853,7 +85896,7 @@
     "die_count": 0,
     "state_name": "MO",
     "county": "Cole",
-    "num": 43914
+    "num": 43925
   },
   {
     "id": "us-7796",
@@ -85867,7 +85910,7 @@
     "die_count": 0,
     "state_name": "FL",
     "county": "Lake",
-    "num": 43916
+    "num": 43927
   },
   {
     "id": "us-7797",
@@ -85881,7 +85924,7 @@
     "die_count": 0,
     "state_name": "AL",
     "county": "Montgomery",
-    "num": 43917
+    "num": 43928
   },
   {
     "id": "us-7798",
@@ -85896,7 +85939,7 @@
     "die_count": 0,
     "state_name": "MO",
     "county": "St. Charles",
-    "num": 43918
+    "num": 43929
   },
   {
     "id": "us-7800",
@@ -85911,7 +85954,7 @@
     "die_count": 0,
     "state_name": "MO",
     "county": "Lafayette",
-    "num": 43919
+    "num": 43930
   },
   {
     "id": "us-7801",
@@ -85925,7 +85968,7 @@
     "die_count": 0,
     "state_name": "FL",
     "county": "Lee",
-    "num": 43921
+    "num": 43932
   },
   {
     "id": "us-7802",
@@ -85940,7 +85983,7 @@
     "die_count": 0,
     "state_name": "MO",
     "county": "Taney",
-    "num": 43922
+    "num": 43933
   },
   {
     "id": "us-7804",
@@ -85954,7 +85997,7 @@
     "die_count": 0,
     "state_name": "FL",
     "county": "Leon",
-    "num": 43923
+    "num": 43934
   },
   {
     "id": "us-7805",
@@ -85969,7 +86012,7 @@
     "die_count": 0,
     "state_name": "MI",
     "county": "Bay",
-    "num": 43924
+    "num": 43935
   },
   {
     "id": "us-7806",
@@ -85983,7 +86026,7 @@
     "die_count": 0,
     "state_name": "FL",
     "county": "Martin",
-    "num": 43926
+    "num": 43937
   },
   {
     "id": "us-7807",
@@ -85997,7 +86040,7 @@
     "die_count": 0,
     "state_name": "NY",
     "county": "Onondaga",
-    "num": 43934
+    "num": 43945
   },
   {
     "id": "us-7808",
@@ -86011,7 +86054,7 @@
     "die_count": 0,
     "state_name": "SC",
     "county": "Chester",
-    "num": 43935
+    "num": 43946
   },
   {
     "id": "us-7809",
@@ -86025,7 +86068,7 @@
     "die_count": 0,
     "state_name": "FL",
     "county": "Orange",
-    "num": 43938
+    "num": 43949
   },
   {
     "id": "us-7810",
@@ -86039,7 +86082,7 @@
     "die_count": 0,
     "state_name": "IN",
     "county": "St. Joseph",
-    "num": 43947
+    "num": 43958
   },
   {
     "id": "us-7811",
@@ -86054,7 +86097,7 @@
     "die_count": 0,
     "state_name": "MO",
     "county": "Adair",
-    "num": 43948
+    "num": 43959
   },
   {
     "id": "us-7812",
@@ -86068,7 +86111,7 @@
     "die_count": 0,
     "state_name": "FL",
     "county": "Osceola",
-    "num": 43949
+    "num": 43960
   },
   {
     "id": "us-7813",
@@ -86083,7 +86126,7 @@
     "die_count": 1,
     "state_name": "WA",
     "county": "Snohomish",
-    "num": 43949
+    "num": 43960
   },
   {
     "id": "us-7815",
@@ -86097,7 +86140,7 @@
     "die_count": 0,
     "state_name": "FL",
     "county": "Pasco",
-    "num": 43950
+    "num": 43961
   },
   {
     "id": "us-7816",
@@ -86111,7 +86154,7 @@
     "die_count": 0,
     "state_name": "FL",
     "county": "Pinellas",
-    "num": 43951
+    "num": 43962
   },
   {
     "id": "us-7817",
@@ -86125,7 +86168,7 @@
     "die_count": 0,
     "state_name": "WA",
     "county": "Benton",
-    "num": 43953
+    "num": 43964
   },
   {
     "id": "us-7818",
@@ -86140,7 +86183,7 @@
     "die_count": 1,
     "state_name": "WA",
     "county": "King",
-    "num": 43953
+    "num": 43964
   },
   {
     "id": "us-7819",
@@ -86155,7 +86198,7 @@
     "die_count": 1,
     "state_name": "WA",
     "county": "King",
-    "num": 43953
+    "num": 43964
   },
   {
     "id": "us-7820",
@@ -86170,7 +86213,7 @@
     "die_count": 1,
     "state_name": "WA",
     "county": "King",
-    "num": 43953
+    "num": 43964
   },
   {
     "id": "us-7821",
@@ -86185,7 +86228,7 @@
     "die_count": 1,
     "state_name": "WA",
     "county": "King",
-    "num": 43953
+    "num": 43964
   },
   {
     "id": "us-7822",
@@ -86200,7 +86243,7 @@
     "die_count": 1,
     "state_name": "WA",
     "county": "King",
-    "num": 43953
+    "num": 43964
   },
   {
     "id": "us-7823",
@@ -86215,7 +86258,7 @@
     "die_count": 1,
     "state_name": "WA",
     "county": "King",
-    "num": 43953
+    "num": 43964
   },
   {
     "id": "us-7824",
@@ -86230,7 +86273,7 @@
     "die_count": 1,
     "state_name": "WA",
     "county": "King",
-    "num": 43953
+    "num": 43964
   },
   {
     "id": "us-7825",
@@ -86245,7 +86288,7 @@
     "die_count": 1,
     "state_name": "WA",
     "county": "King",
-    "num": 43953
+    "num": 43964
   },
   {
     "id": "us-7826",
@@ -86260,7 +86303,7 @@
     "die_count": 1,
     "state_name": "WA",
     "county": "King",
-    "num": 43953
+    "num": 43964
   },
   {
     "id": "us-7827",
@@ -86275,7 +86318,7 @@
     "die_count": 1,
     "state_name": "WA",
     "county": "King",
-    "num": 43953
+    "num": 43964
   },
   {
     "id": "us-7828",
@@ -86290,7 +86333,7 @@
     "die_count": 1,
     "state_name": "WA",
     "county": "King",
-    "num": 43953
+    "num": 43964
   },
   {
     "id": "us-7829",
@@ -86305,7 +86348,7 @@
     "die_count": 1,
     "state_name": "WA",
     "county": "King",
-    "num": 43953
+    "num": 43964
   },
   {
     "id": "us-7830",
@@ -86319,7 +86362,7 @@
     "die_count": 0,
     "state_name": "FL",
     "county": "Santa Rosa",
-    "num": 43954
+    "num": 43965
   },
   {
     "id": "us-7831",
@@ -86333,7 +86376,7 @@
     "die_count": 0,
     "state_name": "WA",
     "county": "Franklin",
-    "num": 43956
+    "num": 43967
   },
   {
     "id": "us-7832",
@@ -86347,7 +86390,7 @@
     "die_count": 0,
     "state_name": "CA",
     "county": "Riverside",
-    "num": 43959
+    "num": 43970
   },
   {
     "id": "us-7833",
@@ -86361,7 +86404,7 @@
     "die_count": 0,
     "state_name": "FL",
     "county": "Seminole",
-    "num": 43962
+    "num": 43973
   },
   {
     "id": "us-7834",
@@ -86375,7 +86418,7 @@
     "die_count": 0,
     "state_name": "FL",
     "county": "St. Lucie",
-    "num": 43964
+    "num": 43975
   },
   {
     "id": "us-7835",
@@ -86389,7 +86432,7 @@
     "die_count": 0,
     "state_name": "FL",
     "county": "Volusia",
-    "num": 43965
+    "num": 43976
   },
   {
     "id": "us-7836",
@@ -86403,7 +86446,7 @@
     "die_count": 0,
     "state_name": "FL",
     "county": "Walton",
-    "num": 43969
+    "num": 43980
   },
   {
     "id": "us-7838",
@@ -86417,7 +86460,7 @@
     "die_count": 1,
     "state_name": "WA",
     "county": "Benton",
-    "num": 43969
+    "num": 43980
   },
   {
     "id": "us-7840",
@@ -86431,7 +86474,7 @@
     "die_count": 0,
     "state_name": "WA",
     "county": "King",
-    "num": 44099
+    "num": 44110
   },
   {
     "id": "us-7842",
@@ -86445,7 +86488,7 @@
     "die_count": 1,
     "state_name": "FL",
     "county": "Palm Beach",
-    "num": 44099
+    "num": 44110
   },
   {
     "id": "us-7843",
@@ -86459,7 +86502,7 @@
     "die_count": 0,
     "state_name": "WA",
     "county": "Adams",
-    "num": 44100
+    "num": 44111
   },
   {
     "id": "us-7844",
@@ -86473,7 +86516,7 @@
     "die_count": 0,
     "state_name": "WA",
     "county": "Pierce",
-    "num": 44119
+    "num": 44130
   },
   {
     "id": "us-7845",
@@ -86487,7 +86530,7 @@
     "die_count": 1,
     "state_name": "FL",
     "county": "Palm Beach",
-    "num": 44119
+    "num": 44130
   },
   {
     "id": "us-7847",
@@ -86501,7 +86544,7 @@
     "die_count": 0,
     "state_name": "AZ",
     "county": "Yuma",
-    "num": 44120
+    "num": 44131
   },
   {
     "id": "us-7848",
@@ -86516,7 +86559,7 @@
     "die_count": 0,
     "state_name": "MO",
     "county": "Callaway",
-    "num": 44121
+    "num": 44132
   },
   {
     "id": "us-7849",
@@ -86530,7 +86573,7 @@
     "die_count": 1,
     "state_name": "FL",
     "county": "Clay",
-    "num": 44121
+    "num": 44132
   },
   {
     "id": "us-7851",
@@ -86544,7 +86587,7 @@
     "die_count": 0,
     "state_name": "NY",
     "county": "Monroe",
-    "num": 44122
+    "num": 44133
   },
   {
     "id": "us-7850",
@@ -86558,7 +86601,7 @@
     "die_count": 1,
     "state_name": "CA",
     "county": "Alameda",
-    "num": 44122
+    "num": 44133
   },
   {
     "id": "us-7852",
@@ -86574,7 +86617,7 @@
     "die_count": 0,
     "state_name": "CA",
     "county": "Alameda",
-    "num": 44138
+    "num": 44149
   },
   {
     "id": "us-7853",
@@ -86589,7 +86632,7 @@
     "die_count": 0,
     "state_name": "WA",
     "county": "Douglas",
-    "num": 44139
+    "num": 44150
   },
   {
     "id": "us-7854",
@@ -86603,7 +86646,7 @@
     "die_count": 0,
     "state_name": "WA",
     "county": "Chelan",
-    "num": 44142
+    "num": 44153
   },
   {
     "id": "us-7855",
@@ -86617,7 +86660,7 @@
     "die_count": 0,
     "state_name": "AR",
     "county": "Pulaski",
-    "num": 44145
+    "num": 44156
   },
   {
     "id": "us-7856",
@@ -86631,7 +86674,7 @@
     "die_count": 0,
     "state_name": "AR",
     "county": "Jefferson",
-    "num": 44146
+    "num": 44157
   },
   {
     "id": "us-7857",
@@ -86645,7 +86688,7 @@
     "die_count": 0,
     "state_name": "AR",
     "county": "Cleburne",
-    "num": 44148
+    "num": 44159
   },
   {
     "id": "us-7858",
@@ -86659,7 +86702,7 @@
     "die_count": 0,
     "state_name": "AR",
     "county": "Faulkner",
-    "num": 44152
+    "num": 44163
   },
   {
     "id": "us-7859",
@@ -86673,7 +86716,7 @@
     "die_count": 0,
     "state_name": "AR",
     "county": "Clark",
-    "num": 44157
+    "num": 44168
   },
   {
     "id": "us-7860",
@@ -86687,7 +86730,7 @@
     "die_count": 0,
     "state_name": "WA",
     "county": "Clark",
-    "num": 44160
+    "num": 44171
   },
   {
     "id": "us-7861",
@@ -86701,7 +86744,7 @@
     "die_count": 0,
     "state_name": "CA",
     "county": "Sonoma",
-    "num": 44162
+    "num": 44173
   },
   {
     "id": "us-7862",
@@ -86715,7 +86758,7 @@
     "die_count": 0,
     "state_name": "WA",
     "county": "Island",
-    "num": 44166
+    "num": 44177
   },
   {
     "id": "us-7863",
@@ -86730,7 +86773,7 @@
     "die_count": 0,
     "state_name": "NM",
     "county": "Bernalillo",
-    "num": 44167
+    "num": 44178
   },
   {
     "id": "us-7864",
@@ -86745,7 +86788,7 @@
     "die_count": 0,
     "state_name": "NM",
     "county": "Bernalillo",
-    "num": 44168
+    "num": 44179
   },
   {
     "id": "us-7865",
@@ -86760,7 +86803,7 @@
     "die_count": 0,
     "state_name": "NM",
     "county": "Bernalillo",
-    "num": 44169
+    "num": 44180
   },
   {
     "id": "us-7866",
@@ -86775,7 +86818,7 @@
     "die_count": 0,
     "state_name": "NM",
     "county": "Bernalillo",
-    "num": 44170
+    "num": 44181
   },
   {
     "id": "us-7867",
@@ -86789,7 +86832,7 @@
     "die_count": 0,
     "state_name": "CO",
     "county": "Denver",
-    "num": 44193
+    "num": 44204
   },
   {
     "id": "us-7868",
@@ -86803,7 +86846,7 @@
     "die_count": 0,
     "state_name": "AR",
     "county": "White",
-    "num": 44194
+    "num": 44205
   },
   {
     "id": "us-7869",
@@ -86817,7 +86860,7 @@
     "die_count": 0,
     "state_name": "AR",
     "county": "Stone",
-    "num": 44195
+    "num": 44206
   },
   {
     "id": "us-7870",
@@ -86832,7 +86875,7 @@
     "die_count": 0,
     "state_name": "NM",
     "county": "Dona Ana",
-    "num": 44196
+    "num": 44207
   },
   {
     "id": "us-7871",
@@ -86847,7 +86890,7 @@
     "die_count": 0,
     "state_name": "NM",
     "county": "Dona Ana",
-    "num": 44197
+    "num": 44208
   },
   {
     "id": "us-7872",
@@ -86862,7 +86905,7 @@
     "die_count": 0,
     "state_name": "NM",
     "county": "Dona Ana",
-    "num": 44198
+    "num": 44209
   },
   {
     "id": "us-7873",
@@ -86877,7 +86920,7 @@
     "die_count": 0,
     "state_name": "NM",
     "county": "Dona Ana",
-    "num": 44199
+    "num": 44210
   },
   {
     "id": "us-7874",
@@ -86892,7 +86935,7 @@
     "die_count": 0,
     "state_name": "NM",
     "county": "Dona Ana",
-    "num": 44200
+    "num": 44211
   },
   {
     "id": "us-7875",
@@ -86907,7 +86950,7 @@
     "die_count": 0,
     "state_name": "NM",
     "county": "Dona Ana",
-    "num": 44201
+    "num": 44212
   },
   {
     "id": "us-7876",
@@ -86921,7 +86964,7 @@
     "die_count": 0,
     "state_name": "CO",
     "county": "Eagle",
-    "num": 44213
+    "num": 44224
   },
   {
     "id": "us-7878",
@@ -86935,7 +86978,7 @@
     "die_count": 0,
     "state_name": "CA",
     "county": "Contra Costa",
-    "num": 44223
+    "num": 44234
   },
   {
     "id": "us-7879",
@@ -86950,7 +86993,7 @@
     "die_count": 0,
     "state_name": "NM",
     "county": "San Juan",
-    "num": 44224
+    "num": 44235
   },
   {
     "id": "us-7880",
@@ -86965,7 +87008,7 @@
     "die_count": 0,
     "state_name": "NM",
     "county": "San Juan",
-    "num": 44225
+    "num": 44236
   },
   {
     "id": "us-7881",
@@ -86979,7 +87022,7 @@
     "die_count": 0,
     "state_name": "CO",
     "county": "El Paso",
-    "num": 44243
+    "num": 44254
   },
   {
     "id": "us-7882",
@@ -86994,7 +87037,7 @@
     "die_count": 0,
     "state_name": "NM",
     "county": "Santa Fe",
-    "num": 44244
+    "num": 44255
   },
   {
     "id": "us-7883",
@@ -87009,7 +87052,7 @@
     "die_count": 0,
     "state_name": "NM",
     "county": "Santa Fe",
-    "num": 44245
+    "num": 44256
   },
   {
     "id": "us-7884",
@@ -87023,7 +87066,7 @@
     "die_count": 0,
     "state_name": "AR",
     "county": "Crawford",
-    "num": 44246
+    "num": 44257
   },
   {
     "id": "us-7885",
@@ -87038,7 +87081,7 @@
     "die_count": 0,
     "state_name": "NM",
     "county": "Chaves",
-    "num": 44247
+    "num": 44258
   },
   {
     "id": "us-7886",
@@ -87053,7 +87096,7 @@
     "die_count": 0,
     "state_name": "NM",
     "county": "Chaves",
-    "num": 44248
+    "num": 44259
   },
   {
     "id": "us-7887",
@@ -87068,7 +87111,7 @@
     "die_count": 0,
     "state_name": "NM",
     "county": "Chaves",
-    "num": 44249
+    "num": 44260
   },
   {
     "id": "us-7888",
@@ -87083,7 +87126,7 @@
     "die_count": 0,
     "state_name": "NM",
     "county": "Chaves",
-    "num": 44250
+    "num": 44261
   },
   {
     "id": "us-7889",
@@ -87097,7 +87140,7 @@
     "die_count": 0,
     "state_name": "NC",
     "county": "Northampton",
-    "num": 44251
+    "num": 44262
   },
   {
     "id": "us-7890",
@@ -87111,7 +87154,7 @@
     "die_count": 0,
     "state_name": "CO",
     "county": "Jefferson",
-    "num": 44255
+    "num": 44266
   },
   {
     "id": "us-7891",
@@ -87125,7 +87168,7 @@
     "die_count": 0,
     "state_name": "NC",
     "county": "Rowan",
-    "num": 44257
+    "num": 44268
   },
   {
     "id": "us-7892",
@@ -87139,7 +87182,7 @@
     "die_count": 0,
     "state_name": "CO",
     "county": "Arapahoe",
-    "num": 44270
+    "num": 44281
   },
   {
     "id": "us-7893",
@@ -87153,7 +87196,7 @@
     "die_count": 0,
     "state_name": "CO",
     "county": "Weld",
-    "num": 44283
+    "num": 44294
   },
   {
     "id": "us-7894",
@@ -87167,7 +87210,7 @@
     "die_count": 0,
     "state_name": "CO",
     "county": "Boulder",
-    "num": 44285
+    "num": 44296
   },
   {
     "id": "us-7895",
@@ -87181,7 +87224,7 @@
     "die_count": 0,
     "state_name": "TX",
     "county": "Jefferson",
-    "num": 44288
+    "num": 44299
   },
   {
     "id": "us-7896",
@@ -87195,7 +87238,7 @@
     "die_count": 0,
     "state_name": "CO",
     "county": "Douglas",
-    "num": 44303
+    "num": 44314
   },
   {
     "id": "us-7897",
@@ -87209,7 +87252,7 @@
     "die_count": 0,
     "state_name": "NC",
     "county": "Brunswick",
-    "num": 44304
+    "num": 44315
   },
   {
     "id": "us-7898",
@@ -87223,7 +87266,7 @@
     "die_count": 0,
     "state_name": "CO",
     "county": "Larimer",
-    "num": 44306
+    "num": 44317
   },
   {
     "id": "us-7899",
@@ -87237,7 +87280,7 @@
     "die_count": 0,
     "state_name": "CO",
     "county": "Gunnison",
-    "num": 44312
+    "num": 44323
   },
   {
     "id": "us-7900",
@@ -87251,7 +87294,7 @@
     "die_count": 0,
     "state_name": "USVI",
     "county": "Unassigned",
-    "num": 44323
+    "num": 44334
   },
   {
     "id": "us-7901",
@@ -87265,7 +87308,7 @@
     "die_count": 0,
     "state_name": "NE",
     "county": "Gage",
-    "num": 44324
+    "num": 44335
   },
   {
     "id": "us-7902",
@@ -87279,7 +87322,7 @@
     "die_count": 0,
     "state_name": "CO",
     "county": "Adams",
-    "num": 44331
+    "num": 44342
   },
   {
     "id": "us-7903",
@@ -87293,7 +87336,7 @@
     "die_count": 0,
     "state_name": "NC",
     "county": "New Hanover",
-    "num": 44336
+    "num": 44347
   },
   {
     "id": "us-7904",
@@ -87307,7 +87350,7 @@
     "die_count": 0,
     "state_name": "NC",
     "county": "Durham",
-    "num": 44366
+    "num": 44377
   },
   {
     "id": "us-7905",
@@ -87321,7 +87364,7 @@
     "die_count": 0,
     "state_name": "CO",
     "county": "Pitkin",
-    "num": 44368
+    "num": 44379
   },
   {
     "id": "us-7906",
@@ -87335,21 +87378,21 @@
     "die_count": 0,
     "state_name": "CO",
     "county": "Summit",
-    "num": 44369
+    "num": 44380
   },
   {
     "id": "us-7907",
     "confirmed_date": "3/23",
-    "comments": "乔治亚州Colquitt郡确诊首2例。",
+    "comments": "乔治亚州Colquitt郡确诊首2例。(注：这一例新闻确凿，但未出现在GA官网3.23晚间7点的最近更新中。)",
     "links": [
       "https://www.moultrieobserver.com/news/local_news/cases-of-coronavirus-confirmed-in-colquitt-county/article_7b73bd84-6d4d-11ea-a304-3394ab95b4f6.html"
     ],
     "people_count": 2,
-    "comments_en": "2 cases of coronavirus confirmed in Colquitt County",
+    "comments_en": "2 cases of coronavirus confirmed in Colquitt County. (Note: these two cases have been clearly reported in the news-link, but have not been counted in according to the latest update of GA Health website. We'll keep investigating later.)",
     "die_count": 0,
     "state_name": "GA",
     "county": "Colquitt",
-    "num": 44371
+    "num": 44382
   },
   {
     "id": "us-7908",
@@ -87363,7 +87406,7 @@
     "die_count": 0,
     "state_name": "CO",
     "county": "Morgan",
-    "num": 44372
+    "num": 44383
   },
   {
     "id": "us-7909",
@@ -87377,7 +87420,7 @@
     "die_count": 0,
     "state_name": "CO",
     "county": "Broomfield",
-    "num": 44373
+    "num": 44384
   },
   {
     "id": "us-7910",
@@ -87391,7 +87434,7 @@
     "die_count": 0,
     "state_name": "AR",
     "county": "Unassigned",
-    "num": 44378
+    "num": 44389
   },
   {
     "id": "us-7911",
@@ -87405,7 +87448,7 @@
     "die_count": 0,
     "state_name": "CO",
     "county": "Unassigned",
-    "num": 44382
+    "num": 44393
   },
   {
     "id": "us-7913",
@@ -87420,7 +87463,7 @@
     "die_count": 0,
     "state_name": "CA",
     "county": "Los Angeles",
-    "num": 44386
+    "num": 44397
   },
   {
     "id": "us-7914",
@@ -87434,7 +87477,7 @@
     "die_count": 0,
     "state_name": "NC",
     "county": "Cumberland",
-    "num": 44388
+    "num": 44399
   },
   {
     "id": "us-7917",
@@ -87450,7 +87493,7 @@
     "age_range": "50+",
     "state_name": "CA",
     "county": "Los Angeles",
-    "num": 44388
+    "num": 44399
   },
   {
     "id": "us-7918",
@@ -87464,7 +87507,7 @@
     "die_count": 0,
     "state_name": "NY",
     "county": "Steuben",
-    "num": 44389
+    "num": 44400
   },
   {
     "id": "us-7920",
@@ -87480,7 +87523,7 @@
     "die_count": 0,
     "state_name": "MT",
     "county": "Yellowstone",
-    "num": 44390
+    "num": 44401
   },
   {
     "id": "us-7921",
@@ -87494,7 +87537,7 @@
     "die_count": 0,
     "state_name": "WA",
     "county": "Kittitas",
-    "num": 44391
+    "num": 44402
   },
   {
     "id": "us-7922",
@@ -87509,7 +87552,7 @@
     "die_count": 0,
     "state_name": "MT",
     "county": "Gallatin",
-    "num": 44397
+    "num": 44408
   },
   {
     "id": "us-7923",
@@ -87525,7 +87568,7 @@
     "age_range": "70+",
     "state_name": "VA",
     "county": "Virginia Beach",
-    "num": 44397
+    "num": 44408
   },
   {
     "id": "us-7924",
@@ -87540,7 +87583,7 @@
     "die_count": 0,
     "state_name": "MT",
     "county": "Flathead",
-    "num": 44399
+    "num": 44410
   },
   {
     "id": "us-7925",
@@ -87555,7 +87598,7 @@
     "die_count": 0,
     "state_name": "MT",
     "county": "Missoula",
-    "num": 44402
+    "num": 44413
   },
   {
     "id": "us-7927",
@@ -87569,7 +87612,7 @@
     "die_count": 1,
     "state_name": "WA",
     "county": "Skagit",
-    "num": 44402
+    "num": 44413
   },
   {
     "id": "us-7928",
@@ -87583,7 +87626,7 @@
     "die_count": 0,
     "state_name": "GA",
     "county": "Pickens",
-    "num": 44403
+    "num": 44414
   },
   {
     "id": "us-7929",
@@ -87597,7 +87640,7 @@
     "die_count": 0,
     "state_name": "GA",
     "county": "Liberty",
-    "num": 44404
+    "num": 44415
   },
   {
     "id": "us-7930",
@@ -87611,7 +87654,7 @@
     "die_count": 0,
     "state_name": "GA",
     "county": "Harris",
-    "num": 44405
+    "num": 44416
   },
   {
     "id": "us-7931",
@@ -87625,7 +87668,7 @@
     "die_count": 0,
     "state_name": "GA",
     "county": "Burke",
-    "num": 44406
+    "num": 44417
   },
   {
     "id": "us-7932",
@@ -87639,7 +87682,7 @@
     "die_count": 0,
     "state_name": "WA",
     "county": "Spokane",
-    "num": 44415
+    "num": 44426
   },
   {
     "id": "us-7933",
@@ -87653,7 +87696,7 @@
     "die_count": 1,
     "state_name": "WA",
     "county": "Clark",
-    "num": 44415
+    "num": 44426
   },
   {
     "id": "us-7934",
@@ -87667,7 +87710,7 @@
     "die_count": 0,
     "state_name": "WA",
     "county": "Yakima",
-    "num": 44424
+    "num": 44435
   },
   {
     "id": "us-7935",
@@ -87681,21 +87724,21 @@
     "die_count": 0,
     "state_name": "CO",
     "county": "Teller",
-    "num": 44427
+    "num": 44438
   },
   {
     "id": "us-7936",
     "confirmed_date": "3/23",
-    "comments": "乔治亚州Camden郡确诊首例，目前居家恢复中。",
+    "comments": "乔治亚州Camden郡确诊首例，目前居家恢复中。(这一例新闻确凿，但未出现在3.23晚间7点GA的官网更新中。)",
     "links": [
       "https://coastalcourier.com/news/first-confirmed-case-liberty-county/"
     ],
     "people_count": 1,
-    "comments_en": "The first confirmed cases of COVID-19 have been reported in Camden and Liberty counties today. Both counties now have 1 confirmed case each, and both residents are recovering at home, according to a press release issued by the Coastal Health District today.",
+    "comments_en": "The first confirmed cases of COVID-19 have been reported in Camden and Liberty counties today. Both counties now have 1 confirmed case each, and both residents are recovering at home, according to a press release issued by the Coastal Health District today. (Note: this case has been clearly reported in the news-link, but has not been counted in according to the latest update of GA Health website. We'll keep investigating later.)",
     "die_count": 0,
     "state_name": "GA",
     "county": "Camden",
-    "num": 44428
+    "num": 44439
   },
   {
     "id": "us-7938",
@@ -87709,7 +87752,7 @@
     "die_count": 0,
     "state_name": "CA",
     "county": "San Joaquin",
-    "num": 44438
+    "num": 44449
   },
   {
     "id": "us-7940",
@@ -87723,7 +87766,7 @@
     "die_count": 0,
     "state_name": "CA",
     "county": "Ventura",
-    "num": 44443
+    "num": 44454
   },
   {
     "id": "us-7941",
@@ -87737,7 +87780,7 @@
     "die_count": 0,
     "state_name": "WA",
     "county": "Skagit",
-    "num": 44444
+    "num": 44455
   },
   {
     "id": "us-7943",
@@ -87751,7 +87794,7 @@
     "die_count": 0,
     "state_name": "CA",
     "county": "San Luis Obispo",
-    "num": 44450
+    "num": 44461
   },
   {
     "id": "us-7944",
@@ -87765,7 +87808,7 @@
     "die_count": 0,
     "state_name": "CA",
     "county": "Placer",
-    "num": 44458
+    "num": 44469
   },
   {
     "id": "us-7945",
@@ -87779,7 +87822,7 @@
     "die_count": 0,
     "state_name": "CA",
     "county": "Amador",
-    "num": 44459
+    "num": 44470
   },
   {
     "id": "us-7946",
@@ -87793,7 +87836,7 @@
     "die_count": 0,
     "state_name": "MO",
     "county": "Kansas City",
-    "num": 44467
+    "num": 44478
   },
   {
     "id": "us-7947",
@@ -87807,7 +87850,7 @@
     "die_count": 1,
     "state_name": "GA",
     "county": "Unassigned",
-    "num": 44467
+    "num": 44478
   },
   {
     "id": "us-7949",
@@ -87821,7 +87864,7 @@
     "die_count": 0,
     "state_name": "CA",
     "county": "Solano",
-    "num": 44474
+    "num": 44485
   },
   {
     "id": "us-7951",
@@ -87835,7 +87878,7 @@
     "die_count": 0,
     "state_name": "CA",
     "county": "Stanislaus",
-    "num": 44476
+    "num": 44487
   },
   {
     "id": "us-7952",
@@ -87849,7 +87892,7 @@
     "die_count": 0,
     "state_name": "CA",
     "county": "Madera",
-    "num": 44479
+    "num": 44490
   },
   {
     "id": "us-7953",
@@ -87863,7 +87906,7 @@
     "die_count": 0,
     "state_name": "TX",
     "county": "Travis",
-    "num": 44486
+    "num": 44497
   },
   {
     "id": "us-7954",
@@ -87877,7 +87920,7 @@
     "die_count": 0,
     "state_name": "CA",
     "county": "Nevada",
-    "num": 44487
+    "num": 44498
   },
   {
     "id": "us-7955",
@@ -87891,7 +87934,7 @@
     "die_count": 0,
     "state_name": "NC",
     "county": "Wake",
-    "num": 44501
+    "num": 44512
   },
   {
     "id": "us-7956",
@@ -87905,7 +87948,7 @@
     "die_count": 0,
     "state_name": "HI",
     "county": "Honolulu",
-    "num": 44513
+    "num": 44524
   },
   {
     "id": "us-7957",
@@ -87919,7 +87962,7 @@
     "die_count": 0,
     "state_name": "HI",
     "county": "Maui",
-    "num": 44515
+    "num": 44526
   },
   {
     "id": "us-7959",
@@ -87933,7 +87976,7 @@
     "die_count": 0,
     "state_name": "HI",
     "county": "Hawaii",
-    "num": 44517
+    "num": 44528
   },
   {
     "id": "us-7960",
@@ -87947,7 +87990,7 @@
     "die_count": 0,
     "state_name": "HI",
     "county": "Unassigned",
-    "num": 44522
+    "num": 44533
   },
   {
     "id": "us-7961",
@@ -87961,7 +88004,7 @@
     "die_count": 0,
     "state_name": "CA",
     "county": "Santa Clara",
-    "num": 44541
+    "num": 44552
   },
   {
     "id": "us-7963",
@@ -87975,7 +88018,7 @@
     "die_count": 0,
     "state_name": "ND",
     "county": "Unassigned",
-    "num": 44544
+    "num": 44555
   },
   {
     "id": "us-7965",
@@ -87989,7 +88032,7 @@
     "die_count": 0,
     "state_name": "CA",
     "county": "San Diego",
-    "num": 44569
+    "num": 44580
   },
   {
     "id": "us-7966",
@@ -88005,7 +88048,7 @@
     "age_range": "80+",
     "state_name": "CA",
     "county": "Santa Clara",
-    "num": 44569
+    "num": 44580
   },
   {
     "id": "us-7967",
@@ -88021,7 +88064,7 @@
     "age_range": "70+",
     "state_name": "CA",
     "county": "Santa Clara",
-    "num": 44569
+    "num": 44580
   },
   {
     "id": "us-7968",
@@ -88037,7 +88080,7 @@
     "age_range": "60+",
     "state_name": "CA",
     "county": "Santa Clara",
-    "num": 44569
+    "num": 44580
   },
   {
     "id": "us-7970",
@@ -88051,7 +88094,7 @@
     "die_count": 0,
     "state_name": "NY",
     "county": "Broome",
-    "num": 44573
+    "num": 44584
   },
   {
     "id": "us-7971",
@@ -88065,7 +88108,7 @@
     "die_count": 0,
     "state_name": "DC",
     "county": "District of Columbia",
-    "num": 44594
+    "num": 44605
   },
   {
     "id": "us-7974",
@@ -88080,7 +88123,7 @@
     "die_count": 0,
     "state_name": "WY",
     "county": "Carbon",
-    "num": 44595
+    "num": 44606
   },
   {
     "id": "us-7975",
@@ -88094,7 +88137,7 @@
     "die_count": 0,
     "state_name": "NY",
     "county": "Chenango",
-    "num": 44596
+    "num": 44607
   },
   {
     "id": "us-7976",
@@ -88111,7 +88154,7 @@
     "die_count": 0,
     "state_name": "WY",
     "county": "Laramie",
-    "num": 44597
+    "num": 44608
   },
   {
     "id": "us-7977",
@@ -88125,7 +88168,7 @@
     "die_count": 0,
     "state_name": "NY",
     "county": "Clinton",
-    "num": 44599
+    "num": 44610
   },
   {
     "id": "us-7978",
@@ -88139,7 +88182,7 @@
     "die_count": 0,
     "state_name": "NY",
     "county": "Delaware",
-    "num": 44601
+    "num": 44612
   },
   {
     "id": "us-7979",
@@ -88153,7 +88196,7 @@
     "die_count": 0,
     "state_name": "NY",
     "county": "Greene",
-    "num": 44603
+    "num": 44614
   },
   {
     "id": "us-7980",
@@ -88167,7 +88210,7 @@
     "die_count": 0,
     "state_name": "NY",
     "county": "Herkimer",
-    "num": 44604
+    "num": 44615
   },
   {
     "id": "us-7982",
@@ -88181,7 +88224,7 @@
     "die_count": 0,
     "state_name": "NY",
     "county": "Jefferson",
-    "num": 44605
+    "num": 44616
   },
   {
     "id": "us-7983",
@@ -88195,7 +88238,7 @@
     "die_count": 0,
     "state_name": "NY",
     "county": "Livingston",
-    "num": 44606
+    "num": 44617
   },
   {
     "id": "us-7984",
@@ -88209,7 +88252,7 @@
     "die_count": 0,
     "state_name": "NY",
     "county": "Madison",
-    "num": 44609
+    "num": 44620
   },
   {
     "id": "us-7985",
@@ -88223,7 +88266,7 @@
     "die_count": 0,
     "state_name": "NY",
     "county": "Niagara",
-    "num": 44610
+    "num": 44621
   },
   {
     "id": "us-7986",
@@ -88237,7 +88280,7 @@
     "die_count": 0,
     "state_name": "NY",
     "county": "Oneida",
-    "num": 44612
+    "num": 44623
   },
   {
     "id": "us-7987",
@@ -88251,7 +88294,7 @@
     "die_count": 0,
     "state_name": "NY",
     "county": "Ontario",
-    "num": 44614
+    "num": 44625
   },
   {
     "id": "us-7989",
@@ -88265,7 +88308,7 @@
     "die_count": 0,
     "state_name": "NY",
     "county": "Putnam",
-    "num": 44628
+    "num": 44639
   },
   {
     "id": "us-7992",
@@ -88279,7 +88322,7 @@
     "die_count": 0,
     "state_name": "NY",
     "county": "Rensselaer",
-    "num": 44637
+    "num": 44648
   },
   {
     "id": "us-7993",
@@ -88293,7 +88336,7 @@
     "die_count": 0,
     "state_name": "DE",
     "county": "Kent",
-    "num": 44640
+    "num": 44651
   },
   {
     "id": "us-7994",
@@ -88307,7 +88350,7 @@
     "die_count": 0,
     "state_name": "DE",
     "county": "New Castle",
-    "num": 44654
+    "num": 44665
   },
   {
     "id": "us-7995",
@@ -88321,7 +88364,7 @@
     "die_count": 0,
     "state_name": "NY",
     "county": "Saratoga",
-    "num": 44672
+    "num": 44683
   },
   {
     "id": "us-7996",
@@ -88335,7 +88378,7 @@
     "die_count": 0,
     "state_name": "IN",
     "county": "Delaware",
-    "num": 44673
+    "num": 44684
   },
   {
     "id": "us-7998",
@@ -88349,7 +88392,7 @@
     "die_count": 0,
     "state_name": "NY",
     "county": "Schenectady",
-    "num": 44685
+    "num": 44696
   },
   {
     "id": "us-7999",
@@ -88363,7 +88406,7 @@
     "die_count": 0,
     "state_name": "DE",
     "county": "Sussex",
-    "num": 44687
+    "num": 44698
   },
   {
     "id": "us-8000",
@@ -88377,7 +88420,7 @@
     "die_count": 0,
     "state_name": "NY",
     "county": "Sullivan",
-    "num": 44698
+    "num": 44709
   },
   {
     "id": "us-8001",
@@ -88391,7 +88434,7 @@
     "die_count": 0,
     "state_name": "NY",
     "county": "Ulster",
-    "num": 44715
+    "num": 44726
   },
   {
     "id": "us-8002",
@@ -88405,7 +88448,7 @@
     "die_count": 0,
     "state_name": "NY",
     "county": "Warren",
-    "num": 44716
+    "num": 44727
   },
   {
     "id": "us-8003",
@@ -88419,7 +88462,7 @@
     "die_count": 0,
     "state_name": "NY",
     "county": "Washington",
-    "num": 44718
+    "num": 44729
   },
   {
     "id": "us-8004",
@@ -88433,7 +88476,7 @@
     "die_count": 0,
     "state_name": "NY",
     "county": "Wayne",
-    "num": 44721
+    "num": 44732
   },
   {
     "id": "us-8005",
@@ -88447,7 +88490,7 @@
     "die_count": 0,
     "state_name": "NY",
     "county": "Wyoming",
-    "num": 44723
+    "num": 44734
   },
   {
     "id": "us-8006",
@@ -88456,12 +88499,12 @@
     "links": [
       "https://www.nbcnewyork.com/news/local/how-many-in-tri-state-have-tested-positive-for-coronavirus-here-are-latest-cases-by-the-numbers/2317721/"
     ],
-    "people_count": 1517,
+    "people_count": 1514,
     "comments_en": "By 3/23 10:13PM EST, New York reported 23230 total cases in the state.",
     "die_count": 0,
     "state_name": "NY",
     "county": "Unassigned",
-    "num": 46240
+    "num": 46248
   },
   {
     "id": "us-8007",
@@ -88475,7 +88518,7 @@
     "die_count": 0,
     "state_name": "NY",
     "county": "Unassigned",
-    "num": 46240
+    "num": 46248
   },
   {
     "id": "us-8008",
@@ -88490,7 +88533,7 @@
     "die_count": 0,
     "state_name": "WV",
     "county": "Kanawha",
-    "num": 46241
+    "num": 46249
   },
   {
     "id": "us-8010",
@@ -88504,7 +88547,7 @@
     "die_count": 0,
     "state_name": "WA",
     "county": "Jefferson",
-    "num": 46242
+    "num": 46250
   },
   {
     "id": "us-8011",
@@ -88519,7 +88562,7 @@
     "die_count": 0,
     "state_name": "WV",
     "county": "Monongalia",
-    "num": 46245
+    "num": 46253
   },
   {
     "id": "us-8012",
@@ -88533,7 +88576,7 @@
     "die_count": 0,
     "state_name": "AK",
     "county": "Anchorage",
-    "num": 46249
+    "num": 46257
   },
   {
     "id": "us-8013",
@@ -88547,7 +88590,7 @@
     "die_count": 0,
     "state_name": "NY",
     "county": "Cayuga",
-    "num": 46251
+    "num": 46259
   },
   {
     "id": "us-8014",
@@ -88561,7 +88604,7 @@
     "die_count": 0,
     "state_name": "NY",
     "county": "St. Lawrence",
-    "num": 46252
+    "num": 46260
   },
   {
     "id": "us-8015",
@@ -88575,7 +88618,7 @@
     "die_count": 0,
     "state_name": "TX",
     "county": "Nueces",
-    "num": 46257
+    "num": 46265
   },
   {
     "id": "us-8016",
@@ -88589,7 +88632,7 @@
     "die_count": 0,
     "state_name": "NC",
     "county": "Harnett",
-    "num": 46258
+    "num": 46266
   },
   {
     "id": "us-8017",
@@ -88603,7 +88646,7 @@
     "die_count": 0,
     "state_name": "NC",
     "county": "Johnston",
-    "num": 46259
+    "num": 46267
   },
   {
     "id": "us-8019",
@@ -88617,7 +88660,7 @@
     "die_count": 0,
     "state_name": "CA",
     "county": "Marin",
-    "num": 46268
+    "num": 46276
   },
   {
     "id": "us-8020",
@@ -88631,7 +88674,7 @@
     "die_count": 0,
     "state_name": "NC",
     "county": "Davidson",
-    "num": 46269
+    "num": 46277
   },
   {
     "id": "us-8021",
@@ -88646,7 +88689,7 @@
     "die_count": 0,
     "state_name": "NC",
     "county": "Alamance",
-    "num": 46270
+    "num": 46278
   },
   {
     "id": "us-8022",
@@ -88660,7 +88703,7 @@
     "die_count": 0,
     "state_name": "NC",
     "county": "Nash",
-    "num": 46272
+    "num": 46280
   },
   {
     "id": "us-8024",
@@ -88675,7 +88718,7 @@
     "age_range": "60+",
     "state_name": "NE",
     "county": "Washington",
-    "num": 46274
+    "num": 46282
   },
   {
     "id": "us-8025",
@@ -88691,7 +88734,7 @@
     "age_range": "30+",
     "state_name": "NE",
     "county": "Madison",
-    "num": 46275
+    "num": 46283
   },
   {
     "id": "us-8026",
@@ -88705,7 +88748,7 @@
     "die_count": 0,
     "state_name": "NE",
     "county": "Sarpy",
-    "num": 46278
+    "num": 46286
   },
   {
     "id": "us-8027",
@@ -88719,7 +88762,7 @@
     "die_count": 0,
     "state_name": "NE",
     "county": "Cass",
-    "num": 46279
+    "num": 46287
   },
   {
     "id": "us-8029",
@@ -88733,7 +88776,7 @@
     "die_count": 0,
     "state_name": "NE",
     "county": "Douglas",
-    "num": 46283
+    "num": 46291
   },
   {
     "id": "us-8030",
@@ -88748,7 +88791,7 @@
     "die_count": 0,
     "state_name": "TX",
     "county": "Denton",
-    "num": 46289
+    "num": 46297
   },
   {
     "id": "us-8033",
@@ -88762,7 +88805,7 @@
     "die_count": 0,
     "state_name": "NV",
     "county": "Clark",
-    "num": 46350
+    "num": 46358
   },
   {
     "id": "us-8034",
@@ -88776,7 +88819,7 @@
     "die_count": 0,
     "state_name": "KS",
     "county": "Sedgwick",
-    "num": 46351
+    "num": 46359
   },
   {
     "id": "us-8035",
@@ -88791,7 +88834,7 @@
     "die_count": 1,
     "state_name": "AZ",
     "county": "Pima",
-    "num": 46351
+    "num": 46359
   },
   {
     "id": "us-8036",
@@ -88805,7 +88848,7 @@
     "die_count": 0,
     "state_name": "TX",
     "county": "Ellis",
-    "num": 46352
+    "num": 46360
   },
   {
     "id": "us-8037",
@@ -88819,7 +88862,7 @@
     "die_count": 0,
     "state_name": "TX",
     "county": "Fort Bend",
-    "num": 46365
+    "num": 46373
   },
   {
     "id": "us-8038",
@@ -88833,7 +88876,7 @@
     "die_count": 0,
     "state_name": "NV",
     "county": "Unassigned",
-    "num": 46367
+    "num": 46375
   },
   {
     "id": "us-8039",
@@ -88847,7 +88890,7 @@
     "die_count": 0,
     "state_name": "NV",
     "county": "Washoe",
-    "num": 46383
+    "num": 46391
   },
   {
     "id": "us-8040",
@@ -88861,7 +88904,7 @@
     "die_count": 0,
     "state_name": "TX",
     "county": "Ellis",
-    "num": 46385
+    "num": 46393
   },
   {
     "id": "us-8041",
@@ -88876,7 +88919,7 @@
     "die_count": 0,
     "state_name": "TX",
     "county": "Collin",
-    "num": 46386
+    "num": 46394
   },
   {
     "id": "us-8043",
@@ -88891,7 +88934,7 @@
     "die_count": 0,
     "state_name": "TX",
     "county": "Collin",
-    "num": 46387
+    "num": 46395
   },
   {
     "id": "us-8044",
@@ -88906,7 +88949,7 @@
     "die_count": 0,
     "state_name": "TX",
     "county": "Collin",
-    "num": 46388
+    "num": 46396
   },
   {
     "id": "us-8045",
@@ -88921,7 +88964,7 @@
     "die_count": 0,
     "state_name": "TX",
     "county": "Collin",
-    "num": 46389
+    "num": 46397
   },
   {
     "id": "us-8046",
@@ -88936,7 +88979,7 @@
     "die_count": 0,
     "state_name": "TX",
     "county": "Collin",
-    "num": 46390
+    "num": 46398
   },
   {
     "id": "us-8047",
@@ -88951,7 +88994,7 @@
     "die_count": 0,
     "state_name": "TX",
     "county": "Collin",
-    "num": 46391
+    "num": 46399
   },
   {
     "id": "us-8048",
@@ -88966,7 +89009,7 @@
     "die_count": 0,
     "state_name": "TX",
     "county": "Collin",
-    "num": 46392
+    "num": 46400
   },
   {
     "id": "us-8049",
@@ -88980,7 +89023,7 @@
     "die_count": 0,
     "state_name": "MO",
     "county": "St. Louis",
-    "num": 46413
+    "num": 46421
   },
   {
     "id": "us-8050",
@@ -88996,7 +89039,7 @@
     "age_range": "70+",
     "state_name": "PA",
     "county": "Lackawanna",
-    "num": 46413
+    "num": 46421
   },
   {
     "id": "us-8051",
@@ -89010,7 +89053,7 @@
     "die_count": 0,
     "state_name": "TX",
     "county": "McLennan",
-    "num": 46417
+    "num": 46425
   },
   {
     "id": "us-8052",
@@ -89024,7 +89067,7 @@
     "die_count": 1,
     "state_name": "NY",
     "county": "Madison",
-    "num": 46417
+    "num": 46425
   },
   {
     "id": "us-8053",
@@ -89041,7 +89084,7 @@
     "age_range": "80+",
     "state_name": "MO",
     "county": "Greene",
-    "num": 46417
+    "num": 46425
   },
   {
     "id": "us-8054",
@@ -89057,7 +89100,7 @@
     "gender": "Unknown",
     "age_range": "70+",
     "comments_en": "Rockland County confirmed 5 death, One on Sunday and one on Monday. One was 79 and the other 66, county health officials said. Both had other significant health problems.",
-    "num": 46417
+    "num": 46425
   },
   {
     "id": "us-8055",
@@ -89073,7 +89116,7 @@
     "age_range": "60+",
     "state_name": "NY",
     "county": "Rockland",
-    "num": 46417
+    "num": 46425
   },
   {
     "id": "us-8056",
@@ -89087,7 +89130,7 @@
     "die_count": 2,
     "state_name": "NY",
     "county": "Rockland",
-    "num": 46417
+    "num": 46425
   },
   {
     "id": "us-8057",
@@ -89101,7 +89144,7 @@
     ],
     "state_name": "CA",
     "county": "Monterey",
-    "num": 46423
+    "num": 46431
   },
   {
     "id": "us-8058",
@@ -89115,7 +89158,7 @@
     "links": [
       "https://www.yolocounty.org/health-human-services/adults/communicable-disease-investigation-and-control/novel-coronavirus-2019"
     ],
-    "num": 46425
+    "num": 46433
   },
   {
     "id": "us-8064",
@@ -89129,7 +89172,7 @@
     "links": [
       "https://www.nh.gov/covid19/"
     ],
-    "num": 46435
+    "num": 46443
   },
   {
     "id": "us-8066",
@@ -89143,7 +89186,7 @@
     "links": [
       "https://www.nh.gov/covid19/"
     ],
-    "num": 46438
+    "num": 46446
   },
   {
     "id": "us-8067",
@@ -89157,7 +89200,7 @@
     "links": [
       "https://www.nh.gov/covid19/"
     ],
-    "num": 46439
+    "num": 46447
   },
   {
     "id": "us-8068",
@@ -89171,7 +89214,7 @@
     "links": [
       "https://www.nh.gov/covid19/"
     ],
-    "num": 46440
+    "num": 46448
   },
   {
     "id": "us-8069",
@@ -89185,7 +89228,7 @@
     "links": [
       "https://www.nh.gov/covid19/"
     ],
-    "num": 46443
+    "num": 46451
   },
   {
     "id": "us-8070",
@@ -89199,7 +89242,119 @@
     "links": [
       "https://buffalonews.com/2020/03/23/23-more-covid-19-cases-in-erie-county-total-now-at-87/"
     ],
-    "num": 46448
+    "num": 46456
+  },
+  {
+    "id": "us-8073",
+    "people_count": 0,
+    "die_count": 1,
+    "state_name": "MI",
+    "county": "Washtenaw",
+    "confirmed_date": "3/23",
+    "comments": "3/23 12:00 pm Washtenaw County, MI新增1例死亡。",
+    "comments_en": "As of 3/23 at 12:00 pm, Washtenaw County, MI reported one death.",
+    "links": [
+      "https://www.washtenaw.org/3108/Cases"
+    ],
+    "num": 46456
+  },
+  {
+    "id": "us-8074",
+    "people_count": 2,
+    "die_count": 0,
+    "confirmed_date": "3/23",
+    "state_name": "WV",
+    "county": "Harrison",
+    "comments": "3/23西弗吉尼亚Harrison County确诊该County首两例， 患者无相互联系，但均有旅行史。",
+    "comments_en": "Two cases of the novel coronavirus (COVID-19) were confirmed in Harrison County on Monday evening, according to a county public health official. The two cases are unrelated, and both appear to be related to travel, although the investigations are in the early stages, according to Harrison-Clarksburg Health Department Administrator Chad Bundy.",
+    "links": [
+      "https://www.wvnews.com/news/wvnews/dhhr-positive-covid--tests-in-west-virginia/article_f3b9da7c-c2bd-5ec5-80e3-e445d20c260b.html"
+    ],
+    "num": 46458
+  },
+  {
+    "id": "us-8075",
+    "confirmed_date": "3/23",
+    "comments": "Washtenaw County, MI新增1例死亡。累计死亡2例。",
+    "links": [
+      "https://www.washtenaw.org/3108/Cases"
+    ],
+    "people_count": 0,
+    "comments_en": "As of 3/23 at 12:00 pm, Washtenaw County, MI reported one death. ",
+    "die_count": 1,
+    "state_name": "MI",
+    "county": "Washtenaw",
+    "num": 46458
+  },
+  {
+    "id": "us-8076",
+    "confirmed_date": "3/23",
+    "comments": "Washtenaw County, MI新增1例死亡。累计死亡3例。",
+    "links": [
+      "https://www.washtenaw.org/3108/Cases"
+    ],
+    "people_count": 0,
+    "comments_en": "As of 3/23 at 12:00 pm, Washtenaw County, MI reported one death. Three deaths in total in the County.",
+    "die_count": 1,
+    "state_name": "MI",
+    "county": "Washtenaw",
+    "num": 46458
+  },
+  {
+    "id": "us-8077",
+    "die_count": 0,
+    "state_name": "NC",
+    "county": "Cabarrus",
+    "confirmed_date": "3/23",
+    "comments": "3/23 Cabarrus County, NC累计确诊10例。",
+    "comments_en": "Cabarrus County now has 10 cases of COVID-19, according to the Cabarrus Health Alliance. That is up from six reported cases on Saturday and eight on Sunday.",
+    "links": [
+      "https://www.independenttribune.com/news/zip-codes-of-now-confirmed-cases-of-covid--in/article_66f3c57e-6d4e-11ea-95f3-bf2623745116.html"
+    ],
+    "people_count": 2,
+    "num": 46460
+  },
+  {
+    "id": "us-8090",
+    "confirmed_date": "3/23",
+    "comments": "3/23日，加州Fresno county累计确诊13例。",
+    "comments_en": " The number of confirmed coronavirus cases in Fresno County jumped to 13 Monday following an evening update from the Department of Public Health.",
+    "die_count": 0,
+    "state_name": "CA",
+    "county": "Fresno",
+    "people_count": 7,
+    "links": [
+      "https://www.yourcentralvalley.com/life-health/health/coronavirus/there-are-now-13-confirmed-coronavirus-cases-in-fresno-county/"
+    ],
+    "num": 46467
+  },
+  {
+    "id": "us-8092",
+    "people_count": 2,
+    "die_count": 0,
+    "state_name": "TX",
+    "county": "Guadalupe",
+    "confirmed_date": "3/23",
+    "comments_en": "Guadalupe County announced two more positive cases of coronavirus in the county, bringing the total of confirmed cases to four as of Monday afternoon. The two newest cases are residents in an unincorporated area of the Guadalupe County, a news release said. “The patients are at home and are self-quarantined since receiving the positive test,” the release said.",
+    "links": [
+      "http://seguingazette.com/alert/article_ae34244c-6d58-11ea-9530-c7081ebc50ac.html?fbclid=IwAR12CrmBK4IFyJ5NwX9V-7vdXFbwqSrSJPvOJK4TAnd36Y1pL1Pl5p9czdo"
+    ],
+    "comments": "Guadalupe County 新增2例，总计4例。患者在家隔离。",
+    "num": 46469
+  },
+  {
+    "id": "us-8095",
+    "confirmed_date": "3/23",
+    "comments": "截至3/23，纽约州Oneida County累计确诊10例。",
+    "people_count": 3,
+    "comments_en": "Oneida County, NY reported 10 total cases by 3/23 night.",
+    "die_count": 0,
+    "state_name": "NY",
+    "county": "Oneida",
+    "links": [
+      "https://www.wktv.com/content/news/3-more-Oneida-County-residents-test-positive-for-coronavirus-569034261.html"
+    ],
+    "num": 46472
   },
   {
     "id": "us-8059",
@@ -89213,21 +89368,7 @@
     "links": [
       "https://www.elnuevodia.com/noticias/locales/nota/loscasospositivosdecoronavirusenpuertoricosubena39-2555292/"
     ],
-    "num": 46456
-  },
-  {
-    "id": "us-8060",
-    "die_count": 0,
-    "people_count": 23,
-    "confirmed_date": "3/24",
-    "state_name": "TX",
-    "county": "Unassigned",
-    "comments": "德州截至3/24上午，累计确诊826例。placeholder。",
-    "comments_en": "Texas confirmed 826 total cases in the state by  3/24 morning, placeholder.",
-    "links": [
-      "https://www.houstonchronicle.com/coronavirus/article/texas-coronavirus-map-cases-houston-covid-19-15137466.php"
-    ],
-    "num": 46479
+    "num": 46480
   },
   {
     "id": "us-8061",
@@ -89241,7 +89382,7 @@
     "links": [
       "https://www.oregonlive.com/coronavirus/2020/03/linn-county-veteran-tests-positive-for-coronavirus-after-previously-testing-negative.html"
     ],
-    "num": 46480
+    "num": 46481
   },
   {
     "id": "us-8063",
@@ -89255,7 +89396,7 @@
     "links": [
       "https://www.oregonlive.com/coronavirus/2020/03/linn-county-veteran-tests-positive-for-coronavirus-after-previously-testing-negative.html"
     ],
-    "num": 46481
+    "num": 46482
   },
   {
     "id": "us-8072",
@@ -89269,7 +89410,163 @@
     "links": [
       "http://www.gobroomecounty.com/hd/coronavirus"
     ],
-    "num": 46483
+    "num": 46484
+  },
+  {
+    "id": "us-8079",
+    "die_count": 1,
+    "state_name": "CO",
+    "county": "El Paso",
+    "confirmed_date": "3/24",
+    "people_count": 0,
+    "comments": "3/24 科罗拉多州第8例死亡，El Paso County第4例。病患为一名80多岁男性。",
+    "comments_en": "A fourth individual has died from the novel coronavirus. This patient was a man in his 80s.",
+    "links": [
+      "https://krdo.com/news/2020/03/23/4th-death-from-covid-19-in-el-paso-county-reported/"
+    ],
+    "age_range": "80+",
+    "gender": "男",
+    "num": 46484
+  },
+  {
+    "id": "us-8080",
+    "confirmed_date": "3/24",
+    "comments": "马里兰州3/24日累计确诊349例， 其中Anne Arundel County累计24例。",
+    "links": [
+      "https://coronavirus.maryland.gov/"
+    ],
+    "people_count": 4,
+    "comments_en": "There are 349 total cases in the state and 24 of them are in Anne Arundel County, MD.",
+    "die_count": 0,
+    "state_name": "MD",
+    "county": "Anne Arundel",
+    "num": 46488
+  },
+  {
+    "id": "us-8081",
+    "confirmed_date": "3/24",
+    "comments": "马里兰州3/24累计确诊349例，其中42例坐标Baltimore County, MD。",
+    "links": [
+      "https://coronavirus.maryland.gov/"
+    ],
+    "people_count": 7,
+    "comments_en": "There are 349 total cases in the state and 42 of them are in Baltimore County, MD by 3/24.",
+    "die_count": 0,
+    "state_name": "MD",
+    "county": "Baltimore",
+    "num": 46495
+  },
+  {
+    "id": "us-8082",
+    "confirmed_date": "3/24",
+    "comments": "马里兰州3/24累计确诊348例，其中Baltimore City, MD占41例。",
+    "links": [
+      "https://coronavirus.maryland.gov/"
+    ],
+    "people_count": 10,
+    "comments_en": "There are 349 total cases in the state and 41 of them are in Baltimore City, MD by 3/24.",
+    "die_count": 0,
+    "state_name": "MD",
+    "county": "Baltimore City",
+    "num": 46505
+  },
+  {
+    "id": "us-8083",
+    "confirmed_date": "3/24",
+    "comments": "马里兰州累计确诊349例，其中3例坐标Calvert。",
+    "links": [
+      "https://coronavirus.maryland.gov/"
+    ],
+    "people_count": 2,
+    "comments_en": "There are 349 total cases in the state and 3 of them is in Calvert,",
+    "die_count": 0,
+    "state_name": "MD",
+    "county": "Calvert",
+    "num": 46507
+  },
+  {
+    "id": "us-8084",
+    "confirmed_date": "3/24",
+    "people_count": 2,
+    "comments_en": "Cecil County reports 3 total cases in the county by 3/24.",
+    "die_count": 0,
+    "state_name": "MD",
+    "county": "Cecil",
+    "comments": "马里兰州Cecil County累计确诊3例，全州确诊349例。",
+    "links": [
+      "https://coronavirus.maryland.gov/"
+    ],
+    "num": 46509
+  },
+  {
+    "id": "us-8086",
+    "confirmed_date": "3/24",
+    "comments": "3/24马里兰州累计确诊349例，其中Howard, MD占30例。",
+    "links": [
+      "https://coronavirus.maryland.gov/"
+    ],
+    "people_count": 4,
+    "comments_en": "There are 349 total cases in the state and 30 of them are in Howard, MD by 3/24.",
+    "die_count": 0,
+    "state_name": "MD",
+    "county": "Howard",
+    "num": 46513
+  },
+  {
+    "id": "us-8087",
+    "confirmed_date": "3/24",
+    "comments": "3/24马里兰州累计确诊349例，其中Montgomery County, MD占107例。",
+    "links": [
+      "https://coronavirus.maryland.gov/"
+    ],
+    "people_count": 13,
+    "comments_en": "There are 349total cases in the state and 107of them are in Montgomery County, MD by 3/24.",
+    "die_count": 0,
+    "state_name": "MD",
+    "county": "Montgomery",
+    "num": 46526
+  },
+  {
+    "id": "us-8088",
+    "confirmed_date": "3/24",
+    "comments": "3/24马里兰州累计确诊349例，其中Prince George's County, MD占63例。",
+    "links": [
+      "https://coronavirus.maryland.gov/"
+    ],
+    "people_count": 16,
+    "comments_en": "There are 349 total cases in the state and 63 of them are in Prince George's , MD by 3/24.",
+    "die_count": 0,
+    "state_name": "MD",
+    "county": "Prince George's",
+    "num": 46542
+  },
+  {
+    "id": "us-8089",
+    "confirmed_date": "3/24",
+    "comments": "马里兰州St. Mary's第二例确诊。",
+    "links": [
+      "https://coronavirus.maryland.gov/"
+    ],
+    "people_count": 1,
+    "comments_en": "St. Mary's, MD reported 2 cases by 3/24.",
+    "die_count": 0,
+    "state_name": "MD",
+    "county": "St. Mary's",
+    "num": 46543
+  },
+  {
+    "id": "us-8091",
+    "confirmed_date": "3/24",
+    "comments": "截止3/24, 北卡罗来纳州 Guilford County 累计确诊 16 例, 新增5例。",
+    "people_count": 5,
+    "comments_en": "NC State Guilford County has in total 16 cases of CODIV-19 confirmed by 3/24 with 5 new cases added.",
+    "die_count": 0,
+    "state_name": "NC",
+    "county": "Guilford",
+    "links": [
+      "https://www.greensboro.com/townnews/medicine/nc-reports-nearly-covid--cases-with-guilford-at-cases/article_0de9a08a-6dc5-11ea-83f4-53bb9a18cb8f.html"
+    ],
+    "num": 46548
   },
   {
     "id": "us-8065",
@@ -89283,6 +89580,6 @@
     "links": [
       "https://www.nh.gov/covid19/"
     ],
-    "num": 46488
+    "num": 46553
   }
 ]
