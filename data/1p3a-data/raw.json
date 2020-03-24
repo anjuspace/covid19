@@ -46043,15 +46043,15 @@
   {
     "id": "us-6607",
     "confirmed_date": "3/19",
-    "gender": "Unknown",
+    "gender": "女",
     "comments": "纽约州Nassau County累计三名患者死亡，【注：第二位去世患者信息不明】",
     "links": [
       "https://www.newsday.com/news/health/coronavirus-long-island-1.43307789"
     ],
     "people_count": 0,
-    "comments_en": "The third death case was reported by 3/19, [NOTE] No further info about the second death case yet. ",
+    "comments_en": "The third death case was reported by 3/19, [NOTE] no further info about the second death yet.",
     "die_count": 1,
-    "age_range": "Unknown",
+    "age_range": "70+",
     "state_name": "NY",
     "county": "Nassau",
     "num": 14083
@@ -73865,96 +73865,102 @@
     "id": "us-6771",
     "confirmed_date": "3/22",
     "gender": "Unknown",
-    "comments": "截至3/22上午，纽约州新增1例死亡。",
+    "comments": "截至3/22上午，纽约州新增1例死亡。更新：Mount Vernon 市（属于Westchester County）市长3/21周六确认该市第1例死亡病例，70多岁老人。",
     "links": [
-      "https://www.syracuse.com/coronavirus/2020/03/coronavirus-in-ny-15168-cases-across-state-with-114-deaths-cuomo-says.html"
+      "https://www.syracuse.com/coronavirus/2020/03/coronavirus-in-ny-15168-cases-across-state-with-114-deaths-cuomo-says.html",
+      "http://westchester.news12.com/story/41923688/mount-vernon-yonkers-announce-deaths-due-to-coronavirus"
     ],
     "people_count": 0,
-    "comments_en": "By 3/22, there are one more death reported in NY state.",
+    "comments_en": "By 3/22, there are one more death reported in NY state. Updated 3/23: Mount Vernon (city in Westchester County) Mayor Shawyn Patterson-Howard confirmed Saturday(3/21) that the city’s first COVID-19 death was a 70-year-old man.",
     "die_count": 1,
-    "age_range": "Unknown",
+    "age_range": "70+",
     "state_name": "NY",
-    "county": "Unassigned",
+    "county": "Westchester",
     "num": 32975
   },
   {
     "id": "us-6772",
     "confirmed_date": "3/22",
     "gender": "Unknown",
-    "comments": "截至3/22上午，纽约州新增1例死亡。",
+    "comments": "截至3/22上午，纽约州新增1例死亡。更新：Nassau 3/23 累计9例死亡病例，相比3/22 4例增加5例，改此例Unassigned到Nassau County.",
     "links": [
-      "https://www.syracuse.com/coronavirus/2020/03/coronavirus-in-ny-15168-cases-across-state-with-114-deaths-cuomo-says.html"
+      "https://www.syracuse.com/coronavirus/2020/03/coronavirus-in-ny-15168-cases-across-state-with-114-deaths-cuomo-says.html",
+      "https://patch.com/new-york/gardencity/coronavirus-nassau-thousands-positive-cases-9-deaths"
     ],
     "people_count": 0,
-    "comments_en": "By 3/22, there are one moer death reported in NY state.",
+    "comments_en": "Updated 3/23: as of 3/23 Nassau County has 9 death in total. Assign this unassigned case to Nassau County. By 3/22, there are one moer death reported in NY state.",
     "die_count": 1,
     "age_range": "Unknown",
     "state_name": "NY",
-    "county": "Unassigned",
+    "county": "Nassau",
     "num": 32975
   },
   {
     "id": "us-6773",
     "confirmed_date": "3/22",
     "gender": "Unknown",
-    "comments": "截至3/22上午，纽约州新增1例死亡。",
-    "links": [
-      "https://www.syracuse.com/coronavirus/2020/03/coronavirus-in-ny-15168-cases-across-state-with-114-deaths-cuomo-says.html"
-    ],
+    "comments": "截至3/22上午，纽约州新增1例死亡。更新：Nassau 3/23 累计9例死亡病例，相比3/22 4例增加5例，改此例Unassigned到Nassau County.",
     "people_count": 0,
-    "comments_en": "By 3/22, there are one moer death reported in NY state.",
+    "comments_en": "Updated 3/23: as of 3/23 Nassau County has 9 death in total. Assign this unassigned case to Nassau County. By 3/22, there are one moer death reported in NY state.",
     "die_count": 1,
     "age_range": "Unknown",
+    "links": [
+      "https://www.syracuse.com/coronavirus/2020/03/coronavirus-in-ny-15168-cases-across-state-with-114-deaths-cuomo-says.html",
+      "https://patch.com/new-york/gardencity/coronavirus-nassau-thousands-positive-cases-9-deaths"
+    ],
     "state_name": "NY",
-    "county": "Unassigned",
+    "county": "Nassau",
     "num": 32975
   },
   {
     "id": "us-6774",
     "confirmed_date": "3/22",
     "gender": "Unknown",
-    "comments": "截至3/22上午，纽约州新增1例死亡。",
-    "links": [
-      "https://www.syracuse.com/coronavirus/2020/03/coronavirus-in-ny-15168-cases-across-state-with-114-deaths-cuomo-says.html"
-    ],
+    "comments": "截至3/22上午，纽约州新增1例死亡。更新：Nassau 3/23 累计9例死亡病例，相比3/22 4例增加5例，改此例Unassigned到Nassau County.",
     "people_count": 0,
-    "comments_en": "By 3/22, there are one moer death reported in NY state.",
+    "comments_en": "Updated 3/23: as of 3/23 Nassau County has 9 death in total. Assign this unassigned case to Nassau County. By 3/22, there are one moer death reported in NY state.",
     "die_count": 1,
     "age_range": "Unknown",
+    "links": [
+      "https://www.syracuse.com/coronavirus/2020/03/coronavirus-in-ny-15168-cases-across-state-with-114-deaths-cuomo-says.html",
+      "https://patch.com/new-york/gardencity/coronavirus-nassau-thousands-positive-cases-9-deaths"
+    ],
     "state_name": "NY",
-    "county": "Unassigned",
+    "county": "Nassau",
     "num": 32975
   },
   {
     "id": "us-6775",
     "confirmed_date": "3/22",
     "gender": "Unknown",
-    "comments": "截至3/22上午，纽约州新增1例死亡。",
-    "links": [
-      "https://www.syracuse.com/coronavirus/2020/03/coronavirus-in-ny-15168-cases-across-state-with-114-deaths-cuomo-says.html"
-    ],
+    "comments": "截至3/22上午，纽约州新增1例死亡。更新：Nassau 3/23 累计9例死亡病例，相比3/22 4例增加5例，改此例Unassigned到Nassau County.",
     "people_count": 0,
-    "comments_en": "By 3/22, there are one moer death reported in NY state.",
+    "comments_en": "Updated 3/23: as of 3/23 Nassau County has 9 death in total. Assign this unassigned case to Nassau County. By 3/22, there are one moer death reported in NY state.",
     "die_count": 1,
     "age_range": "Unknown",
+    "links": [
+      "https://www.syracuse.com/coronavirus/2020/03/coronavirus-in-ny-15168-cases-across-state-with-114-deaths-cuomo-says.html",
+      "https://patch.com/new-york/gardencity/coronavirus-nassau-thousands-positive-cases-9-deaths"
+    ],
     "state_name": "NY",
-    "county": "Unassigned",
+    "county": "Nassau",
     "num": 32975
   },
   {
     "id": "us-6776",
     "confirmed_date": "3/22",
     "gender": "Unknown",
-    "comments": "截至3/22上午，纽约州新增1例死亡。",
-    "links": [
-      "https://www.syracuse.com/coronavirus/2020/03/coronavirus-in-ny-15168-cases-across-state-with-114-deaths-cuomo-says.html"
-    ],
+    "comments": "截至3/22上午，纽约州新增1例死亡。更新：Nassau 3/23 累计9例死亡病例，相比3/22 4例增加5例，改此例Unassigned到Nassau County.",
     "people_count": 0,
-    "comments_en": "By 3/22, there are one moer death reported in NY state.",
+    "comments_en": "Updated 3/23: as of 3/23 Nassau County has 9 death in total. Assign this unassigned case to Nassau County. By 3/22, there are one moer death reported in NY state.",
     "die_count": 1,
     "age_range": "Unknown",
+    "links": [
+      "https://www.syracuse.com/coronavirus/2020/03/coronavirus-in-ny-15168-cases-across-state-with-114-deaths-cuomo-says.html",
+      "https://patch.com/new-york/gardencity/coronavirus-nassau-thousands-positive-cases-9-deaths"
+    ],
     "state_name": "NY",
-    "county": "Unassigned",
+    "county": "Nassau",
     "num": 32975
   },
   {
@@ -89146,5 +89152,63 @@
     "age_range": "70+",
     "comments_en": "Rockland County confirmed 5 death, One on Sunday and one on Monday. One was 79 and the other 66, county health officials said. Both had other significant health problems.",
     "num": 46447
+  },
+  {
+    "id": "us-8055",
+    "confirmed_date": "3/23",
+    "gender": "Unknown",
+    "comments": "纽约州Rockland County确认死亡5人。其中2例分别发生在3月22日和3月23日。一名受害者79岁，另一名66岁，两者都有其他重大的健康问题。",
+    "links": [
+      "https://patch.com/new-york/newcity/coronavirus-rockland-cases-leap-over-weekend"
+    ],
+    "people_count": 0,
+    "comments_en": "Rockland County confirmed 5 death, One on Sunday and one on Monday. One was 79 and the other 66, county health officials said. Both had other significant health problems.",
+    "die_count": 1,
+    "age_range": "60+",
+    "state_name": "NY",
+    "county": "Rockland",
+    "num": 46447
+  },
+  {
+    "id": "us-8056",
+    "confirmed_date": "3/23",
+    "comments": "纽约州Rockland County确认死亡5人。其中2例分别发生在3月22日和3月23日。一名受害者79岁，另一名66岁，两者都有其他重大的健康问题。",
+    "links": [
+      "https://patch.com/new-york/newcity/coronavirus-rockland-cases-leap-over-weekend"
+    ],
+    "people_count": 0,
+    "comments_en": "Rockland County confirmed 5 death, One on Sunday and one on Monday. One was 79 and the other 66, county health officials said. Both had other significant health problems.",
+    "die_count": 2,
+    "state_name": "NY",
+    "county": "Rockland",
+    "num": 46447
+  },
+  {
+    "id": "us-8057",
+    "people_count": 6,
+    "confirmed_date": "3/23",
+    "comments_en": "As of March 23, 2020, there have been 20 confirmed cases of COVID-19 among Monterey County residents. This includes: 6 Travel-related, 5 Person-to-person transmission, 4 Community transmission, 5 Under investigation.",
+    "die_count": 0,
+    "comments": "加州 Monterey County 郡官方发布3/23 再增6例，累计20例。",
+    "links": [
+      "https://www.co.monterey.ca.us/government/departments-a-h/health/diseases/2019-novel-coronavirus-2019-ncov/2019-novel-coronavirus-2019-ncov-local-data"
+    ],
+    "state_name": "CA",
+    "county": "Monterey",
+    "num": 46453
+  },
+  {
+    "id": "us-8058",
+    "people_count": 2,
+    "die_count": 0,
+    "confirmed_date": "3/23",
+    "state_name": "CA",
+    "county": "Yolo",
+    "comments_en": "On 3/23, the 7th and 8th confirmed cases in Yolo County are both older adults, one with chronic health problems. Both acquired the illness through community transmission and are now at home isolating.",
+    "comments": "加州 Yolo County 新增第7例和第8例，是社区传播，都是老年人，有慢性病，现居家隔离中。",
+    "links": [
+      "https://www.yolocounty.org/health-human-services/adults/communicable-disease-investigation-and-control/novel-coronavirus-2019"
+    ],
+    "num": 46455
   }
 ]
