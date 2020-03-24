@@ -31,11 +31,14 @@ const county_name_changes = {
     'Filmore, MN': 'Fillmore',
     'LeSeur, MN': 'Le Sueur',
     'Blue earth, MN': 'Blue Earth',
+    'Lac Qui Parle, MN': 'Lac qui Parle',
     'Brockton, MA': 'Plymouth',
     'Stanley, NC': 'Gaston',
     'Seward, AK': 'Kenai Peninsula',
     'Soldotna, AK': 'Kenai Peninsula',
-    'Sterling, AK': 'Kenai Peninsula'
+    'Sterling, AK': 'Kenai Peninsula',
+    'Matanuska-Susitna Borough, AK': 'Matanuska-Susitna',
+    'Dekalb, TN': 'DeKalb'
 }
 
 data = data.map((x) => {
@@ -107,15 +110,19 @@ Object.keys(states_abbr_zh).forEach((stateAbbr) => {
             currentDateStr = `${parseInt(currentDateStr.slice(5, 7), 10)}/${parseInt(currentDateStr.slice(8, 10), 10)}`
             const currentDateCases = countyData.filter((x) => x.confirmed_date === currentDateStr)
             const confirmedCount = currentDateCases.map((x) => x.people_count).reduce((s, x) => s + x, 0)
+            const deadCount = currentDateCases.map((x) => x.die_count).reduce((s, x) => s + x, 0)
 
             const dateString = currentDate.toISOString().slice(0, 10)
             if (previousDate != null) {
                 const previousDateString = previousDate.toISOString().slice(0, 10)
                 output_us[state][county]['confirmedCount'][dateString] =
                     output_us[state][county]['confirmedCount'][previousDateString] + confirmedCount
+                output_us[state][county]['deadCount'][dateString] =
+                    output_us[state][county]['deadCount'][previousDateString] + deadCount
             } else {
                 // first day
                 output_us[state][county]['confirmedCount'][dateString] = confirmedCount
+                output_us[state][county]['deadCount'][dateString] = deadCount
             }
             // next day
             previousDate = new Date(currentDate.getTime())
@@ -132,6 +139,12 @@ Object.keys(states_abbr_zh).forEach((stateAbbr) => {
             {},
             output_us[state]['confirmedCount'],
             output_us[state][county]['confirmedCount'],
+            _.add
+        )
+        output_us[state]['deadCount'] = _.mergeWith(
+            {},
+            output_us[state]['deadCount'],
+            output_us[state][county]['deadCount'],
             _.add
         )
     })
