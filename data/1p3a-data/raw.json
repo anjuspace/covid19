@@ -57640,9 +57640,9 @@
   },
   {
     "id": 9169,
+    "confirmed_date": "3/23",
     "people_count": 1,
     "die_count": 0,
-    "confirmed_date": "3/23",
     "state_name": "TX",
     "county": "Wilson",
     "num": 46188
@@ -60080,11 +60080,11 @@
   {
     "id": 8363,
     "confirmed_date": "3/24",
-    "people_count": 1,
+    "people_count": 0,
     "die_count": 0,
     "state_name": "IN",
     "county": "Warrick",
-    "num": 50176
+    "num": 50175
   },
   {
     "id": 8364,
@@ -60093,7 +60093,7 @@
     "die_count": 0,
     "state_name": "GA",
     "county": "Meriwether",
-    "num": 50177
+    "num": 50176
   },
   {
     "id": 8365,
@@ -60104,7 +60104,7 @@
     "age_range": "90+",
     "state_name": "AR",
     "county": "Cleburne",
-    "num": 50177
+    "num": 50176
   },
   {
     "id": 8366,
@@ -60113,7 +60113,7 @@
     "die_count": 0,
     "state_name": "MI",
     "county": "Saginaw",
-    "num": 50183
+    "num": 50182
   },
   {
     "id": 8367,
@@ -60122,7 +60122,7 @@
     "die_count": 0,
     "state_name": "LA",
     "county": "Ascension",
-    "num": 50193
+    "num": 50192
   },
   {
     "id": 8368,
@@ -60131,7 +60131,7 @@
     "die_count": 0,
     "state_name": "IN",
     "county": "Gibson",
-    "num": 50195
+    "num": 50194
   },
   {
     "id": 8370,
@@ -60140,7 +60140,7 @@
     "die_count": 0,
     "state_name": "GA",
     "county": "Mitchell",
-    "num": 50199
+    "num": 50198
   },
   {
     "id": 8371,
@@ -60149,7 +60149,7 @@
     "die_count": 0,
     "state_name": "LA",
     "county": "Assumption",
-    "num": 50200
+    "num": 50199
   },
   {
     "id": 8373,
@@ -60158,7 +60158,7 @@
     "die_count": 0,
     "state_name": "IN",
     "county": "Lawrence",
-    "num": 50201
+    "num": 50200
   },
   {
     "id": 8374,
@@ -60167,7 +60167,7 @@
     "die_count": 0,
     "state_name": "LA",
     "county": "Avoyelles",
-    "num": 50203
+    "num": 50202
   },
   {
     "id": 8375,
@@ -60176,7 +60176,7 @@
     "die_count": 0,
     "state_name": "IN",
     "county": "Jackson",
-    "num": 50204
+    "num": 50203
   },
   {
     "id": 8377,
@@ -60185,7 +60185,7 @@
     "die_count": 0,
     "state_name": "GA",
     "county": "Monroe",
-    "num": 50206
+    "num": 50205
   },
   {
     "id": 8378,
@@ -60194,7 +60194,7 @@
     "die_count": 0,
     "state_name": "MN",
     "county": "Clay",
-    "num": 50207
+    "num": 50206
   },
   {
     "id": 8379,
@@ -60203,7 +60203,7 @@
     "die_count": 0,
     "state_name": "MN",
     "county": "Dakota",
-    "num": 50210
+    "num": 50209
   },
   {
     "id": 8380,
@@ -60212,7 +60212,7 @@
     "die_count": 0,
     "state_name": "GA",
     "county": "Muscogee",
-    "num": 50212
+    "num": 50211
   },
   {
     "id": 8381,
@@ -60221,7 +60221,7 @@
     "die_count": 0,
     "state_name": "MN",
     "county": "Dodge",
-    "num": 50213
+    "num": 50212
   },
   {
     "id": 8382,
@@ -60230,7 +60230,7 @@
     "die_count": 0,
     "state_name": "MN",
     "county": "Hennepin",
-    "num": 50227
+    "num": 50226
   },
   {
     "id": 8383,
@@ -60241,7 +60241,7 @@
     "age_range": "Unknown",
     "state_name": "IN",
     "county": "Marion",
-    "num": 50227
+    "num": 50226
   },
   {
     "id": 8384,
@@ -60250,7 +60250,7 @@
     "die_count": 0,
     "state_name": "MN",
     "county": "Le Sueur",
-    "num": 50231
+    "num": 50230
   },
   {
     "id": 8385,
@@ -60261,7 +60261,7 @@
     "age_range": "Unknown",
     "state_name": "IN",
     "county": "Marion",
-    "num": 50231
+    "num": 50230
   },
   {
     "id": 8386,
@@ -60272,7 +60272,7 @@
     "age_range": "Unknown",
     "state_name": "IN",
     "county": "Marion",
-    "num": 50231
+    "num": 50230
   },
   {
     "id": 8388,
@@ -60281,7 +60281,7 @@
     "die_count": 0,
     "state_name": "LA",
     "county": "Beauregard",
-    "num": 50232
+    "num": 50231
   },
   {
     "id": 8387,
@@ -60292,7 +60292,7 @@
     "age_range": "60+",
     "state_name": "MD",
     "county": "Prince George's",
-    "num": 50232
+    "num": 50231
   },
   {
     "id": 8389,
@@ -60301,7 +60301,7 @@
     "die_count": 0,
     "state_name": "MN",
     "county": "Olmsted",
-    "num": 50234
+    "num": 50233
   },
   {
     "id": 8390,
@@ -60310,7 +60310,7 @@
     "die_count": 0,
     "state_name": "MN",
     "county": "Ramsey",
-    "num": 50236
+    "num": 50235
   },
   {
     "id": 8392,
@@ -60321,7 +60321,7 @@
     "age_range": "Unknown",
     "state_name": "IN",
     "county": "Johnson",
-    "num": 50236
+    "num": 50235
   },
   {
     "id": 8393,
@@ -60332,7 +60332,7 @@
     "age_range": "Unknown",
     "state_name": "IN",
     "county": "Johnson",
-    "num": 50236
+    "num": 50235
   },
   {
     "id": 8394,
@@ -60341,7 +60341,7 @@
     "die_count": 0,
     "state_name": "GA",
     "county": "Newton",
-    "num": 50238
+    "num": 50237
   },
   {
     "id": 8395,
@@ -60350,7 +60350,7 @@
     "die_count": 0,
     "state_name": "LA",
     "county": "Caddo",
-    "num": 50244
+    "num": 50243
   },
   {
     "id": 8396,
@@ -60359,7 +60359,7 @@
     "die_count": 0,
     "state_name": "LA",
     "county": "Calcasieu",
-    "num": 50245
+    "num": 50244
   },
   {
     "id": 8397,
@@ -60368,7 +60368,7 @@
     "die_count": 0,
     "state_name": "GA",
     "county": "Oconee",
-    "num": 50247
+    "num": 50246
   },
   {
     "id": 8398,
@@ -60377,7 +60377,7 @@
     "die_count": 1,
     "state_name": "LA",
     "county": "Calcasieu",
-    "num": 50247
+    "num": 50246
   },
   {
     "id": 8400,
@@ -60386,7 +60386,7 @@
     "die_count": 0,
     "state_name": "GA",
     "county": "Paulding",
-    "num": 50248
+    "num": 50247
   },
   {
     "id": 8402,
@@ -60395,7 +60395,7 @@
     "die_count": 0,
     "state_name": "GA",
     "county": "Pickens",
-    "num": 50249
+    "num": 50248
   },
   {
     "id": 8403,
@@ -60404,7 +60404,7 @@
     "die_count": 0,
     "state_name": "GA",
     "county": "Polk",
-    "num": 50253
+    "num": 50252
   },
   {
     "id": 8404,
@@ -60413,7 +60413,7 @@
     "die_count": 0,
     "state_name": "GA",
     "county": "Pulaski",
-    "num": 50254
+    "num": 50253
   },
   {
     "id": 8405,
@@ -60422,7 +60422,7 @@
     "die_count": 0,
     "state_name": "LA",
     "county": "De Soto",
-    "num": 50255
+    "num": 50254
   },
   {
     "id": 8406,
@@ -60431,7 +60431,7 @@
     "die_count": 0,
     "state_name": "GA",
     "county": "Rockdale",
-    "num": 50258
+    "num": 50257
   },
   {
     "id": 8407,
@@ -60440,7 +60440,7 @@
     "die_count": 0,
     "state_name": "LA",
     "county": "East Baton Rouge",
-    "num": 50273
+    "num": 50272
   },
   {
     "id": 8410,
@@ -60449,7 +60449,7 @@
     "die_count": 0,
     "state_name": "GA",
     "county": "Spalding",
-    "num": 50274
+    "num": 50273
   },
   {
     "id": 8409,
@@ -60458,7 +60458,7 @@
     "die_count": 0,
     "state_name": "IN",
     "county": "Starke",
-    "num": 50275
+    "num": 50274
   },
   {
     "id": 8411,
@@ -60467,7 +60467,7 @@
     "die_count": 0,
     "state_name": "IN",
     "county": "Montgomery",
-    "num": 50276
+    "num": 50275
   },
   {
     "id": 8413,
@@ -60476,7 +60476,7 @@
     "die_count": 0,
     "state_name": "GA",
     "county": "Stephens",
-    "num": 50278
+    "num": 50277
   },
   {
     "id": 8414,
@@ -60485,7 +60485,7 @@
     "die_count": 0,
     "state_name": "IN",
     "county": "Porter",
-    "num": 50279
+    "num": 50278
   },
   {
     "id": 8415,
@@ -60494,7 +60494,7 @@
     "die_count": 0,
     "state_name": "LA",
     "county": "Iberville",
-    "num": 50283
+    "num": 50282
   },
   {
     "id": 8416,
@@ -60503,7 +60503,7 @@
     "die_count": 1,
     "state_name": "LA",
     "county": "Iberville",
-    "num": 50283
+    "num": 50282
   },
   {
     "id": 8417,
@@ -60512,7 +60512,7 @@
     "die_count": 0,
     "state_name": "GA",
     "county": "Terrell",
-    "num": 50284
+    "num": 50283
   },
   {
     "id": 8418,
@@ -60521,7 +60521,7 @@
     "die_count": 0,
     "state_name": "GA",
     "county": "Troup",
-    "num": 50286
+    "num": 50285
   },
   {
     "id": 8419,
@@ -60530,7 +60530,7 @@
     "die_count": 0,
     "state_name": "LA",
     "county": "Jefferson",
-    "num": 50327
+    "num": 50326
   },
   {
     "id": 8420,
@@ -60539,7 +60539,7 @@
     "die_count": 1,
     "state_name": "LA",
     "county": "Jefferson",
-    "num": 50327
+    "num": 50326
   },
   {
     "id": 8421,
@@ -60548,7 +60548,7 @@
     "die_count": 0,
     "state_name": "OH",
     "county": "Butler",
-    "num": 50328
+    "num": 50327
   },
   {
     "id": 8422,
@@ -60557,7 +60557,7 @@
     "die_count": 0,
     "state_name": "GA",
     "county": "Walton",
-    "num": 50329
+    "num": 50328
   },
   {
     "id": 8423,
@@ -60566,7 +60566,7 @@
     "die_count": 0,
     "state_name": "OH",
     "county": "Carroll",
-    "num": 50330
+    "num": 50329
   },
   {
     "id": 8424,
@@ -60575,7 +60575,7 @@
     "die_count": 0,
     "state_name": "LA",
     "county": "Lafayette",
-    "num": 50333
+    "num": 50332
   },
   {
     "id": 8425,
@@ -60584,7 +60584,7 @@
     "die_count": 0,
     "state_name": "GA",
     "county": "Worth",
-    "num": 50334
+    "num": 50333
   },
   {
     "id": 8426,
@@ -60593,7 +60593,7 @@
     "die_count": 0,
     "state_name": "LA",
     "county": "Lafourche",
-    "num": 50335
+    "num": 50334
   },
   {
     "id": 8427,
@@ -60602,7 +60602,7 @@
     "die_count": 0,
     "state_name": "OH",
     "county": "Champaign",
-    "num": 50336
+    "num": 50335
   },
   {
     "id": 8428,
@@ -60611,7 +60611,7 @@
     "die_count": 0,
     "state_name": "WY",
     "county": "Natrona",
-    "num": 50338
+    "num": 50337
   },
   {
     "id": 8429,
@@ -60620,7 +60620,7 @@
     "die_count": 0,
     "state_name": "LA",
     "county": "Livingston",
-    "num": 50339
+    "num": 50338
   },
   {
     "id": 8430,
@@ -60629,7 +60629,7 @@
     "die_count": 0,
     "state_name": "OH",
     "county": "Clark",
-    "num": 50340
+    "num": 50339
   },
   {
     "id": 8431,
@@ -60638,7 +60638,7 @@
     "die_count": 0,
     "state_name": "LA",
     "county": "Orleans",
-    "num": 50448
+    "num": 50447
   },
   {
     "id": 8432,
@@ -60647,7 +60647,7 @@
     "die_count": 0,
     "state_name": "TX",
     "county": "Dallas",
-    "num": 50462
+    "num": 50461
   },
   {
     "id": 8433,
@@ -60656,7 +60656,7 @@
     "die_count": 1,
     "state_name": "GA",
     "county": "Unassigned",
-    "num": 50462
+    "num": 50461
   },
   {
     "id": 8434,
@@ -60665,7 +60665,7 @@
     "die_count": 0,
     "state_name": "OH",
     "county": "Columbiana",
-    "num": 50463
+    "num": 50462
   },
   {
     "id": 8435,
@@ -60674,7 +60674,7 @@
     "die_count": 1,
     "state_name": "LA",
     "county": "Orleans",
-    "num": 50463
+    "num": 50462
   },
   {
     "id": 8436,
@@ -60683,7 +60683,7 @@
     "die_count": 1,
     "state_name": "LA",
     "county": "Orleans",
-    "num": 50463
+    "num": 50462
   },
   {
     "id": 8437,
@@ -60692,7 +60692,7 @@
     "die_count": 1,
     "state_name": "LA",
     "county": "Orleans",
-    "num": 50463
+    "num": 50462
   },
   {
     "id": 8438,
@@ -60701,7 +60701,7 @@
     "die_count": 1,
     "state_name": "GA",
     "county": "Unassigned",
-    "num": 50463
+    "num": 50462
   },
   {
     "id": 8439,
@@ -60710,7 +60710,7 @@
     "die_count": 1,
     "state_name": "LA",
     "county": "Orleans",
-    "num": 50463
+    "num": 50462
   },
   {
     "id": 8440,
@@ -60719,7 +60719,7 @@
     "die_count": 1,
     "state_name": "LA",
     "county": "Orleans",
-    "num": 50463
+    "num": 50462
   },
   {
     "id": 8441,
@@ -60728,7 +60728,7 @@
     "die_count": 1,
     "state_name": "GA",
     "county": "Unassigned",
-    "num": 50463
+    "num": 50462
   },
   {
     "id": 8442,
@@ -60737,7 +60737,7 @@
     "die_count": 1,
     "state_name": "GA",
     "county": "Unassigned",
-    "num": 50463
+    "num": 50462
   },
   {
     "id": 8443,
@@ -60746,7 +60746,7 @@
     "die_count": 1,
     "state_name": "GA",
     "county": "Unassigned",
-    "num": 50463
+    "num": 50462
   },
   {
     "id": 8444,
@@ -60755,7 +60755,7 @@
     "die_count": 7,
     "state_name": "GA",
     "county": "Unassigned",
-    "num": 50463
+    "num": 50462
   },
   {
     "id": 8445,
@@ -60764,7 +60764,7 @@
     "die_count": 1,
     "state_name": "LA",
     "county": "Orleans",
-    "num": 50463
+    "num": 50462
   },
   {
     "id": 8447,
@@ -60773,7 +60773,7 @@
     "die_count": 0,
     "state_name": "GU",
     "county": "Guam",
-    "num": 50466
+    "num": 50465
   },
   {
     "id": 8448,
@@ -60784,7 +60784,7 @@
     "age_range": "70+",
     "state_name": "TX",
     "county": "Dallas",
-    "num": 50466
+    "num": 50465
   },
   {
     "id": 8449,
@@ -60793,7 +60793,7 @@
     "die_count": 0,
     "state_name": "VT",
     "county": "Chittenden",
-    "num": 50474
+    "num": 50473
   },
   {
     "id": 8450,
@@ -60802,7 +60802,7 @@
     "die_count": 0,
     "state_name": "OH",
     "county": "Crawford",
-    "num": 50475
+    "num": 50474
   },
   {
     "id": 8452,
@@ -60811,7 +60811,7 @@
     "die_count": 0,
     "state_name": "VT",
     "county": "Windsor",
-    "num": 50478
+    "num": 50477
   },
   {
     "id": 8453,
@@ -60820,7 +60820,7 @@
     "die_count": 0,
     "state_name": "VT",
     "county": "Addison",
-    "num": 50480
+    "num": 50479
   },
   {
     "id": 8454,
@@ -60829,7 +60829,7 @@
     "die_count": 1,
     "state_name": "OH",
     "county": "Cuyahoga",
-    "num": 50498
+    "num": 50497
   },
   {
     "id": 8455,
@@ -60838,7 +60838,7 @@
     "die_count": 0,
     "state_name": "VT",
     "county": "Bennington",
-    "num": 50503
+    "num": 50502
   },
   {
     "id": 8456,
@@ -60847,7 +60847,7 @@
     "die_count": 0,
     "state_name": "OH",
     "county": "Delaware",
-    "num": 50507
+    "num": 50506
   },
   {
     "id": 8457,
@@ -60856,7 +60856,7 @@
     "die_count": 0,
     "state_name": "VT",
     "county": "Rutland",
-    "num": 50508
+    "num": 50507
   },
   {
     "id": 8458,
@@ -60865,7 +60865,7 @@
     "die_count": 0,
     "state_name": "OH",
     "county": "Fairfield",
-    "num": 50510
+    "num": 50509
   },
   {
     "id": 8459,
@@ -60874,7 +60874,7 @@
     "die_count": 0,
     "state_name": "TN",
     "county": "Madison",
-    "num": 50511
+    "num": 50510
   },
   {
     "id": 8460,
@@ -60883,7 +60883,7 @@
     "die_count": 0,
     "state_name": "LA",
     "county": "Rapides",
-    "num": 50513
+    "num": 50512
   },
   {
     "id": 8461,
@@ -60892,7 +60892,7 @@
     "die_count": 0,
     "state_name": "VT",
     "county": "Lamoille",
-    "num": 50514
+    "num": 50513
   },
   {
     "id": 8462,
@@ -60901,7 +60901,7 @@
     "die_count": 0,
     "state_name": "TX",
     "county": "McLennan",
-    "num": 50518
+    "num": 50517
   },
   {
     "id": 8463,
@@ -60910,7 +60910,7 @@
     "die_count": 0,
     "state_name": "TX",
     "county": "Comal",
-    "num": 50520
+    "num": 50519
   },
   {
     "id": 8465,
@@ -60919,7 +60919,7 @@
     "die_count": 0,
     "state_name": "OH",
     "county": "Franklin",
-    "num": 50551
+    "num": 50550
   },
   {
     "id": 8466,
@@ -60928,7 +60928,7 @@
     "die_count": 0,
     "state_name": "LA",
     "county": "St. Bernard",
-    "num": 50555
+    "num": 50554
   },
   {
     "id": 8467,
@@ -60937,7 +60937,7 @@
     "die_count": 0,
     "state_name": "LA",
     "county": "St. James",
-    "num": 50556
+    "num": 50555
   },
   {
     "id": 8468,
@@ -60946,7 +60946,7 @@
     "die_count": 0,
     "state_name": "OH",
     "county": "Geauga",
-    "num": 50559
+    "num": 50558
   },
   {
     "id": 8469,
@@ -60955,7 +60955,7 @@
     "die_count": 0,
     "state_name": "LA",
     "county": "St. John the Baptist",
-    "num": 50564
+    "num": 50563
   },
   {
     "id": 8470,
@@ -60964,7 +60964,7 @@
     "die_count": 0,
     "state_name": "OH",
     "county": "Greene",
-    "num": 50566
+    "num": 50565
   },
   {
     "id": 8471,
@@ -60973,7 +60973,7 @@
     "die_count": 2,
     "state_name": "VT",
     "county": "Unassigned",
-    "num": 50566
+    "num": 50565
   },
   {
     "id": 8472,
@@ -60982,7 +60982,7 @@
     "die_count": 0,
     "state_name": "LA",
     "county": "St. Mary",
-    "num": 50567
+    "num": 50566
   },
   {
     "id": 8474,
@@ -60991,7 +60991,7 @@
     "die_count": 0,
     "state_name": "TX",
     "county": "Potter",
-    "num": 50568
+    "num": 50567
   },
   {
     "id": 8475,
@@ -61000,7 +61000,7 @@
     "die_count": 0,
     "state_name": "OH",
     "county": "Hamilton",
-    "num": 50580
+    "num": 50579
   },
   {
     "id": 8476,
@@ -61009,7 +61009,7 @@
     "die_count": 0,
     "state_name": "LA",
     "county": "St. Martin",
-    "num": 50581
+    "num": 50580
   },
   {
     "id": 8477,
@@ -61018,7 +61018,7 @@
     "die_count": 0,
     "state_name": "OH",
     "county": "Huron",
-    "num": 50582
+    "num": 50581
   },
   {
     "id": 8478,
@@ -61027,7 +61027,7 @@
     "die_count": 0,
     "state_name": "LA",
     "county": "St. Tammany",
-    "num": 50587
+    "num": 50586
   },
   {
     "id": 8479,
@@ -61036,7 +61036,7 @@
     "die_count": 1,
     "state_name": "LA",
     "county": "St. Tammany",
-    "num": 50587
+    "num": 50586
   },
   {
     "id": 8480,
@@ -61045,7 +61045,7 @@
     "die_count": 0,
     "state_name": "MA",
     "county": "Hampden",
-    "num": 50592
+    "num": 50591
   },
   {
     "id": 8481,
@@ -61054,7 +61054,7 @@
     "die_count": 0,
     "state_name": "TX",
     "county": "Lubbock",
-    "num": 50593
+    "num": 50592
   },
   {
     "id": 8482,
@@ -61065,7 +61065,7 @@
     "age_range": "50+",
     "state_name": "TX",
     "county": "El Paso",
-    "num": 50594
+    "num": 50593
   },
   {
     "id": 8483,
@@ -61074,7 +61074,7 @@
     "die_count": 0,
     "state_name": "NC",
     "county": "Robeson",
-    "num": 50595
+    "num": 50594
   },
   {
     "id": 8484,
@@ -61083,7 +61083,7 @@
     "die_count": 0,
     "state_name": "OH",
     "county": "Lake",
-    "num": 50598
+    "num": 50597
   },
   {
     "id": 8485,
@@ -61092,7 +61092,7 @@
     "die_count": 0,
     "state_name": "LA",
     "county": "Tangipahoa",
-    "num": 50599
+    "num": 50598
   },
   {
     "id": 8486,
@@ -61101,7 +61101,7 @@
     "die_count": 0,
     "state_name": "OH",
     "county": "Licking",
-    "num": 50600
+    "num": 50599
   },
   {
     "id": 8488,
@@ -61110,7 +61110,7 @@
     "die_count": 0,
     "state_name": "TX",
     "county": "Lubbock",
-    "num": 50601
+    "num": 50600
   },
   {
     "id": 8489,
@@ -61119,7 +61119,7 @@
     "die_count": 0,
     "state_name": "OH",
     "county": "Logan",
-    "num": 50602
+    "num": 50601
   },
   {
     "id": 8490,
@@ -61128,7 +61128,7 @@
     "die_count": 0,
     "state_name": "NY",
     "county": "Unassigned",
-    "num": 50602
+    "num": 50601
   },
   {
     "id": 8491,
@@ -61137,7 +61137,7 @@
     "die_count": 0,
     "state_name": "MA",
     "county": "Franklin",
-    "num": 50606
+    "num": 50605
   },
   {
     "id": 8492,
@@ -61146,7 +61146,7 @@
     "die_count": 0,
     "state_name": "NC",
     "county": "Lenoir",
-    "num": 50607
+    "num": 50606
   },
   {
     "id": 8493,
@@ -61155,7 +61155,7 @@
     "die_count": 0,
     "state_name": "OH",
     "county": "Lorain",
-    "num": 50613
+    "num": 50612
   },
   {
     "id": 8494,
@@ -61164,7 +61164,7 @@
     "die_count": 1,
     "state_name": "OH",
     "county": "Gallia",
-    "num": 50613
+    "num": 50612
   },
   {
     "id": 8495,
@@ -61173,7 +61173,7 @@
     "die_count": 0,
     "state_name": "OH",
     "county": "Lucas",
-    "num": 50616
+    "num": 50615
   },
   {
     "id": 8496,
@@ -61182,7 +61182,7 @@
     "die_count": 0,
     "state_name": "LA",
     "county": "Washington",
-    "num": 50617
+    "num": 50616
   },
   {
     "id": 8497,
@@ -61191,7 +61191,7 @@
     "die_count": 0,
     "state_name": "LA",
     "county": "Vernon",
-    "num": 50619
+    "num": 50618
   },
   {
     "id": 8498,
@@ -61200,7 +61200,7 @@
     "die_count": 0,
     "state_name": "OH",
     "county": "Mahoning",
-    "num": 50624
+    "num": 50623
   },
   {
     "id": 8499,
@@ -61209,7 +61209,7 @@
     "die_count": 0,
     "state_name": "AR",
     "county": "Pulaski",
-    "num": 50625
+    "num": 50624
   },
   {
     "id": 8500,
@@ -61218,7 +61218,7 @@
     "die_count": 0,
     "state_name": "OH",
     "county": "Marion",
-    "num": 50626
+    "num": 50625
   },
   {
     "id": 8501,
@@ -61227,7 +61227,7 @@
     "die_count": 0,
     "state_name": "AR",
     "county": "Cleburne",
-    "num": 50630
+    "num": 50629
   },
   {
     "id": 8502,
@@ -61236,7 +61236,7 @@
     "die_count": 0,
     "state_name": "AR",
     "county": "Faulkner",
-    "num": 50631
+    "num": 50630
   },
   {
     "id": 8504,
@@ -61245,7 +61245,7 @@
     "die_count": 0,
     "state_name": "AR",
     "county": "Van Buren",
-    "num": 50633
+    "num": 50632
   },
   {
     "id": 8505,
@@ -61254,7 +61254,7 @@
     "die_count": 0,
     "state_name": "AR",
     "county": "Garland",
-    "num": 50634
+    "num": 50633
   },
   {
     "id": 8506,
@@ -61263,7 +61263,7 @@
     "die_count": 0,
     "state_name": "OH",
     "county": "Miami",
-    "num": 50636
+    "num": 50635
   },
   {
     "id": 8507,
@@ -61272,7 +61272,7 @@
     "die_count": 0,
     "state_name": "OH",
     "county": "Montgomery",
-    "num": 50639
+    "num": 50638
   },
   {
     "id": 8508,
@@ -61281,7 +61281,7 @@
     "die_count": 0,
     "state_name": "OH",
     "county": "Portage",
-    "num": 50641
+    "num": 50640
   },
   {
     "id": 8509,
@@ -61290,7 +61290,7 @@
     "die_count": 0,
     "state_name": "OH",
     "county": "Richland",
-    "num": 50644
+    "num": 50643
   },
   {
     "id": 8511,
@@ -61299,7 +61299,7 @@
     "die_count": 0,
     "state_name": "NJ",
     "county": "Unassigned",
-    "num": 50870
+    "num": 50869
   },
   {
     "id": 8512,
@@ -61308,7 +61308,7 @@
     "die_count": 0,
     "state_name": "OH",
     "county": "Stark",
-    "num": 50871
+    "num": 50870
   },
   {
     "id": 8513,
@@ -61317,7 +61317,7 @@
     "die_count": 0,
     "state_name": "OH",
     "county": "Summit",
-    "num": 50879
+    "num": 50878
   },
   {
     "id": 8514,
@@ -61326,7 +61326,7 @@
     "die_count": 0,
     "state_name": "TX",
     "county": "Brazos",
-    "num": 50883
+    "num": 50882
   },
   {
     "id": 8515,
@@ -61335,7 +61335,7 @@
     "die_count": 0,
     "state_name": "OH",
     "county": "Trumbull",
-    "num": 50884
+    "num": 50883
   },
   {
     "id": 8516,
@@ -61344,7 +61344,7 @@
     "die_count": 0,
     "state_name": "OH",
     "county": "Tuscarawas",
-    "num": 50885
+    "num": 50884
   },
   {
     "id": 8518,
@@ -61353,7 +61353,7 @@
     "die_count": 0,
     "state_name": "CA",
     "county": "Santa Clara",
-    "num": 50939
+    "num": 50938
   },
   {
     "id": 8519,
@@ -61362,7 +61362,7 @@
     "die_count": 17,
     "state_name": "NJ",
     "county": "Unassigned",
-    "num": 50939
+    "num": 50938
   },
   {
     "id": 8520,
@@ -61371,7 +61371,7 @@
     "die_count": 1,
     "state_name": "CA",
     "county": "Santa Clara",
-    "num": 50939
+    "num": 50938
   },
   {
     "id": 8521,
@@ -61380,7 +61380,7 @@
     "die_count": 0,
     "state_name": "OH",
     "county": "Union",
-    "num": 50940
+    "num": 50939
   },
   {
     "id": 8522,
@@ -61389,7 +61389,7 @@
     "die_count": 1,
     "state_name": "CA",
     "county": "Santa Clara",
-    "num": 50940
+    "num": 50939
   },
   {
     "id": 8524,
@@ -61398,7 +61398,7 @@
     "die_count": 1,
     "state_name": "CA",
     "county": "Santa Clara",
-    "num": 50940
+    "num": 50939
   },
   {
     "id": 8525,
@@ -61407,7 +61407,7 @@
     "die_count": 0,
     "state_name": "OH",
     "county": "Warren",
-    "num": 50942
+    "num": 50941
   },
   {
     "id": 8526,
@@ -61416,7 +61416,7 @@
     "die_count": 1,
     "state_name": "LA",
     "county": "Unassigned",
-    "num": 50942
+    "num": 50941
   },
   {
     "id": 8527,
@@ -61425,7 +61425,7 @@
     "die_count": 0,
     "state_name": "UT",
     "county": "Salt Lake",
-    "num": 50957
+    "num": 50956
   },
   {
     "id": 8529,
@@ -61434,7 +61434,7 @@
     "die_count": 0,
     "state_name": "UT",
     "county": "Summit",
-    "num": 50974
+    "num": 50973
   },
   {
     "id": 8530,
@@ -61443,7 +61443,7 @@
     "die_count": 0,
     "state_name": "UT",
     "county": "Davis",
-    "num": 50976
+    "num": 50975
   },
   {
     "id": 8531,
@@ -61452,7 +61452,7 @@
     "die_count": 0,
     "state_name": "AR",
     "county": "Hempstead",
-    "num": 50977
+    "num": 50976
   },
   {
     "id": 8532,
@@ -61461,7 +61461,7 @@
     "die_count": 0,
     "state_name": "UT",
     "county": "Wasatch",
-    "num": 50981
+    "num": 50980
   },
   {
     "id": 8533,
@@ -61470,7 +61470,7 @@
     "die_count": 0,
     "state_name": "UT",
     "county": "Utah",
-    "num": 50983
+    "num": 50982
   },
   {
     "id": 8534,
@@ -61479,7 +61479,7 @@
     "die_count": 0,
     "state_name": "UT",
     "county": "Weber-Morgan",
-    "num": 50984
+    "num": 50983
   },
   {
     "id": 8535,
@@ -61488,7 +61488,7 @@
     "die_count": 0,
     "state_name": "AR",
     "county": "Pike",
-    "num": 50985
+    "num": 50984
   },
   {
     "id": 8538,
@@ -61497,7 +61497,7 @@
     "die_count": 1,
     "state_name": "HI",
     "county": "Honolulu",
-    "num": 50985
+    "num": 50984
   },
   {
     "id": 8540,
@@ -61507,7 +61507,7 @@
     "die_count": 0,
     "state_name": "ID",
     "county": "Jefferson",
-    "num": 50986
+    "num": 50985
   },
   {
     "id": 8541,
@@ -61517,7 +61517,7 @@
     "die_count": 0,
     "state_name": "ID",
     "county": "Jefferson",
-    "num": 50987
+    "num": 50986
   },
   {
     "id": 8542,
@@ -61526,7 +61526,7 @@
     "die_count": 0,
     "state_name": "NC",
     "county": "Mecklenburg",
-    "num": 51002
+    "num": 51001
   },
   {
     "id": 8547,
@@ -61537,7 +61537,7 @@
     "age_range": "70+",
     "state_name": "TX",
     "county": "Tom Green",
-    "num": 51003
+    "num": 51002
   },
   {
     "id": 8549,
@@ -61546,7 +61546,7 @@
     "die_count": 0,
     "state_name": "SD",
     "county": "Beadle",
-    "num": 51004
+    "num": 51003
   },
   {
     "id": 8550,
@@ -61555,7 +61555,7 @@
     "die_count": 0,
     "state_name": "VA",
     "county": "Fairfax",
-    "num": 51007
+    "num": 51006
   },
   {
     "id": 8551,
@@ -61564,7 +61564,7 @@
     "die_count": 0,
     "state_name": "VA",
     "county": "Arlington",
-    "num": 51009
+    "num": 51008
   },
   {
     "id": 8552,
@@ -61573,7 +61573,7 @@
     "die_count": 0,
     "state_name": "VA",
     "county": "James City",
-    "num": 51012
+    "num": 51011
   },
   {
     "id": 8553,
@@ -61582,7 +61582,7 @@
     "die_count": 0,
     "state_name": "VA",
     "county": "Prince William",
-    "num": 51017
+    "num": 51016
   },
   {
     "id": 8554,
@@ -61591,7 +61591,7 @@
     "die_count": 0,
     "state_name": "VA",
     "county": "Loudoun",
-    "num": 51020
+    "num": 51019
   },
   {
     "id": 8555,
@@ -61600,7 +61600,7 @@
     "die_count": 0,
     "state_name": "SD",
     "county": "Brookings",
-    "num": 51021
+    "num": 51020
   },
   {
     "id": 8556,
@@ -61609,7 +61609,7 @@
     "die_count": 0,
     "state_name": "VA",
     "county": "Henrico",
-    "num": 51024
+    "num": 51023
   },
   {
     "id": 8557,
@@ -61618,7 +61618,7 @@
     "die_count": 0,
     "state_name": "VA",
     "county": "Chesterfield",
-    "num": 51025
+    "num": 51024
   },
   {
     "id": 8558,
@@ -61627,7 +61627,7 @@
     "die_count": 0,
     "state_name": "VA",
     "county": "Richmond City",
-    "num": 51028
+    "num": 51027
   },
   {
     "id": 8559,
@@ -61636,7 +61636,7 @@
     "die_count": 0,
     "state_name": "VA",
     "county": "Alexandria",
-    "num": 51030
+    "num": 51029
   },
   {
     "id": 8560,
@@ -61645,7 +61645,7 @@
     "die_count": 0,
     "state_name": "VA",
     "county": "York",
-    "num": 51031
+    "num": 51030
   },
   {
     "id": 8561,
@@ -61654,7 +61654,7 @@
     "die_count": 0,
     "state_name": "VA",
     "county": "Charlottesville",
-    "num": 51032
+    "num": 51031
   },
   {
     "id": 8562,
@@ -61663,7 +61663,7 @@
     "die_count": 0,
     "state_name": "VA",
     "county": "Norfolk",
-    "num": 51033
+    "num": 51032
   },
   {
     "id": 8563,
@@ -61672,7 +61672,7 @@
     "die_count": 0,
     "state_name": "VA",
     "county": "Goochland",
-    "num": 51034
+    "num": 51033
   },
   {
     "id": 8564,
@@ -61681,7 +61681,7 @@
     "die_count": 0,
     "state_name": "MO",
     "county": "Unassigned",
-    "num": 51034
+    "num": 51033
   },
   {
     "id": 8565,
@@ -61690,7 +61690,7 @@
     "die_count": 0,
     "state_name": "VA",
     "county": "Newport News",
-    "num": 51035
+    "num": 51034
   },
   {
     "id": 8566,
@@ -61699,7 +61699,7 @@
     "die_count": 0,
     "state_name": "VA",
     "county": "Rockingham",
-    "num": 51036
+    "num": 51035
   },
   {
     "id": 8567,
@@ -61710,7 +61710,7 @@
     "age_range": "50+",
     "state_name": "OH",
     "county": "Seneca",
-    "num": 51037
+    "num": 51036
   },
   {
     "id": 8568,
@@ -61719,7 +61719,7 @@
     "die_count": 0,
     "state_name": "PA",
     "county": "Philadelphia",
-    "num": 51112
+    "num": 51111
   },
   {
     "id": 8569,
@@ -61728,7 +61728,7 @@
     "die_count": 0,
     "state_name": "VA",
     "county": "Portsmouth City",
-    "num": 51114
+    "num": 51113
   },
   {
     "id": 8570,
@@ -61737,7 +61737,7 @@
     "die_count": 0,
     "state_name": "VA",
     "county": "Mecklenburg",
-    "num": 51115
+    "num": 51114
   },
   {
     "id": 8571,
@@ -61746,7 +61746,7 @@
     "die_count": 0,
     "state_name": "VA",
     "county": "Isle of Wight",
-    "num": 51116
+    "num": 51115
   },
   {
     "id": 8572,
@@ -61757,7 +61757,7 @@
     "age_range": "60+",
     "state_name": "TX",
     "county": "Midland",
-    "num": 51116
+    "num": 51115
   },
   {
     "id": 8573,
@@ -61766,7 +61766,7 @@
     "die_count": 0,
     "state_name": "NJ",
     "county": "Bergen",
-    "num": 51208
+    "num": 51207
   },
   {
     "id": 8574,
@@ -61775,7 +61775,7 @@
     "die_count": 0,
     "state_name": "NJ",
     "county": "Middlesex",
-    "num": 51275
+    "num": 51274
   },
   {
     "id": 8575,
@@ -61784,7 +61784,7 @@
     "die_count": 0,
     "state_name": "NC",
     "county": "Nash",
-    "num": 51276
+    "num": 51275
   },
   {
     "id": 8576,
@@ -61793,7 +61793,7 @@
     "die_count": 0,
     "state_name": "NJ",
     "county": "Essex",
-    "num": 51345
+    "num": 51344
   },
   {
     "id": 8577,
@@ -61802,7 +61802,7 @@
     "die_count": 0,
     "state_name": "NJ",
     "county": "Hudson",
-    "num": 51389
+    "num": 51388
   },
   {
     "id": 8578,
@@ -61811,7 +61811,7 @@
     "die_count": 0,
     "state_name": "NJ",
     "county": "Monmouth",
-    "num": 51439
+    "num": 51438
   },
   {
     "id": 8579,
@@ -61820,7 +61820,7 @@
     "die_count": 0,
     "state_name": "CA",
     "county": "Stanislaus",
-    "num": 51440
+    "num": 51439
   },
   {
     "id": 8580,
@@ -61829,7 +61829,7 @@
     "die_count": 0,
     "state_name": "NJ",
     "county": "Ocean",
-    "num": 51476
+    "num": 51475
   },
   {
     "id": 8581,
@@ -61838,7 +61838,7 @@
     "die_count": 0,
     "state_name": "NJ",
     "county": "Passaic",
-    "num": 51551
+    "num": 51550
   },
   {
     "id": 8582,
@@ -61847,7 +61847,7 @@
     "die_count": 0,
     "state_name": "NJ",
     "county": "Union",
-    "num": 51608
+    "num": 51607
   },
   {
     "id": 8583,
@@ -61856,7 +61856,7 @@
     "die_count": 0,
     "state_name": "NJ",
     "county": "Morris",
-    "num": 51635
+    "num": 51634
   },
   {
     "id": 8584,
@@ -61865,7 +61865,7 @@
     "die_count": 0,
     "state_name": "NJ",
     "county": "Somerset",
-    "num": 51670
+    "num": 51669
   },
   {
     "id": 8585,
@@ -61874,7 +61874,7 @@
     "die_count": 0,
     "state_name": "NJ",
     "county": "Mercer",
-    "num": 51678
+    "num": 51677
   },
   {
     "id": 8586,
@@ -61883,7 +61883,7 @@
     "die_count": 0,
     "state_name": "NJ",
     "county": "Burlington",
-    "num": 51684
+    "num": 51683
   },
   {
     "id": 8587,
@@ -61892,7 +61892,7 @@
     "die_count": 0,
     "state_name": "WI",
     "county": "Dane",
-    "num": 51686
+    "num": 51685
   },
   {
     "id": 8588,
@@ -61903,7 +61903,7 @@
     "age_range": "20+",
     "state_name": "TX",
     "county": "Bell",
-    "num": 51688
+    "num": 51687
   },
   {
     "id": 8589,
@@ -61912,7 +61912,7 @@
     "die_count": 0,
     "state_name": "NJ",
     "county": "Camden",
-    "num": 51706
+    "num": 51705
   },
   {
     "id": 8590,
@@ -61921,7 +61921,7 @@
     "die_count": 0,
     "state_name": "NJ",
     "county": "Hunterdon",
-    "num": 51713
+    "num": 51712
   },
   {
     "id": 8591,
@@ -61930,7 +61930,7 @@
     "die_count": 0,
     "state_name": "WI",
     "county": "Douglas",
-    "num": 51715
+    "num": 51714
   },
   {
     "id": 8592,
@@ -61939,7 +61939,7 @@
     "die_count": 0,
     "state_name": "WI",
     "county": "Fond du Lac",
-    "num": 51717
+    "num": 51716
   },
   {
     "id": 8593,
@@ -61948,7 +61948,7 @@
     "die_count": 0,
     "state_name": "NJ",
     "county": "Gloucester",
-    "num": 51723
+    "num": 51722
   },
   {
     "id": 8594,
@@ -61957,7 +61957,7 @@
     "die_count": 0,
     "state_name": "NJ",
     "county": "Sussex",
-    "num": 51726
+    "num": 51725
   },
   {
     "id": 8595,
@@ -61966,7 +61966,7 @@
     "die_count": 0,
     "state_name": "WI",
     "county": "Jefferson",
-    "num": 51728
+    "num": 51727
   },
   {
     "id": 8596,
@@ -61975,7 +61975,7 @@
     "die_count": 0,
     "state_name": "NJ",
     "county": "Warren",
-    "num": 51731
+    "num": 51730
   },
   {
     "id": 8597,
@@ -61984,7 +61984,7 @@
     "die_count": 0,
     "state_name": "WI",
     "county": "Kenosha",
-    "num": 51732
+    "num": 51731
   },
   {
     "id": 8598,
@@ -61993,7 +61993,7 @@
     "die_count": 0,
     "state_name": "WI",
     "county": "St. Croix",
-    "num": 51733
+    "num": 51732
   },
   {
     "id": 8599,
@@ -62002,7 +62002,7 @@
     "die_count": 0,
     "state_name": "NJ",
     "county": "Cape May",
-    "num": 51734
+    "num": 51733
   },
   {
     "id": 8600,
@@ -62011,7 +62011,7 @@
     "die_count": 0,
     "state_name": "WI",
     "county": "Ozaukee",
-    "num": 51736
+    "num": 51735
   },
   {
     "id": 8601,
@@ -62020,7 +62020,7 @@
     "die_count": 0,
     "state_name": "WI",
     "county": "Sauk",
-    "num": 51737
+    "num": 51736
   },
   {
     "id": 8602,
@@ -62029,7 +62029,7 @@
     "die_count": 0,
     "state_name": "NJ",
     "county": "Cumberland",
-    "num": 51738
+    "num": 51737
   },
   {
     "id": 8604,
@@ -62038,7 +62038,7 @@
     "die_count": 0,
     "state_name": "WI",
     "county": "Walworth",
-    "num": 51739
+    "num": 51738
   },
   {
     "id": 8605,
@@ -62047,7 +62047,7 @@
     "die_count": 0,
     "state_name": "WI",
     "county": "Washington",
-    "num": 51741
+    "num": 51740
   },
   {
     "id": 8606,
@@ -62056,7 +62056,7 @@
     "die_count": 0,
     "state_name": "NC",
     "county": "Wayne",
-    "num": 51742
+    "num": 51741
   },
   {
     "id": 8607,
@@ -62065,7 +62065,7 @@
     "die_count": 0,
     "state_name": "CA",
     "county": "Tulare",
-    "num": 51743
+    "num": 51742
   },
   {
     "id": 8610,
@@ -62076,7 +62076,7 @@
     "age_range": "50+",
     "state_name": "TX",
     "county": "Brazoria",
-    "num": 51746
+    "num": 51745
   },
   {
     "id": 8614,
@@ -62085,7 +62085,7 @@
     "die_count": 4,
     "state_name": "MI",
     "county": "Wayne",
-    "num": 51984
+    "num": 51983
   },
   {
     "id": 8615,
@@ -62094,7 +62094,7 @@
     "die_count": 0,
     "state_name": "DE",
     "county": "Sussex",
-    "num": 51987
+    "num": 51986
   },
   {
     "id": 8616,
@@ -62103,7 +62103,7 @@
     "die_count": 0,
     "state_name": "DE",
     "county": "New Castle",
-    "num": 52000
+    "num": 51999
   },
   {
     "id": 8617,
@@ -62112,7 +62112,7 @@
     "die_count": 0,
     "state_name": "MI",
     "county": "Oakland",
-    "num": 52099
+    "num": 52098
   },
   {
     "id": 8618,
@@ -62121,7 +62121,7 @@
     "die_count": 1,
     "state_name": "MI",
     "county": "Macomb",
-    "num": 52149
+    "num": 52148
   },
   {
     "id": 8621,
@@ -62130,7 +62130,7 @@
     "die_count": 0,
     "state_name": "MI",
     "county": "Berrien",
-    "num": 52152
+    "num": 52151
   },
   {
     "id": 8622,
@@ -62139,7 +62139,7 @@
     "die_count": 0,
     "state_name": "MI",
     "county": "Calhoun",
-    "num": 52153
+    "num": 52152
   },
   {
     "id": 8623,
@@ -62148,7 +62148,7 @@
     "die_count": 0,
     "state_name": "MI",
     "county": "Washtenaw",
-    "num": 52161
+    "num": 52160
   },
   {
     "id": 8624,
@@ -62157,7 +62157,7 @@
     "die_count": 0,
     "state_name": "MI",
     "county": "Charlevoix",
-    "num": 52162
+    "num": 52161
   },
   {
     "id": 8625,
@@ -62166,7 +62166,7 @@
     "die_count": 0,
     "state_name": "MI",
     "county": "Clinton",
-    "num": 52165
+    "num": 52164
   },
   {
     "id": 8626,
@@ -62175,7 +62175,7 @@
     "die_count": 0,
     "state_name": "MI",
     "county": "Ingham",
-    "num": 52168
+    "num": 52167
   },
   {
     "id": 8627,
@@ -62184,7 +62184,7 @@
     "die_count": 0,
     "state_name": "MI",
     "county": "Kent",
-    "num": 52171
+    "num": 52170
   },
   {
     "id": 8628,
@@ -62193,7 +62193,7 @@
     "die_count": 0,
     "state_name": "MI",
     "county": "Eaton",
-    "num": 52172
+    "num": 52171
   },
   {
     "id": 8629,
@@ -62202,7 +62202,7 @@
     "die_count": 0,
     "state_name": "MI",
     "county": "Emmet",
-    "num": 52173
+    "num": 52172
   },
   {
     "id": 8630,
@@ -62211,7 +62211,7 @@
     "die_count": 0,
     "state_name": "MI",
     "county": "Genesee",
-    "num": 52184
+    "num": 52183
   },
   {
     "id": 8631,
@@ -62220,7 +62220,7 @@
     "die_count": 2,
     "state_name": "MA",
     "county": "Unassigned",
-    "num": 52184
+    "num": 52183
   },
   {
     "id": 8632,
@@ -62229,7 +62229,7 @@
     "die_count": 0,
     "state_name": "MI",
     "county": "Grand Traverse",
-    "num": 52186
+    "num": 52185
   },
   {
     "id": 8633,
@@ -62238,7 +62238,7 @@
     "die_count": 0,
     "state_name": "MI",
     "county": "Gladwin",
-    "num": 52187
+    "num": 52186
   },
   {
     "id": 8634,
@@ -62247,7 +62247,7 @@
     "die_count": 0,
     "state_name": "MI",
     "county": "Jackson",
-    "num": 52192
+    "num": 52191
   },
   {
     "id": 8635,
@@ -62256,7 +62256,7 @@
     "die_count": 0,
     "state_name": "MI",
     "county": "Livingston",
-    "num": 52196
+    "num": 52195
   },
   {
     "id": 8636,
@@ -62265,7 +62265,7 @@
     "die_count": 0,
     "state_name": "MI",
     "county": "Monroe",
-    "num": 52201
+    "num": 52200
   },
   {
     "id": 8637,
@@ -62274,7 +62274,7 @@
     "die_count": 0,
     "state_name": "MI",
     "county": "Muskegon",
-    "num": 52203
+    "num": 52202
   },
   {
     "id": 8639,
@@ -62283,7 +62283,7 @@
     "die_count": 0,
     "state_name": "MI",
     "county": "Newaygo",
-    "num": 52204
+    "num": 52203
   },
   {
     "id": 8640,
@@ -62292,7 +62292,7 @@
     "die_count": 0,
     "state_name": "MI",
     "county": "Otsego",
-    "num": 52206
+    "num": 52205
   },
   {
     "id": 8641,
@@ -62301,7 +62301,7 @@
     "die_count": 0,
     "state_name": "MI",
     "county": "Ottawa",
-    "num": 52210
+    "num": 52209
   },
   {
     "id": 8643,
@@ -62310,7 +62310,7 @@
     "die_count": 0,
     "state_name": "OR",
     "county": "Washington",
-    "num": 52217
+    "num": 52216
   },
   {
     "id": 8644,
@@ -62319,7 +62319,7 @@
     "die_count": 0,
     "state_name": "OR",
     "county": "Marion",
-    "num": 52219
+    "num": 52218
   },
   {
     "id": 8645,
@@ -62328,7 +62328,7 @@
     "die_count": 0,
     "state_name": "OR",
     "county": "Multnomah",
-    "num": 52223
+    "num": 52222
   },
   {
     "id": 8646,
@@ -62337,7 +62337,7 @@
     "die_count": 0,
     "state_name": "OR",
     "county": "Clackamas",
-    "num": 52226
+    "num": 52225
   },
   {
     "id": 8647,
@@ -62346,7 +62346,7 @@
     "die_count": 0,
     "state_name": "OR",
     "county": "Jackson",
-    "num": 52227
+    "num": 52226
   },
   {
     "id": 8648,
@@ -62355,7 +62355,7 @@
     "die_count": 0,
     "state_name": "MI",
     "county": "Out of State",
-    "num": 52229
+    "num": 52228
   },
   {
     "id": 8649,
@@ -62366,7 +62366,7 @@
     "age_range": "90+",
     "state_name": "OR",
     "county": "Washington",
-    "num": 52229
+    "num": 52228
   },
   {
     "id": 8650,
@@ -62377,7 +62377,7 @@
     "age_range": "60+",
     "state_name": "OR",
     "county": "Multnomah",
-    "num": 52229
+    "num": 52228
   },
   {
     "id": 8651,
@@ -62386,7 +62386,7 @@
     "die_count": 0,
     "state_name": "MI",
     "county": "St. Clair",
-    "num": 52230
+    "num": 52229
   },
   {
     "id": 8652,
@@ -62397,7 +62397,7 @@
     "age_range": "70+",
     "state_name": "OR",
     "county": "Clackamas",
-    "num": 52230
+    "num": 52229
   },
   {
     "id": 8654,
@@ -62406,7 +62406,7 @@
     "die_count": 0,
     "state_name": "MO",
     "county": "Platte",
-    "num": 52231
+    "num": 52230
   },
   {
     "id": 8655,
@@ -62415,7 +62415,7 @@
     "die_count": 0,
     "state_name": "MI",
     "county": "Isabella",
-    "num": 52233
+    "num": 52232
   },
   {
     "id": 8657,
@@ -62424,7 +62424,7 @@
     "die_count": 4,
     "state_name": "IL",
     "county": "Unassigned",
-    "num": 52233
+    "num": 52232
   },
   {
     "id": 8658,
@@ -62433,7 +62433,7 @@
     "die_count": 0,
     "state_name": "MI",
     "county": "Not Reported",
-    "num": 52235
+    "num": 52234
   },
   {
     "id": 8660,
@@ -62442,7 +62442,7 @@
     "die_count": 1,
     "state_name": "CT",
     "county": "Fairfield",
-    "num": 52235
+    "num": 52234
   },
   {
     "id": 8661,
@@ -62451,7 +62451,7 @@
     "die_count": 0,
     "state_name": "PA",
     "county": "Erie",
-    "num": 52236
+    "num": 52235
   },
   {
     "id": 8664,
@@ -62460,7 +62460,7 @@
     "die_count": 1,
     "state_name": "CT",
     "county": "Tolland",
-    "num": 52236
+    "num": 52235
   },
   {
     "id": 8666,
@@ -62469,7 +62469,7 @@
     "die_count": 0,
     "state_name": "CT",
     "county": "Fairfield",
-    "num": 52350
+    "num": 52349
   },
   {
     "id": 8669,
@@ -62478,7 +62478,7 @@
     "die_count": 0,
     "state_name": "CA",
     "county": "Los Angeles",
-    "num": 52472
+    "num": 52471
   },
   {
     "id": 8670,
@@ -62487,7 +62487,7 @@
     "die_count": 0,
     "state_name": "CT",
     "county": "Hartford",
-    "num": 52499
+    "num": 52498
   },
   {
     "id": 8671,
@@ -62496,7 +62496,7 @@
     "die_count": 0,
     "state_name": "CT",
     "county": "Litchfield",
-    "num": 52508
+    "num": 52507
   },
   {
     "id": 8672,
@@ -62505,7 +62505,7 @@
     "die_count": 0,
     "state_name": "CT",
     "county": "New Haven",
-    "num": 52556
+    "num": 52555
   },
   {
     "id": 8673,
@@ -62514,7 +62514,7 @@
     "die_count": 0,
     "state_name": "NY",
     "county": "Erie",
-    "num": 52563
+    "num": 52562
   },
   {
     "id": 8674,
@@ -62523,7 +62523,7 @@
     "die_count": 0,
     "state_name": "CT",
     "county": "New London",
-    "num": 52565
+    "num": 52564
   },
   {
     "id": 8675,
@@ -62532,7 +62532,7 @@
     "die_count": 0,
     "state_name": "CT",
     "county": "Tolland",
-    "num": 52568
+    "num": 52567
   },
   {
     "id": 8676,
@@ -62541,7 +62541,7 @@
     "die_count": 0,
     "state_name": "MI",
     "county": "Manistee",
-    "num": 52569
+    "num": 52568
   },
   {
     "id": 8677,
@@ -62550,7 +62550,7 @@
     "die_count": 0,
     "state_name": "NY",
     "county": "Onondaga",
-    "num": 52576
+    "num": 52575
   },
   {
     "id": 8678,
@@ -62561,7 +62561,7 @@
     "age_range": "10+",
     "state_name": "CA",
     "county": "Los Angeles",
-    "num": 52576
+    "num": 52575
   },
   {
     "id": 8679,
@@ -62570,7 +62570,7 @@
     "die_count": 1,
     "state_name": "CA",
     "county": "Los Angeles",
-    "num": 52576
+    "num": 52575
   },
   {
     "id": 8680,
@@ -62579,7 +62579,7 @@
     "die_count": 1,
     "state_name": "CA",
     "county": "Los Angeles",
-    "num": 52576
+    "num": 52575
   },
   {
     "id": 8681,
@@ -62588,7 +62588,7 @@
     "die_count": 0,
     "state_name": "MA",
     "county": "Middlesex",
-    "num": 52648
+    "num": 52647
   },
   {
     "id": 8682,
@@ -62597,7 +62597,7 @@
     "die_count": 0,
     "state_name": "MA",
     "county": "Suffolk",
-    "num": 52728
+    "num": 52727
   },
   {
     "id": 8683,
@@ -62606,7 +62606,7 @@
     "die_count": 0,
     "state_name": "MA",
     "county": "Norfolk",
-    "num": 52775
+    "num": 52774
   },
   {
     "id": 8684,
@@ -62615,7 +62615,7 @@
     "die_count": 0,
     "state_name": "MA",
     "county": "Essex",
-    "num": 52820
+    "num": 52819
   },
   {
     "id": 8685,
@@ -62624,7 +62624,7 @@
     "die_count": 0,
     "state_name": "MA",
     "county": "Worcester",
-    "num": 52851
+    "num": 52850
   },
   {
     "id": 8686,
@@ -62635,7 +62635,7 @@
     "age_range": "Unknown",
     "state_name": "NY",
     "county": "Onondaga",
-    "num": 52851
+    "num": 52850
   },
   {
     "id": 8687,
@@ -62644,7 +62644,7 @@
     "die_count": 0,
     "state_name": "MI",
     "county": "Marquette",
-    "num": 52852
+    "num": 52851
   },
   {
     "id": 8688,
@@ -62653,7 +62653,7 @@
     "die_count": 0,
     "state_name": "MA",
     "county": "Plymouth",
-    "num": 52884
+    "num": 52883
   },
   {
     "id": 8689,
@@ -62662,7 +62662,7 @@
     "die_count": 0,
     "state_name": "MA",
     "county": "Barnstable",
-    "num": 52894
+    "num": 52893
   },
   {
     "id": 8691,
@@ -62671,7 +62671,7 @@
     "die_count": 0,
     "state_name": "MA",
     "county": "Bristol",
-    "num": 52900
+    "num": 52899
   },
   {
     "id": 8690,
@@ -62680,7 +62680,7 @@
     "die_count": 0,
     "state_name": "MA",
     "county": "Berkshire",
-    "num": 52911
+    "num": 52910
   },
   {
     "id": 8692,
@@ -62689,7 +62689,7 @@
     "die_count": 0,
     "state_name": "MA",
     "county": "Hampden",
-    "num": 52915
+    "num": 52914
   },
   {
     "id": 8693,
@@ -62698,7 +62698,7 @@
     "die_count": 0,
     "state_name": "MA",
     "county": "Hampshire",
-    "num": 52917
+    "num": 52916
   },
   {
     "id": 8694,
@@ -62707,7 +62707,7 @@
     "die_count": 6,
     "state_name": "NY",
     "county": "New York",
-    "num": 52917
+    "num": 52916
   },
   {
     "id": 8695,
@@ -62716,7 +62716,7 @@
     "die_count": 0,
     "state_name": "NY",
     "county": "Monroe",
-    "num": 52926
+    "num": 52925
   },
   {
     "id": 8696,
@@ -62725,7 +62725,7 @@
     "die_count": 0,
     "state_name": "KS",
     "county": "Doniphan",
-    "num": 52927
+    "num": 52926
   },
   {
     "id": 8697,
@@ -62734,7 +62734,7 @@
     "die_count": 0,
     "state_name": "TX",
     "county": "Harris",
-    "num": 52958
+    "num": 52957
   },
   {
     "id": 8698,
@@ -62743,7 +62743,7 @@
     "die_count": 0,
     "state_name": "MA",
     "county": "Dukes and Nantucket",
-    "num": 52959
+    "num": 52958
   },
   {
     "id": 8699,
@@ -62752,7 +62752,7 @@
     "die_count": 0,
     "state_name": "MA",
     "county": "Unassigned",
-    "num": 52991
+    "num": 52990
   },
   {
     "id": 8701,
@@ -62761,7 +62761,7 @@
     "die_count": 1,
     "state_name": "TX",
     "county": "Oldham",
-    "num": 52991
+    "num": 52990
   },
   {
     "id": 8702,
@@ -62770,7 +62770,7 @@
     "die_count": 0,
     "state_name": "CA",
     "county": "Riverside",
-    "num": 53002
+    "num": 53001
   },
   {
     "id": 8704,
@@ -62779,7 +62779,7 @@
     "die_count": 0,
     "state_name": "TN",
     "county": "Blount",
-    "num": 53003
+    "num": 53002
   },
   {
     "id": 8705,
@@ -62788,7 +62788,7 @@
     "die_count": 0,
     "state_name": "TN",
     "county": "Bradley",
-    "num": 53004
+    "num": 53003
   },
   {
     "id": 8706,
@@ -62797,7 +62797,7 @@
     "die_count": 0,
     "state_name": "TN",
     "county": "Carroll",
-    "num": 53005
+    "num": 53004
   },
   {
     "id": 8707,
@@ -62806,7 +62806,7 @@
     "die_count": 0,
     "state_name": "TN",
     "county": "Cheatham",
-    "num": 53006
+    "num": 53005
   },
   {
     "id": 8708,
@@ -62815,7 +62815,7 @@
     "die_count": 0,
     "state_name": "TN",
     "county": "Cumberland",
-    "num": 53007
+    "num": 53006
   },
   {
     "id": 8709,
@@ -62824,7 +62824,7 @@
     "die_count": 0,
     "state_name": "KS",
     "county": "Johnson",
-    "num": 53011
+    "num": 53010
   },
   {
     "id": 8714,
@@ -62833,7 +62833,7 @@
     "die_count": 0,
     "state_name": "TN",
     "county": "Gibson",
-    "num": 53012
+    "num": 53011
   },
   {
     "id": 8715,
@@ -62842,7 +62842,7 @@
     "die_count": 0,
     "state_name": "TN",
     "county": "Greene",
-    "num": 53013
+    "num": 53012
   },
   {
     "id": 8717,
@@ -62851,7 +62851,7 @@
     "die_count": 0,
     "state_name": "KS",
     "county": "Leavenworth",
-    "num": 53015
+    "num": 53014
   },
   {
     "id": 8719,
@@ -62861,7 +62861,7 @@
     "age_range": "Unknown",
     "state_name": "CA",
     "county": "Alameda",
-    "num": 53015
+    "num": 53014
   },
   {
     "id": 8720,
@@ -62870,7 +62870,7 @@
     "die_count": 0,
     "state_name": "NY",
     "county": "Putnam",
-    "num": 53052
+    "num": 53051
   },
   {
     "id": 8721,
@@ -62879,7 +62879,7 @@
     "die_count": 0,
     "state_name": "CA",
     "county": "Alameda",
-    "num": 53065
+    "num": 53064
   },
   {
     "id": 8722,
@@ -62888,7 +62888,7 @@
     "die_count": 0,
     "state_name": "TX",
     "county": "Smith",
-    "num": 53069
+    "num": 53068
   },
   {
     "id": 8723,
@@ -62897,7 +62897,7 @@
     "die_count": 0,
     "state_name": "KS",
     "county": "Sedgwick",
-    "num": 53073
+    "num": 53072
   },
   {
     "id": 8724,
@@ -62906,7 +62906,7 @@
     "die_count": 0,
     "state_name": "KS",
     "county": "Woodson",
-    "num": 53074
+    "num": 53073
   },
   {
     "id": 8726,
@@ -62915,7 +62915,7 @@
     "die_count": 0,
     "state_name": "KS",
     "county": "Wyandotte",
-    "num": 53080
+    "num": 53079
   },
   {
     "id": 8729,
@@ -62924,7 +62924,7 @@
     "die_count": 0,
     "state_name": "CA",
     "county": "Orange",
-    "num": 53107
+    "num": 53106
   },
   {
     "id": 8730,
@@ -62933,7 +62933,7 @@
     "die_count": 0,
     "state_name": "TN",
     "county": "Knox",
-    "num": 53110
+    "num": 53109
   },
   {
     "id": 8733,
@@ -62942,7 +62942,7 @@
     "die_count": 0,
     "state_name": "VA",
     "county": "Halifax",
-    "num": 53111
+    "num": 53110
   },
   {
     "id": 8734,
@@ -62951,7 +62951,7 @@
     "die_count": 0,
     "state_name": "TX",
     "county": "Bexar",
-    "num": 53123
+    "num": 53122
   },
   {
     "id": 8735,
@@ -62960,7 +62960,7 @@
     "die_count": 0,
     "state_name": "TN",
     "county": "Loudon",
-    "num": 53124
+    "num": 53123
   },
   {
     "id": 8736,
@@ -62969,7 +62969,7 @@
     "die_count": 0,
     "state_name": "TN",
     "county": "Montgomery",
-    "num": 53127
+    "num": 53126
   },
   {
     "id": 8737,
@@ -62978,7 +62978,7 @@
     "die_count": 0,
     "state_name": "IL",
     "county": "Cook",
-    "num": 53336
+    "num": 53335
   },
   {
     "id": 8738,
@@ -62987,7 +62987,7 @@
     "die_count": 0,
     "state_name": "IL",
     "county": "DuPage",
-    "num": 53344
+    "num": 53343
   },
   {
     "id": 8740,
@@ -62996,7 +62996,7 @@
     "die_count": 0,
     "state_name": "IN",
     "county": "St. Joseph",
-    "num": 53345
+    "num": 53344
   },
   {
     "id": 8742,
@@ -63005,7 +63005,7 @@
     "die_count": 0,
     "state_name": "TN",
     "county": "Out-of-state",
-    "num": 53351
+    "num": 53350
   },
   {
     "id": 8743,
@@ -63014,7 +63014,7 @@
     "die_count": 0,
     "state_name": "IL",
     "county": "Kane",
-    "num": 53357
+    "num": 53356
   },
   {
     "id": 8744,
@@ -63023,7 +63023,7 @@
     "die_count": 0,
     "state_name": "IL",
     "county": "Kankakee",
-    "num": 53358
+    "num": 53357
   },
   {
     "id": 8745,
@@ -63032,7 +63032,7 @@
     "die_count": 0,
     "state_name": "IL",
     "county": "Lake",
-    "num": 53373
+    "num": 53372
   },
   {
     "id": 8747,
@@ -63041,7 +63041,7 @@
     "die_count": 0,
     "state_name": "IL",
     "county": "LaSalle",
-    "num": 53374
+    "num": 53373
   },
   {
     "id": 8748,
@@ -63050,7 +63050,7 @@
     "die_count": 0,
     "state_name": "IL",
     "county": "McHenry",
-    "num": 53376
+    "num": 53375
   },
   {
     "id": 8749,
@@ -63059,7 +63059,7 @@
     "die_count": 0,
     "state_name": "IL",
     "county": "Sangamon",
-    "num": 53377
+    "num": 53376
   },
   {
     "id": 8750,
@@ -63068,7 +63068,7 @@
     "die_count": 0,
     "state_name": "IL",
     "county": "St. Clair",
-    "num": 53380
+    "num": 53379
   },
   {
     "id": 8751,
@@ -63077,7 +63077,7 @@
     "die_count": 0,
     "state_name": "IL",
     "county": "Will",
-    "num": 53384
+    "num": 53383
   },
   {
     "id": 8753,
@@ -63086,7 +63086,7 @@
     "die_count": 0,
     "state_name": "IL",
     "county": "Woodford",
-    "num": 53385
+    "num": 53384
   },
   {
     "id": 8754,
@@ -63095,7 +63095,7 @@
     "die_count": 0,
     "state_name": "TN",
     "county": "Putnam",
-    "num": 53387
+    "num": 53386
   },
   {
     "id": 8755,
@@ -63104,7 +63104,7 @@
     "die_count": 0,
     "state_name": "TN",
     "county": "Robertson",
-    "num": 53393
+    "num": 53392
   },
   {
     "id": 8756,
@@ -63113,7 +63113,7 @@
     "die_count": 0,
     "state_name": "IL",
     "county": "Grundy",
-    "num": 53394
+    "num": 53393
   },
   {
     "id": 8757,
@@ -63122,7 +63122,7 @@
     "die_count": 0,
     "state_name": "TN",
     "county": "Rutherford",
-    "num": 53398
+    "num": 53397
   },
   {
     "id": 8758,
@@ -63133,7 +63133,7 @@
     "age_range": "70+",
     "state_name": "NY",
     "county": "Suffolk",
-    "num": 53398
+    "num": 53397
   },
   {
     "id": 8759,
@@ -63144,7 +63144,7 @@
     "age_range": "80+",
     "state_name": "NY",
     "county": "Suffolk",
-    "num": 53398
+    "num": 53397
   },
   {
     "id": 8760,
@@ -63155,7 +63155,7 @@
     "age_range": "80+",
     "state_name": "NY",
     "county": "Suffolk",
-    "num": 53398
+    "num": 53397
   },
   {
     "id": 8761,
@@ -63166,7 +63166,7 @@
     "age_range": "60+",
     "state_name": "NY",
     "county": "Suffolk",
-    "num": 53398
+    "num": 53397
   },
   {
     "id": 8762,
@@ -63175,7 +63175,7 @@
     "die_count": 0,
     "state_name": "TN",
     "county": "Sevier",
-    "num": 53399
+    "num": 53398
   },
   {
     "id": 8763,
@@ -63184,7 +63184,7 @@
     "die_count": 0,
     "state_name": "TN",
     "county": "Shelby",
-    "num": 53441
+    "num": 53440
   },
   {
     "id": 8764,
@@ -63193,7 +63193,7 @@
     "die_count": 0,
     "state_name": "IL",
     "county": "Champaign",
-    "num": 53442
+    "num": 53441
   },
   {
     "id": 8765,
@@ -63202,7 +63202,7 @@
     "die_count": 0,
     "state_name": "NC",
     "county": "Union",
-    "num": 53447
+    "num": 53446
   },
   {
     "id": 8766,
@@ -63211,7 +63211,7 @@
     "die_count": 0,
     "state_name": "TN",
     "county": "Washington",
-    "num": 53448
+    "num": 53447
   },
   {
     "id": 8767,
@@ -63220,7 +63220,7 @@
     "die_count": 0,
     "state_name": "TN",
     "county": "Williamson",
-    "num": 53459
+    "num": 53458
   },
   {
     "id": 8768,
@@ -63229,7 +63229,7 @@
     "die_count": 2,
     "state_name": "VA",
     "county": "Henrico",
-    "num": 53459
+    "num": 53458
   },
   {
     "id": 8769,
@@ -63238,7 +63238,7 @@
     "die_count": 0,
     "state_name": "TN",
     "county": "Wilson",
-    "num": 53460
+    "num": 53459
   },
   {
     "id": 8770,
@@ -63247,7 +63247,7 @@
     "die_count": 0,
     "state_name": "MO",
     "county": "St. Louis",
-    "num": 53470
+    "num": 53469
   },
   {
     "id": 8771,
@@ -63256,7 +63256,7 @@
     "die_count": 0,
     "state_name": "CA",
     "county": "Mendocino",
-    "num": 53471
+    "num": 53470
   },
   {
     "id": 8773,
@@ -63265,7 +63265,7 @@
     "die_count": 0,
     "state_name": "ND",
     "county": "Cass",
-    "num": 53473
+    "num": 53472
   },
   {
     "id": 8775,
@@ -63274,7 +63274,7 @@
     "die_count": 0,
     "state_name": "MO",
     "county": "St. Louis City",
-    "num": 53474
+    "num": 53473
   },
   {
     "id": 8776,
@@ -63283,7 +63283,7 @@
     "die_count": 0,
     "state_name": "SC",
     "county": "Kershaw",
-    "num": 53478
+    "num": 53477
   },
   {
     "id": 8777,
@@ -63292,7 +63292,7 @@
     "die_count": 0,
     "state_name": "SC",
     "county": "Richland",
-    "num": 53480
+    "num": 53479
   },
   {
     "id": 8778,
@@ -63301,7 +63301,7 @@
     "die_count": 0,
     "state_name": "SC",
     "county": "Greenville",
-    "num": 53488
+    "num": 53487
   },
   {
     "id": 8779,
@@ -63310,7 +63310,7 @@
     "die_count": 0,
     "state_name": "SC",
     "county": "Charleston",
-    "num": 53493
+    "num": 53492
   },
   {
     "id": 8780,
@@ -63319,7 +63319,7 @@
     "die_count": 0,
     "state_name": "SC",
     "county": "Beaufort",
-    "num": 53494
+    "num": 53493
   },
   {
     "id": 8781,
@@ -63328,7 +63328,7 @@
     "die_count": 0,
     "state_name": "MO",
     "county": "Boone",
-    "num": 53497
+    "num": 53496
   },
   {
     "id": 8782,
@@ -63337,7 +63337,7 @@
     "die_count": 0,
     "state_name": "SC",
     "county": "Lexington",
-    "num": 53499
+    "num": 53498
   },
   {
     "id": 8783,
@@ -63346,7 +63346,7 @@
     "die_count": 0,
     "state_name": "SC",
     "county": "Horry",
-    "num": 53502
+    "num": 53501
   },
   {
     "id": 8784,
@@ -63355,7 +63355,7 @@
     "die_count": 0,
     "state_name": "SC",
     "county": "Anderson",
-    "num": 53503
+    "num": 53502
   },
   {
     "id": 8785,
@@ -63364,7 +63364,7 @@
     "die_count": 0,
     "state_name": "SC",
     "county": "York",
-    "num": 53507
+    "num": 53506
   },
   {
     "id": 8787,
@@ -63373,7 +63373,7 @@
     "die_count": 0,
     "state_name": "SC",
     "county": "Darlington",
-    "num": 53508
+    "num": 53507
   },
   {
     "id": 8786,
@@ -63382,7 +63382,7 @@
     "die_count": 0,
     "state_name": "MO",
     "county": "Greene",
-    "num": 53510
+    "num": 53509
   },
   {
     "id": 8788,
@@ -63391,7 +63391,7 @@
     "die_count": 0,
     "state_name": "SC",
     "county": "Sumter",
-    "num": 53514
+    "num": 53513
   },
   {
     "id": 8789,
@@ -63400,7 +63400,7 @@
     "die_count": 0,
     "state_name": "SC",
     "county": "Clarendon",
-    "num": 53515
+    "num": 53514
   },
   {
     "id": 8790,
@@ -63409,7 +63409,7 @@
     "die_count": 0,
     "state_name": "SC",
     "county": "Florence",
-    "num": 53517
+    "num": 53516
   },
   {
     "id": 8791,
@@ -63418,7 +63418,7 @@
     "die_count": 0,
     "state_name": "MO",
     "county": "Jackson",
-    "num": 53521
+    "num": 53520
   },
   {
     "id": 8792,
@@ -63427,7 +63427,7 @@
     "die_count": 0,
     "state_name": "NY",
     "county": "Columbia",
-    "num": 53522
+    "num": 53521
   },
   {
     "id": 8793,
@@ -63436,7 +63436,7 @@
     "die_count": 0,
     "state_name": "SC",
     "county": "Spartanburg",
-    "num": 53523
+    "num": 53522
   },
   {
     "id": 8794,
@@ -63445,7 +63445,7 @@
     "die_count": 0,
     "state_name": "MO",
     "county": "St. Charles",
-    "num": 53527
+    "num": 53526
   },
   {
     "id": 8795,
@@ -63454,7 +63454,7 @@
     "die_count": 0,
     "state_name": "SC",
     "county": "Dorchester",
-    "num": 53528
+    "num": 53527
   },
   {
     "id": 8796,
@@ -63465,7 +63465,7 @@
     "age_range": "50+",
     "state_name": "TX",
     "county": "Harris",
-    "num": 53529
+    "num": 53528
   },
   {
     "id": 8797,
@@ -63474,7 +63474,7 @@
     "die_count": 0,
     "state_name": "SC",
     "county": "Aiken",
-    "num": 53530
+    "num": 53529
   },
   {
     "id": 8798,
@@ -63483,7 +63483,7 @@
     "die_count": 0,
     "state_name": "MO",
     "county": "Jefferson",
-    "num": 53534
+    "num": 53533
   },
   {
     "id": 8799,
@@ -63492,7 +63492,7 @@
     "die_count": 0,
     "state_name": "SC",
     "county": "Jasper",
-    "num": 53535
+    "num": 53534
   },
   {
     "id": 8800,
@@ -63503,7 +63503,7 @@
     "age_range": "40+",
     "state_name": "TX",
     "county": "Harris",
-    "num": 53536
+    "num": 53535
   },
   {
     "id": 8801,
@@ -63512,7 +63512,7 @@
     "die_count": 0,
     "state_name": "SC",
     "county": "Marlboro",
-    "num": 53537
+    "num": 53536
   },
   {
     "id": 8802,
@@ -63523,7 +63523,7 @@
     "age_range": "60+",
     "state_name": "TX",
     "county": "Harris",
-    "num": 53538
+    "num": 53537
   },
   {
     "id": 8803,
@@ -63534,7 +63534,7 @@
     "age_range": "20+",
     "state_name": "TX",
     "county": "Harris",
-    "num": 53539
+    "num": 53538
   },
   {
     "id": 8804,
@@ -63543,7 +63543,7 @@
     "die_count": 0,
     "state_name": "SC",
     "county": "Chesterfield",
-    "num": 53540
+    "num": 53539
   },
   {
     "id": 8805,
@@ -63552,7 +63552,7 @@
     "die_count": 0,
     "state_name": "MO",
     "county": "Pulaski",
-    "num": 53543
+    "num": 53542
   },
   {
     "id": 8806,
@@ -63561,7 +63561,7 @@
     "die_count": 0,
     "state_name": "NC",
     "county": "Brunswick",
-    "num": 53545
+    "num": 53544
   },
   {
     "id": 8807,
@@ -63572,7 +63572,7 @@
     "age_range": "20+",
     "state_name": "TX",
     "county": "Harris",
-    "num": 53546
+    "num": 53545
   },
   {
     "id": 8808,
@@ -63583,7 +63583,7 @@
     "age_range": "50+",
     "state_name": "TX",
     "county": "Harris",
-    "num": 53547
+    "num": 53546
   },
   {
     "id": 8809,
@@ -63594,7 +63594,7 @@
     "age_range": "30+",
     "state_name": "TX",
     "county": "Harris",
-    "num": 53548
+    "num": 53547
   },
   {
     "id": 8810,
@@ -63605,7 +63605,7 @@
     "age_range": "30+",
     "state_name": "TX",
     "county": "Harris",
-    "num": 53549
+    "num": 53548
   },
   {
     "id": 8811,
@@ -63614,7 +63614,7 @@
     "die_count": 0,
     "state_name": "ID",
     "county": "Kootenai",
-    "num": 53551
+    "num": 53550
   },
   {
     "id": 8812,
@@ -63623,7 +63623,7 @@
     "die_count": 0,
     "state_name": "MO",
     "county": "Callaway",
-    "num": 53552
+    "num": 53551
   },
   {
     "id": 8813,
@@ -63634,7 +63634,7 @@
     "age_range": "20+",
     "state_name": "TX",
     "county": "Harris",
-    "num": 53553
+    "num": 53552
   },
   {
     "id": 8814,
@@ -63643,7 +63643,7 @@
     "die_count": 0,
     "state_name": "MO",
     "county": "Perry",
-    "num": 53554
+    "num": 53553
   },
   {
     "id": 8815,
@@ -63654,7 +63654,7 @@
     "age_range": "20+",
     "state_name": "TX",
     "county": "Harris",
-    "num": 53555
+    "num": 53554
   },
   {
     "id": 8816,
@@ -63665,7 +63665,7 @@
     "age_range": "50+",
     "state_name": "TX",
     "county": "Harris",
-    "num": 53556
+    "num": 53555
   },
   {
     "id": 8817,
@@ -63676,7 +63676,7 @@
     "age_range": "80+",
     "state_name": "TX",
     "county": "Harris",
-    "num": 53557
+    "num": 53556
   },
   {
     "id": 8819,
@@ -63687,7 +63687,7 @@
     "age_range": "30+",
     "state_name": "TX",
     "county": "Harris",
-    "num": 53558
+    "num": 53557
   },
   {
     "id": 8820,
@@ -63696,7 +63696,7 @@
     "die_count": 0,
     "state_name": "MO",
     "county": "Pemiscot",
-    "num": 53559
+    "num": 53558
   },
   {
     "id": 8821,
@@ -63707,7 +63707,7 @@
     "age_range": "40+",
     "state_name": "TX",
     "county": "Harris",
-    "num": 53560
+    "num": 53559
   },
   {
     "id": 8822,
@@ -63718,7 +63718,7 @@
     "age_range": "30+",
     "state_name": "TX",
     "county": "Harris",
-    "num": 53561
+    "num": 53560
   },
   {
     "id": 8823,
@@ -63729,7 +63729,7 @@
     "age_range": "40+",
     "state_name": "TX",
     "county": "Harris",
-    "num": 53562
+    "num": 53561
   },
   {
     "id": 8824,
@@ -63740,7 +63740,7 @@
     "age_range": "50+",
     "state_name": "TX",
     "county": "Harris",
-    "num": 53563
+    "num": 53562
   },
   {
     "id": 8825,
@@ -63751,7 +63751,7 @@
     "age_range": "60+",
     "state_name": "TX",
     "county": "Harris",
-    "num": 53564
+    "num": 53563
   },
   {
     "id": 8826,
@@ -63760,7 +63760,7 @@
     "die_count": 0,
     "state_name": "WA",
     "county": "Snohomish",
-    "num": 53659
+    "num": 53658
   },
   {
     "id": 8827,
@@ -63771,7 +63771,7 @@
     "age_range": "50+",
     "state_name": "TX",
     "county": "Harris",
-    "num": 53660
+    "num": 53659
   },
   {
     "id": 8828,
@@ -63782,7 +63782,7 @@
     "age_range": "20+",
     "state_name": "TX",
     "county": "Harris",
-    "num": 53661
+    "num": 53660
   },
   {
     "id": 8829,
@@ -63793,7 +63793,7 @@
     "age_range": "30+",
     "state_name": "TX",
     "county": "Harris",
-    "num": 53662
+    "num": 53661
   },
   {
     "id": 8830,
@@ -63804,7 +63804,7 @@
     "age_range": "40+",
     "state_name": "TX",
     "county": "Harris",
-    "num": 53663
+    "num": 53662
   },
   {
     "id": 8831,
@@ -63815,7 +63815,7 @@
     "age_range": "50+",
     "state_name": "TX",
     "county": "Harris",
-    "num": 53664
+    "num": 53663
   },
   {
     "id": 8832,
@@ -63826,7 +63826,7 @@
     "age_range": "20+",
     "state_name": "TX",
     "county": "Harris",
-    "num": 53665
+    "num": 53664
   },
   {
     "id": 8833,
@@ -63837,7 +63837,7 @@
     "age_range": "40+",
     "state_name": "TX",
     "county": "Harris",
-    "num": 53666
+    "num": 53665
   },
   {
     "id": 8835,
@@ -63848,7 +63848,7 @@
     "age_range": "80+",
     "state_name": "WA",
     "county": "Snohomish",
-    "num": 53666
+    "num": 53665
   },
   {
     "id": 8836,
@@ -63859,7 +63859,7 @@
     "age_range": "60+",
     "state_name": "WA",
     "county": "Snohomish",
-    "num": 53666
+    "num": 53665
   },
   {
     "id": 8837,
@@ -63870,7 +63870,7 @@
     "age_range": "80+",
     "state_name": "WA",
     "county": "Snohomish",
-    "num": 53666
+    "num": 53665
   },
   {
     "id": 8838,
@@ -63881,7 +63881,7 @@
     "age_range": "80+",
     "state_name": "WA",
     "county": "Snohomish",
-    "num": 53666
+    "num": 53665
   },
   {
     "id": 8839,
@@ -63892,7 +63892,7 @@
     "age_range": "60+",
     "state_name": "WA",
     "county": "Snohomish",
-    "num": 53666
+    "num": 53665
   },
   {
     "id": 8843,
@@ -63901,7 +63901,7 @@
     "die_count": 0,
     "state_name": "TX",
     "county": "Fort Bend",
-    "num": 53670
+    "num": 53669
   },
   {
     "id": 8844,
@@ -63910,7 +63910,7 @@
     "die_count": 0,
     "state_name": "TX",
     "county": "Denton",
-    "num": 53672
+    "num": 53671
   },
   {
     "id": 8846,
@@ -63919,7 +63919,7 @@
     "die_count": 0,
     "state_name": "AL",
     "county": "Tuscaloosa",
-    "num": 53673
+    "num": 53672
   },
   {
     "id": 8847,
@@ -63928,7 +63928,7 @@
     "die_count": 0,
     "state_name": "AL",
     "county": "Baldwin",
-    "num": 53674
+    "num": 53673
   },
   {
     "id": 8848,
@@ -63937,7 +63937,7 @@
     "die_count": 0,
     "state_name": "AL",
     "county": "Walker",
-    "num": 53676
+    "num": 53675
   },
   {
     "id": 8849,
@@ -63946,7 +63946,7 @@
     "die_count": 0,
     "state_name": "AL",
     "county": "Cullman",
-    "num": 53677
+    "num": 53676
   },
   {
     "id": 8850,
@@ -63955,7 +63955,7 @@
     "die_count": 0,
     "state_name": "NY",
     "county": "Steuben",
-    "num": 53680
+    "num": 53679
   },
   {
     "id": 8851,
@@ -63964,7 +63964,7 @@
     "die_count": 0,
     "state_name": "AL",
     "county": "Talladega",
-    "num": 53681
+    "num": 53680
   },
   {
     "id": 8852,
@@ -63973,7 +63973,7 @@
     "die_count": 0,
     "state_name": "AL",
     "county": "Jackson",
-    "num": 53682
+    "num": 53681
   },
   {
     "id": 8853,
@@ -63982,7 +63982,7 @@
     "die_count": 0,
     "state_name": "AL",
     "county": "Tallapoosa",
-    "num": 53683
+    "num": 53682
   },
   {
     "id": 8854,
@@ -63991,7 +63991,7 @@
     "die_count": 0,
     "state_name": "AL",
     "county": "Autauga",
-    "num": 53684
+    "num": 53683
   },
   {
     "id": 8855,
@@ -64000,7 +64000,7 @@
     "die_count": 0,
     "state_name": "NC",
     "county": "McDowell",
-    "num": 53686
+    "num": 53685
   },
   {
     "id": 8856,
@@ -64009,7 +64009,7 @@
     "die_count": 0,
     "state_name": "NC",
     "county": "Beaufort",
-    "num": 53688
+    "num": 53687
   },
   {
     "id": 8860,
@@ -64018,7 +64018,7 @@
     "die_count": 0,
     "state_name": "MO",
     "county": "Randolph",
-    "num": 53689
+    "num": 53688
   },
   {
     "id": 8861,
@@ -64027,7 +64027,7 @@
     "die_count": 0,
     "state_name": "MO",
     "county": "St. Francois",
-    "num": 53690
+    "num": 53689
   },
   {
     "id": 8862,
@@ -64036,7 +64036,7 @@
     "die_count": 0,
     "state_name": "NC",
     "county": "Buncombe",
-    "num": 53694
+    "num": 53693
   },
   {
     "id": 8863,
@@ -64045,7 +64045,7 @@
     "die_count": 0,
     "state_name": "TX",
     "county": "Midland",
-    "num": 53695
+    "num": 53694
   },
   {
     "id": 8866,
@@ -64054,7 +64054,7 @@
     "die_count": 0,
     "state_name": "TX",
     "county": "Midland",
-    "num": 53696
+    "num": 53695
   },
   {
     "id": 8868,
@@ -64063,7 +64063,7 @@
     "die_count": 0,
     "state_name": "NC",
     "county": "Caldwell",
-    "num": 53697
+    "num": 53696
   },
   {
     "id": 8869,
@@ -64072,7 +64072,7 @@
     "die_count": 0,
     "state_name": "CA",
     "county": "San Luis Obispo",
-    "num": 53706
+    "num": 53705
   },
   {
     "id": 8870,
@@ -64081,7 +64081,7 @@
     "die_count": 0,
     "state_name": "TX",
     "county": "Brazoria",
-    "num": 53715
+    "num": 53714
   },
   {
     "id": 8872,
@@ -64090,7 +64090,7 @@
     "die_count": 0,
     "state_name": "MO",
     "county": "Unassigned",
-    "num": 53719
+    "num": 53718
   },
   {
     "id": 8873,
@@ -64099,7 +64099,7 @@
     "die_count": 0,
     "state_name": "CA",
     "county": "Contra Costa",
-    "num": 53734
+    "num": 53733
   },
   {
     "id": 8875,
@@ -64108,7 +64108,7 @@
     "die_count": 0,
     "state_name": "TX",
     "county": "Montgomery",
-    "num": 53738
+    "num": 53737
   },
   {
     "id": 8877,
@@ -64117,7 +64117,7 @@
     "die_count": 0,
     "state_name": "CA",
     "county": "Humboldt",
-    "num": 53739
+    "num": 53738
   },
   {
     "id": 8879,
@@ -64128,7 +64128,7 @@
     "age_range": "70+",
     "state_name": "MO",
     "county": "Greene",
-    "num": 53739
+    "num": 53738
   },
   {
     "id": 8880,
@@ -64139,7 +64139,7 @@
     "age_range": "90+",
     "state_name": "MO",
     "county": "Greene",
-    "num": 53739
+    "num": 53738
   },
   {
     "id": 8881,
@@ -64148,7 +64148,7 @@
     "die_count": 0,
     "state_name": "KY",
     "county": "Unassigned",
-    "num": 53743
+    "num": 53742
   },
   {
     "id": 8883,
@@ -64157,7 +64157,7 @@
     "die_count": 1,
     "state_name": "AR",
     "county": "Unassigned",
-    "num": 53743
+    "num": 53742
   },
   {
     "id": 8886,
@@ -64168,7 +64168,7 @@
     "age_range": "50+",
     "state_name": "VA",
     "county": "Orange",
-    "num": 53744
+    "num": 53743
   },
   {
     "id": 8887,
@@ -64177,7 +64177,7 @@
     "die_count": 0,
     "state_name": "VA",
     "county": "Nelson",
-    "num": 53745
+    "num": 53744
   },
   {
     "id": 8888,
@@ -64186,7 +64186,7 @@
     "die_count": 0,
     "state_name": "NM",
     "county": "Bernalillo",
-    "num": 53750
+    "num": 53749
   },
   {
     "id": 8889,
@@ -64195,7 +64195,7 @@
     "die_count": 0,
     "state_name": "CA",
     "county": "Humboldt",
-    "num": 53751
+    "num": 53750
   },
   {
     "id": 8890,
@@ -64204,7 +64204,7 @@
     "die_count": 0,
     "state_name": "HI",
     "county": "Honolulu",
-    "num": 53756
+    "num": 53755
   },
   {
     "id": 8891,
@@ -64213,7 +64213,7 @@
     "die_count": 0,
     "state_name": "NM",
     "county": "Dona Ana",
-    "num": 53759
+    "num": 53758
   },
   {
     "id": 8892,
@@ -64222,7 +64222,7 @@
     "die_count": 0,
     "state_name": "KY",
     "county": "Boone",
-    "num": 53760
+    "num": 53759
   },
   {
     "id": 8893,
@@ -64231,7 +64231,7 @@
     "die_count": 0,
     "state_name": "NM",
     "county": "Cibola",
-    "num": 53761
+    "num": 53760
   },
   {
     "id": 8894,
@@ -64240,7 +64240,7 @@
     "die_count": 0,
     "state_name": "KY",
     "county": "Campbell",
-    "num": 53762
+    "num": 53761
   },
   {
     "id": 8895,
@@ -64249,7 +64249,7 @@
     "die_count": 0,
     "state_name": "NM",
     "county": "Curry",
-    "num": 53763
+    "num": 53762
   },
   {
     "id": 8896,
@@ -64258,7 +64258,7 @@
     "die_count": 0,
     "state_name": "KY",
     "county": "Laurel",
-    "num": 53764
+    "num": 53763
   },
   {
     "id": 8897,
@@ -64267,7 +64267,7 @@
     "die_count": 0,
     "state_name": "NM",
     "county": "McKinley",
-    "num": 53765
+    "num": 53764
   },
   {
     "id": 8898,
@@ -64276,7 +64276,7 @@
     "die_count": 0,
     "state_name": "KY",
     "county": "Logan",
-    "num": 53766
+    "num": 53765
   },
   {
     "id": 8899,
@@ -64287,7 +64287,7 @@
     "age_range": "90+",
     "state_name": "NE",
     "county": "Washington",
-    "num": 53767
+    "num": 53766
   },
   {
     "id": 8900,
@@ -64298,7 +64298,7 @@
     "age_range": "50+",
     "state_name": "NE",
     "county": "Saunders",
-    "num": 53768
+    "num": 53767
   },
   {
     "id": 8901,
@@ -64307,7 +64307,7 @@
     "die_count": 0,
     "state_name": "KY",
     "county": "McCracken",
-    "num": 53770
+    "num": 53769
   },
   {
     "id": 8902,
@@ -64316,7 +64316,7 @@
     "die_count": 0,
     "state_name": "KY",
     "county": "Scott",
-    "num": 53771
+    "num": 53770
   },
   {
     "id": 8903,
@@ -64325,7 +64325,7 @@
     "die_count": 0,
     "state_name": "KY",
     "county": "Simpson",
-    "num": 53772
+    "num": 53771
   },
   {
     "id": 8904,
@@ -64334,7 +64334,7 @@
     "die_count": 0,
     "state_name": "KY",
     "county": "Webster",
-    "num": 53773
+    "num": 53772
   },
   {
     "id": 8906,
@@ -64343,7 +64343,7 @@
     "die_count": 0,
     "state_name": "HI",
     "county": "Unassigned",
-    "num": 53774
+    "num": 53773
   },
   {
     "id": 8907,
@@ -64352,7 +64352,7 @@
     "die_count": 0,
     "state_name": "NM",
     "county": "San Juan",
-    "num": 53778
+    "num": 53777
   },
   {
     "id": 8908,
@@ -64361,7 +64361,7 @@
     "die_count": 0,
     "state_name": "HI",
     "county": "Unassigned",
-    "num": 53784
+    "num": 53783
   },
   {
     "id": 8909,
@@ -64370,7 +64370,7 @@
     "die_count": 0,
     "state_name": "NM",
     "county": "Santa Fe",
-    "num": 53786
+    "num": 53785
   },
   {
     "id": 8912,
@@ -64379,7 +64379,7 @@
     "die_count": 0,
     "state_name": "WA",
     "county": "Chelan",
-    "num": 53790
+    "num": 53789
   },
   {
     "id": 8913,
@@ -64388,7 +64388,7 @@
     "die_count": 0,
     "state_name": "WA",
     "county": "Douglas",
-    "num": 53791
+    "num": 53790
   },
   {
     "id": 8914,
@@ -64397,7 +64397,7 @@
     "die_count": 0,
     "state_name": "VA",
     "county": "Bedford",
-    "num": 53793
+    "num": 53792
   },
   {
     "id": 8916,
@@ -64408,7 +64408,7 @@
     "age_range": "90+",
     "state_name": "WA",
     "county": "Chelan",
-    "num": 53793
+    "num": 53792
   },
   {
     "id": 8918,
@@ -64417,7 +64417,7 @@
     "die_count": 0,
     "state_name": "TX",
     "county": "Denton",
-    "num": 53806
+    "num": 53805
   },
   {
     "id": 8919,
@@ -64426,7 +64426,7 @@
     "die_count": 0,
     "state_name": "MO",
     "county": "Clay",
-    "num": 53807
+    "num": 53806
   },
   {
     "id": 8921,
@@ -64435,7 +64435,7 @@
     "die_count": 0,
     "state_name": "VA",
     "county": "Prince Edward",
-    "num": 53808
+    "num": 53807
   },
   {
     "id": 8923,
@@ -64444,7 +64444,7 @@
     "die_count": 0,
     "state_name": "MO",
     "county": "Jackson",
-    "num": 53809
+    "num": 53808
   },
   {
     "id": 8928,
@@ -64453,7 +64453,7 @@
     "die_count": 0,
     "state_name": "NC",
     "county": "Wake",
-    "num": 53816
+    "num": 53815
   },
   {
     "id": 8927,
@@ -64462,7 +64462,7 @@
     "die_count": 0,
     "state_name": "MT",
     "county": "Yellowstone",
-    "num": 53817
+    "num": 53816
   },
   {
     "id": 8930,
@@ -64471,7 +64471,7 @@
     "die_count": 0,
     "state_name": "CO",
     "county": "Adams",
-    "num": 53819
+    "num": 53818
   },
   {
     "id": 8931,
@@ -64480,7 +64480,7 @@
     "die_count": 0,
     "state_name": "MT",
     "county": "Silver Bow",
-    "num": 53820
+    "num": 53819
   },
   {
     "id": 8932,
@@ -64489,7 +64489,7 @@
     "die_count": 0,
     "state_name": "IN",
     "county": "Tippecanoe",
-    "num": 53821
+    "num": 53820
   },
   {
     "id": 8933,
@@ -64498,7 +64498,7 @@
     "die_count": 0,
     "state_name": "MT",
     "county": "Gallatin",
-    "num": 53823
+    "num": 53822
   },
   {
     "id": 8934,
@@ -64507,7 +64507,7 @@
     "die_count": 0,
     "state_name": "CO",
     "county": "Arapahoe",
-    "num": 53834
+    "num": 53833
   },
   {
     "id": 8936,
@@ -64516,7 +64516,7 @@
     "die_count": 0,
     "state_name": "MT",
     "county": "Jefferson",
-    "num": 53835
+    "num": 53834
   },
   {
     "id": 8937,
@@ -64525,7 +64525,7 @@
     "die_count": 0,
     "state_name": "CO",
     "county": "Boulder",
-    "num": 53845
+    "num": 53844
   },
   {
     "id": 8939,
@@ -64534,7 +64534,7 @@
     "die_count": 0,
     "state_name": "CO",
     "county": "Broomfield",
-    "num": 53848
+    "num": 53847
   },
   {
     "id": 8940,
@@ -64544,7 +64544,7 @@
     "age_range": "40+",
     "state_name": "WA",
     "county": "Clark",
-    "num": 53851
+    "num": 53850
   },
   {
     "id": 8942,
@@ -64553,7 +64553,7 @@
     "die_count": 0,
     "state_name": "CO",
     "county": "Delta",
-    "num": 53852
+    "num": 53851
   },
   {
     "id": 8946,
@@ -64562,7 +64562,7 @@
     "die_count": 0,
     "state_name": "CO",
     "county": "Denver",
-    "num": 53880
+    "num": 53879
   },
   {
     "id": 8947,
@@ -64571,7 +64571,7 @@
     "die_count": 0,
     "state_name": "CO",
     "county": "Douglas",
-    "num": 53885
+    "num": 53884
   },
   {
     "id": 8948,
@@ -64580,7 +64580,7 @@
     "die_count": 0,
     "state_name": "NY",
     "county": "New York",
-    "num": 54578
+    "num": 54577
   },
   {
     "id": 8949,
@@ -64589,7 +64589,7 @@
     "die_count": 0,
     "state_name": "KY",
     "county": "Allen",
-    "num": 54579
+    "num": 54578
   },
   {
     "id": 8950,
@@ -64598,7 +64598,7 @@
     "die_count": 0,
     "state_name": "CO",
     "county": "Eagle",
-    "num": 54583
+    "num": 54582
   },
   {
     "id": 8951,
@@ -64607,7 +64607,7 @@
     "die_count": 1,
     "state_name": "IA",
     "county": "Dubuque",
-    "num": 54583
+    "num": 54582
   },
   {
     "id": 8952,
@@ -64616,7 +64616,7 @@
     "die_count": 0,
     "state_name": "KY",
     "county": "Breathitt",
-    "num": 54584
+    "num": 54583
   },
   {
     "id": 8953,
@@ -64625,7 +64625,7 @@
     "die_count": 0,
     "state_name": "KY",
     "county": "Daviess",
-    "num": 54587
+    "num": 54586
   },
   {
     "id": 8954,
@@ -64634,7 +64634,7 @@
     "die_count": 0,
     "state_name": "KY",
     "county": "Fayette",
-    "num": 54600
+    "num": 54599
   },
   {
     "id": 8955,
@@ -64643,7 +64643,7 @@
     "die_count": 0,
     "state_name": "KY",
     "county": "Harrison",
-    "num": 54602
+    "num": 54601
   },
   {
     "id": 8956,
@@ -64652,7 +64652,7 @@
     "die_count": 0,
     "state_name": "CO",
     "county": "El Paso",
-    "num": 54639
+    "num": 54638
   },
   {
     "id": 8957,
@@ -64661,7 +64661,7 @@
     "die_count": 61,
     "state_name": "NY",
     "county": "New York",
-    "num": 54639
+    "num": 54638
   },
   {
     "id": 8958,
@@ -64670,7 +64670,7 @@
     "die_count": 0,
     "state_name": "KY",
     "county": "Jefferson",
-    "num": 54641
+    "num": 54640
   },
   {
     "id": 8959,
@@ -64679,7 +64679,7 @@
     "die_count": 0,
     "state_name": "AR",
     "county": "Cleburne",
-    "num": 54643
+    "num": 54642
   },
   {
     "id": 8960,
@@ -64688,7 +64688,7 @@
     "die_count": 0,
     "state_name": "KY",
     "county": "Warren",
-    "num": 54644
+    "num": 54643
   },
   {
     "id": 8961,
@@ -64697,7 +64697,7 @@
     "die_count": 0,
     "state_name": "FL",
     "county": "Hernando",
-    "num": 54646
+    "num": 54645
   },
   {
     "id": 8962,
@@ -64706,7 +64706,7 @@
     "die_count": 0,
     "state_name": "FL",
     "county": "Santa Rosa",
-    "num": 54648
+    "num": 54647
   },
   {
     "id": 8963,
@@ -64715,7 +64715,7 @@
     "die_count": 0,
     "state_name": "KY",
     "county": "Kenton",
-    "num": 54651
+    "num": 54650
   },
   {
     "id": 8964,
@@ -64725,7 +64725,7 @@
     "die_count": 0,
     "state_name": "NE",
     "county": "Douglas",
-    "num": 54652
+    "num": 54651
   },
   {
     "id": 8965,
@@ -64734,7 +64734,7 @@
     "die_count": 0,
     "state_name": "MO",
     "county": "St. Louis City",
-    "num": 54666
+    "num": 54665
   },
   {
     "id": 8966,
@@ -64744,7 +64744,7 @@
     "die_count": 0,
     "state_name": "NE",
     "county": "Douglas",
-    "num": 54669
+    "num": 54668
   },
   {
     "id": 8967,
@@ -64753,7 +64753,7 @@
     "die_count": 0,
     "state_name": "CA",
     "county": "Mono",
-    "num": 54670
+    "num": 54669
   },
   {
     "id": 8968,
@@ -64764,7 +64764,7 @@
     "age_range": "50+",
     "state_name": "FL",
     "county": "St. Johns",
-    "num": 54670
+    "num": 54669
   },
   {
     "id": 8969,
@@ -64773,7 +64773,7 @@
     "die_count": 0,
     "state_name": "WA",
     "county": "King",
-    "num": 54777
+    "num": 54776
   },
   {
     "id": 8970,
@@ -64782,7 +64782,7 @@
     "die_count": 7,
     "state_name": "WA",
     "county": "King",
-    "num": 54777
+    "num": 54776
   },
   {
     "id": 8971,
@@ -64791,7 +64791,7 @@
     "die_count": 0,
     "state_name": "WA",
     "county": "Walla Walla",
-    "num": 54778
+    "num": 54777
   },
   {
     "id": 8973,
@@ -64802,7 +64802,7 @@
     "age_range": "80+",
     "state_name": "FL",
     "county": "Duval",
-    "num": 54778
+    "num": 54777
   },
   {
     "id": 8974,
@@ -64811,7 +64811,7 @@
     "die_count": 0,
     "state_name": "MO",
     "county": "St. Charles",
-    "num": 54781
+    "num": 54780
   },
   {
     "id": 8975,
@@ -64820,7 +64820,7 @@
     "die_count": 14,
     "state_name": "NY",
     "county": "Unassigned",
-    "num": 54781
+    "num": 54780
   },
   {
     "id": 8977,
@@ -64829,7 +64829,7 @@
     "die_count": 0,
     "state_name": "WY",
     "county": "Fremont",
-    "num": 54782
+    "num": 54781
   },
   {
     "id": 8978,
@@ -64838,7 +64838,7 @@
     "die_count": 0,
     "state_name": "WY",
     "county": "Laramie",
-    "num": 54783
+    "num": 54782
   },
   {
     "id": 8979,
@@ -64847,7 +64847,7 @@
     "die_count": 0,
     "state_name": "NH",
     "county": "Grafton",
-    "num": 54784
+    "num": 54783
   },
   {
     "id": 8980,
@@ -64856,7 +64856,7 @@
     "die_count": 0,
     "state_name": "WA",
     "county": "Grant",
-    "num": 54788
+    "num": 54787
   },
   {
     "id": 8981,
@@ -64865,7 +64865,7 @@
     "die_count": 0,
     "state_name": "NH",
     "county": "Rockingham",
-    "num": 54792
+    "num": 54791
   },
   {
     "id": 8983,
@@ -64874,7 +64874,7 @@
     "die_count": 0,
     "state_name": "TX",
     "county": "Travis",
-    "num": 54804
+    "num": 54803
   },
   {
     "id": 8984,
@@ -64883,7 +64883,7 @@
     "die_count": 0,
     "state_name": "NH",
     "county": "Strafford",
-    "num": 54805
+    "num": 54804
   },
   {
     "id": 8987,
@@ -64892,7 +64892,7 @@
     "die_count": 0,
     "state_name": "NH",
     "county": "Hillsborough",
-    "num": 54806
+    "num": 54805
   },
   {
     "id": 8989,
@@ -64903,7 +64903,7 @@
     "age_range": "20+",
     "state_name": "TX",
     "county": "Wichita",
-    "num": 54807
+    "num": 54806
   },
   {
     "id": 8990,
@@ -64912,7 +64912,7 @@
     "die_count": 0,
     "state_name": "TX",
     "county": "Hidalgo",
-    "num": 54810
+    "num": 54809
   },
   {
     "id": 8991,
@@ -64922,7 +64922,7 @@
     "die_count": 0,
     "state_name": "VA",
     "county": "Radford",
-    "num": 54811
+    "num": 54810
   },
   {
     "id": 8992,
@@ -64931,7 +64931,7 @@
     "die_count": 0,
     "state_name": "VA",
     "county": "Lynchburg",
-    "num": 54813
+    "num": 54812
   },
   {
     "id": 8993,
@@ -64940,7 +64940,7 @@
     "die_count": 0,
     "state_name": "WA",
     "county": "Benton",
-    "num": 54816
+    "num": 54815
   },
   {
     "id": 8994,
@@ -64949,7 +64949,7 @@
     "die_count": 0,
     "state_name": "WA",
     "county": "Franklin",
-    "num": 54818
+    "num": 54817
   },
   {
     "id": 8995,
@@ -64958,7 +64958,7 @@
     "die_count": 0,
     "state_name": "TX",
     "county": "Kaufman",
-    "num": 54820
+    "num": 54819
   },
   {
     "id": 8996,
@@ -64967,7 +64967,7 @@
     "die_count": 0,
     "state_name": "WA",
     "county": "Kitsap",
-    "num": 54822
+    "num": 54821
   },
   {
     "id": 8997,
@@ -64976,7 +64976,7 @@
     "die_count": 0,
     "state_name": "WA",
     "county": "Kittitas",
-    "num": 54835
+    "num": 54834
   },
   {
     "id": 8998,
@@ -64985,7 +64985,7 @@
     "die_count": 0,
     "state_name": "WA",
     "county": "Klickitat",
-    "num": 54837
+    "num": 54836
   },
   {
     "id": 8999,
@@ -64994,7 +64994,7 @@
     "die_count": 0,
     "state_name": "WA",
     "county": "Mason",
-    "num": 54838
+    "num": 54837
   },
   {
     "id": 9001,
@@ -65003,7 +65003,7 @@
     "die_count": 0,
     "state_name": "WA",
     "county": "Skagit",
-    "num": 54841
+    "num": 54840
   },
   {
     "id": 9002,
@@ -65012,7 +65012,7 @@
     "die_count": 0,
     "state_name": "WA",
     "county": "Spokane",
-    "num": 54845
+    "num": 54844
   },
   {
     "id": 9003,
@@ -65021,7 +65021,7 @@
     "die_count": 0,
     "state_name": "WA",
     "county": "Thurston",
-    "num": 54848
+    "num": 54847
   },
   {
     "id": 9004,
@@ -65030,7 +65030,7 @@
     "die_count": 0,
     "state_name": "VA",
     "county": "Albemarle",
-    "num": 54850
+    "num": 54849
   },
   {
     "id": 9005,
@@ -65039,7 +65039,7 @@
     "die_count": 0,
     "state_name": "WA",
     "county": "Whatcom",
-    "num": 54866
+    "num": 54865
   },
   {
     "id": 9006,
@@ -65048,7 +65048,7 @@
     "die_count": 0,
     "state_name": "VA",
     "county": "Louisa",
-    "num": 54867
+    "num": 54866
   },
   {
     "id": 9007,
@@ -65057,7 +65057,7 @@
     "die_count": 0,
     "state_name": "NC",
     "county": "Durham",
-    "num": 54870
+    "num": 54869
   },
   {
     "id": 9008,
@@ -65066,7 +65066,7 @@
     "die_count": 1,
     "state_name": "FL",
     "county": "Sarasota",
-    "num": 54870
+    "num": 54869
   },
   {
     "id": 9009,
@@ -65075,7 +65075,7 @@
     "die_count": 1,
     "state_name": "FL",
     "county": "Sarasota",
-    "num": 54870
+    "num": 54869
   },
   {
     "id": 9010,
@@ -65084,7 +65084,7 @@
     "die_count": 0,
     "state_name": "NC",
     "county": "Burke",
-    "num": 54871
+    "num": 54870
   },
   {
     "id": 9013,
@@ -65093,7 +65093,7 @@
     "die_count": 0,
     "state_name": "GA",
     "county": "Early",
-    "num": 54874
+    "num": 54873
   },
   {
     "id": 9015,
@@ -65102,7 +65102,7 @@
     "die_count": 0,
     "state_name": "MD",
     "county": "Cecil",
-    "num": 54875
+    "num": 54874
   },
   {
     "id": 9016,
@@ -65111,7 +65111,7 @@
     "die_count": 1,
     "state_name": "CA",
     "county": "San Francisco",
-    "num": 54875
+    "num": 54874
   },
   {
     "id": 9017,
@@ -65120,7 +65120,7 @@
     "die_count": 0,
     "state_name": "GA",
     "county": "Sumter",
-    "num": 54877
+    "num": 54876
   },
   {
     "id": 9018,
@@ -65129,7 +65129,7 @@
     "die_count": 0,
     "state_name": "TX",
     "county": "Nueces",
-    "num": 54881
+    "num": 54880
   },
   {
     "id": 9019,
@@ -65138,7 +65138,7 @@
     "die_count": 0,
     "state_name": "DC",
     "county": "District of Columbia",
-    "num": 54927
+    "num": 54926
   },
   {
     "id": 9020,
@@ -65147,7 +65147,7 @@
     "die_count": 0,
     "state_name": "CA",
     "county": "Ventura",
-    "num": 54931
+    "num": 54930
   },
   {
     "id": 9021,
@@ -65156,7 +65156,7 @@
     "die_count": 0,
     "state_name": "CA",
     "county": "Yolo",
-    "num": 54933
+    "num": 54932
   },
   {
     "id": 9022,
@@ -65165,7 +65165,7 @@
     "die_count": 0,
     "state_name": "GA",
     "county": "Tift",
-    "num": 54935
+    "num": 54934
   },
   {
     "id": 9023,
@@ -65174,7 +65174,7 @@
     "die_count": 0,
     "state_name": "CA",
     "county": "Imperial",
-    "num": 54938
+    "num": 54937
   },
   {
     "id": 9024,
@@ -65183,7 +65183,7 @@
     "die_count": 0,
     "state_name": "GA",
     "county": "Effingham",
-    "num": 54939
+    "num": 54938
   },
   {
     "id": 9025,
@@ -65192,7 +65192,7 @@
     "die_count": 0,
     "state_name": "CA",
     "county": "Humboldt",
-    "num": 54940
+    "num": 54939
   },
   {
     "id": 9026,
@@ -65201,7 +65201,7 @@
     "die_count": 0,
     "state_name": "GA",
     "county": "Barrow",
-    "num": 54941
+    "num": 54940
   },
   {
     "id": 9028,
@@ -65210,7 +65210,7 @@
     "die_count": 0,
     "state_name": "GA",
     "county": "Seminole",
-    "num": 54943
+    "num": 54942
   },
   {
     "id": 9029,
@@ -65219,7 +65219,7 @@
     "die_count": 0,
     "state_name": "TX",
     "county": "Collin",
-    "num": 54951
+    "num": 54950
   },
   {
     "id": 9030,
@@ -65229,7 +65229,7 @@
     "die_count": 0,
     "state_name": "WY",
     "county": "Sweetwater",
-    "num": 54952
+    "num": 54951
   },
   {
     "id": 9031,
@@ -65238,7 +65238,7 @@
     "die_count": 0,
     "state_name": "CA",
     "county": "Santa Barbara",
-    "num": 54958
+    "num": 54957
   },
   {
     "id": 9032,
@@ -65247,7 +65247,7 @@
     "die_count": 0,
     "state_name": "CO",
     "county": "Fremont",
-    "num": 54959
+    "num": 54958
   },
   {
     "id": 9033,
@@ -65256,7 +65256,7 @@
     "die_count": 0,
     "state_name": "GA",
     "county": "Fannin",
-    "num": 54960
+    "num": 54959
   },
   {
     "id": 9034,
@@ -65265,7 +65265,7 @@
     "die_count": 0,
     "state_name": "AR",
     "county": "Washington",
-    "num": 54962
+    "num": 54961
   },
   {
     "id": 9035,
@@ -65274,7 +65274,7 @@
     "die_count": 0,
     "state_name": "WY",
     "county": "Fremont",
-    "num": 54963
+    "num": 54962
   },
   {
     "id": 9036,
@@ -65283,7 +65283,7 @@
     "die_count": 0,
     "state_name": "CO",
     "county": "Garfield",
-    "num": 54965
+    "num": 54964
   },
   {
     "id": 9037,
@@ -65292,7 +65292,7 @@
     "die_count": 0,
     "state_name": "AR",
     "county": "Van Buren",
-    "num": 54967
+    "num": 54966
   },
   {
     "id": 9038,
@@ -65301,16 +65301,16 @@
     "die_count": 0,
     "state_name": "WY",
     "county": "Teton",
-    "num": 54968
+    "num": 54967
   },
   {
     "id": 9039,
     "confirmed_date": "3/24",
+    "people_count": 5,
     "die_count": 0,
     "state_name": "CA",
     "county": "Fresno",
-    "people_count": 5,
-    "num": 54973
+    "num": 54972
   },
   {
     "id": 9040,
@@ -65319,7 +65319,7 @@
     "die_count": 0,
     "state_name": "AR",
     "county": "Hot Spring",
-    "num": 54974
+    "num": 54973
   },
   {
     "id": 9041,
@@ -65328,7 +65328,7 @@
     "die_count": 0,
     "state_name": "CO",
     "county": "Gunnison",
-    "num": 54986
+    "num": 54985
   },
   {
     "id": 9042,
@@ -65337,7 +65337,7 @@
     "die_count": 0,
     "state_name": "AR",
     "county": "Faulkner",
-    "num": 54989
+    "num": 54988
   },
   {
     "id": 9043,
@@ -65346,7 +65346,7 @@
     "die_count": 0,
     "state_name": "CO",
     "county": "Huerfano",
-    "num": 54990
+    "num": 54989
   },
   {
     "id": 9044,
@@ -65355,7 +65355,7 @@
     "die_count": 0,
     "state_name": "AR",
     "county": "Jefferson",
-    "num": 54991
+    "num": 54990
   },
   {
     "id": 9045,
@@ -65364,7 +65364,7 @@
     "die_count": 0,
     "state_name": "AR",
     "county": "Garland",
-    "num": 54992
+    "num": 54991
   },
   {
     "id": 9046,
@@ -65373,7 +65373,7 @@
     "die_count": 0,
     "state_name": "CO",
     "county": "Jefferson",
-    "num": 55010
+    "num": 55009
   },
   {
     "id": 9047,
@@ -65382,7 +65382,7 @@
     "die_count": 0,
     "state_name": "GA",
     "county": "Telfair",
-    "num": 55011
+    "num": 55010
   },
   {
     "id": 9048,
@@ -65391,7 +65391,7 @@
     "die_count": 0,
     "state_name": "CO",
     "county": "La Plata",
-    "num": 55012
+    "num": 55011
   },
   {
     "id": 9050,
@@ -65400,7 +65400,7 @@
     "die_count": 0,
     "state_name": "AR",
     "county": "Searcy",
-    "num": 55013
+    "num": 55012
   },
   {
     "id": 9051,
@@ -65409,7 +65409,7 @@
     "die_count": 0,
     "state_name": "CO",
     "county": "Larimer",
-    "num": 55022
+    "num": 55021
   },
   {
     "id": 9052,
@@ -65418,7 +65418,7 @@
     "die_count": 0,
     "state_name": "CO",
     "county": "Montrose",
-    "num": 55024
+    "num": 55023
   },
   {
     "id": 9053,
@@ -65427,7 +65427,7 @@
     "die_count": 1,
     "state_name": "SC",
     "county": "Horry",
-    "num": 55024
+    "num": 55023
   },
   {
     "id": 9055,
@@ -65436,7 +65436,7 @@
     "die_count": 1,
     "state_name": "SC",
     "county": "Florence",
-    "num": 55024
+    "num": 55023
   },
   {
     "id": 9056,
@@ -65445,7 +65445,7 @@
     "die_count": 0,
     "state_name": "CO",
     "county": "Routt",
-    "num": 55025
+    "num": 55024
   },
   {
     "id": 9057,
@@ -65454,7 +65454,7 @@
     "die_count": 0,
     "state_name": "CO",
     "county": "Summit",
-    "num": 55027
+    "num": 55026
   },
   {
     "id": 9058,
@@ -65463,7 +65463,7 @@
     "die_count": 0,
     "state_name": "CO",
     "county": "Weld",
-    "num": 55053
+    "num": 55052
   },
   {
     "id": 9059,
@@ -65472,7 +65472,7 @@
     "die_count": 0,
     "state_name": "CO",
     "county": "Unassigned",
-    "num": 55066
+    "num": 55065
   },
   {
     "id": 9060,
@@ -65481,7 +65481,7 @@
     "die_count": 3,
     "state_name": "CO",
     "county": "Unassigned",
-    "num": 55066
+    "num": 55065
   },
   {
     "id": 9061,
@@ -65490,7 +65490,7 @@
     "die_count": 0,
     "state_name": "WV",
     "county": "Harrison",
-    "num": 55067
+    "num": 55066
   },
   {
     "id": 9062,
@@ -65499,7 +65499,7 @@
     "die_count": 0,
     "state_name": "WV",
     "county": "Jackson",
-    "num": 55068
+    "num": 55067
   },
   {
     "id": 9064,
@@ -65508,7 +65508,7 @@
     "die_count": 0,
     "state_name": "CA",
     "county": "San Bernardino",
-    "num": 55075
+    "num": 55074
   },
   {
     "id": 9065,
@@ -65517,7 +65517,7 @@
     "die_count": 0,
     "state_name": "WV",
     "county": "Monongalia",
-    "num": 55086
+    "num": 55085
   },
   {
     "id": 9066,
@@ -65528,7 +65528,7 @@
     "age_range": "50+",
     "state_name": "CA",
     "county": "San Bernardino",
-    "num": 55086
+    "num": 55085
   },
   {
     "id": 9067,
@@ -65539,7 +65539,7 @@
     "age_range": "70+",
     "state_name": "CA",
     "county": "Orange",
-    "num": 55086
+    "num": 55085
   },
   {
     "id": 9068,
@@ -65548,7 +65548,7 @@
     "die_count": 0,
     "state_name": "TX",
     "county": "Rusk",
-    "num": 55087
+    "num": 55086
   },
   {
     "id": 9069,
@@ -65559,7 +65559,7 @@
     "age_range": "20+",
     "state_name": "TX",
     "county": "Wichita",
-    "num": 55089
+    "num": 55088
   },
   {
     "id": 9070,
@@ -65568,7 +65568,7 @@
     "die_count": 0,
     "state_name": "NV",
     "county": "Washoe",
-    "num": 55095
+    "num": 55094
   },
   {
     "id": 9071,
@@ -65577,7 +65577,7 @@
     "die_count": 0,
     "state_name": "AK",
     "county": "Sterling",
-    "num": 55096
+    "num": 55095
   },
   {
     "id": 9072,
@@ -65586,7 +65586,7 @@
     "die_count": 0,
     "state_name": "AK",
     "county": "Fairbanks North Star",
-    "num": 55098
+    "num": 55097
   },
   {
     "id": 9073,
@@ -65595,7 +65595,7 @@
     "die_count": 0,
     "state_name": "AK",
     "county": "Palmer",
-    "num": 55100
+    "num": 55099
   },
   {
     "id": 9074,
@@ -65604,7 +65604,7 @@
     "die_count": 0,
     "state_name": "AK",
     "county": "Juneau",
-    "num": 55101
+    "num": 55100
   },
   {
     "id": 9075,
@@ -65613,7 +65613,7 @@
     "die_count": 0,
     "state_name": "AK",
     "county": "Ketchikan Gateway",
-    "num": 55103
+    "num": 55102
   },
   {
     "id": 9076,
@@ -65622,7 +65622,7 @@
     "die_count": 0,
     "state_name": "CA",
     "county": "San Diego",
-    "num": 55115
+    "num": 55114
   },
   {
     "id": 9077,
@@ -65632,7 +65632,7 @@
     "die_count": 0,
     "state_name": "NE",
     "county": "Lancaster",
-    "num": 55116
+    "num": 55115
   },
   {
     "id": 9078,
@@ -65641,7 +65641,7 @@
     "die_count": 0,
     "state_name": "CA",
     "county": "Marin",
-    "num": 55122
+    "num": 55121
   },
   {
     "id": 9080,
@@ -65650,7 +65650,7 @@
     "die_count": 0,
     "state_name": "NC",
     "county": "Person",
-    "num": 55123
+    "num": 55122
   },
   {
     "id": 9081,
@@ -65661,7 +65661,7 @@
     "age_range": "70+",
     "state_name": "CA",
     "county": "San Diego",
-    "num": 55123
+    "num": 55122
   },
   {
     "id": 9083,
@@ -65670,7 +65670,7 @@
     "die_count": 0,
     "state_name": "WA",
     "county": "Yakima",
-    "num": 55126
+    "num": 55125
   },
   {
     "id": 9084,
@@ -65679,7 +65679,7 @@
     "die_count": 0,
     "state_name": "NC",
     "county": "Bertie",
-    "num": 55128
+    "num": 55127
   },
   {
     "id": 9085,
@@ -65688,7 +65688,7 @@
     "die_count": 0,
     "state_name": "CA",
     "county": "Los Angeles",
-    "num": 55133
+    "num": 55132
   },
   {
     "id": 9086,
@@ -65697,7 +65697,7 @@
     "die_count": 1,
     "state_name": "WA",
     "county": "Yakima",
-    "num": 55133
+    "num": 55132
   },
   {
     "id": 9088,
@@ -65706,7 +65706,7 @@
     "die_count": 0,
     "state_name": "CA",
     "county": "Los Angeles",
-    "num": 55135
+    "num": 55134
   },
   {
     "id": 9091,
@@ -65715,7 +65715,7 @@
     "die_count": 0,
     "state_name": "CA",
     "county": "San Joaquin",
-    "num": 55144
+    "num": 55143
   },
   {
     "id": 9092,
@@ -65724,7 +65724,7 @@
     "die_count": 0,
     "state_name": "CA",
     "county": "Sonoma",
-    "num": 55149
+    "num": 55148
   },
   {
     "id": 9093,
@@ -65733,7 +65733,7 @@
     "die_count": 0,
     "state_name": "CA",
     "county": "Placer",
-    "num": 55155
+    "num": 55154
   },
   {
     "id": 9094,
@@ -65742,7 +65742,7 @@
     "die_count": 0,
     "state_name": "CA",
     "county": "Santa Cruz",
-    "num": 55157
+    "num": 55156
   },
   {
     "id": 9095,
@@ -65751,7 +65751,7 @@
     "die_count": 0,
     "state_name": "CA",
     "county": "Solano",
-    "num": 55160
+    "num": 55159
   },
   {
     "id": 9099,
@@ -65760,7 +65760,7 @@
     "die_count": 0,
     "state_name": "WV",
     "county": "Berkeley",
-    "num": 55162
+    "num": 55161
   },
   {
     "id": 9100,
@@ -65769,7 +65769,7 @@
     "die_count": 0,
     "state_name": "WV",
     "county": "Wood",
-    "num": 55163
+    "num": 55162
   },
   {
     "id": 9101,
@@ -65778,7 +65778,7 @@
     "die_count": 0,
     "state_name": "CA",
     "county": "San Benito",
-    "num": 55164
+    "num": 55163
   },
   {
     "id": 9102,
@@ -65787,7 +65787,7 @@
     "die_count": 0,
     "state_name": "WV",
     "county": "Preston",
-    "num": 55165
+    "num": 55164
   },
   {
     "id": 9103,
@@ -65796,7 +65796,7 @@
     "die_count": 0,
     "state_name": "TX",
     "county": "Galveston",
-    "num": 55169
+    "num": 55168
   },
   {
     "id": 9104,
@@ -65805,7 +65805,7 @@
     "die_count": 0,
     "state_name": "TN",
     "county": "Hamilton",
-    "num": 55176
+    "num": 55175
   },
   {
     "id": 9105,
@@ -65814,7 +65814,7 @@
     "die_count": 0,
     "state_name": "TX",
     "county": "Matagorda",
-    "num": 55178
+    "num": 55177
   },
   {
     "id": 9106,
@@ -65823,7 +65823,7 @@
     "die_count": 0,
     "state_name": "CA",
     "county": "Butte",
-    "num": 55180
+    "num": 55179
   },
   {
     "id": 9107,
@@ -65832,7 +65832,7 @@
     "die_count": 0,
     "state_name": "TX",
     "county": "Wharton",
-    "num": 55182
+    "num": 55181
   },
   {
     "id": 9108,
@@ -65841,7 +65841,7 @@
     "die_count": 0,
     "state_name": "CA",
     "county": "El Dorado",
-    "num": 55183
+    "num": 55182
   },
   {
     "id": 9111,
@@ -65850,7 +65850,7 @@
     "die_count": 0,
     "state_name": "CA",
     "county": "Kern",
-    "num": 55185
+    "num": 55184
   },
   {
     "id": 9113,
@@ -65860,7 +65860,7 @@
     "age_range": "Unknown",
     "state_name": "TX",
     "county": "Bexar",
-    "num": 55185
+    "num": 55184
   },
   {
     "id": 9115,
@@ -65869,7 +65869,7 @@
     "die_count": 0,
     "state_name": "NC",
     "county": "Vance",
-    "num": 55186
+    "num": 55185
   },
   {
     "id": 9116,
@@ -65878,7 +65878,7 @@
     "die_count": 0,
     "state_name": "WY",
     "county": "Carbon",
-    "num": 55187
+    "num": 55186
   },
   {
     "id": 9117,
@@ -65887,7 +65887,7 @@
     "die_count": 0,
     "state_name": "TX",
     "county": "El Paso",
-    "num": 55192
+    "num": 55191
   },
   {
     "id": 9118,
@@ -65896,7 +65896,7 @@
     "die_count": 0,
     "state_name": "WY",
     "county": "Sweetwater",
-    "num": 55193
+    "num": 55192
   },
   {
     "id": 9119,
@@ -65905,7 +65905,7 @@
     "die_count": 0,
     "state_name": "NC",
     "county": "Hoke",
-    "num": 55194
+    "num": 55193
   },
   {
     "id": 9120,
@@ -65914,7 +65914,7 @@
     "die_count": 0,
     "state_name": "CA",
     "county": "Monterey",
-    "num": 55198
+    "num": 55197
   },
   {
     "id": 9121,
@@ -65923,7 +65923,7 @@
     "die_count": 0,
     "state_name": "TX",
     "county": "El Paso",
-    "num": 55199
+    "num": 55198
   },
   {
     "id": 9122,
@@ -65932,7 +65932,7 @@
     "die_count": 0,
     "state_name": "CA",
     "county": "Nevada",
-    "num": 55200
+    "num": 55199
   },
   {
     "id": 9124,
@@ -65941,7 +65941,7 @@
     "die_count": 0,
     "state_name": "NC",
     "county": "Cabarrus",
-    "num": 55202
+    "num": 55201
   },
   {
     "id": 9125,
@@ -65950,7 +65950,7 @@
     "die_count": 0,
     "state_name": "CA",
     "county": "Siskiyou",
-    "num": 55203
+    "num": 55202
   },
   {
     "id": 9126,
@@ -65959,7 +65959,7 @@
     "die_count": 0,
     "state_name": "TX",
     "county": "DeWitt",
-    "num": 55204
+    "num": 55203
   },
   {
     "id": 9127,
@@ -65968,7 +65968,7 @@
     "die_count": 0,
     "state_name": "TX",
     "county": "Hale",
-    "num": 55205
+    "num": 55204
   },
   {
     "id": 9128,
@@ -65978,7 +65978,7 @@
     "age_range": "50+",
     "state_name": "TX",
     "county": "Lubbock",
-    "num": 55206
+    "num": 55205
   },
   {
     "id": 9129,
@@ -65987,7 +65987,7 @@
     "die_count": 0,
     "state_name": "TX",
     "county": "Hockley",
-    "num": 55207
+    "num": 55206
   },
   {
     "id": 9130,
@@ -65996,7 +65996,7 @@
     "die_count": 0,
     "state_name": "TX",
     "county": "Hockley",
-    "num": 55208
+    "num": 55207
   },
   {
     "id": 9132,
@@ -66005,7 +66005,7 @@
     "die_count": 0,
     "state_name": "TX",
     "county": "Ellis",
-    "num": 55209
+    "num": 55208
   },
   {
     "id": 9133,
@@ -66014,7 +66014,7 @@
     "die_count": 0,
     "state_name": "TX",
     "county": "Webb",
-    "num": 55210
+    "num": 55209
   },
   {
     "id": 9135,
@@ -66023,7 +66023,7 @@
     "die_count": 0,
     "state_name": "NV",
     "county": "Clark",
-    "num": 55247
+    "num": 55246
   },
   {
     "id": 9136,
@@ -66032,7 +66032,7 @@
     "die_count": 0,
     "state_name": "TX",
     "county": "Johnson",
-    "num": 55248
+    "num": 55247
   },
   {
     "id": 9137,
@@ -66043,7 +66043,7 @@
     "age_range": "70+",
     "state_name": "NV",
     "county": "Clark",
-    "num": 55248
+    "num": 55247
   },
   {
     "id": 9139,
@@ -66052,18 +66052,18 @@
     "die_count": 0,
     "state_name": "TX",
     "county": "Cass",
-    "num": 55249
+    "num": 55248
   },
   {
     "id": 9141,
     "confirmed_date": "3/24",
     "gender": "女",
+    "people_count": 0,
     "die_count": 1,
     "age_range": "50+",
     "state_name": "NV",
     "county": "Clark",
-    "people_count": 0,
-    "num": 55249
+    "num": 55248
   },
   {
     "id": 9142,
@@ -66072,7 +66072,7 @@
     "die_count": 0,
     "state_name": "TX",
     "county": "Coryell",
-    "num": 55250
+    "num": 55249
   },
   {
     "id": 9143,
@@ -66081,7 +66081,7 @@
     "die_count": 0,
     "state_name": "TX",
     "county": "Limestone",
-    "num": 55251
+    "num": 55250
   },
   {
     "id": 9144,
@@ -66090,7 +66090,7 @@
     "die_count": 0,
     "state_name": "TX",
     "county": "Morris",
-    "num": 55252
+    "num": 55251
   },
   {
     "id": 9145,
@@ -66101,7 +66101,7 @@
     "age_range": "40+",
     "state_name": "MD",
     "county": "Washington",
-    "num": 55253
+    "num": 55252
   },
   {
     "id": 9146,
@@ -66112,7 +66112,7 @@
     "age_range": "60+",
     "state_name": "MD",
     "county": "Washington",
-    "num": 55254
+    "num": 55253
   },
   {
     "id": 9150,
@@ -66121,7 +66121,7 @@
     "die_count": 0,
     "state_name": "KS",
     "county": "Linn",
-    "num": 55256
+    "num": 55255
   },
   {
     "id": 9151,
@@ -66132,473 +66132,473 @@
     "age_range": "40+",
     "state_name": "OR",
     "county": "Lane",
-    "num": 55257
+    "num": 55256
   },
   {
     "id": 9152,
-    "die_count": 1,
     "confirmed_date": "3/24",
+    "people_count": 0,
+    "die_count": 1,
     "state_name": "AZ",
     "county": "Coconino",
-    "people_count": 0,
-    "num": 55257
+    "num": 55256
   },
   {
     "id": 9153,
+    "confirmed_date": "3/24",
     "people_count": 1,
     "die_count": 0,
-    "confirmed_date": "3/24",
     "state_name": "WI",
     "county": "Eau Claire",
-    "num": 55258
+    "num": 55257
   },
   {
     "id": 9155,
+    "confirmed_date": "3/24",
+    "gender": "男",
     "people_count": 1,
     "die_count": 0,
     "state_name": "WI",
     "county": "La Crosse",
-    "gender": "男",
-    "confirmed_date": "3/24",
-    "num": 55259
+    "num": 55258
   },
   {
     "id": 9156,
+    "confirmed_date": "3/24",
+    "gender": "女",
     "people_count": 1,
     "die_count": 0,
     "state_name": "WI",
     "county": "La Crosse",
-    "gender": "女",
-    "confirmed_date": "3/24",
-    "num": 55260
+    "num": 55259
   },
   {
     "id": 9157,
+    "confirmed_date": "3/24",
+    "gender": "男",
     "people_count": 1,
     "die_count": 0,
     "state_name": "WI",
     "county": "La Crosse",
-    "gender": "男",
-    "confirmed_date": "3/24",
-    "num": 55261
+    "num": 55260
   },
   {
     "id": 9158,
+    "confirmed_date": "3/24",
+    "gender": "女",
     "people_count": 1,
     "die_count": 0,
     "state_name": "WI",
     "county": "La Crosse",
-    "gender": "女",
-    "confirmed_date": "3/24",
-    "num": 55262
+    "num": 55261
   },
   {
     "id": 9159,
+    "confirmed_date": "3/24",
+    "gender": "女",
     "people_count": 1,
     "die_count": 0,
     "state_name": "WI",
     "county": "La Crosse",
-    "gender": "女",
-    "confirmed_date": "3/24",
-    "num": 55263
+    "num": 55262
   },
   {
     "id": 9160,
+    "confirmed_date": "3/24",
     "people_count": 7,
     "die_count": 0,
     "state_name": "NY",
     "county": "Erie",
-    "confirmed_date": "3/24",
-    "num": 55270
+    "num": 55269
   },
   {
     "id": 9162,
+    "confirmed_date": "3/24",
     "people_count": 2,
     "die_count": 0,
     "state_name": "OR",
     "county": "Douglas",
-    "confirmed_date": "3/24",
-    "num": 55272
+    "num": 55271
   },
   {
     "id": 9163,
+    "confirmed_date": "3/24",
     "people_count": 1,
     "die_count": 0,
-    "confirmed_date": "3/24",
     "state_name": "OR",
     "county": "Lincoln",
-    "num": 55273
+    "num": 55272
   },
   {
     "id": 9167,
+    "confirmed_date": "3/24",
+    "people_count": 2,
     "die_count": 0,
     "state_name": "TX",
     "county": "Hays",
-    "confirmed_date": "3/24",
-    "people_count": 2,
-    "num": 55275
+    "num": 55274
   },
   {
     "id": 9170,
+    "confirmed_date": "3/24",
     "people_count": 1,
     "die_count": 0,
-    "confirmed_date": "3/24",
     "state_name": "TX",
     "county": "Young",
-    "num": 55276
+    "num": 55275
   },
   {
     "id": 9171,
+    "confirmed_date": "3/24",
     "people_count": 1,
     "die_count": 0,
+    "age_range": "50+",
     "state_name": "NY",
     "county": "Cortland",
-    "confirmed_date": "3/24",
-    "age_range": "50+",
-    "num": 55277
+    "num": 55276
   },
   {
     "id": 9172,
+    "confirmed_date": "3/24",
     "people_count": 0,
     "die_count": 1,
-    "confirmed_date": "3/24",
+    "age_range": "60+",
     "state_name": "IN",
     "county": "Howard",
-    "age_range": "60+",
-    "num": 55277
+    "num": 55276
   },
   {
     "id": 9173,
+    "confirmed_date": "3/24",
     "people_count": 1,
     "die_count": 0,
     "state_name": "WI",
     "county": "Dodge",
-    "confirmed_date": "3/24",
-    "num": 55278
+    "num": 55277
   },
   {
     "id": 9175,
+    "confirmed_date": "3/24",
     "people_count": 1,
     "die_count": 0,
     "state_name": "NC",
     "county": "Rowan",
-    "confirmed_date": "3/24",
-    "num": 55279
+    "num": 55278
   },
   {
     "id": 9176,
+    "confirmed_date": "3/24",
     "people_count": 1,
     "die_count": 0,
     "state_name": "NC",
     "county": "Burke",
-    "confirmed_date": "3/24",
-    "num": 55280
+    "num": 55279
   },
   {
     "id": 9177,
+    "confirmed_date": "3/24",
+    "people_count": 2,
     "die_count": 0,
     "state_name": "NC",
     "county": "Wilson",
-    "confirmed_date": "3/24",
-    "people_count": 2,
-    "num": 55282
+    "num": 55281
   },
   {
     "id": 9185,
+    "confirmed_date": "3/24",
     "people_count": 1,
     "die_count": 0,
-    "confirmed_date": "3/24",
-    "county": "DeKalb",
     "state_name": "IN",
-    "num": 55283
+    "county": "DeKalb",
+    "num": 55282
   },
   {
     "id": 9187,
+    "confirmed_date": "3/24",
     "people_count": 4,
     "die_count": 0,
     "state_name": "ID",
     "county": "Blaine",
-    "confirmed_date": "3/24",
-    "num": 55287
+    "num": 55286
   },
   {
     "id": 9193,
+    "confirmed_date": "3/24",
     "people_count": 5,
     "die_count": 0,
     "state_name": "ID",
     "county": "Ada",
-    "confirmed_date": "3/24",
-    "num": 55292
+    "num": 55291
   },
   {
     "id": 9195,
+    "confirmed_date": "3/24",
     "people_count": 1,
     "die_count": 0,
-    "confirmed_date": "3/24",
     "state_name": "ID",
     "county": "Nez Perce",
-    "num": 55293
+    "num": 55292
   },
   {
     "id": 9227,
+    "confirmed_date": "3/24",
     "people_count": 1,
     "die_count": 0,
-    "confirmed_date": "3/24",
     "state_name": "MS",
     "county": "Amite",
-    "num": 55294
+    "num": 55293
   },
   {
     "id": 9228,
+    "confirmed_date": "3/24",
     "people_count": 1,
     "die_count": 0,
-    "confirmed_date": "3/24",
     "state_name": "MS",
     "county": "Attala",
-    "num": 55295
+    "num": 55294
   },
   {
     "id": 9229,
+    "confirmed_date": "3/24",
     "people_count": 1,
     "die_count": 0,
-    "confirmed_date": "3/24",
     "state_name": "MS",
     "county": "Calhoun",
-    "num": 55296
+    "num": 55295
   },
   {
     "id": 9230,
+    "confirmed_date": "3/24",
     "people_count": 2,
     "die_count": 0,
-    "confirmed_date": "3/24",
     "state_name": "MS",
     "county": "Choctaw",
-    "num": 55298
+    "num": 55297
   },
   {
     "id": 9231,
+    "confirmed_date": "3/24",
     "people_count": 1,
     "die_count": 0,
-    "confirmed_date": "3/24",
     "state_name": "MS",
     "county": "Copiah",
-    "num": 55299
+    "num": 55298
   },
   {
     "id": 9232,
+    "confirmed_date": "3/24",
     "people_count": 7,
     "die_count": 0,
-    "confirmed_date": "3/24",
     "state_name": "MS",
     "county": "DeSoto",
-    "num": 55306
+    "num": 55305
   },
   {
     "id": 9233,
+    "confirmed_date": "3/24",
     "people_count": 1,
     "die_count": 0,
-    "confirmed_date": "3/24",
     "state_name": "MS",
     "county": "Forrest",
-    "num": 55307
+    "num": 55306
   },
   {
     "id": 9235,
+    "confirmed_date": "3/24",
     "people_count": 1,
     "die_count": 0,
-    "confirmed_date": "3/24",
     "state_name": "MS",
     "county": "Harrison",
-    "num": 55308
+    "num": 55307
   },
   {
     "id": 9238,
+    "confirmed_date": "3/24",
     "people_count": 7,
     "die_count": 0,
-    "confirmed_date": "3/24",
     "state_name": "MS",
     "county": "Hinds",
-    "num": 55315
+    "num": 55314
   },
   {
     "id": 9240,
+    "confirmed_date": "3/24",
     "people_count": 1,
     "die_count": 0,
-    "confirmed_date": "3/24",
     "state_name": "MS",
     "county": "Holmes",
-    "num": 55316
+    "num": 55315
   },
   {
     "id": 9242,
+    "confirmed_date": "3/24",
     "people_count": 2,
     "die_count": 0,
     "state_name": "MS",
     "county": "Jackson",
-    "confirmed_date": "3/24",
-    "num": 55318
+    "num": 55317
   },
   {
     "id": 9245,
+    "confirmed_date": "3/24",
     "people_count": 1,
     "die_count": 0,
-    "confirmed_date": "3/24",
     "state_name": "MS",
     "county": "Lawrence",
-    "num": 55319
+    "num": 55318
   },
   {
     "id": 9248,
+    "confirmed_date": "3/24",
     "people_count": 1,
     "die_count": 0,
-    "confirmed_date": "3/24",
     "state_name": "MS",
     "county": "Leake",
-    "num": 55320
+    "num": 55319
   },
   {
     "id": 9249,
+    "confirmed_date": "3/24",
     "people_count": 2,
     "die_count": 0,
-    "confirmed_date": "3/24",
     "state_name": "MS",
     "county": "Lee",
-    "num": 55322
+    "num": 55321
   },
   {
     "id": 9251,
+    "confirmed_date": "3/24",
     "people_count": 3,
     "die_count": 0,
-    "confirmed_date": "3/24",
     "state_name": "MS",
     "county": "Leflore",
-    "num": 55325
+    "num": 55324
   },
   {
     "id": 9255,
+    "confirmed_date": "3/24",
     "people_count": 3,
     "die_count": 0,
-    "confirmed_date": "3/24",
     "state_name": "MS",
     "county": "Madison",
-    "num": 55328
+    "num": 55327
   },
   {
     "id": 9258,
+    "confirmed_date": "3/24",
     "people_count": 1,
     "die_count": 0,
-    "confirmed_date": "3/24",
     "state_name": "MS",
     "county": "Marshall",
-    "num": 55329
+    "num": 55328
   },
   {
     "id": 9259,
+    "confirmed_date": "3/24",
     "people_count": 2,
     "die_count": 0,
-    "confirmed_date": "3/24",
     "state_name": "MS",
     "county": "Montgomery",
-    "num": 55331
+    "num": 55330
   },
   {
     "id": 9260,
+    "confirmed_date": "3/24",
     "people_count": 2,
     "die_count": 0,
-    "confirmed_date": "3/24",
     "state_name": "MS",
     "county": "Oktibbeha",
-    "num": 55333
+    "num": 55332
   },
   {
     "id": 9261,
+    "confirmed_date": "3/24",
     "people_count": 3,
     "die_count": 0,
-    "confirmed_date": "3/24",
     "state_name": "MS",
     "county": "Pike",
-    "num": 55336
+    "num": 55335
   },
   {
     "id": 9263,
+    "confirmed_date": "3/24",
     "people_count": 1,
     "die_count": 0,
-    "confirmed_date": "3/24",
     "state_name": "MS",
     "county": "Prentiss",
-    "num": 55337
+    "num": 55336
   },
   {
     "id": 9266,
+    "confirmed_date": "3/24",
     "people_count": 7,
     "die_count": 0,
-    "confirmed_date": "3/24",
     "state_name": "MS",
     "county": "Rankin",
-    "num": 55344
+    "num": 55343
   },
   {
     "id": 9267,
+    "confirmed_date": "3/24",
     "people_count": 1,
     "die_count": 0,
-    "confirmed_date": "3/24",
     "state_name": "MS",
     "county": "Scott",
-    "num": 55345
+    "num": 55344
   },
   {
     "id": 9268,
+    "confirmed_date": "3/24",
     "people_count": 1,
     "die_count": 0,
-    "confirmed_date": "3/24",
     "state_name": "MS",
     "county": "Tate",
-    "num": 55346
+    "num": 55345
   },
   {
     "id": 9269,
+    "confirmed_date": "3/24",
     "people_count": 1,
     "die_count": 0,
-    "confirmed_date": "3/24",
     "state_name": "MS",
     "county": "Union",
-    "num": 55347
+    "num": 55346
   },
   {
     "id": 9270,
+    "confirmed_date": "3/24",
     "people_count": 1,
     "die_count": 0,
-    "confirmed_date": "3/24",
     "state_name": "MS",
     "county": "Walthall",
-    "num": 55348
+    "num": 55347
   },
   {
     "id": 9271,
+    "confirmed_date": "3/24",
     "people_count": 1,
     "die_count": 0,
-    "confirmed_date": "3/24",
     "state_name": "MS",
     "county": "Wilkinson",
-    "num": 55349
+    "num": 55348
   },
   {
     "id": 9272,
+    "confirmed_date": "3/24",
     "people_count": 1,
     "die_count": 0,
-    "confirmed_date": "3/24",
     "state_name": "MS",
     "county": "Winston",
-    "num": 55350
+    "num": 55349
   },
   {
     "id": 9273,
+    "confirmed_date": "3/24",
     "people_count": 0,
     "die_count": 1,
-    "confirmed_date": "3/24",
     "state_name": "MS",
     "county": "Holmes",
-    "num": 55350
+    "num": 55349
   },
   {
     "id": 9300,
@@ -66607,330 +66607,358 @@
     "die_count": 0,
     "state_name": "FL",
     "county": "Brevard",
-    "num": 55352
+    "num": 55351
   },
   {
     "id": 9303,
+    "confirmed_date": "3/24",
     "people_count": 5,
     "die_count": 0,
     "state_name": "NC",
     "county": "Orange",
+    "num": 55356
+  },
+  {
+    "id": 9408,
     "confirmed_date": "3/24",
+    "gender": "女",
+    "people_count": 1,
+    "die_count": 0,
+    "state_name": "MI",
+    "county": "Lenawee",
     "num": 55357
   },
   {
+    "id": 9433,
+    "confirmed_date": "3/24",
+    "people_count": 1,
+    "die_count": 0,
+    "state_name": "NY",
+    "county": "Essex",
+    "num": 55358
+  },
+  {
+    "id": 9490,
+    "people_count": 1,
+    "die_count": 0,
+    "state_name": "NY",
+    "county": "Franklin",
+    "confirmed_date": "3/24",
+    "num": 55359
+  },
+  {
     "id": 9154,
+    "confirmed_date": "3/25",
     "people_count": 12,
     "die_count": 0,
     "state_name": "PR",
     "county": "Puerto Rico",
-    "confirmed_date": "3/25",
-    "num": 55369
+    "num": 55371
   },
   {
     "id": 9161,
-    "state_name": "CA",
-    "county": "San Mateo",
+    "confirmed_date": "3/25",
     "people_count": 0,
     "die_count": 1,
-    "confirmed_date": "3/25",
-    "num": 55369
+    "state_name": "CA",
+    "county": "San Mateo",
+    "num": 55371
   },
   {
     "id": 9166,
-    "die_count": 0,
-    "people_count": 4,
     "confirmed_date": "3/25",
+    "people_count": 4,
+    "die_count": 0,
     "state_name": "GU",
     "county": "Guam",
-    "num": 55373
+    "num": 55375
   },
   {
     "id": 9168,
+    "confirmed_date": "3/25",
+    "people_count": 4,
     "die_count": 0,
     "state_name": "AR",
     "county": "Unassigned",
-    "confirmed_date": "3/25",
-    "people_count": 4,
-    "num": 55377
+    "num": 55379
   },
   {
     "id": 9174,
+    "confirmed_date": "3/25",
     "people_count": 0,
     "die_count": 1,
-    "confirmed_date": "3/25",
     "state_name": "IN",
     "county": "Hancock",
-    "num": 55377
+    "num": 55379
   },
   {
     "id": 9178,
+    "confirmed_date": "3/25",
     "people_count": 35,
     "die_count": 0,
     "state_name": "TN",
     "county": "Shelby",
-    "confirmed_date": "3/25",
-    "num": 55412
+    "num": 55414
   },
   {
     "id": 9179,
+    "confirmed_date": "3/25",
     "people_count": 3,
     "die_count": 0,
-    "confirmed_date": "3/25",
     "state_name": "NC",
     "county": "Chatham",
-    "num": 55415
-  },
-  {
-    "id": 9180,
-    "people_count": 1,
-    "die_count": 0,
-    "confirmed_date": "3/25",
-    "state_name": "IN",
-    "county": "Boone",
-    "num": 55416
-  },
-  {
-    "id": 9181,
-    "people_count": 1,
-    "die_count": 0,
-    "confirmed_date": "3/25",
-    "state_name": "IN",
-    "county": "Clark",
     "num": 55417
   },
   {
+    "id": 9180,
+    "confirmed_date": "3/25",
+    "people_count": 1,
+    "die_count": 0,
+    "state_name": "IN",
+    "county": "Boone",
+    "num": 55418
+  },
+  {
+    "id": 9181,
+    "confirmed_date": "3/25",
+    "people_count": 1,
+    "die_count": 0,
+    "state_name": "IN",
+    "county": "Clark",
+    "num": 55419
+  },
+  {
     "id": 9182,
+    "confirmed_date": "3/25",
     "people_count": 1,
     "die_count": 0,
     "state_name": "HI",
     "county": "Unassigned",
-    "confirmed_date": "3/25",
-    "num": 55418
+    "num": 55420
   },
   {
     "id": 9183,
+    "confirmed_date": "3/25",
+    "people_count": 7,
     "die_count": 0,
     "state_name": "MD",
     "county": "Anne Arundel",
-    "confirmed_date": "3/25",
-    "people_count": 7,
-    "num": 55425
+    "num": 55427
   },
   {
     "id": 9184,
+    "confirmed_date": "3/25",
     "people_count": 1,
     "die_count": 0,
-    "confirmed_date": "3/25",
     "state_name": "IN",
     "county": "Decatur",
-    "num": 55426
+    "num": 55428
   },
   {
     "id": 9186,
-    "die_count": 0,
     "confirmed_date": "3/25",
+    "people_count": 15,
+    "die_count": 0,
     "state_name": "NV",
     "county": "Unassigned",
-    "people_count": 15,
-    "num": 55441
+    "num": 55443
   },
   {
     "id": 9188,
+    "confirmed_date": "3/25",
+    "people_count": 9,
     "die_count": 0,
     "state_name": "MD",
     "county": "Baltimore",
-    "confirmed_date": "3/25",
-    "people_count": 9,
-    "num": 55450
+    "num": 55452
   },
   {
     "id": 9189,
+    "confirmed_date": "3/25",
     "people_count": 12,
     "die_count": 0,
     "state_name": "MD",
     "county": "Baltimore City",
-    "confirmed_date": "3/25",
-    "num": 55462
+    "num": 55464
   },
   {
     "id": 9191,
+    "confirmed_date": "3/25",
     "people_count": 1,
     "die_count": 0,
-    "confirmed_date": "3/25",
     "state_name": "NC",
     "county": "Dare",
-    "num": 55463
+    "num": 55465
   },
   {
     "id": 9192,
+    "confirmed_date": "3/25",
     "people_count": 3,
     "die_count": 0,
     "state_name": "MD",
     "county": "Charles",
-    "confirmed_date": "3/25",
-    "num": 55466
+    "num": 55468
   },
   {
     "id": 9196,
+    "confirmed_date": "3/25",
     "people_count": 90,
     "die_count": 0,
-    "confirmed_date": "3/25",
     "state_name": "PA",
     "county": "Philadelphia",
-    "num": 55556
+    "num": 55558
   },
   {
     "id": 9197,
+    "confirmed_date": "3/25",
     "people_count": 2,
     "die_count": 0,
     "state_name": "WY",
     "county": "Laramie",
-    "confirmed_date": "3/25",
-    "num": 55558
+    "num": 55560
   },
   {
     "id": 9198,
+    "confirmed_date": "3/25",
+    "people_count": 3,
     "die_count": 0,
     "state_name": "MD",
     "county": "Frederick",
-    "confirmed_date": "3/25",
-    "people_count": 3,
-    "num": 55561
+    "num": 55563
   },
   {
     "id": 9199,
+    "confirmed_date": "3/25",
+    "gender": "女",
     "people_count": 1,
     "die_count": 0,
-    "confirmed_date": "3/25",
+    "age_range": "60+",
     "state_name": "IN",
     "county": "Delaware",
-    "age_range": "60+",
-    "gender": "女",
-    "num": 55562
+    "num": 55564
   },
   {
     "id": 9200,
+    "confirmed_date": "3/25",
     "people_count": 1,
     "die_count": 0,
     "state_name": "WY",
     "county": "Fremont",
-    "confirmed_date": "3/25",
-    "num": 55563
+    "num": 55565
   },
   {
     "id": 9201,
+    "confirmed_date": "3/25",
     "people_count": 5,
     "die_count": 0,
-    "confirmed_date": "3/25",
     "state_name": "MD",
     "county": "Howard",
-    "num": 55568
-  },
-  {
-    "id": 9202,
-    "people_count": 0,
-    "die_count": 1,
-    "state_name": "NC",
-    "county": "Cabarrus",
-    "confirmed_date": "3/25",
-    "age_range": "70+",
-    "gender": "Unknown",
-    "num": 55568
-  },
-  {
-    "id": 9203,
-    "people_count": 1,
-    "die_count": 0,
-    "confirmed_date": "3/25",
-    "state_name": "IN",
-    "county": "Delaware",
-    "age_range": "50+",
-    "gender": "男",
-    "num": 55569
-  },
-  {
-    "id": 9204,
-    "people_count": 1,
-    "die_count": 0,
-    "confirmed_date": "3/25",
-    "state_name": "MD",
-    "county": "Kent",
     "num": 55570
   },
   {
-    "id": 9205,
+    "id": 9202,
+    "confirmed_date": "3/25",
+    "gender": "Unknown",
+    "people_count": 0,
+    "die_count": 1,
+    "age_range": "70+",
+    "state_name": "NC",
+    "county": "Cabarrus",
+    "num": 55570
+  },
+  {
+    "id": 9203,
+    "confirmed_date": "3/25",
+    "gender": "男",
     "people_count": 1,
     "die_count": 0,
-    "confirmed_date": "3/25",
     "age_range": "50+",
-    "gender": "男",
     "state_name": "IN",
     "county": "Delaware",
     "num": 55571
   },
   {
+    "id": 9204,
+    "confirmed_date": "3/25",
+    "people_count": 1,
+    "die_count": 0,
+    "state_name": "MD",
+    "county": "Kent",
+    "num": 55572
+  },
+  {
+    "id": 9205,
+    "confirmed_date": "3/25",
+    "gender": "男",
+    "people_count": 1,
+    "die_count": 0,
+    "age_range": "50+",
+    "state_name": "IN",
+    "county": "Delaware",
+    "num": 55573
+  },
+  {
     "id": 9206,
+    "confirmed_date": "3/25",
     "people_count": 20,
     "die_count": 0,
-    "confirmed_date": "3/25",
     "state_name": "MD",
     "county": "Montgomery",
-    "num": 55591
+    "num": 55593
   },
   {
     "id": 9207,
+    "confirmed_date": "3/25",
     "people_count": 13,
     "die_count": 0,
-    "confirmed_date": "3/25",
     "state_name": "MD",
     "county": "Prince George's",
-    "num": 55604
-  },
-  {
-    "id": 9208,
-    "people_count": 1,
-    "die_count": 0,
-    "confirmed_date": "3/25",
-    "state_name": "IN",
-    "county": "Elkhart",
-    "num": 55605
-  },
-  {
-    "id": 9210,
-    "people_count": 1,
-    "die_count": 0,
-    "confirmed_date": "3/25",
-    "state_name": "IN",
-    "county": "Fayette",
     "num": 55606
   },
   {
+    "id": 9208,
+    "confirmed_date": "3/25",
+    "people_count": 1,
+    "die_count": 0,
+    "state_name": "IN",
+    "county": "Elkhart",
+    "num": 55607
+  },
+  {
+    "id": 9210,
+    "confirmed_date": "3/25",
+    "people_count": 1,
+    "die_count": 0,
+    "state_name": "IN",
+    "county": "Fayette",
+    "num": 55608
+  },
+  {
     "id": 9211,
+    "confirmed_date": "3/25",
+    "people_count": 4,
     "die_count": 0,
     "state_name": "CA",
     "county": "San Mateo",
-    "people_count": 4,
-    "confirmed_date": "3/25",
-    "num": 55610
+    "num": 55612
   },
   {
     "id": 9212,
+    "confirmed_date": "3/25",
     "people_count": 0,
     "die_count": 3,
     "state_name": "CA",
     "county": "San Mateo",
-    "confirmed_date": "3/25",
-    "num": 55610
+    "num": 55612
   },
   {
     "id": 9213,
+    "confirmed_date": "3/25",
     "people_count": 5,
     "die_count": 0,
-    "confirmed_date": "3/25",
     "state_name": "IN",
     "county": "Hamilton",
-    "num": 55615
+    "num": 55617
   },
   {
     "id": 9214,
@@ -66939,245 +66967,245 @@
     "die_count": 0,
     "state_name": "NC",
     "county": "Forsyth",
-    "num": 55616
+    "num": 55618
   },
   {
     "id": 9215,
+    "confirmed_date": "3/25",
     "people_count": 4,
     "die_count": 0,
-    "confirmed_date": "3/25",
     "state_name": "IN",
     "county": "Hancock",
-    "num": 55620
+    "num": 55622
   },
   {
     "id": 9216,
+    "confirmed_date": "3/25",
+    "people_count": 6,
     "die_count": 0,
     "state_name": "NC",
     "county": "Guilford",
-    "people_count": 6,
-    "confirmed_date": "3/25",
-    "num": 55626
-  },
-  {
-    "id": 9217,
-    "die_count": 0,
-    "confirmed_date": "3/25",
-    "state_name": "IN",
-    "county": "Hendricks",
-    "people_count": 2,
     "num": 55628
   },
   {
+    "id": 9217,
+    "confirmed_date": "3/25",
+    "people_count": 2,
+    "die_count": 0,
+    "state_name": "IN",
+    "county": "Hendricks",
+    "num": 55630
+  },
+  {
     "id": 9218,
+    "confirmed_date": "3/25",
     "people_count": 11,
     "die_count": 0,
     "state_name": "NY",
     "county": "Monroe",
-    "confirmed_date": "3/25",
-    "num": 55639
+    "num": 55641
   },
   {
     "id": 9219,
+    "confirmed_date": "3/25",
     "people_count": 1,
     "die_count": 0,
     "state_name": "ND",
     "county": "Morton",
-    "confirmed_date": "3/25",
-    "num": 55640
+    "num": 55642
   },
   {
     "id": 9220,
+    "confirmed_date": "3/25",
     "people_count": 1,
     "die_count": 0,
     "state_name": "ND",
     "county": "Ramsey",
-    "confirmed_date": "3/25",
-    "num": 55641
+    "num": 55643
   },
   {
     "id": 9221,
+    "confirmed_date": "3/25",
     "people_count": 1,
     "die_count": 0,
-    "confirmed_date": "3/25",
     "state_name": "ND",
     "county": "Foster",
-    "num": 55642
+    "num": 55644
   },
   {
     "id": 9223,
-    "people_count": 124,
+    "confirmed_date": "3/25",
+    "people_count": 85,
     "die_count": 0,
     "state_name": "NY",
     "county": "Unassigned",
-    "confirmed_date": "3/25",
-    "num": 55766
+    "num": 55729
   },
   {
     "id": 9224,
+    "confirmed_date": "3/25",
     "people_count": 0,
-    "die_count": 14,
     "state_name": "NY",
     "county": "Unassigned",
-    "confirmed_date": "3/25",
-    "num": 55766
+    "die_count": 6,
+    "num": 55729
   },
   {
     "id": 9226,
+    "confirmed_date": "3/25",
     "people_count": 1,
     "die_count": 0,
-    "confirmed_date": "3/25",
     "state_name": "NC",
     "county": "New Hanover",
-    "num": 55767
+    "num": 55730
   },
   {
     "id": 9234,
+    "confirmed_date": "3/25",
     "people_count": 2,
     "die_count": 0,
-    "confirmed_date": "3/25",
     "state_name": "AL",
     "county": "Chambers",
-    "num": 55769
+    "num": 55732
   },
   {
     "id": 9237,
+    "confirmed_date": "3/25",
     "people_count": 1,
     "die_count": 0,
     "state_name": "AL",
     "county": "Elmore",
-    "confirmed_date": "3/25",
-    "num": 55770
+    "num": 55733
   },
   {
     "id": 9239,
+    "confirmed_date": "3/25",
     "people_count": 8,
     "die_count": 0,
-    "confirmed_date": "3/25",
     "state_name": "AL",
     "county": "Jefferson",
-    "num": 55778
+    "num": 55741
   },
   {
     "id": 9241,
+    "confirmed_date": "3/25",
     "people_count": 3,
     "die_count": 0,
-    "confirmed_date": "3/25",
     "state_name": "AL",
     "county": "Lauderdale",
-    "num": 55781
+    "num": 55744
   },
   {
     "id": 9243,
+    "confirmed_date": "3/25",
     "people_count": 3,
     "die_count": 0,
-    "confirmed_date": "3/25",
     "state_name": "AL",
     "county": "Lee",
-    "num": 55784
+    "num": 55747
   },
   {
     "id": 9244,
+    "confirmed_date": "3/25",
     "people_count": 2,
     "die_count": 0,
     "state_name": "AL",
     "county": "Limestone",
-    "confirmed_date": "3/25",
-    "num": 55786
+    "num": 55749
   },
   {
     "id": 9246,
+    "confirmed_date": "3/25",
     "people_count": 4,
     "die_count": 0,
     "state_name": "AL",
     "county": "Mobile",
-    "confirmed_date": "3/25",
-    "num": 55790
+    "num": 55753
   },
   {
     "id": 9247,
+    "confirmed_date": "3/25",
     "people_count": 1,
     "die_count": 0,
     "state_name": "AL",
     "county": "Pickens",
-    "confirmed_date": "3/25",
-    "num": 55791
+    "num": 55754
   },
   {
     "id": 9250,
+    "confirmed_date": "3/25",
     "people_count": 1,
     "die_count": 0,
     "state_name": "AL",
     "county": "Pike",
-    "confirmed_date": "3/25",
-    "num": 55792
+    "num": 55755
   },
   {
     "id": 9252,
+    "confirmed_date": "3/25",
     "people_count": 9,
     "die_count": 0,
     "state_name": "AL",
     "county": "Shelby",
-    "confirmed_date": "3/25",
-    "num": 55801
+    "num": 55764
   },
   {
     "id": 9253,
+    "confirmed_date": "3/25",
     "people_count": 1,
     "die_count": 0,
     "state_name": "AL",
     "county": "St. Clair",
-    "confirmed_date": "3/25",
-    "num": 55802
+    "num": 55765
   },
   {
     "id": 9254,
+    "confirmed_date": "3/25",
     "people_count": 2,
     "die_count": 0,
     "state_name": "AL",
     "county": "Talladega",
-    "confirmed_date": "3/25",
-    "num": 55804
+    "num": 55767
   },
   {
     "id": 9256,
+    "confirmed_date": "3/25",
     "people_count": 1,
     "die_count": 0,
     "state_name": "AL",
     "county": "Tallapoosa",
-    "confirmed_date": "3/25",
-    "num": 55805
+    "num": 55768
   },
   {
     "id": 9257,
+    "confirmed_date": "3/25",
     "people_count": 3,
     "die_count": 0,
     "state_name": "AL",
     "county": "Walker",
-    "confirmed_date": "3/25",
-    "num": 55808
+    "num": 55771
   },
   {
     "id": 9264,
-    "die_count": 1,
     "confirmed_date": "3/25",
+    "gender": "男",
+    "people_count": 0,
+    "die_count": 1,
+    "age_range": "80+",
     "state_name": "PA",
     "county": "Delaware",
-    "people_count": 0,
-    "gender": "男",
-    "age_range": "80+",
-    "num": 55808
+    "num": 55771
   },
   {
     "id": 9265,
+    "confirmed_date": "3/25",
+    "gender": "女",
     "people_count": 0,
     "die_count": 1,
-    "confirmed_date": "3/25",
+    "age_range": "80+",
     "state_name": "PA",
     "county": "Delaware",
-    "gender": "女",
-    "age_range": "80+",
-    "num": 55808
+    "num": 55771
   },
   {
     "id": 9274,
@@ -67186,268 +67214,268 @@
     "die_count": 0,
     "state_name": "CA",
     "county": "San Francisco",
-    "num": 55834
+    "num": 55797
   },
   {
     "id": 9276,
+    "confirmed_date": "3/25",
     "people_count": 0,
     "die_count": 1,
-    "confirmed_date": "3/25",
     "state_name": "NC",
     "county": "Unassigned",
-    "num": 55834
+    "num": 55797
   },
   {
     "id": 9277,
+    "confirmed_date": "3/25",
     "people_count": 2,
     "die_count": 0,
-    "confirmed_date": "3/25",
     "state_name": "OK",
     "county": "Adair",
-    "num": 55836
+    "num": 55799
   },
   {
     "id": 9279,
+    "confirmed_date": "3/25",
     "people_count": 1,
     "die_count": 0,
-    "confirmed_date": "3/25",
     "state_name": "TX",
     "county": "Revees",
-    "num": 55837
+    "num": 55800
   },
   {
     "id": 9280,
+    "confirmed_date": "3/25",
     "people_count": 1,
     "die_count": 0,
-    "confirmed_date": "3/25",
     "state_name": "OK",
     "county": "Bryan",
-    "num": 55838
+    "num": 55801
   },
   {
     "id": 9281,
+    "confirmed_date": "3/25",
     "people_count": 1,
     "die_count": 0,
-    "confirmed_date": "3/25",
     "state_name": "OK",
     "county": "Canadian",
-    "num": 55839
+    "num": 55802
   },
   {
     "id": 9283,
+    "confirmed_date": "3/25",
     "people_count": 1,
     "die_count": 0,
-    "confirmed_date": "3/25",
     "state_name": "OK",
     "county": "Carter",
-    "num": 55840
+    "num": 55803
   },
   {
     "id": 9284,
     "confirmed_date": "3/25",
+    "people_count": 8,
     "die_count": 0,
     "state_name": "FL",
     "county": "Alachua",
-    "people_count": 8,
-    "num": 55848
+    "num": 55811
   },
   {
     "id": 9285,
+    "confirmed_date": "3/25",
     "people_count": 2,
     "die_count": 0,
     "state_name": "NC",
     "county": "Iredell",
-    "confirmed_date": "3/25",
-    "num": 55850
+    "num": 55813
   },
   {
     "id": 9286,
+    "confirmed_date": "3/25",
     "people_count": 5,
     "die_count": 0,
-    "confirmed_date": "3/25",
     "state_name": "OK",
     "county": "Cleveland",
-    "num": 55855
+    "num": 55818
   },
   {
     "id": 9287,
     "confirmed_date": "3/25",
-    "die_count": 0,
     "people_count": 1,
+    "die_count": 0,
     "state_name": "FL",
     "county": "Baker",
-    "num": 55856
+    "num": 55819
   },
   {
     "id": 9288,
+    "confirmed_date": "3/25",
     "people_count": 14,
     "die_count": 0,
-    "confirmed_date": "3/25",
     "state_name": "OK",
     "county": "Oklahoma",
-    "num": 55870
+    "num": 55833
   },
   {
     "id": 9289,
+    "confirmed_date": "3/25",
     "people_count": 15,
     "die_count": 0,
-    "confirmed_date": "3/25",
     "state_name": "OK",
     "county": "Tulsa",
-    "num": 55885
+    "num": 55848
   },
   {
     "id": 9290,
+    "confirmed_date": "3/25",
     "people_count": 4,
     "die_count": 0,
     "state_name": "NC",
     "county": "Johnston",
-    "confirmed_date": "3/25",
-    "num": 55889
+    "num": 55852
   },
   {
     "id": 9291,
+    "confirmed_date": "3/25",
     "people_count": 1,
     "die_count": 0,
     "state_name": "NC",
     "county": "Onslow",
-    "confirmed_date": "3/25",
-    "num": 55890
+    "num": 55853
   },
   {
     "id": 9292,
+    "confirmed_date": "3/25",
     "people_count": 5,
     "die_count": 0,
-    "confirmed_date": "3/25",
     "state_name": "OK",
     "county": "Creek",
-    "num": 55895
+    "num": 55858
   },
   {
     "id": 9293,
+    "confirmed_date": "3/25",
     "people_count": 1,
     "die_count": 0,
-    "confirmed_date": "3/25",
     "state_name": "OK",
     "county": "Custer",
-    "num": 55896
+    "num": 55859
   },
   {
     "id": 9294,
+    "confirmed_date": "3/25",
     "people_count": 1,
     "die_count": 0,
-    "confirmed_date": "3/25",
     "state_name": "OK",
     "county": "Delaware",
-    "num": 55897
+    "num": 55860
   },
   {
     "id": 9295,
+    "confirmed_date": "3/25",
     "people_count": 2,
     "die_count": 0,
     "state_name": "NC",
     "county": "Orange",
-    "confirmed_date": "3/25",
-    "num": 55899
+    "num": 55862
   },
   {
     "id": 9296,
+    "confirmed_date": "3/25",
     "people_count": 2,
     "die_count": 0,
-    "confirmed_date": "3/25",
     "state_name": "OK",
     "county": "Logan",
-    "num": 55901
+    "num": 55864
   },
   {
     "id": 9297,
     "confirmed_date": "3/25",
+    "people_count": 33,
     "die_count": 0,
     "state_name": "FL",
     "county": "Miami-Dade",
-    "people_count": 33,
-    "num": 55934
+    "num": 55897
   },
   {
     "id": 9298,
+    "confirmed_date": "3/25",
     "people_count": 1,
     "die_count": 0,
-    "confirmed_date": "3/25",
     "state_name": "OK",
     "county": "Osage",
-    "num": 55935
+    "num": 55898
   },
   {
     "id": 9299,
+    "confirmed_date": "3/25",
     "people_count": 3,
     "die_count": 0,
-    "confirmed_date": "3/25",
     "state_name": "OK",
     "county": "Pawnee",
-    "num": 55938
+    "num": 55901
   },
   {
     "id": 9301,
+    "confirmed_date": "3/25",
+    "people_count": 2259,
     "die_count": 0,
     "state_name": "NY",
     "county": "New York",
-    "confirmed_date": "3/25",
-    "people_count": 2259,
-    "num": 58197
+    "num": 58160
   },
   {
     "id": 9302,
     "confirmed_date": "3/25",
+    "people_count": 43,
     "die_count": 0,
     "state_name": "FL",
     "county": "Broward",
-    "people_count": 33,
-    "num": 58230
+    "num": 58203
   },
   {
     "id": 9304,
+    "confirmed_date": "3/25",
     "people_count": 1,
     "die_count": 0,
-    "confirmed_date": "3/25",
     "state_name": "OK",
     "county": "Pottawatomie",
-    "num": 58231
+    "num": 58204
   },
   {
     "id": 9305,
+    "confirmed_date": "3/25",
     "people_count": 1,
     "die_count": 0,
-    "confirmed_date": "3/25",
     "state_name": "IN",
     "county": "Jasper",
-    "num": 58232
+    "num": 58205
   },
   {
     "id": 9306,
+    "confirmed_date": "3/25",
     "people_count": 1,
     "die_count": 0,
-    "confirmed_date": "3/25",
     "state_name": "OK",
     "county": "Stephens",
-    "num": 58233
+    "num": 58206
   },
   {
     "id": 9307,
+    "confirmed_date": "3/25",
     "people_count": 1,
     "die_count": 0,
-    "confirmed_date": "3/25",
     "state_name": "OK",
     "county": "Washington",
-    "num": 58234
+    "num": 58207
   },
   {
     "id": 9308,
+    "confirmed_date": "3/25",
     "people_count": 3,
     "die_count": 0,
-    "confirmed_date": "3/25",
     "state_name": "OK",
     "county": "Wagoner",
-    "num": 58237
+    "num": 58210
   },
   {
     "id": 9309,
@@ -67456,79 +67484,79 @@
     "die_count": 0,
     "state_name": "FL",
     "county": "Collier",
-    "num": 58243
+    "num": 58216
   },
   {
     "id": 9310,
+    "confirmed_date": "3/25",
     "people_count": 1,
     "die_count": 0,
-    "confirmed_date": "3/25",
     "state_name": "IN",
     "county": "Jennings",
-    "num": 58244
+    "num": 58217
   },
   {
     "id": 9312,
-    "people_count": 6,
     "confirmed_date": "3/25",
+    "people_count": 6,
     "die_count": 0,
     "state_name": "IN",
     "county": "Johnson",
-    "num": 58250
+    "num": 58223
   },
   {
     "id": 9313,
+    "confirmed_date": "3/25",
     "people_count": 2,
     "die_count": 0,
-    "confirmed_date": "3/25",
     "state_name": "IN",
     "county": "Lake",
-    "num": 58252
+    "num": 58225
   },
   {
     "id": 9314,
+    "confirmed_date": "3/25",
     "people_count": 1,
     "die_count": 0,
-    "confirmed_date": "3/25",
     "state_name": "IN",
     "county": "Madison",
-    "num": 58253
+    "num": 58226
   },
   {
     "id": 9315,
+    "confirmed_date": "3/25",
     "people_count": 65,
     "die_count": 0,
-    "confirmed_date": "3/25",
     "state_name": "IN",
     "county": "Marion",
-    "num": 58318
+    "num": 58291
   },
   {
     "id": 9316,
+    "confirmed_date": "3/25",
     "people_count": 3,
     "die_count": 0,
-    "confirmed_date": "3/25",
     "state_name": "FL",
     "county": "Clay",
-    "num": 58321
+    "num": 58294
   },
   {
     "id": 9317,
+    "confirmed_date": "3/25",
     "people_count": 800,
     "die_count": 0,
     "state_name": "NY",
     "county": "Westchester",
-    "confirmed_date": "3/25",
-    "num": 59121
+    "num": 59094
   },
   {
     "id": 9318,
+    "confirmed_date": "3/25",
     "people_count": 1,
     "die_count": 0,
-    "confirmed_date": "3/25",
     "state_name": "IN",
     "county": "Monroe",
-    "num": 59122
+    "num": 59095
   },
   {
     "id": 9319,
@@ -67537,7 +67565,7 @@
     "die_count": 0,
     "state_name": "FL",
     "county": "Duval",
-    "num": 59128
+    "num": 59101
   },
   {
     "id": 9320,
@@ -67546,61 +67574,61 @@
     "die_count": 0,
     "state_name": "FL",
     "county": "Escambia",
-    "num": 59129
+    "num": 59102
   },
   {
     "id": 9321,
+    "confirmed_date": "3/25",
     "people_count": 2,
     "die_count": 0,
-    "confirmed_date": "3/25",
     "state_name": "IN",
     "county": "Morgan",
-    "num": 59131
+    "num": 59104
   },
   {
     "id": 9322,
+    "confirmed_date": "3/25",
     "people_count": 416,
     "die_count": 0,
     "state_name": "NY",
     "county": "Nassau",
-    "confirmed_date": "3/25",
-    "num": 59547
+    "num": 59520
   },
   {
     "id": 9323,
+    "confirmed_date": "3/25",
     "people_count": 1,
     "die_count": 0,
-    "confirmed_date": "3/25",
     "state_name": "NC",
     "county": "Harnett",
-    "num": 59548
+    "num": 59521
   },
   {
     "id": 9324,
+    "confirmed_date": "3/25",
     "people_count": 2,
     "die_count": 0,
-    "confirmed_date": "3/25",
     "state_name": "IN",
     "county": "Owen",
-    "num": 59550
+    "num": 59523
   },
   {
     "id": 9325,
+    "confirmed_date": "3/25",
     "people_count": 2,
     "die_count": 0,
-    "confirmed_date": "3/25",
     "state_name": "IN",
     "county": "Porter",
-    "num": 59552
+    "num": 59525
   },
   {
     "id": 9326,
-    "state_name": "GA",
-    "county": "Bartow",
     "confirmed_date": "3/25",
     "people_count": 2,
     "die_count": 0,
-    "num": 59554
+    "state_name": "GA",
+    "county": "Bartow",
+    "num": 59527
   },
   {
     "id": 9327,
@@ -67609,79 +67637,79 @@
     "die_count": 0,
     "state_name": "FL",
     "county": "Hillsborough",
-    "num": 59565
+    "num": 59538
   },
   {
     "id": 9328,
+    "confirmed_date": "3/25",
     "people_count": 5,
     "die_count": 0,
-    "confirmed_date": "3/25",
     "state_name": "NC",
     "county": "Union",
-    "num": 59570
+    "num": 59543
   },
   {
     "id": 9329,
+    "confirmed_date": "3/25",
+    "people_count": 380,
     "die_count": 0,
     "state_name": "NY",
     "county": "Suffolk",
-    "confirmed_date": "3/25",
-    "people_count": 380,
-    "num": 59950
+    "num": 59923
   },
   {
     "id": 9330,
-    "people_count": 1,
     "confirmed_date": "3/25",
+    "people_count": 1,
     "die_count": 0,
     "state_name": "IN",
     "county": "Putnam",
-    "num": 59951
+    "num": 59924
   },
   {
     "id": 9331,
-    "people_count": 0,
     "confirmed_date": "3/25",
+    "people_count": 0,
     "die_count": 2,
     "state_name": "OK",
     "county": "Unassigned",
-    "num": 59951
+    "num": 59924
   },
   {
     "id": 9332,
+    "confirmed_date": "3/25",
     "people_count": 1,
     "die_count": 0,
-    "confirmed_date": "3/25",
     "state_name": "FL",
     "county": "Flagler",
-    "num": 59952
+    "num": 59925
   },
   {
     "id": 9333,
+    "confirmed_date": "3/25",
     "people_count": 1,
     "die_count": 0,
-    "confirmed_date": "3/25",
     "state_name": "IN",
     "county": "Ripley",
-    "num": 59953
+    "num": 59926
   },
   {
     "id": 9334,
+    "confirmed_date": "3/25",
     "people_count": 152,
     "die_count": 0,
     "state_name": "LA",
     "county": "Orleans",
-    "confirmed_date": "3/25",
-    "num": 60105
+    "num": 60078
   },
   {
     "id": 9335,
+    "confirmed_date": "3/25",
     "people_count": 1,
     "die_count": 0,
-    "confirmed_date": "3/25",
     "state_name": "IA",
     "county": "Allamakee",
-    "num": 60106
+    "num": 60079
   },
   {
     "id": 9336,
@@ -67690,159 +67718,1518 @@
     "die_count": 0,
     "state_name": "FL",
     "county": "Hernando",
-    "num": 60107
+    "num": 60080
+  },
+  {
+    "id": 9337,
+    "confirmed_date": "3/25",
+    "people_count": 2,
+    "die_count": 0,
+    "state_name": "IA",
+    "county": "Benton",
+    "num": 60082
   },
   {
     "id": 9338,
+    "confirmed_date": "3/25",
     "people_count": 1,
     "die_count": 0,
-    "confirmed_date": "3/25",
     "state_name": "IN",
     "county": "Rush",
-    "num": 60108
+    "num": 60083
+  },
+  {
+    "id": 9339,
+    "confirmed_date": "3/25",
+    "people_count": 1,
+    "die_count": 0,
+    "state_name": "IA",
+    "county": "Hancock",
+    "num": 60084
+  },
+  {
+    "id": 9340,
+    "confirmed_date": "3/25",
+    "people_count": 4,
+    "die_count": 0,
+    "state_name": "FL",
+    "county": "Lake",
+    "num": 60088
+  },
+  {
+    "id": 9341,
+    "confirmed_date": "3/25",
+    "people_count": 6,
+    "die_count": 0,
+    "state_name": "IA",
+    "county": "Johnson",
+    "num": 60094
   },
   {
     "id": 9342,
+    "confirmed_date": "3/25",
+    "people_count": 0,
     "die_count": 1,
     "state_name": "LA",
     "county": "Orleans",
-    "people_count": 0,
+    "num": 60094
+  },
+  {
+    "id": 9343,
     "confirmed_date": "3/25",
-    "num": 60108
+    "people_count": 1,
+    "die_count": 0,
+    "state_name": "IA",
+    "county": "Linn",
+    "num": 60095
+  },
+  {
+    "id": 9344,
+    "confirmed_date": "3/25",
+    "people_count": 1,
+    "die_count": 0,
+    "state_name": "IA",
+    "county": "Muscatine",
+    "num": 60096
+  },
+  {
+    "id": 9347,
+    "confirmed_date": "3/25",
+    "people_count": 5,
+    "die_count": 0,
+    "state_name": "IA",
+    "county": "Polk",
+    "num": 60101
+  },
+  {
+    "id": 9348,
+    "confirmed_date": "3/25",
+    "people_count": 2,
+    "die_count": 0,
+    "state_name": "IA",
+    "county": "Poweshiek",
+    "num": 60103
+  },
+  {
+    "id": 9349,
+    "confirmed_date": "3/25",
+    "people_count": 2,
+    "die_count": 0,
+    "state_name": "IA",
+    "county": "Scott",
+    "num": 60105
   },
   {
     "id": 9350,
+    "confirmed_date": "3/25",
+    "people_count": 297,
     "die_count": 0,
     "state_name": "NY",
     "county": "Rockland",
+    "num": 60402
+  },
+  {
+    "id": 9351,
     "confirmed_date": "3/25",
-    "people_count": 297,
-    "num": 60405
+    "people_count": 8,
+    "die_count": 0,
+    "state_name": "FL",
+    "county": "Lee",
+    "num": 60410
+  },
+  {
+    "id": 9352,
+    "confirmed_date": "3/25",
+    "people_count": 2,
+    "die_count": 0,
+    "state_name": "IA",
+    "county": "Washington",
+    "num": 60412
   },
   {
     "id": 9353,
+    "confirmed_date": "3/25",
     "people_count": 1,
     "die_count": 0,
-    "confirmed_date": "3/25",
     "state_name": "IN",
     "county": "Shelby",
-    "num": 60406
+    "num": 60413
   },
   {
     "id": 9354,
+    "confirmed_date": "3/25",
     "people_count": 0,
     "die_count": 1,
     "state_name": "LA",
     "county": "Orleans",
-    "confirmed_date": "3/25",
-    "num": 60406
+    "num": 60413
   },
   {
     "id": 9355,
+    "confirmed_date": "3/25",
     "people_count": 0,
     "die_count": 1,
     "state_name": "LA",
     "county": "Orleans",
-    "confirmed_date": "3/25",
-    "num": 60406
+    "num": 60413
   },
   {
     "id": 9356,
+    "confirmed_date": "3/25",
     "people_count": 0,
     "die_count": 1,
     "state_name": "LA",
     "county": "Orleans",
-    "confirmed_date": "3/25",
-    "num": 60406
+    "num": 60413
   },
   {
     "id": 9357,
+    "confirmed_date": "3/25",
     "people_count": 0,
     "die_count": 1,
     "state_name": "LA",
     "county": "Orleans",
-    "confirmed_date": "3/25",
-    "num": 60406
+    "num": 60413
   },
   {
     "id": 9358,
+    "confirmed_date": "3/25",
     "people_count": 0,
     "die_count": 1,
     "state_name": "LA",
     "county": "Orleans",
-    "confirmed_date": "3/25",
-    "num": 60406
+    "num": 60413
   },
   {
     "id": 9359,
+    "confirmed_date": "3/25",
     "people_count": 2,
     "die_count": 0,
     "state_name": "GA",
     "county": "Bibb",
-    "confirmed_date": "3/25",
-    "num": 60408
+    "num": 60415
   },
   {
     "id": 9360,
+    "confirmed_date": "3/25",
     "people_count": 0,
     "die_count": 1,
     "state_name": "LA",
     "county": "Orleans",
-    "confirmed_date": "3/25",
-    "num": 60408
+    "num": 60415
   },
   {
     "id": 9361,
+    "confirmed_date": "3/25",
     "people_count": 0,
     "die_count": 1,
     "state_name": "LA",
     "county": "Orleans",
-    "confirmed_date": "3/25",
-    "num": 60408
+    "num": 60415
   },
   {
     "id": 9362,
+    "confirmed_date": "3/25",
     "people_count": 0,
     "die_count": 1,
     "state_name": "LA",
     "county": "Orleans",
-    "confirmed_date": "3/25",
-    "num": 60408
+    "num": 60415
   },
   {
     "id": 9363,
+    "confirmed_date": "3/25",
     "people_count": 0,
     "die_count": 1,
     "state_name": "LA",
     "county": "Orleans",
-    "confirmed_date": "3/25",
-    "num": 60408
+    "num": 60415
   },
   {
     "id": 9364,
+    "confirmed_date": "3/25",
     "people_count": 0,
     "die_count": 1,
     "state_name": "LA",
     "county": "Orleans",
-    "confirmed_date": "3/25",
-    "num": 60408
+    "num": 60415
   },
   {
     "id": 9365,
+    "confirmed_date": "3/25",
     "people_count": 1,
     "die_count": 0,
     "state_name": "GA",
     "county": "Carroll",
+    "num": 60416
+  },
+  {
+    "id": 9366,
     "confirmed_date": "3/25",
-    "num": 60409
+    "people_count": 1,
+    "die_count": 0,
+    "state_name": "IN",
+    "county": "St. Joseph",
+    "num": 60417
   },
   {
     "id": 9367,
+    "confirmed_date": "3/25",
     "people_count": 1,
     "die_count": 0,
     "state_name": "GA",
     "county": "Cherokee",
+    "num": 60418
+  },
+  {
+    "id": 9368,
     "confirmed_date": "3/25",
-    "num": 60410
+    "people_count": 140,
+    "die_count": 0,
+    "state_name": "NY",
+    "county": "Orange",
+    "num": 60558
+  },
+  {
+    "id": 9369,
+    "confirmed_date": "3/25",
+    "people_count": 2,
+    "die_count": 0,
+    "state_name": "GA",
+    "county": "Clarke",
+    "num": 60560
+  },
+  {
+    "id": 9371,
+    "confirmed_date": "3/25",
+    "people_count": 1,
+    "die_count": 0,
+    "state_name": "GA",
+    "county": "Clayton",
+    "num": 60561
+  },
+  {
+    "id": 9372,
+    "confirmed_date": "3/25",
+    "people_count": 11,
+    "die_count": 0,
+    "state_name": "GA",
+    "county": "Cobb",
+    "num": 60572
+  },
+  {
+    "id": 9373,
+    "confirmed_date": "3/25",
+    "people_count": 6,
+    "die_count": 0,
+    "state_name": "FL",
+    "county": "Manatee",
+    "num": 60578
+  },
+  {
+    "id": 9375,
+    "confirmed_date": "3/25",
+    "people_count": 9,
+    "die_count": 0,
+    "state_name": "GA",
+    "county": "DeKalb",
+    "num": 60587
+  },
+  {
+    "id": 9376,
+    "confirmed_date": "3/25",
+    "people_count": 8,
+    "die_count": 0,
+    "state_name": "GA",
+    "county": "Dougherty",
+    "num": 60595
+  },
+  {
+    "id": 9378,
+    "confirmed_date": "3/25",
+    "people_count": 5,
+    "die_count": 0,
+    "state_name": "GA",
+    "county": "Douglas",
+    "num": 60600
+  },
+  {
+    "id": 9379,
+    "confirmed_date": "3/25",
+    "people_count": 1,
+    "die_count": 0,
+    "state_name": "FL",
+    "county": "Marion",
+    "num": 60601
+  },
+  {
+    "id": 9380,
+    "confirmed_date": "3/25",
+    "people_count": 2,
+    "die_count": 0,
+    "state_name": "GA",
+    "county": "Floyd",
+    "num": 60603
+  },
+  {
+    "id": 9381,
+    "confirmed_date": "3/25",
+    "people_count": 1,
+    "die_count": 0,
+    "state_name": "GA",
+    "county": "Forsyth",
+    "num": 60604
+  },
+  {
+    "id": 9382,
+    "confirmed_date": "3/25",
+    "people_count": 7,
+    "die_count": 0,
+    "state_name": "GA",
+    "county": "Fulton",
+    "num": 60611
+  },
+  {
+    "id": 9383,
+    "confirmed_date": "3/25",
+    "people_count": 29,
+    "die_count": 0,
+    "state_name": "NY",
+    "county": "Dutchess",
+    "num": 60640
+  },
+  {
+    "id": 9384,
+    "confirmed_date": "3/25",
+    "people_count": 66,
+    "die_count": 0,
+    "state_name": "LA",
+    "county": "Jefferson",
+    "num": 60706
+  },
+  {
+    "id": 9385,
+    "confirmed_date": "3/25",
+    "people_count": 1,
+    "die_count": 0,
+    "state_name": "GA",
+    "county": "Greene",
+    "num": 60707
+  },
+  {
+    "id": 9386,
+    "confirmed_date": "3/25",
+    "people_count": 2,
+    "die_count": 0,
+    "state_name": "GA",
+    "county": "Gwinnett",
+    "num": 60709
+  },
+  {
+    "id": 9387,
+    "confirmed_date": "3/25",
+    "people_count": 5,
+    "die_count": 0,
+    "state_name": "FL",
+    "county": "Monroe",
+    "num": 60714
+  },
+  {
+    "id": 9388,
+    "confirmed_date": "3/25",
+    "people_count": 2,
+    "die_count": 0,
+    "state_name": "IN",
+    "county": "Harrison",
+    "num": 60716
+  },
+  {
+    "id": 9389,
+    "confirmed_date": "3/25",
+    "people_count": 3,
+    "die_count": 0,
+    "state_name": "GA",
+    "county": "Hall",
+    "num": 60719
+  },
+  {
+    "id": 9390,
+    "confirmed_date": "3/25",
+    "people_count": 1,
+    "die_count": 0,
+    "state_name": "GA",
+    "county": "Irwin",
+    "num": 60720
+  },
+  {
+    "id": 9391,
+    "confirmed_date": "3/25",
+    "people_count": 1,
+    "die_count": 0,
+    "state_name": "GA",
+    "county": "Jasper",
+    "num": 60721
+  },
+  {
+    "id": 9392,
+    "confirmed_date": "3/25",
+    "people_count": 0,
+    "die_count": 1,
+    "state_name": "LA",
+    "county": "Jefferson",
+    "num": 60721
+  },
+  {
+    "id": 9393,
+    "confirmed_date": "3/25",
+    "people_count": 2,
+    "die_count": 0,
+    "state_name": "FL",
+    "county": "Okaloosa",
+    "num": 60723
+  },
+  {
+    "id": 9394,
+    "confirmed_date": "3/25",
+    "people_count": 1,
+    "die_count": 0,
+    "state_name": "GA",
+    "county": "Lee",
+    "num": 60724
+  },
+  {
+    "id": 9395,
+    "confirmed_date": "3/25",
+    "people_count": 1,
+    "die_count": 0,
+    "state_name": "GA",
+    "county": "Miller",
+    "num": 60725
+  },
+  {
+    "id": 9396,
+    "confirmed_date": "3/25",
+    "people_count": 6,
+    "die_count": 0,
+    "state_name": "NY",
+    "county": "Albany",
+    "num": 60731
+  },
+  {
+    "id": 9397,
+    "confirmed_date": "3/25",
+    "people_count": 1,
+    "die_count": 0,
+    "state_name": "GA",
+    "county": "Newton",
+    "num": 60732
+  },
+  {
+    "id": 9398,
+    "confirmed_date": "3/25",
+    "people_count": 17,
+    "die_count": 0,
+    "state_name": "LA",
+    "county": "East Baton Rouge",
+    "num": 60749
+  },
+  {
+    "id": 9399,
+    "confirmed_date": "3/25",
+    "people_count": 25,
+    "die_count": 0,
+    "state_name": "FL",
+    "county": "Orange",
+    "num": 60774
+  },
+  {
+    "id": 9400,
+    "confirmed_date": "3/25",
+    "people_count": 1,
+    "die_count": 0,
+    "state_name": "GA",
+    "county": "Peach",
+    "num": 60775
+  },
+  {
+    "id": 9401,
+    "confirmed_date": "3/25",
+    "people_count": 0,
+    "die_count": 1,
+    "state_name": "LA",
+    "county": "East Baton Rouge",
+    "num": 60775
+  },
+  {
+    "id": 9402,
+    "confirmed_date": "3/25",
+    "people_count": 1,
+    "die_count": 0,
+    "state_name": "GA",
+    "county": "Rockdale",
+    "num": 60776
+  },
+  {
+    "id": 9403,
+    "confirmed_date": "3/25",
+    "people_count": 1,
+    "die_count": 0,
+    "state_name": "NY",
+    "county": "Erie",
+    "num": 60777
+  },
+  {
+    "id": 9404,
+    "confirmed_date": "3/25",
+    "people_count": 1,
+    "die_count": 0,
+    "state_name": "GA",
+    "county": "Spalding",
+    "num": 60778
+  },
+  {
+    "id": 9405,
+    "confirmed_date": "3/25",
+    "people_count": 9,
+    "die_count": 0,
+    "state_name": "FL",
+    "county": "Osceola",
+    "num": 60787
+  },
+  {
+    "id": 9406,
+    "confirmed_date": "3/25",
+    "people_count": 1,
+    "die_count": 0,
+    "state_name": "GA",
+    "county": "Sumter",
+    "num": 60788
+  },
+  {
+    "id": 9407,
+    "confirmed_date": "3/25",
+    "people_count": 1,
+    "die_count": 0,
+    "state_name": "GA",
+    "county": "Tift",
+    "num": 60789
+  },
+  {
+    "id": 9409,
+    "confirmed_date": "3/25",
+    "people_count": 1,
+    "die_count": 0,
+    "state_name": "GA",
+    "county": "Twiggs",
+    "num": 60790
+  },
+  {
+    "id": 9411,
+    "confirmed_date": "3/25",
+    "people_count": 69,
+    "die_count": 0,
+    "state_name": "GA",
+    "county": "Unassigned",
+    "num": 60859
+  },
+  {
+    "id": 9412,
+    "confirmed_date": "3/25",
+    "people_count": 14,
+    "die_count": 0,
+    "state_name": "FL",
+    "county": "Palm Beach",
+    "num": 60873
+  },
+  {
+    "id": 9413,
+    "confirmed_date": "3/25",
+    "people_count": 6,
+    "die_count": 0,
+    "state_name": "LA",
+    "county": "St. John the Baptist",
+    "num": 60879
+  },
+  {
+    "id": 9414,
+    "confirmed_date": "3/25",
+    "people_count": 0,
+    "die_count": 1,
+    "state_name": "LA",
+    "county": "St. John the Baptist",
+    "num": 60879
+  },
+  {
+    "id": 9415,
+    "confirmed_date": "3/25",
+    "people_count": 1,
+    "die_count": 0,
+    "state_name": "GA",
+    "county": "Washington",
+    "num": 60880
+  },
+  {
+    "id": 9417,
+    "confirmed_date": "3/25",
+    "people_count": 0,
+    "die_count": 1,
+    "state_name": "LA",
+    "county": "St. John the Baptist",
+    "num": 60880
+  },
+  {
+    "id": 9418,
+    "confirmed_date": "3/25",
+    "people_count": 2,
+    "die_count": 0,
+    "state_name": "GA",
+    "county": "Whitfield",
+    "num": 60882
+  },
+  {
+    "id": 9420,
+    "confirmed_date": "3/25",
+    "people_count": 1,
+    "die_count": 0,
+    "state_name": "FL",
+    "county": "Pasco",
+    "num": 60883
+  },
+  {
+    "id": 9421,
+    "confirmed_date": "3/25",
+    "people_count": 1,
+    "die_count": 0,
+    "state_name": "GA",
+    "county": "Appling",
+    "num": 60884
+  },
+  {
+    "id": 9422,
+    "confirmed_date": "3/25",
+    "people_count": 1,
+    "die_count": 0,
+    "state_name": "NY",
+    "county": "Monroe",
+    "num": 60885
+  },
+  {
+    "id": 9424,
+    "confirmed_date": "3/25",
+    "people_count": 1,
+    "die_count": 0,
+    "state_name": "GA",
+    "county": "Decatur",
+    "num": 60886
+  },
+  {
+    "id": 9425,
+    "confirmed_date": "3/25",
+    "people_count": 1,
+    "die_count": 0,
+    "state_name": "GA",
+    "county": "Dodge",
+    "num": 60887
+  },
+  {
+    "id": 9426,
+    "confirmed_date": "3/25",
+    "people_count": 5,
+    "die_count": 0,
+    "state_name": "FL",
+    "county": "Pinellas",
+    "num": 60892
+  },
+  {
+    "id": 9427,
+    "confirmed_date": "3/25",
+    "people_count": 15,
+    "die_count": 0,
+    "state_name": "LA",
+    "county": "St. Tammany",
+    "num": 60907
+  },
+  {
+    "id": 9428,
+    "confirmed_date": "3/25",
+    "people_count": 1,
+    "die_count": 0,
+    "state_name": "GA",
+    "county": "Jackson",
+    "num": 60908
+  },
+  {
+    "id": 9430,
+    "confirmed_date": "3/25",
+    "people_count": 1,
+    "die_count": 0,
+    "state_name": "FL",
+    "county": "Polk",
+    "num": 60909
+  },
+  {
+    "id": 9431,
+    "confirmed_date": "3/25",
+    "people_count": 1,
+    "die_count": 0,
+    "state_name": "GA",
+    "county": "Jones",
+    "num": 60910
+  },
+  {
+    "id": 9432,
+    "confirmed_date": "3/25",
+    "people_count": 1,
+    "die_count": 0,
+    "state_name": "MN",
+    "county": "Goodhue",
+    "num": 60911
+  },
+  {
+    "id": 9434,
+    "confirmed_date": "3/25",
+    "people_count": 29,
+    "die_count": 0,
+    "state_name": "LA",
+    "county": "Ascension",
+    "num": 60940
+  },
+  {
+    "id": 9435,
+    "confirmed_date": "3/25",
+    "people_count": 2,
+    "die_count": 0,
+    "state_name": "FL",
+    "county": "Putnam",
+    "num": 60942
+  },
+  {
+    "id": 9437,
+    "confirmed_date": "3/25",
+    "people_count": 1,
+    "die_count": 0,
+    "state_name": "GA",
+    "county": "Taylor",
+    "num": 60943
+  },
+  {
+    "id": 9439,
+    "confirmed_date": "3/25",
+    "people_count": 1,
+    "die_count": 0,
+    "state_name": "FL",
+    "county": "Santa Rosa",
+    "num": 60944
+  },
+  {
+    "id": 9440,
+    "confirmed_date": "3/25",
+    "people_count": 1,
+    "die_count": 0,
+    "state_name": "FL",
+    "county": "Sarasota",
+    "num": 60945
+  },
+  {
+    "id": 9441,
+    "confirmed_date": "3/25",
+    "people_count": 78,
+    "die_count": 0,
+    "state_name": "TX",
+    "county": "Dallas",
+    "num": 61023
+  },
+  {
+    "id": 9442,
+    "confirmed_date": "3/25",
+    "people_count": 4,
+    "die_count": 0,
+    "state_name": "LA",
+    "county": "St. Bernard",
+    "num": 61027
+  },
+  {
+    "id": 9443,
+    "confirmed_date": "3/25",
+    "people_count": 0,
+    "die_count": 1,
+    "state_name": "LA",
+    "county": "St. Bernard",
+    "num": 61027
+  },
+  {
+    "id": 9444,
+    "confirmed_date": "3/25",
+    "people_count": 4,
+    "die_count": 0,
+    "state_name": "FL",
+    "county": "Seminole",
+    "num": 61031
+  },
+  {
+    "id": 9445,
+    "people_count": 1,
+    "die_count": 0,
+    "county": "Thomas",
+    "state_name": "GA",
+    "confirmed_date": "3/25",
+    "num": 61032
+  },
+  {
+    "id": 9446,
+    "confirmed_date": "3/25",
+    "people_count": 2,
+    "die_count": 0,
+    "state_name": "FL",
+    "county": "St. Johns",
+    "num": 61034
+  },
+  {
+    "id": 9447,
+    "confirmed_date": "3/25",
+    "people_count": 2,
+    "die_count": 0,
+    "state_name": "FL",
+    "county": "St. Lucie",
+    "num": 61036
+  },
+  {
+    "id": 9449,
+    "people_count": 8,
+    "die_count": 0,
+    "state_name": "MN",
+    "county": "Hennepin",
+    "confirmed_date": "3/25",
+    "num": 61044
+  },
+  {
+    "id": 9450,
+    "confirmed_date": "3/25",
+    "people_count": 3,
+    "die_count": 0,
+    "state_name": "FL",
+    "county": "Sumter",
+    "num": 61047
+  },
+  {
+    "id": 9451,
+    "confirmed_date": "3/25",
+    "people_count": 1,
+    "die_count": 0,
+    "state_name": "FL",
+    "county": "Volusia",
+    "num": 61048
+  },
+  {
+    "id": 9452,
+    "people_count": 1,
+    "die_count": 0,
+    "county": "White",
+    "state_name": "GA",
+    "confirmed_date": "3/25",
+    "num": 61049
+  },
+  {
+    "id": 9454,
+    "confirmed_date": "3/25",
+    "people_count": 2,
+    "die_count": 0,
+    "state_name": "FL",
+    "county": "Walton",
+    "num": 61051
+  },
+  {
+    "id": 9453,
+    "people_count": 0,
+    "die_count": 1,
+    "confirmed_date": "3/25",
+    "state_name": "TX",
+    "county": "Dallas",
+    "num": 61051
+  },
+  {
+    "id": 9455,
+    "die_count": 0,
+    "state_name": "LA",
+    "county": "Lafourche",
+    "confirmed_date": "3/25",
+    "people_count": 2,
+    "num": 61053
+  },
+  {
+    "id": 9458,
+    "people_count": 1,
+    "die_count": 0,
+    "county": "Wilkes",
+    "state_name": "GA",
+    "confirmed_date": "3/25",
+    "num": 61054
+  },
+  {
+    "id": 9459,
+    "people_count": 0,
+    "state_name": "LA",
+    "county": "Lafourche",
+    "die_count": 1,
+    "confirmed_date": "3/25",
+    "num": 61054
+  },
+  {
+    "id": 9460,
+    "people_count": 1,
+    "die_count": 0,
+    "state_name": "MN",
+    "county": "Le Sueur",
+    "confirmed_date": "3/25",
+    "num": 61055
+  },
+  {
+    "id": 9461,
+    "people_count": 2,
+    "die_count": 0,
+    "state_name": "LA",
+    "county": "St. Charles",
+    "confirmed_date": "3/25",
+    "num": 61057
+  },
+  {
+    "id": 9462,
+    "die_count": 1,
+    "state_name": "LA",
+    "county": "St. Charles",
+    "confirmed_date": "3/25",
+    "people_count": 0,
+    "num": 61057
+  },
+  {
+    "id": 9463,
+    "people_count": 2,
+    "die_count": 0,
+    "state_name": "MN",
+    "county": "Martin",
+    "confirmed_date": "3/25",
+    "num": 61059
+  },
+  {
+    "id": 9464,
+    "people_count": 4,
+    "die_count": 0,
+    "state_name": "LA",
+    "county": "Rapides",
+    "confirmed_date": "3/25",
+    "num": 61063
+  },
+  {
+    "id": 9465,
+    "people_count": 3,
+    "die_count": 0,
+    "state_name": "MN",
+    "county": "Olmsted",
+    "confirmed_date": "3/25",
+    "num": 61066
+  },
+  {
+    "id": 9466,
+    "people_count": 5,
+    "die_count": 0,
+    "state_name": "LA",
+    "county": "St. James",
+    "confirmed_date": "3/25",
+    "num": 61071
+  },
+  {
+    "id": 9467,
+    "die_count": 0,
+    "state_name": "LA",
+    "county": "Calcasieu",
+    "confirmed_date": "3/25",
+    "people_count": 6,
+    "num": 61077
+  },
+  {
+    "id": 9468,
+    "people_count": 1,
+    "die_count": 0,
+    "state_name": "MN",
+    "county": "Ramsey",
+    "confirmed_date": "3/25",
+    "num": 61078
+  },
+  {
+    "id": 9469,
+    "people_count": 52,
+    "die_count": 0,
+    "confirmed_date": "3/25",
+    "state_name": "AZ",
+    "county": "Maricopa",
+    "num": 61130
+  },
+  {
+    "id": 9470,
+    "die_count": 0,
+    "people_count": 28,
+    "confirmed_date": "3/25",
+    "state_name": "NC",
+    "county": "Mecklenburg",
+    "num": 61158
+  },
+  {
+    "id": 9471,
+    "people_count": 2,
+    "die_count": 0,
+    "confirmed_date": "3/25",
+    "state_name": "TX",
+    "county": "Comal",
+    "num": 61160
+  },
+  {
+    "id": 9472,
+    "people_count": 3,
+    "die_count": 0,
+    "state_name": "LA",
+    "county": "Ouachita",
+    "confirmed_date": "3/25",
+    "num": 61163
+  },
+  {
+    "id": 9473,
+    "people_count": 1,
+    "die_count": 0,
+    "state_name": "MN",
+    "county": "Scott",
+    "confirmed_date": "3/25",
+    "num": 61164
+  },
+  {
+    "id": 9474,
+    "people_count": 2,
+    "die_count": 0,
+    "state_name": "LA",
+    "county": "West Baton Rouge",
+    "confirmed_date": "3/25",
+    "num": 61166
+  },
+  {
+    "id": 9475,
+    "people_count": 2,
+    "die_count": 0,
+    "state_name": "LA",
+    "county": "Webster",
+    "confirmed_date": "3/25",
+    "num": 61168
+  },
+  {
+    "id": 9476,
+    "people_count": 19,
+    "die_count": 0,
+    "confirmed_date": "3/25",
+    "state_name": "TX",
+    "county": "Tarrant",
+    "num": 61187
+  },
+  {
+    "id": 9477,
+    "people_count": 1,
+    "die_count": 0,
+    "state_name": "LA",
+    "county": "Washington",
+    "confirmed_date": "3/25",
+    "num": 61188
+  },
+  {
+    "id": 9478,
+    "people_count": 1,
+    "die_count": 0,
+    "state_name": "MN",
+    "county": "St. Louis",
+    "confirmed_date": "3/25",
+    "num": 61189
+  },
+  {
+    "id": 9479,
+    "people_count": 0,
+    "die_count": 1,
+    "state_name": "LA",
+    "county": "Bienville",
+    "confirmed_date": "3/25",
+    "num": 61189
+  },
+  {
+    "id": 9481,
+    "people_count": 2,
+    "die_count": 0,
+    "state_name": "MN",
+    "county": "Wabasha",
+    "confirmed_date": "3/25",
+    "num": 61191
+  },
+  {
+    "id": 9482,
+    "people_count": 53,
+    "die_count": 0,
+    "state_name": "LA",
+    "county": "Caddo",
+    "confirmed_date": "3/25",
+    "num": 61244
+  },
+  {
+    "id": 9483,
+    "state_name": "NY",
+    "county": "Nassau",
+    "people_count": 0,
+    "die_count": 8,
+    "confirmed_date": "3/25",
+    "num": 61244
+  },
+  {
+    "id": 9484,
+    "people_count": 13,
+    "die_count": 0,
+    "state_name": "LA",
+    "county": "Bossier",
+    "confirmed_date": "3/25",
+    "num": 61257
+  },
+  {
+    "id": 9485,
+    "people_count": 3,
+    "die_count": 0,
+    "state_name": "MN",
+    "county": "Washington",
+    "confirmed_date": "3/25",
+    "num": 61260
+  },
+  {
+    "id": 9486,
+    "people_count": 8,
+    "die_count": 0,
+    "state_name": "LA",
+    "county": "Lafayette",
+    "confirmed_date": "3/25",
+    "num": 61268
+  },
+  {
+    "id": 9487,
+    "people_count": 1,
+    "die_count": 0,
+    "state_name": "LA",
+    "county": "Terrebonne",
+    "confirmed_date": "3/25",
+    "num": 61269
+  },
+  {
+    "id": 9488,
+    "people_count": 2,
+    "die_count": 0,
+    "confirmed_date": "3/25",
+    "state_name": "MN",
+    "county": "Winona",
+    "num": 61271
+  },
+  {
+    "id": 9489,
+    "people_count": 1,
+    "die_count": 0,
+    "state_name": "LA",
+    "county": "Plaquemines",
+    "confirmed_date": "3/25",
+    "num": 61272
+  },
+  {
+    "id": 9491,
+    "people_count": 2,
+    "die_count": 0,
+    "state_name": "LA",
+    "county": "De Soto",
+    "confirmed_date": "3/25",
+    "num": 61274
+  },
+  {
+    "id": 9492,
+    "people_count": 2,
+    "die_count": 0,
+    "confirmed_date": "3/25",
+    "state_name": "TX",
+    "county": "Hidalgo",
+    "num": 61276
+  },
+  {
+    "id": 9493,
+    "people_count": 2,
+    "die_count": 0,
+    "state_name": "LA",
+    "county": "Avoyelles",
+    "confirmed_date": "3/25",
+    "num": 61278
+  },
+  {
+    "id": 9494,
+    "people_count": 3,
+    "die_count": 0,
+    "state_name": "LA",
+    "county": "St. Mary",
+    "confirmed_date": "3/25",
+    "num": 61281
+  },
+  {
+    "id": 9495,
+    "people_count": 5,
+    "die_count": 0,
+    "confirmed_date": "3/25",
+    "state_name": "TX",
+    "county": "Brazos",
+    "num": 61286
+  },
+  {
+    "id": 9496,
+    "people_count": 1,
+    "die_count": 0,
+    "state_name": "LA",
+    "county": "Tangipahoa",
+    "confirmed_date": "3/25",
+    "num": 61287
+  },
+  {
+    "id": 9497,
+    "people_count": 1,
+    "die_count": 0,
+    "state_name": "LA",
+    "county": "St. Landry",
+    "confirmed_date": "3/25",
+    "num": 61288
+  },
+  {
+    "id": 9498,
+    "people_count": 1,
+    "die_count": 0,
+    "state_name": "LA",
+    "county": "Beauregard",
+    "confirmed_date": "3/25",
+    "num": 61289
+  },
+  {
+    "id": 9499,
+    "people_count": 1,
+    "die_count": 0,
+    "state_name": "OH",
+    "county": "Belmont",
+    "confirmed_date": "3/25",
+    "num": 61290
+  },
+  {
+    "id": 9501,
+    "people_count": 4,
+    "die_count": 0,
+    "confirmed_date": "3/25",
+    "state_name": "TX",
+    "county": "Webb",
+    "num": 61294
+  },
+  {
+    "id": 9502,
+    "people_count": 1,
+    "die_count": 0,
+    "state_name": "OH",
+    "county": "Clinton",
+    "confirmed_date": "3/25",
+    "num": 61295
+  },
+  {
+    "id": 9503,
+    "people_count": 1,
+    "die_count": 0,
+    "confirmed_date": "3/25",
+    "state_name": "TX",
+    "county": "Hays",
+    "num": 61296
+  },
+  {
+    "id": 9504,
+    "die_count": 0,
+    "confirmed_date": "3/25",
+    "people_count": 2,
+    "state_name": "LA",
+    "county": "Union",
+    "num": 61298
+  },
+  {
+    "id": 9505,
+    "people_count": 1,
+    "die_count": 0,
+    "state_name": "OH",
+    "county": "Columbiana",
+    "confirmed_date": "3/25",
+    "num": 61299
+  },
+  {
+    "id": 9506,
+    "people_count": 1,
+    "die_count": 0,
+    "confirmed_date": "3/25",
+    "state_name": "LA",
+    "county": "Jackson",
+    "num": 61300
+  },
+  {
+    "id": 9507,
+    "people_count": 727,
+    "die_count": 0,
+    "state_name": "NJ",
+    "county": "Unassigned",
+    "confirmed_date": "3/25",
+    "num": 62027
+  },
+  {
+    "id": 9508,
+    "people_count": 1,
+    "die_count": 0,
+    "state_name": "OH",
+    "county": "Coshocton",
+    "confirmed_date": "3/25",
+    "num": 62028
+  },
+  {
+    "id": 9509,
+    "people_count": 7,
+    "die_count": 0,
+    "confirmed_date": "3/25",
+    "state_name": "AZ",
+    "county": "Pima",
+    "num": 62035
+  },
+  {
+    "id": 9510,
+    "people_count": 1,
+    "die_count": 0,
+    "confirmed_date": "3/25",
+    "state_name": "TX",
+    "county": "Val Verde",
+    "num": 62036
+  },
+  {
+    "id": 9511,
+    "die_count": 0,
+    "state_name": "OH",
+    "county": "Cuyahoga",
+    "confirmed_date": "3/25",
+    "people_count": 39,
+    "num": 62075
+  },
+  {
+    "id": 9512,
+    "die_count": 18,
+    "state_name": "NJ",
+    "county": "Unassigned",
+    "confirmed_date": "3/25",
+    "people_count": 0,
+    "num": 62075
+  },
+  {
+    "id": 9513,
+    "people_count": 5,
+    "die_count": 0,
+    "confirmed_date": "3/25",
+    "state_name": "AZ",
+    "county": "Navajo",
+    "num": 62080
+  },
+  {
+    "id": 9514,
+    "people_count": 1,
+    "die_count": 0,
+    "state_name": "OH",
+    "county": "Delaware",
+    "confirmed_date": "3/25",
+    "num": 62081
+  },
+  {
+    "id": 9516,
+    "people_count": 0,
+    "die_count": 2,
+    "state_name": "GA",
+    "county": "Unassigned",
+    "confirmed_date": "3/25",
+    "num": 62081
+  },
+  {
+    "id": 9517,
+    "people_count": 1,
+    "die_count": 0,
+    "confirmed_date": "3/25",
+    "state_name": "AZ",
+    "county": "Pinal",
+    "num": 62082
+  },
+  {
+    "id": 9518,
+    "people_count": 1,
+    "die_count": 0,
+    "state_name": "OH",
+    "county": "Erie",
+    "confirmed_date": "3/25",
+    "num": 62083
+  },
+  {
+    "id": 9519,
+    "people_count": 1,
+    "die_count": 0,
+    "confirmed_date": "3/25",
+    "state_name": "LA",
+    "county": "Jefferson Davis",
+    "num": 62084
+  },
+  {
+    "id": 9520,
+    "people_count": 5,
+    "die_count": 0,
+    "confirmed_date": "3/25",
+    "state_name": "AZ",
+    "county": "Coconino",
+    "num": 62089
+  },
+  {
+    "id": 9521,
+    "die_count": 0,
+    "state_name": "OH",
+    "county": "Fairfield",
+    "confirmed_date": "3/25",
+    "people_count": 3,
+    "num": 62092
+  },
+  {
+    "id": 9522,
+    "people_count": 1,
+    "die_count": 0,
+    "confirmed_date": "3/25",
+    "state_name": "LA",
+    "county": "Morehouse",
+    "num": 62093
+  },
+  {
+    "id": 9523,
+    "people_count": 3,
+    "die_count": 0,
+    "confirmed_date": "3/25",
+    "state_name": "AZ",
+    "county": "Apache",
+    "num": 62096
+  },
+  {
+    "id": 9524,
+    "people_count": 1,
+    "die_count": 0,
+    "confirmed_date": "3/25",
+    "state_name": "AZ",
+    "county": "Yavapai",
+    "num": 62097
+  },
+  {
+    "id": 9525,
+    "people_count": 1,
+    "die_count": 0,
+    "confirmed_date": "3/25",
+    "state_name": "LA",
+    "county": "Winn",
+    "num": 62098
   }
 ]
