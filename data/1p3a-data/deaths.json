@@ -9197,11 +9197,14 @@
   {
     "die_count": 1,
     "full_links": [
-      "https://coronavirus.in.gov/2393.htm"
+      "https://www.cincinnati.com/story/news/2020/03/25/coronavirus-franklin-county-indiana-reports-first-covid-19-death/5083182002/"
     ],
     "confirmed_date": "3/26",
     "state_name": "IN",
-    "county": "Franklin"
+    "county": "Franklin",
+    "comments_en": "The Franklin County Sheriff's Department announced the death, stating the man was in his 60s and had been hospitalized since March 13. ",
+    "gender": "男",
+    "age_range": "60+"
   },
   {
     "confirmed_date": "3/26",
@@ -9556,5 +9559,14 @@
     ],
     "gender": "女",
     "age_range": "60+"
+  },
+  {
+    "die_count": 8,
+    "state_name": "MI",
+    "county": "Wayne",
+    "full_links": [
+      "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html"
+    ],
+    "confirmed_date": "3/26"
   }
 ]

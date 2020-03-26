@@ -47826,7 +47826,7 @@
     "state_name": "MI"
   },
   {
-    "people_count": 31,
+    "people_count": 30,
     "county": "Unassigned",
     "state_name": "VA",
     "confirmed_date": "3/26"
@@ -48040,5 +48040,17 @@
     "confirmed_date": "3/26",
     "state_name": "NC",
     "county": "Gaston"
+  },
+  {
+    "people_count": 1,
+    "county": "Washington",
+    "state_name": "VA",
+    "confirmed_date": "3/26"
+  },
+  {
+    "state_name": "PA",
+    "county": "Montgomery",
+    "confirmed_date": "3/26",
+    "people_count": 31
   }
 ]
