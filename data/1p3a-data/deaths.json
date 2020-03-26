@@ -9476,10 +9476,42 @@
   },
   {
     "die_count": 1,
-    "full_links": [],
+    "full_links": [
+      "https://dph.georgia.gov/covid-19-daily-status-report"
+    ],
     "confirmed_date": "3/26",
     "state_name": "GA",
     "county": "Unassigned",
-    "comments": "3/26 乔治亚州累计死亡32例。具体信息待更新。"
+    "comments": "3/26 乔治亚州新增1例死亡，累计死亡48例。具体信息待更新。",
+    "comments_en": "3/26, Coronavirus deaths in Georgia reached 48. Placeholder for further information."
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.fayobserver.com/news/20200326/harnett-county-resident-dies-from-coronavirus"
+    ],
+    "confirmed_date": "3/26",
+    "state_name": "NC",
+    "county": "Harnett",
+    "comments_en": "The Harnett County resident is the second North Carolinian to die from the coronavirus. A Virginia resident who was traveling through North Carolina also died.",
+    "comments": "北卡居民第二例死亡。"
+  },
+  {
+    "die_count": 19,
+    "state_name": "NJ",
+    "county": "Unassigned",
+    "full_links": [
+      "https://www.nj.gov/health/"
+    ],
+    "confirmed_date": "3/26"
+  },
+  {
+    "die_count": 1,
+    "state_name": "FL",
+    "county": "Clay",
+    "full_links": [],
+    "confirmed_date": "3/26",
+    "comments": "Clay 第3例死亡，65岁男性，有接触史。",
+    "comments_en": "Clay County 3rd "
   }
 ]
