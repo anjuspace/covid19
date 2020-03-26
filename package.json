@@ -9,6 +9,7 @@
         "@nivo/line": "^0.61.1",
         "@nivo/stream": "^0.61.1",
         "@vx/pattern": "^0.0.193",
+        "@material-ui/core": "4.9.7",
         "bootstrap": "^4.4.1",
         "d3": "^5.15.0",
         "d3-scale": "^3.2.1",

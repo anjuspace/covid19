@@ -7,6 +7,7 @@ import Measure from 'react-measure'
 import format from 'date-fns/format'
 import './App.css'
 import Map from './Map'
+import NewsPanel from './NewsPanel'
 import MapNavBar from './MapNavBar'
 import DateSlider from './DateSlider'
 import AnimationController from './AnimationController'
@@ -55,6 +56,7 @@ class App extends Component {
             width: -1,
             height: -1
         },
+        showMap: true,
         plotType: 'plot_basic',
         ...defaultState
     }
@@ -115,6 +117,11 @@ class App extends Component {
             // do not reset map zoom when switching between two China maps
             mapZoom: newMap === str.WORLD_MAP || this.state.currentMap === str.WORLD_MAP ? 1 : this.state.mapZoom
         })
+
+    newsModeToggle = () => {
+        
+        this.setState({ showMap: !this.state.showMap 
+    })}
 
     metricToggle = (newMetric) => this.setState({ metric: newMetric })
 
@@ -185,7 +192,7 @@ class App extends Component {
     tooltipRebuild = () => ReactTooltip.rebuild()
 
     render() {
-        const { lang, dataLoaded, currentMap, fullMap, fullPlot, darkMode } = this.state
+        const { lang, dataLoaded, currentMap, fullMap, fullPlot, darkMode, showMap } = this.state
         const FullScreenIcon = fullMap ? AiOutlineFullscreenExit : AiOutlineFullscreen
 
         return (
@@ -234,9 +241,12 @@ class App extends Component {
                                         scaleToggle={this.scaleToggle}
                                         languageToggle={this.languageToggle}
                                         darkModeToggle={this.darkModeToggle}
+                                        newsModeToggle={this.newsModeToggle}
                                         reset={this.reset}
                                     />
-                                    {!fullPlot && (
+                                    
+                                    { showMap && !fullPlot && (
+                                        <React.Fragment>
                                         <Measure
                                             bounds
                                             onResize={(contentRect) => {
@@ -279,13 +289,19 @@ class App extends Component {
                                                 </div>
                                             )}
                                         </Measure>
-                                    )}
-                                    <MapNavBar
+                                        <MapNavBar
                                         {...this.state}
                                         mapToggle={this.mapToggle}
                                         metricToggle={this.metricToggle}
                                         regionToggle={this.regionToggle}
-                                    />
+                                        />
+                                        </React.Fragment>
+                                    )}
+
+                                    { !showMap && (
+                                        <NewsPanel {...this.state} />
+                                    )}
+                                    
                                     <DateSlider
                                         {...this.state}
                                         handleDateChange={this.handleDateChange}

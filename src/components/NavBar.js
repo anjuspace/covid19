@@ -6,24 +6,27 @@ export default class NavBar extends Component {
     state = {
         langText: 'English',
         scaleText: i18n.LINEAR_SCALE.en,
-        darkModeText: i18n.DARK.en
+        darkModeText: i18n.DARK.en,
+        mapModeText: i18n.MAP.en
     }
 
     componentDidUpdate(prevProps, prevState) {
         if (
             prevProps.scale !== this.props.scale ||
             prevProps.lang !== this.props.lang ||
-            prevProps.darkMode !== this.props.darkMode
+            prevProps.darkMode !== this.props.darkMode ||
+            prevProps.showMap !== this.props.showMap
         )
             this.setTexts()
     }
 
     setTexts = () => {
-        const { scale, lang, darkMode } = this.props
+        const { scale, lang, darkMode, showMap } = this.props
         this.setState({
             langText: lang === 'en' ? 'English' : '中文',
             scaleText: scale === 'linear' ? i18n.LINEAR_SCALE[lang] : i18n.LOG_SCALE[lang],
-            darkModeText: darkMode ? i18n.DARK[lang] : i18n.LIGHT[lang]
+            darkModeText: darkMode ? i18n.DARK[lang] : i18n.LIGHT[lang],
+            mapModeText: showMap ? i18n.NEWS[lang] : i18n.MAP[lang],
         })
     }
 
@@ -33,7 +36,7 @@ export default class NavBar extends Component {
     }
 
     render() {
-        const { scale, lang, darkMode } = this.props
+        const { scale, lang, darkMode, showMap } = this.props
         return (
             <div className="nav-bar">
                 {isMobile || isIPad13 ? (
@@ -54,6 +57,26 @@ export default class NavBar extends Component {
                         {this.state.langText}
                     </div>
                 )}
+
+                {isMobile || isIPad13 ? (
+                    <div className="nav-bar-icon" onTouchStart={this.props.newsModeToggle}>
+                        {showMap ? i18n.NEWS[lang] : i18n.MAP[lang]}
+                    </div>
+                ) : (
+                    <div
+                        className="nav-bar-icon"
+                        data-tip={showMap ? i18n.NEWS_MODE_HELP_TEXT[lang] : i18n.MAP_MODE_HELP_TEXT[lang]}
+                        onClick={this.props.newsModeToggle}
+                        onMouseEnter={() =>
+                            this.setState({
+                                mapModeText: showMap ? i18n.NEWS[lang] : i18n.MAP[lang]
+                            })}
+                        onMouseLeave={this.setTexts}
+                    >
+                        {this.state.mapModeText}
+                    </div>
+                )}
+
                 {isMobile || isIPad13 ? (
                     <div className="nav-bar-icon" onTouchStart={this.props.darkModeToggle}>
                         {darkMode ? i18n.DARK[lang] : i18n.LIGHT[lang]}
