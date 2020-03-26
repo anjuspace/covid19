@@ -1,57 +1,30 @@
 /* config-overrides.js */
 
-const API_KEY = "20c6b0a182454d78b5143dfd43fd553b";
 const NewsAPI = require('newsapi');
-const newsapi = new NewsAPI('API_KEY');
-// To query /v2/top-headlines
-// All options passed to topHeadlines are optional, but you need to include at least one of them
-newsapi.v2.topHeadlines({
-  sources: 'bbc-news,the-verge',
-  q: 'bitcoin',
-  category: 'business',
-  language: 'en',
-  country: 'us'
-}).then(response => {
-  console.log(response);
-  /*
-    {
-      status: "ok",
-      articles: [...]
-    }
-  */
-});
+const newsapi = new NewsAPI('80e92fe9de91492d807e934300afefc4');
+var today = new Date();
+var lastWeekDate = today.getFullYear()+'-'+(today.getMonth()+1)+'-'+(today.getDate()-7);
+var date = today.getFullYear()+'-'+(today.getMonth()+1)+'-'+today.getDate();
+
+var fs = require("fs");
+
 // To query /v2/everything
 // You must include at least one q, source, or domain
-newsapi.v2.everything({
-  q: 'bitcoin',
-  sources: 'bbc-news,the-verge',
-  domains: 'bbc.co.uk, techcrunch.com',
-  from: '2017-12-01',
-  to: '2017-12-12',
-  language: 'en',
+newsapi.v2.topHeadlines({
+  q: 'coronavirus',
+  from: lastWeekDate,
+  to: date,
+  country: 'us',
   sortBy: 'relevancy',
-  page: 2
+  page: 1
 }).then(response => {
   console.log(response);
-  /*
-    {
-      status: "ok",
-      articles: [...]
-    }
-  */
+  fs.writeFile("./public/data/news_us.json",JSON.stringify(response), (err) => {
+    if(err){
+      console.error(err);
+      return;
+    };
+    console.log("File has been created");
+  });
 });
-// To query sources
-// All options are optional
-newsapi.v2.sources({
-  category: 'technology',
-  language: 'en',
-  country: 'us'
-}).then(response => {
-  console.log(response);
-  /*
-    {
-      status: "ok",
-      sources: [...]
-    }
-  */
-});
+

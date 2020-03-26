@@ -75605,5 +75605,23 @@
     "state_name": "MO",
     "county": "St. Charles",
     "num": 69219
+  },
+  {
+    "id": 10302,
+    "people_count": 3,
+    "die_count": 0,
+    "state_name": "NY",
+    "county": "Steuben",
+    "confirmed_date": "3/25",
+    "num": 69222
+  },
+  {
+    "id": 10303,
+    "confirmed_date": "3/25",
+    "people_count": 1,
+    "die_count": 0,
+    "state_name": "MO",
+    "county": "Franklin",
+    "num": 69223
   }
 ]
