@@ -7,6 +7,7 @@ import Measure from 'react-measure'
 import format from 'date-fns/format'
 import './App.css'
 import Map from './Map'
+import NewsPanel from './NewsPanel'
 import MapNavBar from './MapNavBar'
 import DateSlider from './DateSlider'
 import AnimationController from './AnimationController'
@@ -24,6 +25,7 @@ import us_map from '../data/us_map.yml'
 import * as str from '../utils/strings'
 import { updateDarkMode } from '../utils/utils'
 import { mapText } from '../utils/map_text'
+import * as qs from "query-string"
 
 const defaultState = {
     currentMap: 'WORLD',
@@ -55,6 +57,8 @@ class App extends Component {
             width: -1,
             height: -1
         },
+        showMap: true,
+        enableNews: false,
         plotType: 'plot_basic',
         ...defaultState
     }
@@ -78,6 +82,11 @@ class App extends Component {
         this.fetchData()
         this.updateFullDimensions()
         window.addEventListener('resize', this.updateFullDimensions)
+        // eslint-disable-next-line no-restricted-globals
+        const featureFlag = qs.parse(location.search);
+        if (featureFlag['enablenews'] != null) {
+            this.setState({enableNews: true})
+        }
     }
 
     componentWillUnmount() {
@@ -115,6 +124,12 @@ class App extends Component {
             // do not reset map zoom when switching between two China maps
             mapZoom: newMap === str.WORLD_MAP || this.state.currentMap === str.WORLD_MAP ? 1 : this.state.mapZoom
         })
+
+    newsModeToggle = () => {
+        const {enableNews} = this.state
+        if(enableNews)
+            this.setState({ showMap: !this.state.showMap 
+    })}
 
     metricToggle = (newMetric) => this.setState({ metric: newMetric })
 
@@ -185,9 +200,13 @@ class App extends Component {
     tooltipRebuild = () => ReactTooltip.rebuild()
 
     render() {
-        const { lang, dataLoaded, currentMap, fullMap, fullPlot, darkMode } = this.state
+        const { lang, dataLoaded, currentMap, fullMap, fullPlot, darkMode, showMap } = this.state
         const FullScreenIcon = fullMap ? AiOutlineFullscreenExit : AiOutlineFullscreen
+        
 
+        const {enableNews} = this.state
+        
+        
         return (
             <div className={`App ${darkMode ? 'dark' : ''}`}>
                 <Helmet>
@@ -234,9 +253,12 @@ class App extends Component {
                                         scaleToggle={this.scaleToggle}
                                         languageToggle={this.languageToggle}
                                         darkModeToggle={this.darkModeToggle}
+                                        newsModeToggle={this.newsModeToggle}
                                         reset={this.reset}
                                     />
-                                    {!fullPlot && (
+                                    
+                                    { showMap && !fullPlot && (
+                                        <React.Fragment>
                                         <Measure
                                             bounds
                                             onResize={(contentRect) => {
@@ -279,13 +301,19 @@ class App extends Component {
                                                 </div>
                                             )}
                                         </Measure>
-                                    )}
-                                    <MapNavBar
+                                        <MapNavBar
                                         {...this.state}
                                         mapToggle={this.mapToggle}
                                         metricToggle={this.metricToggle}
                                         regionToggle={this.regionToggle}
-                                    />
+                                        />
+                                        </React.Fragment>
+                                    )}
+
+                                    { !showMap && enableNews && (
+                                        <NewsPanel {...this.state} />
+                                    )}
+                                    
                                     <DateSlider
                                         {...this.state}
                                         handleDateChange={this.handleDateChange}
