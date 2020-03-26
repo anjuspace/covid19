@@ -30619,12 +30619,6 @@
   },
   {
     "confirmed_date": "3/23",
-    "people_count": 5,
-    "state_name": "RI",
-    "county": "Unassigned"
-  },
-  {
-    "confirmed_date": "3/23",
     "people_count": 7,
     "state_name": "AZ",
     "county": "Pima"
@@ -35809,12 +35803,6 @@
   },
   {
     "confirmed_date": "3/24",
-    "people_count": 18,
-    "state_name": "RI",
-    "county": "Unassigned"
-  },
-  {
-    "confirmed_date": "3/24",
     "people_count": 1,
     "state_name": "IN",
     "county": "Washington"
@@ -39793,12 +39781,6 @@
   },
   {
     "confirmed_date": "3/25",
-    "people_count": 15,
-    "state_name": "NV",
-    "county": "Unassigned"
-  },
-  {
-    "confirmed_date": "3/25",
     "people_count": 9,
     "state_name": "MD",
     "county": "Baltimore"
@@ -41866,12 +41848,6 @@
     "people_count": 2,
     "state_name": "PA",
     "county": "Fayette"
-  },
-  {
-    "confirmed_date": "3/25",
-    "people_count": 8,
-    "state_name": "RI",
-    "county": "Unassigned"
   },
   {
     "confirmed_date": "3/25",
@@ -44857,12 +44833,6 @@
   },
   {
     "confirmed_date": "3/25",
-    "people_count": 75,
-    "state_name": "NV",
-    "county": "Unassigned"
-  },
-  {
-    "confirmed_date": "3/25",
     "people_count": 2,
     "state_name": "TX",
     "county": "Webb"
@@ -44923,7 +44893,7 @@
   },
   {
     "confirmed_date": "3/25",
-    "people_count": 5,
+    "people_count": 3,
     "state_name": "MO",
     "county": "Platte"
   },
@@ -45252,18 +45222,6 @@
     "county": "Canyon"
   },
   {
-    "people_count": 1,
-    "state_name": "UT",
-    "county": "Iron",
-    "confirmed_date": "3/25"
-  },
-  {
-    "people_count": 6,
-    "confirmed_date": "3/25",
-    "state_name": "UT",
-    "county": "Washington"
-  },
-  {
     "confirmed_date": "3/25",
     "people_count": 7,
     "state_name": "ID",
@@ -45318,6 +45276,12 @@
     "confirmed_date": "3/25"
   },
   {
+    "confirmed_date": "3/25",
+    "people_count": 5,
+    "state_name": "TX",
+    "county": "Williamson"
+  },
+  {
     "confirmed_date": "3/26",
     "people_count": 8,
     "state_name": "VT",
@@ -45325,7 +45289,13 @@
   },
   {
     "confirmed_date": "3/26",
-    "people_count": 2,
+    "people_count": 33,
+    "state_name": "RI",
+    "county": "Unassigned"
+  },
+  {
+    "confirmed_date": "3/26",
+    "people_count": 6,
     "state_name": "AL",
     "county": "Chambers"
   },
@@ -45336,7 +45306,7 @@
     "confirmed_date": "3/26"
   },
   {
-    "people_count": 1,
+    "people_count": 2,
     "state_name": "AL",
     "county": "Autauga",
     "confirmed_date": "3/26"
@@ -45708,19 +45678,19 @@
     "state_name": "AL"
   },
   {
-    "people_count": 1,
+    "people_count": 7,
     "state_name": "AL",
     "county": "Madison",
     "confirmed_date": "3/26"
   },
   {
-    "people_count": 3,
+    "people_count": 8,
     "state_name": "AL",
     "county": "Mobile",
     "confirmed_date": "3/26"
   },
   {
-    "people_count": 4,
+    "people_count": 7,
     "state_name": "AL",
     "county": "Shelby",
     "confirmed_date": "3/26"
@@ -45732,7 +45702,7 @@
     "confirmed_date": "3/26"
   },
   {
-    "people_count": 1,
+    "people_count": 2,
     "confirmed_date": "3/26",
     "county": "Coosa",
     "state_name": "AL"
@@ -45816,10 +45786,10 @@
     "confirmed_date": "3/26"
   },
   {
-    "people_count": 15,
     "confirmed_date": "3/26",
     "state_name": "NV",
-    "county": "Unassigned"
+    "county": "Unassigned",
+    "people_count": 4
   },
   {
     "people_count": 1,
@@ -46698,7 +46668,7 @@
     "confirmed_date": "3/26"
   },
   {
-    "people_count": 60,
+    "people_count": 133,
     "state_name": "PA",
     "county": "Philadelphia",
     "confirmed_date": "3/26"
@@ -46743,7 +46713,7 @@
     "confirmed_date": "3/26",
     "state_name": "MO",
     "county": "Boone",
-    "people_count": 5
+    "people_count": 9
   },
   {
     "people_count": 1,
@@ -47418,10 +47388,10 @@
     "confirmed_date": "3/26"
   },
   {
-    "people_count": 24,
     "state_name": "NY",
     "county": "Monroe",
-    "confirmed_date": "3/26"
+    "confirmed_date": "3/26",
+    "people_count": 30
   },
   {
     "people_count": 1,
@@ -47586,10 +47556,10 @@
     "confirmed_date": "3/26"
   },
   {
-    "people_count": 1,
     "state_name": "NY",
     "county": "Jefferson",
-    "confirmed_date": "3/26"
+    "confirmed_date": "3/26",
+    "people_count": 2
   },
   {
     "people_count": 2,
@@ -47700,10 +47670,10 @@
     "confirmed_date": "3/26"
   },
   {
-    "people_count": 1,
     "state_name": "NY",
     "county": "St. Lawrence",
-    "confirmed_date": "3/26"
+    "confirmed_date": "3/26",
+    "people_count": 3
   },
   {
     "people_count": 1,
@@ -48279,7 +48249,7 @@
     "confirmed_date": "3/26",
     "state_name": "WI",
     "county": "Dane",
-    "people_count": 26
+    "people_count": 46
   },
   {
     "people_count": 5,
@@ -48612,10 +48582,10 @@
     "confirmed_date": "3/26"
   },
   {
-    "people_count": 1,
     "state_name": "VA",
     "county": "Stafford",
-    "confirmed_date": "3/26"
+    "confirmed_date": "3/26",
+    "people_count": 5
   },
   {
     "people_count": 3,
@@ -48631,7 +48601,7 @@
   },
   {
     "confirmed_date": "3/26",
-    "people_count": 668,
+    "people_count": 666,
     "state_name": "IL",
     "county": "Unassigned"
   },
@@ -49116,12 +49086,6 @@
     "county": "Leavenworth"
   },
   {
-    "people_count": 4,
-    "state_name": "VA",
-    "county": "Stafford",
-    "confirmed_date": "3/26"
-  },
-  {
     "people_count": 5,
     "confirmed_date": "3/26",
     "state_name": "KS",
@@ -49216,5 +49180,305 @@
     "confirmed_date": "3/26",
     "state_name": "CA",
     "county": "Santa Clara"
+  },
+  {
+    "people_count": 1,
+    "confirmed_date": "3/26",
+    "state_name": "CA",
+    "county": "Stanislaus"
+  },
+  {
+    "confirmed_date": "3/26",
+    "people_count": 1,
+    "state_name": "OR",
+    "county": "Clatsop"
+  },
+  {
+    "confirmed_date": "3/26",
+    "people_count": 5,
+    "state_name": "OR",
+    "county": "Deschutes"
+  },
+  {
+    "confirmed_date": "3/26",
+    "people_count": 2,
+    "state_name": "OR",
+    "county": "Josephine"
+  },
+  {
+    "people_count": 144,
+    "state_name": "WA",
+    "county": "Snohomish",
+    "confirmed_date": "3/26"
+  },
+  {
+    "confirmed_date": "3/26",
+    "people_count": 2,
+    "state_name": "OR",
+    "county": "Lane"
+  },
+  {
+    "confirmed_date": "3/26",
+    "people_count": 1,
+    "state_name": "OR",
+    "county": "Linn"
+  },
+  {
+    "people_count": 1,
+    "state_name": "TX",
+    "county": "Gregg",
+    "confirmed_date": "3/26"
+  },
+  {
+    "confirmed_date": "3/26",
+    "people_count": 14,
+    "state_name": "OR",
+    "county": "Marion"
+  },
+  {
+    "confirmed_date": "3/26",
+    "people_count": 12,
+    "state_name": "OR",
+    "county": "Multnomah"
+  },
+  {
+    "confirmed_date": "3/26",
+    "people_count": 3,
+    "state_name": "OR",
+    "county": "Polk"
+  },
+  {
+    "confirmed_date": "3/26",
+    "people_count": 1,
+    "state_name": "OR",
+    "county": "Tillamook"
+  },
+  {
+    "state_name": "WA",
+    "county": "Pierce",
+    "confirmed_date": "3/26",
+    "people_count": 31
+  },
+  {
+    "confirmed_date": "3/26",
+    "people_count": 1,
+    "state_name": "OR",
+    "county": "Wasco"
+  },
+  {
+    "people_count": 1,
+    "state_name": "AL",
+    "county": "Baldwin",
+    "confirmed_date": "3/26"
+  },
+  {
+    "state_name": "NY",
+    "county": "Erie",
+    "confirmed_date": "3/26",
+    "people_count": 60
+  },
+  {
+    "people_count": 2,
+    "confirmed_date": "3/26",
+    "state_name": "AL",
+    "county": "Bullock"
+  },
+  {
+    "confirmed_date": "3/26",
+    "people_count": 8,
+    "state_name": "OR",
+    "county": "Washington"
+  },
+  {
+    "people_count": 1,
+    "county": "Meigs",
+    "state_name": "TN",
+    "confirmed_date": "3/26"
+  },
+  {
+    "people_count": 1,
+    "confirmed_date": "3/26",
+    "state_name": "AL",
+    "county": "Choctaw"
+  },
+  {
+    "people_count": 1,
+    "state_name": "AL",
+    "county": "Etowah",
+    "confirmed_date": "3/26"
+  },
+  {
+    "people_count": 1,
+    "confirmed_date": "3/26",
+    "state_name": "MO",
+    "county": "Lincoln"
+  },
+  {
+    "people_count": 1,
+    "state_name": "AL",
+    "county": "Franklin",
+    "confirmed_date": "3/26"
+  },
+  {
+    "people_count": 1,
+    "state_name": "AL",
+    "county": "Houston",
+    "confirmed_date": "3/26"
+  },
+  {
+    "people_count": 2,
+    "state_name": "AL",
+    "county": "Jackson",
+    "confirmed_date": "3/26"
+  },
+  {
+    "people_count": 19,
+    "state_name": "AL",
+    "county": "Jefferson",
+    "confirmed_date": "3/26"
+  },
+  {
+    "people_count": 2,
+    "state_name": "AL",
+    "county": "Lauderdale",
+    "confirmed_date": "3/26"
+  },
+  {
+    "people_count": 2,
+    "state_name": "AL",
+    "county": "Lawrence",
+    "confirmed_date": "3/26"
+  },
+  {
+    "people_count": 3,
+    "state_name": "AL",
+    "county": "Lee",
+    "confirmed_date": "3/26"
+  },
+  {
+    "people_count": 3,
+    "state_name": "AL",
+    "county": "Limestone",
+    "confirmed_date": "3/26"
+  },
+  {
+    "people_count": 2,
+    "state_name": "AL",
+    "county": "Marion",
+    "confirmed_date": "3/26"
+  },
+  {
+    "people_count": 1,
+    "state_name": "AL",
+    "county": "Montgomery",
+    "confirmed_date": "3/26"
+  },
+  {
+    "people_count": 2,
+    "state_name": "AL",
+    "county": "Morgan",
+    "confirmed_date": "3/26"
+  },
+  {
+    "people_count": 1,
+    "state_name": "AL",
+    "county": "Pike",
+    "confirmed_date": "3/26"
+  },
+  {
+    "state_name": "NY",
+    "county": "Rensselaer",
+    "confirmed_date": "3/26",
+    "people_count": 6
+  },
+  {
+    "people_count": 2,
+    "state_name": "IL",
+    "county": "Champaign",
+    "confirmed_date": "3/26"
+  },
+  {
+    "people_count": 1,
+    "state_name": "AL",
+    "county": "Talladega",
+    "confirmed_date": "3/26"
+  },
+  {
+    "people_count": 2,
+    "state_name": "AL",
+    "county": "Tuscaloosa",
+    "confirmed_date": "3/26"
+  },
+  {
+    "people_count": 1,
+    "state_name": "AL",
+    "county": "Washington",
+    "confirmed_date": "3/26"
+  },
+  {
+    "people_count": 32,
+    "state_name": "TX",
+    "county": "Fort Bend",
+    "confirmed_date": "3/26"
+  },
+  {
+    "people_count": 4,
+    "confirmed_date": "3/26",
+    "state_name": "UT",
+    "county": "Davis"
+  },
+  {
+    "confirmed_date": "3/26",
+    "people_count": 27,
+    "state_name": "UT",
+    "county": "Salt Lake"
+  },
+  {
+    "people_count": 3,
+    "confirmed_date": "3/26",
+    "state_name": "UT",
+    "county": "Southwest Utah"
+  },
+  {
+    "people_count": 6,
+    "confirmed_date": "3/26",
+    "state_name": "UT",
+    "county": "Summit"
+  },
+  {
+    "people_count": 1,
+    "confirmed_date": "3/26",
+    "state_name": "UT",
+    "county": "Tooele"
+  },
+  {
+    "people_count": 6,
+    "confirmed_date": "3/26",
+    "state_name": "UT",
+    "county": "Utah"
+  },
+  {
+    "people_count": 5,
+    "confirmed_date": "3/26",
+    "state_name": "UT",
+    "county": "Wasatch"
+  },
+  {
+    "people_count": 4,
+    "confirmed_date": "3/26",
+    "state_name": "UT",
+    "county": "Weber-Morgan"
+  },
+  {
+    "confirmed_date": "3/26",
+    "people_count": 1,
+    "state_name": "TX",
+    "county": "Harrison"
+  },
+  {
+    "people_count": 342,
+    "state_name": "CO",
+    "county": "Unassigned",
+    "confirmed_date": "3/26"
   }
 ]
