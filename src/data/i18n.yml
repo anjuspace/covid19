@@ -124,6 +124,12 @@ BUBBLES:
 TABLE:
   en: Table
   zh: 表格
+MAP:
+  en: Map
+  zh: 地图
+NEWS:
+  en: News
+  zh: 新闻
 OTHERS:
   en: Others
   zh: 其余地区
@@ -238,6 +244,12 @@ LIGHT_MODE_HELP_TEXT:
 RESET_HELP_TEXT:
   en: Reset map
   zh: 重置地图
+MAP_MODE_HELP_TEXT:
+  en: Switch to map mode
+  zh: 切换至地图模式
+NEWS_MODE_HELP_TEXT:
+  en: Switch to news mode
+  zh: 切换至新闻模式
 SEARCH:
   en: Search
   zh: 搜索
@@ -253,6 +265,9 @@ LESS_REGIONS_HELP_TEXT:
 PLOT_SETTINGS:
   en: Configure Plots
   zh: 图表设置
+NO_NEWS_MESSAGE:
+  en: "No breaking news today!"
+  zh: "没有新闻就是好新闻"
 ABOUT:
   en: About
   zh: 关于
