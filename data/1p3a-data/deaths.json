@@ -9509,9 +9509,52 @@
     "die_count": 1,
     "state_name": "FL",
     "county": "Clay",
-    "full_links": [],
+    "full_links": [
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-03-26-1107.pdf"
+    ],
     "confirmed_date": "3/26",
     "comments": "Clay 第3例死亡，65岁男性，有接触史。",
-    "comments_en": "Clay County 3rd "
+    "comments_en": "Clay County 3rd death case, 65 year old man, contact with confirmed case.",
+    "gender": "男",
+    "age_range": "60+"
+  },
+  {
+    "die_count": 1,
+    "state_name": "FL",
+    "county": "Clay",
+    "full_links": [
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-03-26-1107.pdf"
+    ],
+    "confirmed_date": "3/26",
+    "comments": "Clay 第4例死亡，77岁女性，无接触史无旅行。",
+    "comments_en": "Clay County 4th death case, 77 year female, no travel, no contact.",
+    "gender": "女",
+    "age_range": "70+"
+  },
+  {
+    "die_count": 1,
+    "state_name": "FL",
+    "county": "Orange",
+    "full_links": [
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-03-26-1107.pdf"
+    ],
+    "confirmed_date": "3/26",
+    "comments": "佛罗里达 Orange County 第3例死亡病例，90岁男性。",
+    "comments_en": "FL Orange County 3rd death case, 90 year old man.",
+    "gender": "男",
+    "age_range": "90+"
+  },
+  {
+    "confirmed_date": "3/26",
+    "comments": "佛罗里达 Orange County 第4例死亡病例，68岁女性。",
+    "comments_en": "FL Orange County 4th death case, 68 year old female.",
+    "die_count": 1,
+    "state_name": "FL",
+    "county": "Orange",
+    "full_links": [
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-03-26-1107.pdf"
+    ],
+    "gender": "女",
+    "age_range": "60+"
   }
 ]
