@@ -1,44 +1,45 @@
 /* config-overrides.js */
 
-const NewsAPI = require('newsapi');
-const newsapi = new NewsAPI('80e92fe9de91492d807e934300afefc4');
 const data_folder = 'public/data';
-var today = new Date();
-var lastWeekDate = today.getFullYear()+'-'+(today.getMonth()+1)+'-'+(today.getDate()-7);
-var date = today.getFullYear()+'-'+(today.getMonth()+1)+'-'+today.getDate();
-
 const fetch = require('node-fetch')
 const fs = require('fs')
 
-var pairs = [
-  ["us", 'coronavirus'],
-  ["cn", '疫情'], 
-  ["it", 'coronavirus'],
-  ["de", 'coronavirus'],
-  ["sz", 'coronavirus'],
-  ["ru", 'коронавирус'],
- ];
+ var pairs2 = {
+  "items": [
+    { "country":"cn", "keyword": "新冠"},
+    { "country":"us", "keyword": "coronavirus"},
+    { "country":"it", "keyword": "coronavirus"},
+    { "country":"de", "keyword": "coronavirus"},
+    { "country":"sz", "keyword": "coronavirus"},
+    { "country":"ru", "keyword": "коронавирус"},
+    { "country":"global", "keyword": "coronavirus"},
+  ]
+ }
 
- for(var i = 0; i < 1; i++) {
-  var pair = pairs[i];
-  // To query /v2/everything
-  // You must include at least one q, source, or domain
-  const url =
-    'http://newsapi.org/v2/top-headlines?country='+'us'+'&q='+'coronavirus'+'&apiKey=80e92fe9de91492d807e934300afefc4'
-    
-  const getData = async (url) => {
-      try {
-          encodedUrl = encodeURIComponent(url);
-          const response = await fetch(encodedUrl)
-          let data = await response.json()
-          //console.info(data)
-          fs.writeFileSync(data_folder+'/news_'+pair[0]+'.json', JSON.stringify(data))
-      } catch (error) {
-          console.log(error)
-          process.exit(1)
-      }
+
+ const getData = async (url, country) => {
+  try {
+      const response = await fetch(url)
+      let data = await response.json()
+      fs.writeFileSync(data_folder+'/news_'+country+'.json', JSON.stringify(data))
+  } catch (error) {
+      console.log(error)
+      process.exit(1)
   }
-      
-  getData(url)
 }
+
+pairs2["items"].forEach(item =>{
+  let baseUrl = 'https://newsapi.org/v2/top-headlines?country='
+
+  if(item.country==='global'){
+    baseUrl = "https://newsapi.org/v2/everything?"
+  }  
+
+  let queryStr =  item.country+'&q='+encodeURIComponent(item.keyword)+'&apiKey=80e92fe9de91492d807e934300afefc4';
+  
+  if(item.country==='global'){
+    queryStr = 'q='+encodeURIComponent(item.keyword)+'&apiKey=80e92fe9de91492d807e934300afefc4';
+  } 
+  getData(baseUrl+queryStr, item.country)
+})
 
