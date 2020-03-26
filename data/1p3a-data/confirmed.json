@@ -26269,7 +26269,7 @@
   },
   {
     "confirmed_date": "3/22",
-    "people_count": 1,
+    "people_count": 0,
     "state_name": "MS",
     "county": "Franklin"
   },
@@ -45042,6 +45042,258 @@
     "county": "Jefferson"
   },
   {
+    "people_count": 1,
+    "confirmed_date": "3/25",
+    "state_name": "MS",
+    "county": "Adams"
+  },
+  {
+    "people_count": 3,
+    "confirmed_date": "3/25",
+    "state_name": "MS",
+    "county": "Attala"
+  },
+  {
+    "people_count": 1,
+    "confirmed_date": "3/25",
+    "state_name": "MS",
+    "county": "Benton"
+  },
+  {
+    "people_count": 2,
+    "confirmed_date": "3/25",
+    "state_name": "MS",
+    "county": "Bolivar"
+  },
+  {
+    "people_count": 2,
+    "confirmed_date": "3/25",
+    "state_name": "MS",
+    "county": "Calhoun"
+  },
+  {
+    "people_count": 1,
+    "confirmed_date": "3/25",
+    "state_name": "MS",
+    "county": "Chickasaw"
+  },
+  {
+    "people_count": 1,
+    "confirmed_date": "3/25",
+    "state_name": "MS",
+    "county": "Choctaw"
+  },
+  {
+    "people_count": 6,
+    "confirmed_date": "3/25",
+    "state_name": "MS",
+    "county": "Coahoma"
+  },
+  {
+    "people_count": 2,
+    "confirmed_date": "3/25",
+    "state_name": "MS",
+    "county": "Copiah"
+  },
+  {
+    "people_count": 13,
+    "confirmed_date": "3/25",
+    "state_name": "MS",
+    "county": "DeSoto"
+  },
+  {
+    "people_count": 1,
+    "confirmed_date": "3/25",
+    "state_name": "MS",
+    "county": "Hancock"
+  },
+  {
+    "people_count": 6,
+    "confirmed_date": "3/25",
+    "state_name": "MS",
+    "county": "Harrison"
+  },
+  {
+    "people_count": 5,
+    "confirmed_date": "3/25",
+    "state_name": "MS",
+    "county": "Hinds"
+  },
+  {
+    "people_count": 4,
+    "confirmed_date": "3/25",
+    "state_name": "MS",
+    "county": "Jackson"
+  },
+  {
+    "people_count": 2,
+    "confirmed_date": "3/25",
+    "state_name": "MS",
+    "county": "Lafayette"
+  },
+  {
+    "people_count": 2,
+    "confirmed_date": "3/25",
+    "state_name": "MS",
+    "county": "Lamar"
+  },
+  {
+    "people_count": 3,
+    "confirmed_date": "3/25",
+    "state_name": "MS",
+    "county": "Lauderdale"
+  },
+  {
+    "people_count": 2,
+    "confirmed_date": "3/25",
+    "state_name": "MS",
+    "county": "Lawrence"
+  },
+  {
+    "people_count": 1,
+    "confirmed_date": "3/25",
+    "state_name": "MS",
+    "county": "Leake"
+  },
+  {
+    "people_count": 1,
+    "confirmed_date": "3/25",
+    "state_name": "MS",
+    "county": "Lee"
+  },
+  {
+    "people_count": 2,
+    "confirmed_date": "3/25",
+    "state_name": "MS",
+    "county": "Lincoln"
+  },
+  {
+    "people_count": 2,
+    "confirmed_date": "3/25",
+    "state_name": "MS",
+    "county": "Lowndes"
+  },
+  {
+    "people_count": 4,
+    "confirmed_date": "3/25",
+    "state_name": "MS",
+    "county": "Madison"
+  },
+  {
+    "people_count": 3,
+    "confirmed_date": "3/25",
+    "state_name": "MS",
+    "county": "Marshall"
+  },
+  {
+    "people_count": 3,
+    "confirmed_date": "3/25",
+    "state_name": "MS",
+    "county": "Oktibbeha"
+  },
+  {
+    "people_count": 2,
+    "confirmed_date": "3/25",
+    "state_name": "MS",
+    "county": "Panola"
+  },
+  {
+    "people_count": 3,
+    "confirmed_date": "3/25",
+    "state_name": "MS",
+    "county": "Pearl River"
+  },
+  {
+    "people_count": 2,
+    "confirmed_date": "3/25",
+    "state_name": "MS",
+    "county": "Pike"
+  },
+  {
+    "people_count": 1,
+    "confirmed_date": "3/25",
+    "state_name": "MS",
+    "county": "Pontotoc"
+  },
+  {
+    "people_count": 2,
+    "confirmed_date": "3/25",
+    "state_name": "MS",
+    "county": "Quitman"
+  },
+  {
+    "people_count": 3,
+    "confirmed_date": "3/25",
+    "state_name": "MS",
+    "county": "Rankin"
+  },
+  {
+    "people_count": 1,
+    "confirmed_date": "3/25",
+    "state_name": "MS",
+    "county": "Scott"
+  },
+  {
+    "people_count": 1,
+    "confirmed_date": "3/25",
+    "state_name": "MS",
+    "county": "Sunflower"
+  },
+  {
+    "people_count": 4,
+    "confirmed_date": "3/25",
+    "state_name": "MS",
+    "county": "Tate"
+  },
+  {
+    "people_count": 3,
+    "confirmed_date": "3/25",
+    "state_name": "MS",
+    "county": "Tippah"
+  },
+  {
+    "people_count": 2,
+    "confirmed_date": "3/25",
+    "state_name": "MS",
+    "county": "Tunica"
+  },
+  {
+    "people_count": 1,
+    "confirmed_date": "3/25",
+    "state_name": "MS",
+    "county": "Walthall"
+  },
+  {
+    "people_count": 4,
+    "confirmed_date": "3/25",
+    "state_name": "MS",
+    "county": "Washington"
+  },
+  {
+    "people_count": 3,
+    "confirmed_date": "3/25",
+    "state_name": "MS",
+    "county": "Wilkinson"
+  },
+  {
+    "people_count": 3,
+    "confirmed_date": "3/25",
+    "state_name": "MS",
+    "county": "Yalobusha"
+  },
+  {
+    "people_count": 1,
+    "confirmed_date": "3/25",
+    "state_name": "MS",
+    "county": "Forrest"
+  },
+  {
+    "people_count": 2,
+    "confirmed_date": "3/25",
+    "state_name": "AZ",
+    "county": "Mohave"
+  },
+  {
     "confirmed_date": "3/26",
     "people_count": 2,
     "state_name": "AL",
@@ -45510,21 +45762,87 @@
     "county": "Davidson"
   },
   {
-    "people_count": 1,
-    "confirmed_date": "3/26",
-    "state_name": "MS",
-    "county": "Adams"
+    "people_count": 30,
+    "state_name": "CA",
+    "county": "San Mateo",
+    "confirmed_date": "3/26"
   },
   {
-    "people_count": 3,
-    "confirmed_date": "3/26",
-    "state_name": "MS",
-    "county": "Attala"
+    "people_count": 2,
+    "state_name": "WY",
+    "county": "Laramie",
+    "confirmed_date": "3/26"
   },
   {
     "people_count": 1,
     "confirmed_date": "3/26",
-    "state_name": "MS",
-    "county": "Benton"
+    "state_name": "WY",
+    "county": "Johnson"
+  },
+  {
+    "people_count": 1,
+    "state_name": "WY",
+    "county": "Teton",
+    "confirmed_date": "3/26"
+  },
+  {
+    "people_count": 15,
+    "confirmed_date": "3/26",
+    "state_name": "NV",
+    "county": "Unassigned"
+  },
+  {
+    "people_count": 1,
+    "state_name": "TX",
+    "county": "Hays",
+    "confirmed_date": "3/26"
+  },
+  {
+    "people_count": 1,
+    "confirmed_date": "3/26",
+    "state_name": "TX",
+    "county": "Abilene"
+  },
+  {
+    "people_count": 1,
+    "confirmed_date": "3/26",
+    "state_name": "TX",
+    "county": "Taylor"
+  },
+  {
+    "people_count": 1,
+    "confirmed_date": "3/26",
+    "state_name": "TX",
+    "county": "Swisher"
+  },
+  {
+    "people_count": 1,
+    "state_name": "TX",
+    "county": "Castro",
+    "confirmed_date": "3/26"
+  },
+  {
+    "people_count": 56,
+    "state_name": "TX",
+    "county": "Dallas",
+    "confirmed_date": "3/26"
+  },
+  {
+    "people_count": 1,
+    "confirmed_date": "3/26",
+    "state_name": "TX",
+    "county": "Starr"
+  },
+  {
+    "people_count": 1,
+    "confirmed_date": "3/26",
+    "state_name": "KS",
+    "county": "Riley"
+  },
+  {
+    "people_count": 4221,
+    "state_name": "NY",
+    "county": "Unassigned",
+    "confirmed_date": "3/26"
   }
 ]

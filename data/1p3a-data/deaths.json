@@ -9220,5 +9220,16 @@
     ],
     "state_name": "IN",
     "county": "Putnam"
+  },
+  {
+    "die_count": 19,
+    "state_name": "NY",
+    "county": "Unassigned",
+    "full_links": [
+      "https://www.forexlive.com/news/!/new-york-coronavirus-cases-march-26-20200326"
+    ],
+    "confirmed_date": "3/26",
+    "comments_en": "By 3/26 noon, New York reported 385 total deaths. palceholder.",
+    "comments": "截至3/26中午纽约累计死亡385例。"
   }
 ]
