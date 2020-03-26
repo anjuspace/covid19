@@ -30,7 +30,12 @@ data.forEach((line, index) => {
         output_norway['confirmedCount'][date] = confirmedCount
     } else {
         let region = en2zh[regionEnglish]
-        assert(region != null, `${regionEnglish} does not exist!`)
+        if (region == null) {
+            console.error(`${regionEnglish} does not exist!`)
+            return
+        }
+
+        // assert(region != null, `${regionEnglish} does not exist!`)
 
         if (!(region in output_norway)) {
             output_norway[region] = { ENGLISH: regionEnglish, confirmedCount: {}, curedCount: {}, deadCount: {} }
