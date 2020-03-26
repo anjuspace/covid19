@@ -41575,7 +41575,7 @@
   },
   {
     "confirmed_date": "3/25",
-    "people_count": 2,
+    "people_count": 1,
     "state_name": "ME",
     "county": "Unassigned"
   },
@@ -45294,6 +45294,12 @@
     "county": "Mohave"
   },
   {
+    "confirmed_date": "3/25",
+    "people_count": 1,
+    "state_name": "ME",
+    "county": "York"
+  },
+  {
     "confirmed_date": "3/26",
     "people_count": 2,
     "state_name": "AL",
@@ -45843,6 +45849,228 @@
     "people_count": 4221,
     "state_name": "NY",
     "county": "Unassigned",
+    "confirmed_date": "3/26"
+  },
+  {
+    "people_count": 1,
+    "state_name": "ME",
+    "county": "Androscoggin",
+    "confirmed_date": "3/26"
+  },
+  {
+    "people_count": 3,
+    "state_name": "ME",
+    "county": "Cumberland",
+    "confirmed_date": "3/26"
+  },
+  {
+    "people_count": 45,
+    "confirmed_date": "3/26",
+    "state_name": "CA",
+    "county": "San Francisco"
+  },
+  {
+    "people_count": 1,
+    "state_name": "ME",
+    "county": "Kennebec",
+    "confirmed_date": "3/26"
+  },
+  {
+    "people_count": 2,
+    "state_name": "ME",
+    "county": "Oxford",
+    "confirmed_date": "3/26"
+  },
+  {
+    "people_count": 1,
+    "state_name": "ME",
+    "county": "Penobscot",
+    "confirmed_date": "3/26"
+  },
+  {
+    "people_count": 1,
+    "state_name": "ME",
+    "county": "Waldo",
+    "confirmed_date": "3/26"
+  },
+  {
+    "people_count": 3,
+    "state_name": "ME",
+    "county": "York",
+    "confirmed_date": "3/26"
+  },
+  {
+    "people_count": 1,
+    "confirmed_date": "3/26",
+    "state_name": "ME",
+    "county": "Franklin"
+  },
+  {
+    "people_count": 1,
+    "state_name": "OK",
+    "county": "Canadian",
+    "confirmed_date": "3/26"
+  },
+  {
+    "people_count": 12,
+    "state_name": "OK",
+    "county": "Cleveland",
+    "confirmed_date": "3/26"
+  },
+  {
+    "people_count": 3,
+    "confirmed_date": "3/26",
+    "county": "Comanche",
+    "state_name": "OK"
+  },
+  {
+    "people_count": 1,
+    "state_name": "MN",
+    "county": "Anoka",
+    "confirmed_date": "3/26"
+  },
+  {
+    "people_count": 1,
+    "confirmed_date": "3/26",
+    "county": "Craig",
+    "state_name": "OK"
+  },
+  {
+    "people_count": 1,
+    "state_name": "MN",
+    "county": "Blue earth",
+    "confirmed_date": "3/26"
+  },
+  {
+    "people_count": 5,
+    "state_name": "OK",
+    "county": "Creek",
+    "confirmed_date": "3/26"
+  },
+  {
+    "people_count": 1,
+    "state_name": "MN",
+    "county": "Clay",
+    "confirmed_date": "3/26"
+  },
+  {
+    "people_count": 6,
+    "state_name": "OK",
+    "county": "Kay",
+    "confirmed_date": "3/26"
+  },
+  {
+    "people_count": 1,
+    "confirmed_date": "3/26",
+    "county": "Lincoln",
+    "state_name": "OK"
+  },
+  {
+    "people_count": 4,
+    "state_name": "MN",
+    "county": "Dakota",
+    "confirmed_date": "3/26"
+  },
+  {
+    "people_count": 1,
+    "state_name": "OK",
+    "county": "McClain",
+    "confirmed_date": "3/26"
+  },
+  {
+    "people_count": 3,
+    "state_name": "OK",
+    "county": "Muskogee",
+    "confirmed_date": "3/26"
+  },
+  {
+    "people_count": 2,
+    "state_name": "MN",
+    "county": "Dodge",
+    "confirmed_date": "3/26"
+  },
+  {
+    "people_count": 18,
+    "state_name": "OK",
+    "county": "Oklahoma",
+    "confirmed_date": "3/26"
+  },
+  {
+    "people_count": 2,
+    "confirmed_date": "3/26",
+    "county": "Okmulgee",
+    "state_name": "OK"
+  },
+  {
+    "people_count": 17,
+    "state_name": "MN",
+    "county": "Hennepin",
+    "confirmed_date": "3/26"
+  },
+  {
+    "people_count": 2,
+    "state_name": "OK",
+    "county": "Osage",
+    "confirmed_date": "3/26"
+  },
+  {
+    "people_count": 1,
+    "confirmed_date": "3/26",
+    "county": "Ottawa",
+    "state_name": "OK"
+  },
+  {
+    "people_count": 1,
+    "confirmed_date": "3/26",
+    "state_name": "MN",
+    "county": "Kandiyohi"
+  },
+  {
+    "people_count": 3,
+    "state_name": "OK",
+    "county": "Pawnee",
+    "confirmed_date": "3/26"
+  },
+  {
+    "people_count": 2,
+    "state_name": "OK",
+    "county": "Payne",
+    "confirmed_date": "3/26"
+  },
+  {
+    "people_count": 1,
+    "state_name": "OK",
+    "county": "Pottawatomie",
+    "confirmed_date": "3/26"
+  },
+  {
+    "people_count": 14,
+    "state_name": "OK",
+    "county": "Tulsa",
+    "confirmed_date": "3/26"
+  },
+  {
+    "people_count": 3,
+    "state_name": "OK",
+    "county": "Wagoner",
+    "confirmed_date": "3/26"
+  },
+  {
+    "people_count": 2,
+    "state_name": "MN",
+    "county": "Martin",
+    "confirmed_date": "3/26"
+  },
+  {
+    "people_count": 2,
+    "state_name": "OK",
+    "county": "Washington",
+    "confirmed_date": "3/26"
+  },
+  {
+    "people_count": 4,
+    "state_name": "MN",
+    "county": "Mower",
     "confirmed_date": "3/26"
   }
 ]

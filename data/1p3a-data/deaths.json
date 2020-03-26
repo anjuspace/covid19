@@ -9231,5 +9231,25 @@
     "confirmed_date": "3/26",
     "comments_en": "By 3/26 noon, New York reported 385 total deaths. palceholder.",
     "comments": "截至3/26中午纽约累计死亡385例。"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.sfdph.org/dph/alerts/coronavirus.asp"
+    ],
+    "confirmed_date": "3/26",
+    "state_name": "CA",
+    "county": "San Francisco",
+    "comments": "3/26 San Francisco 新增第一例死亡, 具体信息待更新。",
+    "comments_en": "One more death is reported in San Francisco."
+  },
+  {
+    "die_count": 1,
+    "state_name": "OK",
+    "county": "Cleveland",
+    "full_links": [
+      "https://coronavirus.health.ok.gov/"
+    ],
+    "confirmed_date": "3/26"
   }
 ]
