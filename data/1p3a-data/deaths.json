@@ -9480,6 +9480,18 @@
     "age_range": "70+"
   },
   {
+    "die_count": 1,
+    "state_name": "WI",
+    "county": "Milwaukee",
+    "full_links": [
+      "https://www.jsonline.com/story/news/2020/03/26/wisconsin-coronavirus-cases-hit-707-10-deaths/2922292001/"
+    ],
+    "confirmed_date": "3/25",
+    "comments_en": "The three deaths followed two other Milwaukee County deaths on Wednesday: a 57-year-old woman from West Allis",
+    "gender": "女",
+    "age_range": "50+"
+  },
+  {
     "confirmed_date": "3/26",
     "gender": "男",
     "comments_en": "According to Dep. Coroner Andy Boersma, the CDC released information that the person who died was a male from DeMotte and was hospitalized in Lake County.",
@@ -9909,14 +9921,17 @@
   },
   {
     "confirmed_date": "3/26",
-    "comments": "3/26 威斯康辛州Milwaukee County新增1例死亡，总计5例。",
-    "comments_en": "Milwaukee County's Medical Examiner on Thursday announced the county's fifth death related to the coronavirus outbreak.",
+    "comments": "3/26 威斯康辛州Milwaukee County新增1例死亡",
+    "comments_en": "Milwaukee County's Medical Examiner on Thursday announced the county's fifth death related to the coronavirus outbreak. Then a 69-year-old man died Thursday night.",
     "die_count": 1,
     "state_name": "WI",
     "county": "Milwaukee",
     "full_links": [
-      "https://www.dhs.wisconsin.gov/outbreaks/index.htm"
-    ]
+      "https://www.dhs.wisconsin.gov/outbreaks/index.htm",
+      "https://www.jsonline.com/story/news/2020/03/26/wisconsin-coronavirus-cases-hit-707-10-deaths/2922292001/"
+    ],
+    "gender": "男",
+    "age_range": "60+"
   },
   {
     "confirmed_date": "3/26",
@@ -10952,6 +10967,16 @@
   },
   {
     "die_count": 1,
+    "full_links": [
+      "https://www.jsonline.com/story/news/2020/03/26/wisconsin-coronavirus-cases-hit-707-10-deaths/2922292001/"
+    ],
+    "confirmed_date": "3/26",
+    "county": "Iron",
+    "state_name": "WI",
+    "comments_en": "The state's 12th death was reported late Thursday in Iron County. It's also the northern Wisconsin county's first confirmed coronavirus case, according to a release."
+  },
+  {
+    "die_count": 1,
     "state_name": "PR",
     "county": "Puerto Rico",
     "full_links": [
@@ -11058,14 +11083,14 @@
     "gender": "Unknown"
   },
   {
-    "die_count": 0,
     "state_name": "AR",
     "county": "Unassigned",
     "full_links": [
       "https://adem.maps.arcgis.com/apps/opsdashboard/index.html#/f533ac8a8b6040e5896b05b47b17a647"
     ],
     "confirmed_date": "3/27",
-    "comments_en": "By 3/27, Arkansas has 3 deaths."
+    "comments_en": "By 3/27, Arkansas has 3 deaths.",
+    "die_count": 1
   },
   {
     "die_count": 1,
@@ -11100,7 +11125,7 @@
     "comments_en": "First death in West Virginia"
   },
   {
-    "die_count": 58,
+    "die_count": 57,
     "state_name": "NY",
     "county": "Unassigned",
     "full_links": [
@@ -11410,5 +11435,318 @@
     "full_links": [
       "https://fox4kc.com/tracking-coronavirus/health-officials-confirm-third-covid-19-death-in-wyandotte-county/"
     ]
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.healthvermont.gov/response/infectious-disease/2019-novel-coronavirus"
+    ],
+    "confirmed_date": "3/27",
+    "state_name": "VT",
+    "county": "Unassigned",
+    "comments": "3/27 佛蒙特州新增第一例死亡, 具体信息待更新。",
+    "comments_en": "One more death is reported in VT."
+  },
+  {
+    "die_count": 1,
+    "state_name": "NY",
+    "county": "New York",
+    "full_links": [
+      "https://www1.nyc.gov/assets/doh/downloads/pdf/imm/covid-19-daily-data-summary.pdf"
+    ],
+    "confirmed_date": "3/27",
+    "comments_en": "By 3/27 14:30 PM EST, NYC reported 366 deaths in total."
+  },
+  {
+    "die_count": 1,
+    "state_name": "NJ",
+    "county": "Unassigned",
+    "full_links": [
+      "https://www.nj.gov/health/"
+    ],
+    "confirmed_date": "3/27"
+  },
+  {
+    "die_count": 1,
+    "state_name": "NJ",
+    "county": "Unassigned",
+    "full_links": [
+      "https://www.nj.gov/health/"
+    ],
+    "confirmed_date": "3/27"
+  },
+  {
+    "die_count": 1,
+    "state_name": "NJ",
+    "county": "Unassigned",
+    "full_links": [
+      "https://www.nj.gov/health/"
+    ],
+    "confirmed_date": "3/27"
+  },
+  {
+    "die_count": 1,
+    "state_name": "NJ",
+    "county": "Unassigned",
+    "full_links": [
+      "https://www.nj.gov/health/"
+    ],
+    "confirmed_date": "3/27"
+  },
+  {
+    "die_count": 1,
+    "state_name": "NJ",
+    "county": "Unassigned",
+    "full_links": [
+      "https://www.nj.gov/health/"
+    ],
+    "confirmed_date": "3/27"
+  },
+  {
+    "die_count": 1,
+    "state_name": "NJ",
+    "county": "Unassigned",
+    "full_links": [
+      "https://www.nj.gov/health/"
+    ],
+    "confirmed_date": "3/27"
+  },
+  {
+    "die_count": 1,
+    "state_name": "NJ",
+    "county": "Unassigned",
+    "full_links": [
+      "https://www.nj.gov/health/"
+    ],
+    "confirmed_date": "3/27"
+  },
+  {
+    "die_count": 1,
+    "state_name": "NJ",
+    "county": "Unassigned",
+    "full_links": [
+      "https://www.nj.gov/health/"
+    ],
+    "confirmed_date": "3/27"
+  },
+  {
+    "die_count": 1,
+    "state_name": "NJ",
+    "county": "Unassigned",
+    "full_links": [
+      "https://www.nj.gov/health/"
+    ],
+    "confirmed_date": "3/27"
+  },
+  {
+    "die_count": 1,
+    "state_name": "NJ",
+    "county": "Unassigned",
+    "full_links": [
+      "https://www.nj.gov/health/"
+    ],
+    "confirmed_date": "3/27"
+  },
+  {
+    "die_count": 1,
+    "state_name": "NJ",
+    "county": "Unassigned",
+    "full_links": [
+      "https://www.nj.gov/health/"
+    ],
+    "confirmed_date": "3/27"
+  },
+  {
+    "die_count": 1,
+    "state_name": "NJ",
+    "county": "Unassigned",
+    "full_links": [
+      "https://www.nj.gov/health/"
+    ],
+    "confirmed_date": "3/27"
+  },
+  {
+    "die_count": 1,
+    "state_name": "NJ",
+    "county": "Unassigned",
+    "full_links": [
+      "https://www.nj.gov/health/"
+    ],
+    "confirmed_date": "3/27"
+  },
+  {
+    "die_count": 1,
+    "state_name": "NJ",
+    "county": "Unassigned",
+    "full_links": [
+      "https://www.nj.gov/health/"
+    ],
+    "confirmed_date": "3/27"
+  },
+  {
+    "die_count": 1,
+    "state_name": "NJ",
+    "county": "Unassigned",
+    "full_links": [
+      "https://www.nj.gov/health/"
+    ],
+    "confirmed_date": "3/27"
+  },
+  {
+    "die_count": 1,
+    "state_name": "NJ",
+    "county": "Unassigned",
+    "full_links": [
+      "https://www.nj.gov/health/"
+    ],
+    "confirmed_date": "3/27"
+  },
+  {
+    "die_count": 1,
+    "state_name": "NJ",
+    "county": "Unassigned",
+    "full_links": [
+      "https://www.nj.gov/health/"
+    ],
+    "confirmed_date": "3/27"
+  },
+  {
+    "die_count": 1,
+    "state_name": "NJ",
+    "county": "Unassigned",
+    "full_links": [
+      "https://www.nj.gov/health/"
+    ],
+    "confirmed_date": "3/27"
+  },
+  {
+    "die_count": 1,
+    "state_name": "NJ",
+    "county": "Unassigned",
+    "full_links": [
+      "https://www.nj.gov/health/"
+    ],
+    "confirmed_date": "3/27"
+  },
+  {
+    "die_count": 1,
+    "state_name": "NJ",
+    "county": "Unassigned",
+    "full_links": [
+      "https://www.nj.gov/health/"
+    ],
+    "confirmed_date": "3/27"
+  },
+  {
+    "die_count": 1,
+    "state_name": "NJ",
+    "county": "Unassigned",
+    "full_links": [
+      "https://www.nj.gov/health/"
+    ],
+    "confirmed_date": "3/27"
+  },
+  {
+    "die_count": 1,
+    "state_name": "NJ",
+    "county": "Unassigned",
+    "full_links": [
+      "https://www.nj.gov/health/"
+    ],
+    "confirmed_date": "3/27"
+  },
+  {
+    "die_count": 1,
+    "state_name": "NJ",
+    "county": "Unassigned",
+    "full_links": [
+      "https://www.nj.gov/health/"
+    ],
+    "confirmed_date": "3/27"
+  },
+  {
+    "die_count": 1,
+    "state_name": "NJ",
+    "county": "Unassigned",
+    "full_links": [
+      "https://www.nj.gov/health/"
+    ],
+    "confirmed_date": "3/27"
+  },
+  {
+    "die_count": 1,
+    "state_name": "NJ",
+    "county": "Unassigned",
+    "full_links": [
+      "https://www.nj.gov/health/"
+    ],
+    "confirmed_date": "3/27"
+  },
+  {
+    "die_count": 1,
+    "state_name": "NJ",
+    "county": "Unassigned",
+    "full_links": [
+      "https://www.nj.gov/health/"
+    ],
+    "confirmed_date": "3/27"
+  },
+  {
+    "die_count": 1,
+    "state_name": "NJ",
+    "county": "Unassigned",
+    "full_links": [
+      "https://www.nj.gov/health/"
+    ],
+    "confirmed_date": "3/27"
+  },
+  {
+    "state_name": "OH",
+    "county": "Mahoning",
+    "full_links": [
+      "https://www.nbc4i.com/community/health/coronavirus/coronavirus-in-ohio-friday-update-gov-dewine-schedules-daily-update-on-covid-19/"
+    ],
+    "confirmed_date": "3/27",
+    "die_count": 1,
+    "comments_en": "Mahoning reports another death."
+  },
+  {
+    "state_name": "OH",
+    "county": "Miami",
+    "full_links": [
+      "https://www.nbc4i.com/community/health/coronavirus/coronavirus-in-ohio-friday-update-gov-dewine-schedules-daily-update-on-covid-19/"
+    ],
+    "confirmed_date": "3/27",
+    "die_count": 2
+  },
+  {
+    "full_links": [
+      "https://www.nbc4i.com/community/health/coronavirus/coronavirus-in-ohio-friday-update-gov-dewine-schedules-daily-update-on-covid-19/"
+    ],
+    "confirmed_date": "3/27",
+    "state_name": "OH",
+    "county": "Summit",
+    "die_count": 1
+  },
+  {
+    "state_name": "WI",
+    "county": "Ozaukee",
+    "full_links": [
+      "https://www.jsonline.com/story/news/2020/03/26/wisconsin-coronavirus-cases-hit-707-10-deaths/2922292001/"
+    ],
+    "confirmed_date": "3/27",
+    "die_count": 2,
+    "gender": "女",
+    "age_range": "70+",
+    "comments_en": " Two Ozaukee County residents died early Friday."
+  },
+  {
+    "full_links": [
+      "https://www.fox9.com/news/4-deaths-from-covid-19-reported-in-minnesota-number-of-cases-jumps-to-nearly-400"
+    ],
+    "confirmed_date": "3/27",
+    "die_count": 2,
+    "state_name": "MN",
+    "county": "Unassigned"
   }
 ]
