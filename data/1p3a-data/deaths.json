@@ -12625,5 +12625,31 @@
     "confirmed_date": "3/27",
     "state_name": "SC",
     "county": "Richland"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://wamu.org/story/20/03/27/a-deputy-director-in-d-c-mayors-office-has-died-of-covid-19/"
+    ],
+    "confirmed_date": "3/27",
+    "state_name": "DC",
+    "county": "District of Columbia",
+    "comments_en": "Member of DC mayor's staff dies from coronavirus. Bowser later identified the victim as George Valentine, deputy director of the mayor's office of legal counsel.",
+    "comments": "哥伦比亚特区首例死亡病例，为华盛顿市长的幕僚成员，市长办公室首席法律顾问。",
+    "gender": "男",
+    "age_range": "60+"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.wowt.com/content/news/Reports-of-COVID-19-cases-in-Nebraska-and-Iowa-for-March-27-2020-569162561.html"
+    ],
+    "state_name": "NE",
+    "county": "Douglas",
+    "confirmed_date": "3/27",
+    "comments_en": "Douglas County Health Department confirmed Friday that a county resident in his 50s has died from COVID-19. The man thought to be the state's first death also suffered from serious underlying health conditions, The man, who had self-quarantined at home since March 11, had contact with a known COVID-19 case out of state.\n\n",
+    "age_range": "50+",
+    "gender": "男",
+    "comments": "内布拉斯加首例死亡，50多岁男性居民。有外州旅行史。"
   }
 ]
