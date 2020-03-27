@@ -8754,6 +8754,12 @@
     "county": "Garland"
   },
   {
+    "people_count": 1,
+    "confirmed_date": "3/15",
+    "state_name": "IL",
+    "county": "Champaign"
+  },
+  {
     "confirmed_date": "3/16",
     "people_count": 1,
     "state_name": "OK",
@@ -18142,6 +18148,12 @@
     "people_count": 1,
     "state_name": "AR",
     "county": "Faulkner"
+  },
+  {
+    "people_count": 1,
+    "confirmed_date": "3/19",
+    "county": "Williamson",
+    "state_name": "IL"
   },
   {
     "confirmed_date": "3/20",
@@ -29620,12 +29632,6 @@
     "people_count": 1,
     "state_name": "TX",
     "county": "Grayson"
-  },
-  {
-    "confirmed_date": "3/22",
-    "people_count": 1,
-    "state_name": "IL",
-    "county": "Champaign"
   },
   {
     "confirmed_date": "3/22",
@@ -50304,12 +50310,6 @@
     "state_name": "IL"
   },
   {
-    "people_count": 1,
-    "confirmed_date": "3/26",
-    "county": "Williamson",
-    "state_name": "IL"
-  },
-  {
     "people_count": 15,
     "state_name": "ID",
     "county": "Ada",
@@ -50638,5 +50638,17 @@
     "confirmed_date": "3/26",
     "state_name": "PA",
     "county": "Bucks"
+  },
+  {
+    "people_count": 1,
+    "confirmed_date": "3/26",
+    "state_name": "NV",
+    "county": "Humboldt"
+  },
+  {
+    "confirmed_date": "3/26",
+    "people_count": 4,
+    "state_name": "TX",
+    "county": "Nueces"
   }
 ]
