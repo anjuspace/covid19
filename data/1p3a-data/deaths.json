@@ -9468,6 +9468,18 @@
     ]
   },
   {
+    "die_count": 1,
+    "full_links": [
+      "https://5ad2f38c-85c6-4702-b0a8-4b8a6b4c1687.filesusr.com/ugd/9bf4fe_0b22805739ed46eeb324acb179d0b2cb.pdf"
+    ],
+    "confirmed_date": "3/25",
+    "state_name": "IN",
+    "county": "Madison",
+    "comments_en": "Madison County Health Department announced today the first death from the novel coronavirus (COVID-19). The individual was an older male from Madison County. The man from Madison County died at a Hamilton County hospital on March 25, 2020. The person, who was over 70, had been hospitalized as a COVID-19 patient. No further information about the patient will be released due to privacy laws",
+    "gender": "男",
+    "age_range": "70+"
+  },
+  {
     "confirmed_date": "3/26",
     "gender": "男",
     "comments_en": "According to Dep. Coroner Andy Boersma, the CDC released information that the person who died was a male from DeMotte and was hospitalized in Lake County.",
@@ -10904,6 +10916,42 @@
   },
   {
     "die_count": 1,
+    "full_links": [
+      "https://whotv.com/news/2-more-deaths-56-new-covid-19-cases-diagnosed-in-iowa/?fbclid=IwAR3R6eWtlsRwdz6o2Zu_BGvhKx1wx80Zo50xLzGP7UtQng8vjURh6H0JXac",
+      "https://www.kcrg.com/content/news/Two-more-coronavirus-related-deaths-in-eastern-Iowa-56-additional-positive-cases-569161991.html"
+    ],
+    "confirmed_date": "3/26",
+    "state_name": "IA",
+    "county": "Poweshiek",
+    "comments_en": "According to the IDPH, two Iowans with COVID-19 passed away Thursday night. One elderly adult (81+ years) from Poweshiek County and one older adult (61-80 years) from Allamakee County. Three people, in total, have died from coronavirus in Iowa to date.",
+    "comments": "一位80多岁老人，来自Poweshiek，于周四晚上去世。"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://whotv.com/news/2-more-deaths-56-new-covid-19-cases-diagnosed-in-iowa/?fbclid=IwAR3R6eWtlsRwdz6o2Zu_BGvhKx1wx80Zo50xLzGP7UtQng8vjURh6H0JXac",
+      "https://www.kcrg.com/content/news/Two-more-coronavirus-related-deaths-in-eastern-Iowa-56-additional-positive-cases-569161991.html"
+    ],
+    "confirmed_date": "3/26",
+    "state_name": "IA",
+    "county": "Allamakee",
+    "comments_en": "According to the IDPH, two Iowans with COVID-19 passed away Thursday night. One elderly adult (81+ years) from Poweshiek County and one older adult (61-80 years) from Allamakee County. Three people, in total, have died from coronavirus in Iowa to date.",
+    "comments": "一位61-80岁老人，来自Allamakee，于周四晚上去世。"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.fox19.com/2020/03/27/first-reported-covid-death-dearborn-county/"
+    ],
+    "confirmed_date": "3/26",
+    "state_name": "IN",
+    "county": "Dearborn",
+    "comments_en": "Dearborn County reported its first COVID-19-related death Thursday evening, according to Dearborn County Coroner Steven Callahan.\nCallahan says the death is an 83-year-old man with “significant underlying conditions.”",
+    "age_range": "80+",
+    "gender": "男"
+  },
+  {
+    "die_count": 1,
     "state_name": "PR",
     "county": "Puerto Rico",
     "full_links": [
@@ -11133,5 +11181,234 @@
     "confirmed_date": "3/27",
     "state_name": "OK",
     "county": "Creek"
+  },
+  {
+    "die_count": 1,
+    "state_name": "PA",
+    "county": "Delaware",
+    "full_links": [
+      "https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx"
+    ],
+    "confirmed_date": "3/27"
+  },
+  {
+    "die_count": 1,
+    "state_name": "PA",
+    "county": "Lehigh",
+    "full_links": [
+      "https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx"
+    ],
+    "confirmed_date": "3/27"
+  },
+  {
+    "die_count": 1,
+    "state_name": "PA",
+    "county": "Luzerne",
+    "full_links": [
+      "https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx"
+    ],
+    "confirmed_date": "3/27"
+  },
+  {
+    "die_count": 1,
+    "state_name": "PA",
+    "county": "Philadelphia",
+    "full_links": [
+      "https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx"
+    ],
+    "confirmed_date": "3/27"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.wndu.com/content/news/St-Joseph-County-announces-first-coronavirus-death-569134401.html"
+    ],
+    "confirmed_date": "3/27",
+    "state_name": "IN",
+    "county": "St. Joseph",
+    "comments_en": "St. Joseph County health officials are announcing the county's first death from coronavirus. The patient, a man in his 80s, had multiple underlying medical conditions.",
+    "age_range": "80+",
+    "gender": "男"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.maine.gov/dhhs/press-release.shtml?id=2293683"
+    ],
+    "confirmed_date": "3/27",
+    "state_name": "ME",
+    "county": "Cumberland",
+    "comments_en": "The Maine Center for Disease Control and Prevention (Maine CDC) today reported the first death of an individual who had tested positive for the disease caused by the 2019 novel coronavirus (COVID-19). The individual was a man in his 80s from Cumberland County. Due to privacy laws, Maine CDC is limited in releasing further details.",
+    "gender": "男",
+    "age_range": "80+"
+  },
+  {
+    "die_count": 5,
+    "full_links": [
+      "https://www.azdhs.gov/preparedness/epidemiology-disease-control/infectious-disease-epidemiology/index.php#novel-coronavirus-home"
+    ],
+    "state_name": "AZ",
+    "county": "Unassigned",
+    "confirmed_date": "3/27",
+    "comments": "3/27 亚利桑那州 新增5例死亡病例，具体待查， 累计13例死亡病例。",
+    "comments_en": "AZ adds 5 more deaths, total death cases 13."
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "confirmed_date": "3/27",
+    "state_name": "LA",
+    "county": "Acadia"
+  },
+  {
+    "die_count": 1,
+    "state_name": "LA",
+    "county": "Caddo",
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "confirmed_date": "3/27"
+  },
+  {
+    "die_count": 12,
+    "state_name": "LA",
+    "county": "Jefferson",
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "confirmed_date": "3/27"
+  },
+  {
+    "die_count": 1,
+    "state_name": "LA",
+    "county": "Lafourche",
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "confirmed_date": "3/27"
+  },
+  {
+    "die_count": 11,
+    "state_name": "LA",
+    "county": "Orleans",
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "confirmed_date": "3/27"
+  },
+  {
+    "die_count": 2,
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "confirmed_date": "3/27",
+    "state_name": "LA",
+    "county": "Plaquemines"
+  },
+  {
+    "die_count": 2,
+    "state_name": "LA",
+    "county": "St. James",
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "confirmed_date": "3/27"
+  },
+  {
+    "die_count": 1,
+    "state_name": "LA",
+    "county": "St. John the Baptist",
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "confirmed_date": "3/27"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "confirmed_date": "3/27",
+    "state_name": "LA",
+    "county": "St. Tammany"
+  },
+  {
+    "die_count": 3,
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "confirmed_date": "3/27",
+    "state_name": "LA",
+    "county": "St. Martin"
+  },
+  {
+    "confirmed_date": "3/27",
+    "die_count": 1,
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "state_name": "LA",
+    "county": "Terrebonne"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.in.gov/isdh/28470.htm?utm_source=agency-website&utm_medium=&utm_campaign=&utm_term=&utm_content="
+    ],
+    "confirmed_date": "3/27",
+    "state_name": "IN",
+    "county": "Hendricks",
+    "age_range": "Unknown",
+    "gender": "Unknown",
+    "comments_en": "Hendricks County, IN reported its first two deaths. No further detail right now."
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.in.gov/isdh/28470.htm?utm_source=agency-website&utm_medium=&utm_campaign=&utm_term=&utm_content="
+    ],
+    "confirmed_date": "3/27",
+    "state_name": "IN",
+    "county": "Hendricks",
+    "age_range": "Unknown",
+    "gender": "Unknown",
+    "comments_en": "Hendricks County, IN reported its first two deaths. No further detail right now."
+  },
+  {
+    "die_count": 1,
+    "state_name": "IN",
+    "county": "Marion",
+    "full_links": [
+      "https://www.in.gov/isdh/28470.htm?utm_source=agency-website&utm_medium=&utm_campaign=&utm_term=&utm_content="
+    ],
+    "confirmed_date": "3/27",
+    "age_range": "Unknown",
+    "gender": "Unknown",
+    "comments_en": "By 3/27, Marion County, IN, reported 8 death in total. No further detail right now."
+  },
+  {
+    "die_count": 1,
+    "state_name": "IN",
+    "county": "Marion",
+    "full_links": [
+      "https://www.in.gov/isdh/28470.htm?utm_source=agency-website&utm_medium=&utm_campaign=&utm_term=&utm_content="
+    ],
+    "confirmed_date": "3/27",
+    "age_range": "Unknown",
+    "gender": "Unknown",
+    "comments_en": "By 3/27, Marion County, IN, reported 8 death in total. No further detail right now."
+  },
+  {
+    "confirmed_date": "3/27",
+    "comments": "堪萨斯州Wyandotte第3例死亡，暂无详细信息。",
+    "comments_en": "A third person has now died in Wyandotte County of COVID-19. The Unified Government of Wyandotte County/Kansas City, Kansas Public Health Department confirmed the news Friday 3/27 morning.",
+    "die_count": 1,
+    "state_name": "KS",
+    "county": "Wyandotte",
+    "full_links": [
+      "https://fox4kc.com/tracking-coronavirus/health-officials-confirm-third-covid-19-death-in-wyandotte-county/"
+    ]
   }
 ]
