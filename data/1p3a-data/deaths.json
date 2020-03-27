@@ -2971,20 +2971,6 @@
   {
     "confirmed_date": "3/20",
     "gender": "Unknown",
-    "comments": "南卡Charleston County 新增一例，于3/20晚些时候死亡。",
-    "comments_en": "Charleston County reported 1 cases in this area and was passed away later tonight.",
-    "die_count": 1,
-    "age_range": "Unknown",
-    "state_name": "SC",
-    "county": "Charleston",
-    "full_links": [
-      "https://www.scdhec.gov/news-releases/dhec-announces-45-additional-cases-2019-novel-coronavirus-south-carolina",
-      "https://www.scdhec.gov/news-releases/state-south-carolina-reports-two-covid-19-related-deaths"
-    ]
-  },
-  {
-    "confirmed_date": "3/20",
-    "gender": "Unknown",
     "comments": "南卡3/20Florence新增1例。于晚上去世。",
     "comments_en": "Florence County: 1 new case. Update: this patient was an elderly person with an underlying health condition from Florence County. This patient is repoted to passed away.",
     "die_count": 1,
@@ -11747,6 +11733,32 @@
     "confirmed_date": "3/27",
     "die_count": 2,
     "state_name": "MN",
-    "county": "Unassigned"
+    "county": "Unassigned",
+    "comments_en": "2 more people have died from the coronavirus in Minnesota, bringing the total number of deaths in the state to 4."
+  },
+  {
+    "full_links": [
+      "https://www.al.com/news/2020/03/3-coronavirus-deaths-in-alabama-what-we-know.html"
+    ],
+    "confirmed_date": "3/27",
+    "die_count": 1,
+    "state_name": "AL",
+    "county": "Mobile",
+    "comments_en": "The Mobile County Health Department reported the death of a 66-year-old man from coronavirus. The man had under underlying health conditions and had recently traveled out of state.\n\n",
+    "gender": "男",
+    "age_range": "60+"
+  },
+  {
+    "full_links": [
+      "https://coronavirus-dashboard.utah.gov/",
+      "https://www.deseret.com/utah/2020/3/27/21197052/covid19-cases-coronavirus-stay-at-home-order-governor-herbert-uintah-san-juan-county"
+    ],
+    "confirmed_date": "3/27",
+    "die_count": 1,
+    "state_name": "UT",
+    "county": "Uintah",
+    "gender": "男",
+    "age_range": "Unknown",
+    "comments_en": "Utah’s 2nd COVID-19 death was confirmed Friday in the Uinta Basin. The man, described only as between the ages of 18 and 60, contracted the virus through community spread while visiting the Wasatch Front."
   }
 ]
