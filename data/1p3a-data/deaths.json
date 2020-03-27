@@ -6334,14 +6334,14 @@
   },
   {
     "confirmed_date": "3/23",
-    "comments": "3/23 南卡Kershaw County新增死亡一例。",
-    "comments_en": "Two more deaths in SC. One was an elderly person from Kershaw County who also had underlying health conditions.",
     "die_count": 1,
-    "state_name": "SC",
-    "county": "Kershaw",
     "full_links": [
       "https://www.wltx.com/article/news/health/coronavirus/coronavirus-deaths-south-carolina/101-36b1149a-6557-4a7d-8669-c04630342a81"
-    ]
+    ],
+    "comments_en": "Two more deaths in SC. One was an elderly person from Kershaw County who also had underlying health conditions.",
+    "comments": "3/23 南卡Kershaw County新增死亡一例。",
+    "state_name": "SC",
+    "county": "Kershaw"
   },
   {
     "confirmed_date": "3/23",
@@ -6833,7 +6833,8 @@
     "full_links": [
       "https://www.kshb.com/news/coronavirus/covid-19-case-tracker-where-we-stand-in-mo-ks-nationwide",
       "https://www.sccmo.org/2105/COVID-19"
-    ]
+    ],
+    "age_range": "70+"
   },
   {
     "confirmed_date": "3/23",
@@ -9057,7 +9058,7 @@
     "full_links": [
       "341.html",
       "21902",
-      "https://msdh.ms.gov/msdhsite/_static/23"
+      "https://msdh.ms.gov/msdhsite/_static/23,21905,341.html"
     ]
   },
   {
@@ -9072,7 +9073,7 @@
     "full_links": [
       "341.html",
       "21902",
-      "https://msdh.ms.gov/msdhsite/_static/23"
+      "https://msdh.ms.gov/msdhsite/_static/23,21905,341.html"
     ]
   },
   {
@@ -9239,6 +9240,19 @@
     "comments_en": "Buffalo, NY (WBEN) Erie County records its second death as a result of coronavirus. The county says a man in his 70s died within the past 24 hour. No other details about this individual will be released.",
     "age_range": "70+",
     "gender": "男"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.nbcdfw.com/news/coronavirus/denton-county-judge-to-provide-update-thursday-on-covid-19-efforts/2339531/"
+    ],
+    "confirmed_date": "3/25",
+    "state_name": "TX",
+    "county": "Denton",
+    "comments": "Denton首例死亡。40多岁男性，来自Lewisville，于周三晚上去世，是Denton首例社区传播。",
+    "comments_en": "Denton County Judge Andy Eads says there are 13 new cases of COVID-19 in the county and that a Lewisville man in his 40s is the first person in the county to have died after becoming infected with COVID-19. Few details about the man were released, but Eads said the man died Wednesday night and he was the county's first case of community-transmitted COVID-19.",
+    "gender": "男",
+    "age_range": "40+"
   },
   {
     "confirmed_date": "3/26",
@@ -9479,15 +9493,15 @@
     "county": "Caddo"
   },
   {
-    "die_count": 1,
     "full_links": [
       "https://dph.georgia.gov/covid-19-daily-status-report"
     ],
     "confirmed_date": "3/26",
     "state_name": "GA",
     "county": "Unassigned",
-    "comments": "3/26 乔治亚州新增1例死亡，累计死亡48例。具体信息待更新。",
-    "comments_en": "3/26, Coronavirus deaths in Georgia reached 48. Placeholder for further information."
+    "comments": "3/26 乔治亚州累计死亡56例。",
+    "comments_en": "3/26, Coronavirus deaths in Georgia reached 5. Placeholder for further information.",
+    "die_count": 9
   },
   {
     "die_count": 1,
@@ -10437,5 +10451,70 @@
     ],
     "state_name": "FL",
     "county": "Hillsborough"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://msdh.ms.gov/msdhsite/_static/23,21905,341.html"
+    ],
+    "confirmed_date": "3/26",
+    "state_name": "MS",
+    "county": "Rankin",
+    "comments_en": "3/26 The Mississippi State Department of Health (MSDH) reports one new death from coronavirus (COVID-19) in Mississippi, bringing the state total to six.\n\nThe case was a Rankin County male 80-85 with underlying conditions. He died while hospitalized.",
+    "comments": "3/26 密西西比州新增死亡一例，该州累计6例死亡。 该死者来自Rankin County，男性，年龄80-85岁。",
+    "gender": "男",
+    "age_range": "80+"
+  },
+  {
+    "die_count": 2,
+    "full_links": [
+      "https://scdhec.gov/infectious-diseases/viruses/coronavirus-disease-2019-covid-19/monitoring-testing-covid-19"
+    ],
+    "confirmed_date": "3/26",
+    "state_name": "SC",
+    "county": "Sumter"
+  },
+  {
+    "confirmed_date": "3/26",
+    "gender": "女",
+    "comments": "密苏里州St. Louis County, MO第2例死亡，系80多岁女性。",
+    "comments_en": "Two deaths. 3/26, St Louis County DPH received notification of a death of a 80-89 female with chronic medical conditions.",
+    "die_count": 1,
+    "age_range": "80+",
+    "state_name": "MO",
+    "county": "St. Louis",
+    "full_links": [
+      "https://www.stlouisco.com/Your-Government/County-Executive/COVID-19"
+    ]
+  },
+  {
+    "die_count": 1,
+    "state_name": "WA",
+    "county": "Pierce",
+    "full_links": [
+      "https://www.tpchd.org/healthy-people/diseases/covid-19-pierce-county-cases"
+    ],
+    "confirmed_date": "3/26",
+    "comments_en": "+1 PST 4:37"
+  },
+  {
+    "die_count": 1,
+    "state_name": "WA",
+    "county": "Pierce",
+    "full_links": [
+      "https://www.tpchd.org/healthy-people/diseases/covid-19-pierce-county-cases"
+    ],
+    "confirmed_date": "3/26",
+    "comments_en": "+1 PST 4:37"
+  },
+  {
+    "die_count": 1,
+    "state_name": "WA",
+    "county": "Yakima",
+    "full_links": [
+      "https://www.doh.wa.gov/Emergencies/Coronavirus"
+    ],
+    "confirmed_date": "3/26",
+    "comments_en": "+1 PST 4:39"
   }
 ]
