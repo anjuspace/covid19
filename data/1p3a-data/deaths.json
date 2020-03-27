@@ -1692,14 +1692,15 @@
   {
     "confirmed_date": "3/18",
     "gender": "女",
-    "comments": "新泽西新增2例死亡病例。Hudson郡1例。60多岁，女性，有基础病史。",
-    "comments_en": "2 new deaths in NJ. The victims were both women over 60 years old and had underlying conditions, Persichillli said. One is from Essex County, the other from Hudson County.",
+    "comments": "新泽西新增2例死亡病例。Hudson郡1例。一个新闻报道说80多岁， 另外一个报道说60多岁，女性，有基础病史。",
+    "comments_en": "2 new deaths in NJ. The victims were both women over 60 years old and had underlying conditions, Persichillli said. One is from Essex County, the other from Hudson County. Another news: \"Woman in her 80s is first Hudson County resident to die from COVID-19, NJ DOH says\". ",
     "die_count": 1,
     "age_range": "60+",
     "state_name": "NJ",
     "county": "Hudson",
     "full_links": [
-      "https://www.nj.com/coronavirus/2020/03/new-jersey-coronavirus-cases-spike-to-at-least-427-with-5-deaths-162-new-positive-tests-announced.html?utm_source=subtext&utm_medium=sms&utm_campaign=coronavirus"
+      "https://www.nj.com/coronavirus/2020/03/new-jersey-coronavirus-cases-spike-to-at-least-427-with-5-deaths-162-new-positive-tests-announced.html?utm_source=subtext&utm_medium=sms&utm_campaign=coronavirus",
+      "https://hudsoncountyview.com/woman-in-her-80s-is-first-hudson-county-resident-to-die-from-covid-19-nj-doh-says/"
     ]
   },
   {
@@ -11099,18 +11100,6 @@
     "comments_en": "San Mateo County  reported 6th death by 3/27 morning."
   },
   {
-    "die_count": 1,
-    "full_links": [
-      "https://dhhr.wv.gov/COVID-19/Pages/default.aspx"
-    ],
-    "confirmed_date": "3/27",
-    "state_name": "WV",
-    "county": "Unassigned",
-    "gender": "Unknown",
-    "age_range": "Unknown",
-    "comments_en": "First death in West Virginia"
-  },
-  {
     "die_count": 57,
     "state_name": "NY",
     "county": "Unassigned",
@@ -11751,14 +11740,438 @@
   {
     "full_links": [
       "https://coronavirus-dashboard.utah.gov/",
-      "https://www.deseret.com/utah/2020/3/27/21197052/covid19-cases-coronavirus-stay-at-home-order-governor-herbert-uintah-san-juan-county"
+      "https://swuhealth.org/wp-content/uploads/2020/03/SWCOVID-19-March-27.pdf"
     ],
     "confirmed_date": "3/27",
     "die_count": 1,
-    "state_name": "UT",
-    "county": "Uintah",
-    "gender": "男",
+    "gender": "女",
     "age_range": "Unknown",
-    "comments_en": "Utah’s 2nd COVID-19 death was confirmed Friday in the Uinta Basin. The man, described only as between the ages of 18 and 60, contracted the virus through community spread while visiting the Wasatch Front."
+    "comments_en": "Utah’s 2nd COVID-19 death was confirmed Friday in the Uintah county. The woman, an older adult under the age of 60, passed away yesterday in a Salt Lake area hospital. ",
+    "state_name": "UT",
+    "county": "TriCounty"
+  },
+  {
+    "die_count": 1,
+    "state_name": "WA",
+    "county": "Clark",
+    "full_links": [
+      "https://www.kptv.com/news/health-officials-report-sixth-covid--death-in-clark-county/article_f39ca7de-705f-11ea-a821-8738c82baa7a.amp.html?utm_medium=social&utm_source=twitter&utm_campaign=user-share&__twitter_impression=true"
+    ],
+    "confirmed_date": "3/27",
+    "comments_en": "CLARK COUNTY, WA (KPTV) - Clark County Public Health announced another death from COVID-19, bringing the county's death toll to six.\n\nThe latest death was a woman in her 80s. Health officials did not provide information about whether she was previously hospitalized or had contact with a confirmed case.",
+    "gender": "女",
+    "age_range": "80+"
+  },
+  {
+    "die_count": 1,
+    "state_name": "OR",
+    "county": "Marion",
+    "full_links": [
+      "https://www.kezi.com/content/news/Nearly-100-new-coronavirus-cases-in-Oregon-OHA-says-569167421.html?fbclid=IwAR0ae4aKVf24YMsHaTrr7nCDZ3_zdGxYcbT4M7y7fAZXjq67S6zTV7bBepo"
+    ],
+    "confirmed_date": "3/27",
+    "gender": "女",
+    "age_range": "80+"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.tn.gov/health/cedep/ncov.html"
+    ],
+    "confirmed_date": "3/27",
+    "state_name": "TN",
+    "county": "Unassigned",
+    "comments": "田纳西累计出现6例死亡。暂无患者信息。",
+    "comments_en": "As of 3/27, Tennessee reported 6 deaths in total."
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.tn.gov/health/cedep/ncov.html"
+    ],
+    "confirmed_date": "3/27",
+    "state_name": "TN",
+    "county": "Unassigned",
+    "comments": "田纳西累计出现6例死亡。暂无患者信息。",
+    "comments_en": "As of 3/27, Tennessee reported 6 deaths in total."
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.tn.gov/health/cedep/ncov.html"
+    ],
+    "confirmed_date": "3/27",
+    "state_name": "TN",
+    "county": "Unassigned",
+    "comments": "田纳西累计出现6例死亡。暂无患者信息。",
+    "comments_en": "As of 3/27, Tennessee reported 6 deaths in total."
+  },
+  {
+    "die_count": 1,
+    "full_links": [],
+    "confirmed_date": "3/27",
+    "state_name": "NY",
+    "county": "Suffolk",
+    "gender": "男",
+    "age_range": "80+",
+    "comments_en": "A male in his 80s with underlying health conditions who was in mandatory isolation at a local hospital."
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.mass.gov/doc/covid-19-cases-in-massachusetts-as-of-march-27-2020/download"
+    ],
+    "confirmed_date": "3/27",
+    "comments_en": "Male, 60s, Berkshire county, preexisting conditions, hospitalized.",
+    "state_name": "MA",
+    "county": "Berkshire",
+    "gender": "男",
+    "age_range": "60+",
+    "comments": "60多岁男性，患有基础疾病，住院。"
+  },
+  {
+    "die_count": 1,
+    "full_links": [],
+    "confirmed_date": "3/27",
+    "state_name": "NY",
+    "county": "Suffolk",
+    "gender": "女",
+    "comments_en": "A female in her 80s with underlying health conditions who was in mandatory isolation at a local hospital.",
+    "age_range": "80+"
+  },
+  {
+    "confirmed_date": "3/27",
+    "full_links": [
+      "https://www.mass.gov/doc/covid-19-cases-in-massachusetts-as-of-march-27-2020/download"
+    ],
+    "comments_en": "Female, 80s, Norfolk county, unknown preexisting condition, hospitalization unknown.",
+    "die_count": 1,
+    "state_name": "MA",
+    "county": "Norfolk",
+    "gender": "女",
+    "age_range": "80+",
+    "comments": "80多岁女性，尚不清楚是否患有基础疾病以及是否住院。"
+  },
+  {
+    "die_count": 1,
+    "full_links": [],
+    "confirmed_date": "3/27",
+    "state_name": "NY",
+    "county": "Suffolk",
+    "gender": "女",
+    "comments_en": "A female in her 90s with underlying health conditions who was in mandatory isolation at a local hospital.",
+    "age_range": "90+"
+  },
+  {
+    "die_count": 1,
+    "full_links": [],
+    "confirmed_date": "3/27",
+    "state_name": "NY",
+    "county": "Suffolk",
+    "gender": "男",
+    "comments_en": "A male in his 40s with underlying health conditions who was in mandatory isolation at a local hospital.",
+    "age_range": "40+"
+  },
+  {
+    "die_count": 1,
+    "full_links": [],
+    "confirmed_date": "3/27",
+    "state_name": "NY",
+    "county": "Suffolk",
+    "gender": "女",
+    "comments_en": "A female in her 80s with underlying health conditions who was in mandatory isolation at a local hospital.",
+    "age_range": "80+"
+  },
+  {
+    "confirmed_date": "3/27",
+    "die_count": 1,
+    "full_links": [
+      "https://www.mass.gov/doc/covid-19-cases-in-massachusetts-as-of-march-27-2020/download"
+    ],
+    "comments_en": "Female, 80s, Norfolk county, unknown preexisting condition, hospitalized.",
+    "state_name": "MA",
+    "county": "Norfolk",
+    "gender": "女",
+    "age_range": "80+",
+    "comments": "80多岁女性，尚不清楚是否患有基础疾病，住院。"
+  },
+  {
+    "die_count": 1,
+    "full_links": [],
+    "confirmed_date": "3/27",
+    "state_name": "NY",
+    "county": "Suffolk",
+    "gender": "女",
+    "comments_en": "A female in her 80s with underlying health conditions who was in mandatory isolation at a local hospital.",
+    "age_range": "80+"
+  },
+  {
+    "confirmed_date": "3/27",
+    "die_count": 1,
+    "full_links": [
+      "https://www.mass.gov/doc/covid-19-cases-in-massachusetts-as-of-march-27-2020/download"
+    ],
+    "comments_en": "Female, 80s, Norfolk county, preexisting conditions, hospitalization unknown.",
+    "state_name": "MA",
+    "county": "Norfolk",
+    "gender": "女",
+    "age_range": "80+",
+    "comments": "80多岁女性，患有基础疾病，尚不清楚是否住院。"
+  },
+  {
+    "confirmed_date": "3/27",
+    "die_count": 1,
+    "full_links": [
+      "https://www.mass.gov/doc/covid-19-cases-in-massachusetts-as-of-march-27-2020/download"
+    ],
+    "comments_en": "Female, 90s, Berkshire county, unknown preexisting condition, hospitalized.",
+    "state_name": "MA",
+    "county": "Berkshire",
+    "gender": "女",
+    "age_range": "90+",
+    "comments": "90多岁女性，尚不清楚是否患有基础疾病，住院。"
+  },
+  {
+    "confirmed_date": "3/27",
+    "die_count": 1,
+    "full_links": [
+      "https://www.mass.gov/doc/covid-19-cases-in-massachusetts-as-of-march-27-2020/download"
+    ],
+    "comments_en": "Male, 60s, Norfolk county, unknown preexisting condition, hospitalization unknown.",
+    "state_name": "MA",
+    "county": "Norfolk",
+    "gender": "男",
+    "age_range": "60+",
+    "comments": "60多岁男性，尚不清楚是否患有基础疾病以及是否住院。"
+  },
+  {
+    "confirmed_date": "3/27",
+    "die_count": 1,
+    "full_links": [
+      "https://www.mass.gov/doc/covid-19-cases-in-massachusetts-as-of-march-27-2020/download"
+    ],
+    "comments_en": "Female, 90s, Franklin county, unknown preexisting condition, hospitalization unknown.",
+    "state_name": "MA",
+    "county": "Franklin",
+    "gender": "女",
+    "age_range": "90+",
+    "comments": "90多岁女性，尚不清楚是否患有基础疾病以及是否住院。"
+  },
+  {
+    "confirmed_date": "3/27",
+    "die_count": 1,
+    "full_links": [
+      "https://www.mass.gov/doc/covid-19-cases-in-massachusetts-as-of-march-27-2020/download"
+    ],
+    "comments_en": "Male, 80s, Middlesex county, preexisting conditions, hospitalization unknown.",
+    "state_name": "MA",
+    "county": "Middlesex",
+    "gender": "男",
+    "age_range": "80+",
+    "comments": "80多岁男性，患有基础疾病，尚不清楚是否住院。"
+  },
+  {
+    "confirmed_date": "3/27",
+    "die_count": 1,
+    "full_links": [
+      "https://www.mass.gov/doc/covid-19-cases-in-massachusetts-as-of-march-27-2020/download"
+    ],
+    "comments_en": "Male, 90s, Barnstable county\nunknown preexisting condition,\nhospitalized.",
+    "state_name": "MA",
+    "county": "Barnstable",
+    "gender": "男",
+    "age_range": "90+",
+    "comments": "90多岁男性，尚不清楚是否患有基础疾病，住院。"
+  },
+  {
+    "die_count": 1,
+    "full_links": [],
+    "confirmed_date": "3/27",
+    "state_name": "NY",
+    "county": "Suffolk",
+    "gender": "男",
+    "comments_en": "A male in his 60s with underlying health conditions who was in mandatory isolation at a local hospital.",
+    "age_range": "60+"
+  },
+  {
+    "die_count": 1,
+    "full_links": [],
+    "confirmed_date": "3/27",
+    "state_name": "NY",
+    "county": "Suffolk",
+    "gender": "女",
+    "comments_en": "A female in her 80s with underlying health conditions who was in mandatory isolation at a local hospital."
+  },
+  {
+    "die_count": 2,
+    "state_name": "MI",
+    "county": "Genesee",
+    "full_links": [
+      "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html"
+    ],
+    "confirmed_date": "3/27"
+  },
+  {
+    "confirmed_date": "3/27",
+    "die_count": 1,
+    "full_links": [
+      "https://www.mass.gov/doc/covid-19-cases-in-massachusetts-as-of-march-27-2020/download"
+    ],
+    "comments_en": "Female, 90s, Bristol county, preexisting conditions, hospitalization unknown.",
+    "state_name": "MA",
+    "county": "Bristol",
+    "gender": "女",
+    "age_range": "90+",
+    "comments": "90多岁女性，患有基础疾病，尚不清楚是否住院。"
+  },
+  {
+    "die_count": 3,
+    "state_name": "MI",
+    "county": "Macomb",
+    "full_links": [
+      "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html"
+    ],
+    "confirmed_date": "3/27"
+  },
+  {
+    "die_count": 11,
+    "state_name": "MI",
+    "county": "Oakland",
+    "full_links": [
+      "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html"
+    ],
+    "confirmed_date": "3/27"
+  },
+  {
+    "die_count": 6,
+    "state_name": "MI",
+    "county": "Wayne",
+    "full_links": [
+      "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html"
+    ],
+    "confirmed_date": "3/27",
+    "comments_en": "Wayne in total 14 by 3/27"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "http://www.publichealth.lacounty.gov/media/Coronavirus/"
+    ],
+    "confirmed_date": "3/27",
+    "state_name": "CA",
+    "county": "Los Angeles",
+    "comments": "3/27 洛杉矶新增死亡5例，其中一例。",
+    "comments_en": "Los Angeles County has confirmed 5 new deaths, placeholder."
+  },
+  {
+    "confirmed_date": "3/27",
+    "comments": "3/27 洛杉矶新增死亡5例，其中一例。",
+    "comments_en": "Los Angeles County has confirmed 5 new deaths, placeholder.",
+    "die_count": 1,
+    "state_name": "CA",
+    "county": "Los Angeles",
+    "full_links": [
+      "http://www.publichealth.lacounty.gov/media/Coronavirus/"
+    ]
+  },
+  {
+    "confirmed_date": "3/27",
+    "comments": "3/27 洛杉矶新增死亡5例，其中一例。",
+    "comments_en": "Los Angeles County has confirmed 5 new deaths, placeholder.",
+    "die_count": 1,
+    "state_name": "CA",
+    "county": "Los Angeles",
+    "full_links": [
+      "http://www.publichealth.lacounty.gov/media/Coronavirus/"
+    ]
+  },
+  {
+    "confirmed_date": "3/27",
+    "comments": "3/27 洛杉矶新增死亡5例，其中一例。",
+    "comments_en": "Los Angeles County has confirmed 5 new deaths, placeholder.",
+    "die_count": 1,
+    "state_name": "CA",
+    "county": "Los Angeles",
+    "full_links": [
+      "http://www.publichealth.lacounty.gov/media/Coronavirus/"
+    ]
+  },
+  {
+    "die_count": 5,
+    "state_name": "MI",
+    "county": "Wayne",
+    "full_links": [
+      "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html"
+    ],
+    "confirmed_date": "3/27",
+    "comments_en": "Detroit in total 23 by 3/27"
+  },
+  {
+    "confirmed_date": "3/27",
+    "comments": "3/27 洛杉矶新增死亡5例，其中一例。",
+    "comments_en": "Los Angeles County has confirmed 5 new deaths, placeholder.",
+    "die_count": 1,
+    "state_name": "CA",
+    "county": "Los Angeles",
+    "full_links": [
+      "http://www.publichealth.lacounty.gov/media/Coronavirus/"
+    ]
+  },
+  {
+    "full_links": [
+      "https://bismarcktribune.com/news/local/health/north-dakota-has-first-covid--death/article_8bc9a234-7249-5ca2-a981-8b442645a25a.html#tracking-source=home-top-story"
+    ],
+    "die_count": 1,
+    "confirmed_date": "3/27",
+    "state_name": "ND",
+    "county": "Cass",
+    "gender": "男",
+    "age_range": "90+",
+    "comments_en": "A Cass County man in his 90s has died of COVID-19. The man had underlying health conditions and became infected through community spread."
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html"
+    ],
+    "state_name": "MI",
+    "county": "Gogebic",
+    "confirmed_date": "3/27"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html"
+    ],
+    "state_name": "MI",
+    "county": "Ingham",
+    "confirmed_date": "3/27"
+  },
+  {
+    "die_count": 6,
+    "state_name": "GA",
+    "county": "Dougherty",
+    "full_links": [
+      "https://www.usnews.com/news/best-states/georgia/articles/2020-03-27/coronavirus-infections-exceed-2-000-in-georgia-deaths-at-64"
+    ],
+    "confirmed_date": "3/27"
+  },
+  {
+    "die_count": 2,
+    "full_links": [
+      "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html"
+    ],
+    "state_name": "MI",
+    "county": "Muskegon",
+    "confirmed_date": "3/27"
+  },
+  {
+    "die_count": 2,
+    "state_name": "GA",
+    "county": "Unassigned",
+    "full_links": [
+      "https://www.usnews.com/news/best-states/georgia/articles/2020-03-27/coronavirus-infections-exceed-2-000-in-georgia-deaths-at-64"
+    ],
+    "confirmed_date": "3/27"
   }
 ]
