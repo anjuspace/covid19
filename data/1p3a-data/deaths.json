@@ -12556,5 +12556,74 @@
     ],
     "confirmed_date": "3/27",
     "comments_en": "Pierce reported 5 deaths by 3/27."
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.scdhec.gov/infectious-diseases/viruses/coronavirus-disease-2019-covid-19/monitoring-testing-covid-19"
+    ],
+    "confirmed_date": "3/27",
+    "state_name": "SC",
+    "county": "Charleston"
+  },
+  {
+    "die_count": 1,
+    "state_name": "SC",
+    "county": "Florence",
+    "full_links": [
+      "https://www.scdhec.gov/infectious-diseases/viruses/coronavirus-disease-2019-covid-19/monitoring-testing-covid-19"
+    ],
+    "confirmed_date": "3/27"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.wave3.com/2020/03/27/beshear-confirms-new-cases/"
+    ],
+    "confirmed_date": "3/27",
+    "state_name": "KY",
+    "county": "Fayette",
+    "comments_en": "At his daily briefing Friday, the Beshear also reported two more deaths -- a 75-year-old woman from Fayette County ",
+    "gender": "女",
+    "age_range": "70+"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.scdhec.gov/infectious-diseases/viruses/coronavirus-disease-2019-covid-19/monitoring-testing-covid-19"
+    ],
+    "confirmed_date": "3/27",
+    "state_name": "SC",
+    "county": "Greenville"
+  },
+  {
+    "die_count": 1,
+    "state_name": "SC",
+    "county": "Kershaw",
+    "full_links": [
+      "https://www.scdhec.gov/infectious-diseases/viruses/coronavirus-disease-2019-covid-19/monitoring-testing-covid-19"
+    ],
+    "confirmed_date": "3/27"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.wave3.com/2020/03/27/beshear-confirms-new-cases/"
+    ],
+    "confirmed_date": "3/27",
+    "comments_en": "At his daily briefing Friday, the Beshear also reported two more deaths --a 77-year-old man from Hopkins County",
+    "state_name": "KY",
+    "county": "Hopkins",
+    "gender": "男",
+    "age_range": "70+"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.scdhec.gov/infectious-diseases/viruses/coronavirus-disease-2019-covid-19/monitoring-testing-covid-19"
+    ],
+    "confirmed_date": "3/27",
+    "state_name": "SC",
+    "county": "Richland"
   }
 ]

@@ -49645,12 +49645,6 @@
   },
   {
     "confirmed_date": "3/26",
-    "people_count": 1,
-    "state_name": "GA",
-    "county": "Laurens"
-  },
-  {
-    "confirmed_date": "3/26",
     "people_count": 2,
     "state_name": "GA",
     "county": "Sumter"
@@ -55762,5 +55756,41 @@
     "state_name": "SC",
     "county": "Spartanburg",
     "confirmed_date": "3/27"
+  },
+  {
+    "state_name": "NC",
+    "county": "Gaston",
+    "people_count": 5,
+    "confirmed_date": "3/27"
+  },
+  {
+    "confirmed_date": "3/27",
+    "people_count": 1,
+    "state_name": "NC",
+    "county": "Transylvania"
+  },
+  {
+    "confirmed_date": "3/27",
+    "people_count": 1,
+    "state_name": "NC",
+    "county": "Craven"
+  },
+  {
+    "people_count": 6,
+    "state_name": "WA",
+    "county": "Whatcom",
+    "confirmed_date": "3/27"
+  },
+  {
+    "confirmed_date": "3/27",
+    "people_count": 15,
+    "state_name": "TX",
+    "county": "Fort Bend"
+  },
+  {
+    "people_count": 51,
+    "confirmed_date": "3/27",
+    "state_name": "CA",
+    "county": "Sacramento"
   }
 ]
