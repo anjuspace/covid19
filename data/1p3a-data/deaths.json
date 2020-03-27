@@ -2759,19 +2759,6 @@
   },
   {
     "confirmed_date": "3/19",
-    "gender": "女",
-    "comments": "Leon County报告死亡一例，死者系48岁女性，不是佛罗里达州的居民。",
-    "comments_en": "First death in Leon County. The death case is a 48-year-old female who is not the resident of FL.",
-    "die_count": 1,
-    "age_range": "40+",
-    "state_name": "FL",
-    "county": "Leon",
-    "full_links": [
-      "https://www.tallahassee.com/story/news/2020/03/18/florida-coronavirus-leon-county-case-covid-19/5023089002/"
-    ]
-  },
-  {
-    "confirmed_date": "3/19",
     "gender": "男",
     "comments": "Lee County 第三例死亡，系67岁男性。",
     "comments_en": "The third death in Lee County, a 67 year old male.",
@@ -10897,6 +10884,26 @@
   },
   {
     "die_count": 1,
+    "full_links": [
+      "https://msdh.ms.gov/msdhsite/_static/14,0,420.html"
+    ],
+    "confirmed_date": "3/26",
+    "state_name": "MS",
+    "county": "Harrison",
+    "comments_en": "By 3/26 6:00PM, Harrison County confirmed the first death."
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://msdh.ms.gov/msdhsite/_static/14,0,420.html"
+    ],
+    "confirmed_date": "3/26",
+    "state_name": "MS",
+    "county": "Tippah",
+    "comments_en": "By 3/26 6:00PM, Tippah County confirmed the first death."
+  },
+  {
+    "die_count": 1,
     "state_name": "PR",
     "county": "Puerto Rico",
     "full_links": [
@@ -10991,7 +10998,7 @@
     "gender": "Unknown"
   },
   {
-    "die_count": 0,
+    "die_count": 1,
     "full_links": [
       "https://www.johnstonnc.com/content.cfm?id=1448"
     ],
@@ -11011,5 +11018,120 @@
     ],
     "confirmed_date": "3/27",
     "comments_en": "By 3/27, Arkansas has 3 deaths."
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.washingtonpost.com/dc-md-va/2020/03/27/coronavirus-dc-maryland-virginia-updates/"
+    ],
+    "confirmed_date": "3/27",
+    "state_name": "MD",
+    "county": "Unassigned",
+    "comments_en": "fifth death reported in Md."
+  },
+  {
+    "die_count": 1,
+    "state_name": "CA",
+    "county": "San Mateo",
+    "full_links": [
+      "https://www.smchealth.org/coronavirus"
+    ],
+    "confirmed_date": "3/27",
+    "comments_en": "San Mateo County  reported 6th death by 3/27 morning."
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://dhhr.wv.gov/COVID-19/Pages/default.aspx"
+    ],
+    "confirmed_date": "3/27",
+    "state_name": "WV",
+    "county": "Unassigned",
+    "gender": "Unknown",
+    "age_range": "Unknown",
+    "comments_en": "First death in West Virginia"
+  },
+  {
+    "die_count": 58,
+    "state_name": "NY",
+    "county": "Unassigned",
+    "full_links": [
+      "https://www.nytimes.com/2020/03/27/nyregion/coronavirus-new-york-update.html"
+    ],
+    "confirmed_date": "3/27",
+    "comments_en": "By 3/27 noon, New York reoorted 519 total deaths, placeholder."
+  },
+  {
+    "die_count": 2,
+    "state_name": "FL",
+    "county": "Broward",
+    "full_links": [
+      "https://experience.arcgis.com/experience/96dd742462124fa0b38ddedb9b25e429"
+    ],
+    "confirmed_date": "3/27"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://experience.arcgis.com/experience/96dd742462124fa0b38ddedb9b25e429"
+    ],
+    "confirmed_date": "3/27",
+    "state_name": "FL",
+    "county": "Miami-Dade"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://experience.arcgis.com/experience/96dd742462124fa0b38ddedb9b25e429"
+    ],
+    "confirmed_date": "3/27",
+    "state_name": "FL",
+    "county": "Highlands"
+  },
+  {
+    "die_count": 1,
+    "state_name": "FL",
+    "county": "Lee",
+    "full_links": [
+      "https://experience.arcgis.com/experience/96dd742462124fa0b38ddedb9b25e429"
+    ],
+    "confirmed_date": "3/27"
+  },
+  {
+    "die_count": 1,
+    "state_name": "FL",
+    "county": "Sarasota",
+    "full_links": [
+      "https://experience.arcgis.com/experience/96dd742462124fa0b38ddedb9b25e429"
+    ],
+    "confirmed_date": "3/27"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://experience.arcgis.com/experience/96dd742462124fa0b38ddedb9b25e429"
+    ],
+    "confirmed_date": "3/27",
+    "state_name": "FL",
+    "county": "St. Lucie"
+  },
+  {
+    "die_count": 1,
+    "state_name": "CA",
+    "county": "San Francisco",
+    "full_links": [
+      "https://www.sfdph.org/dph/alerts/coronavirus.asp"
+    ],
+    "confirmed_date": "3/27",
+    "comments_en": "San Francisco reported 3rd death by 3/27 morning."
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://coronavirus.health.ok.gov/"
+    ],
+    "confirmed_date": "3/27",
+    "state_name": "OK",
+    "county": "Creek"
   }
 ]
