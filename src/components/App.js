@@ -354,6 +354,8 @@ class App extends Component {
                                                 <NewsPanel {...this.state} />
                                             )}
                                         </Row>
+                                        <div className="footer-placeholder" />
+                                        <div className="footer-placeholder" />
                                     </Col>
                                 )}
                             </Row>
