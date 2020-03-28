@@ -13394,8 +13394,6 @@
     "comments_en": "Houston Health Department has identified the second individual to die by COVID-19 virus as a woman in her 70s with underlying health conditions. She passed away at a local hospital March 27."
   },
   {
-    "state_name": "WA",
-    "county": "Skagit",
     "full_links": [
       "https://www.khq.com/coronavirus/public-health-officials-announce-first-covid--death-in-spokane/article_7e9b4c9e-708f-11ea-99e3-4f0e9af22c85.html"
     ],
@@ -13403,7 +13401,9 @@
     "die_count": 1,
     "comments_en": "A Spokane County resident in his has 80s died after testing positive for COVID-19. This is the first death in Spokane County related to the COVID-19 outbreak.",
     "age_range": "80+",
-    "gender": "男"
+    "gender": "男",
+    "state_name": "WA",
+    "county": "Spokane"
   },
   {
     "full_links": [
@@ -13428,7 +13428,7 @@
     "comments_en": "There  are 17 total deaths by 3/28 morning in VA."
   },
   {
-    "die_count": 57,
+    "die_count": 56,
     "state_name": "NY",
     "county": "Unassigned",
     "full_links": [
@@ -13485,15 +13485,6 @@
       "https://www.nj.gov/health/"
     ],
     "confirmed_date": "3/28"
-  },
-  {
-    "die_count": 7,
-    "full_links": [
-      "https://coronavirus.health.ok.gov"
-    ],
-    "confirmed_date": "3/28",
-    "state_name": "OK",
-    "county": "Unassigned"
   },
   {
     "die_count": 1,
@@ -14143,7 +14134,9 @@
     "comments_en": "Female, 60s, Essex county,\npreexisting conditions,\nhospitalized",
     "confirmed_date": "3/28",
     "die_count": 1,
-    "gender": "女"
+    "gender": "女",
+    "age_range": "60+",
+    "comments": "60多岁女性，患有基础病，住院治疗。"
   },
   {
     "confirmed_date": "3/28",
@@ -14166,7 +14159,9 @@
     ],
     "confirmed_date": "3/28",
     "comments_en": "Female, 80s, Suffolk county,\npreexisting conditions,\nhospitalized",
-    "gender": "女"
+    "gender": "女",
+    "age_range": "80+",
+    "comments": "80多岁女性，患有基础病，住院治疗。"
   },
   {
     "confirmed_date": "3/28",
@@ -14189,7 +14184,9 @@
     ],
     "comments_en": "Male, 80s, Worcester county,\npreexisting conditions,\nhospitalized",
     "confirmed_date": "3/28",
-    "gender": "男"
+    "gender": "男",
+    "age_range": "80+",
+    "comments": "80多岁男性，患有基础病，住院治疗。"
   },
   {
     "die_count": 1,
@@ -14200,7 +14197,9 @@
     ],
     "confirmed_date": "3/28",
     "comments_en": "Female, 80s, Norfolk county,\nunknown preexisting conditions,\nhospitalization unknown",
-    "gender": "女"
+    "gender": "女",
+    "age_range": "70+",
+    "comments": "80多岁女性，尚不清楚是否患有基础病，住院治疗。"
   },
   {
     "confirmed_date": "3/28",
@@ -14234,7 +14233,10 @@
       "https://www.mass.gov/doc/covid-19-cases-in-massachusetts-as-of-march-28-2020/download"
     ],
     "confirmed_date": "3/28",
-    "comments_en": "Male, 70s, Hampden county,\npreexisting conditions,\nhospitalized"
+    "comments_en": "Male, 70s, Hampden county,\npreexisting conditions,\nhospitalized",
+    "gender": "男",
+    "age_range": "70+",
+    "comments": "70多岁男性，患有基础病，住院治疗。"
   },
   {
     "confirmed_date": "3/28",
@@ -14280,7 +14282,10 @@
       "https://www.mass.gov/doc/covid-19-cases-in-massachusetts-as-of-march-28-2020/download"
     ],
     "confirmed_date": "3/28",
-    "comments_en": "Male, 80s, Hampden county,\npreexisting conditions, not\nhospitalized"
+    "comments_en": "Male, 80s, Hampden county,\npreexisting conditions, not\nhospitalized",
+    "gender": "男",
+    "age_range": "80+",
+    "comments": "80多岁男性，患有基础病，住院治疗。"
   },
   {
     "confirmed_date": "3/28",
@@ -14314,7 +14319,10 @@
       "https://www.mass.gov/doc/covid-19-cases-in-massachusetts-as-of-march-28-2020/download"
     ],
     "confirmed_date": "3/28",
-    "comments_en": "Male, 80s, Norfolk county,\nunknown preexisting conditions,\nhospitalization unknown"
+    "comments_en": "Male, 80s, Norfolk county,\nunknown preexisting conditions,\nhospitalization unknown",
+    "gender": "男",
+    "age_range": "80+",
+    "comments": "80多岁男性，尚不清楚是否患有基础病，住院治疗。"
   },
   {
     "die_count": 1,
@@ -14324,7 +14332,10 @@
       "https://www.mass.gov/doc/covid-19-cases-in-massachusetts-as-of-march-28-2020/download"
     ],
     "confirmed_date": "3/28",
-    "comments_en": "Female, 50s, Worcester county,\nunknown preexisting condition,\nhospitalized"
+    "comments_en": "Female, 50s, Worcester county,\nunknown preexisting condition,\nhospitalized",
+    "gender": "女",
+    "age_range": "50+",
+    "comments": "50多岁女性，尚不清楚是否患有基础病，住院治疗。"
   },
   {
     "die_count": 1,
@@ -14334,6 +14345,174 @@
       "https://www.mass.gov/doc/covid-19-cases-in-massachusetts-as-of-march-28-2020/download"
     ],
     "confirmed_date": "3/28",
-    "comments_en": "Female, 90s, Hampden county,\nunknown preexisting condition,\nhospitalization unknown "
+    "comments_en": "Female, 90s, Hampden county,\nunknown preexisting condition,\nhospitalization unknown ",
+    "gender": "女",
+    "age_range": "90+",
+    "comments": "90多岁女性，尚不清楚是否患有基础病，住院治疗。"
+  },
+  {
+    "full_links": [
+      "https://www.khq.com/coronavirus/second-coronavirus-related-death-reported-in-spokane-county-cases-increase/article_8bbbd0e0-712c-11ea-b36e-5fea0da75b9b.html"
+    ],
+    "confirmed_date": "3/28",
+    "die_count": 1,
+    "state_name": "WA",
+    "county": "Spokane",
+    "comments_en": " A second COVID-19-related death has been reported in Spokane County. A woman in her 50s passed away on Saturday, March 28. ",
+    "age_range": "50+",
+    "gender": "女"
+  },
+  {
+    "die_count": 1,
+    "state_name": "CA",
+    "county": "Orange",
+    "full_links": [
+      "https://occovid19.ochealthinfo.com/coronavirus-in-oc"
+    ],
+    "confirmed_date": "3/28",
+    "comments": "Orange County 3/28 州官宣死亡增至4例，具体信息暂时不详。",
+    "comments_en": "Orange County announced the fourth death on 3/28; more details to come. "
+  },
+  {
+    "confirmed_date": "3/28",
+    "comments_en": "By 3/28, Arkansas has 5 deaths.",
+    "die_count": 2,
+    "state_name": "AR",
+    "county": "Unassigned",
+    "full_links": [
+      "https://adem.maps.arcgis.com/apps/opsdashboard/index.html#/f533ac8a8b6040e5896b05b47b17a647",
+      "https://www.5newsonline.com/article/news/health/coronavirus/real-time-updates-404-confirmed-coronavirus-cases-5-deaths-in-arkansas/527-05fba992-48f6-4286-b2f9-bbe20dae0210"
+    ],
+    "comments": "截止3/28，阿肯色州累计5人死亡。"
+  },
+  {
+    "confirmed_date": "3/28",
+    "die_count": 2,
+    "state_name": "OK",
+    "county": "Cleveland",
+    "full_links": [
+      "https://coronavirus.health.ok.gov"
+    ],
+    "comments": "Details need to check.",
+    "comments_en": "Details need to check."
+  },
+  {
+    "die_count": 1,
+    "state_name": "OK",
+    "county": "Oklahoma",
+    "full_links": [
+      "https://coronavirus.health.ok.gov"
+    ],
+    "confirmed_date": "3/28",
+    "comments": "Details need to check.",
+    "comments_en": "Details need to check."
+  },
+  {
+    "die_count": 1,
+    "state_name": "OK",
+    "county": "Tulsa",
+    "full_links": [
+      "https://coronavirus.health.ok.gov"
+    ],
+    "confirmed_date": "3/28",
+    "comments_en": "Details need to check.",
+    "comments": "Details need to check."
+  },
+  {
+    "die_count": 1,
+    "state_name": "OK",
+    "county": "Tulsa",
+    "full_links": [
+      "https://coronavirus.health.ok.gov"
+    ],
+    "confirmed_date": "3/28",
+    "comments_en": "Details need to check.",
+    "comments": "Details need to check."
+  },
+  {
+    "die_count": 1,
+    "state_name": "TX",
+    "county": "Denton",
+    "full_links": [
+      "https://www.nbcdfw.com/news/coronavirus/denton-county-reports-11-new-cases-of-covid-19-2nd-death/2341092/"
+    ],
+    "confirmed_date": "3/28",
+    "comments_en": "The man who died was an Aubrey resident in his 60s, who was previously reported hospitalized with a \"community spread\" case of the new coronavirus.",
+    "gender": "男",
+    "age_range": "60+"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://coronavirus.health.ok.gov"
+    ],
+    "confirmed_date": "3/28",
+    "state_name": "OK",
+    "county": "Wagoner",
+    "comments_en": "Details need to check.",
+    "comments": "Details need to check."
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://coronavirus.health.ok.gov"
+    ],
+    "confirmed_date": "3/28",
+    "state_name": "OK",
+    "county": "Sequoyah",
+    "comments_en": "Details need to check.",
+    "comments": "Details need to check."
+  },
+  {
+    "confirmed_date": "3/28",
+    "die_count": 1,
+    "full_links": [
+      "https://www.kbtx.com/content/news/Brazos-County-Health-Department-providing-update-on-COVID-19-cases-569192231.html"
+    ],
+    "state_name": "TX",
+    "county": "Brazos",
+    "comments_en": "The Brazos County Health District on Saturday confirmed the county's first COVID-19-related death.\n\nThe patient was a College Station man in his 80s and was in hospice care at the time of his death, officials confirmed. Authorities say he contracted the virus through community-spread, meaning he has not traveled out of the area.\n\nNo other details about his situation were specifically available.",
+    "gender": "男",
+    "age_range": "80+"
+  },
+  {
+    "confirmed_date": "3/28",
+    "die_count": 11,
+    "state_name": "WA",
+    "county": "King",
+    "full_links": [
+      "https://www.kingcounty.gov/depts/health/communicable-diseases/disease-control/novel-coronavirus.aspx"
+    ]
+  },
+  {
+    "die_count": 1,
+    "state_name": "NY",
+    "county": "Monroe",
+    "full_links": [
+      "https://www.rochesterfirst.com/coronavirus/monroe-county-confirms-190-cases-of-covid-19/"
+    ],
+    "comments_en": "ROCHESTER, N.Y. (WROC) — Monroe County officials confirmed the fifth local COVID-19 death Saturday afternoon.",
+    "gender": "Unknown",
+    "age_range": "Unknown",
+    "confirmed_date": "3/28"
+  },
+  {
+    "confirmed_date": "3/28",
+    "die_count": 1,
+    "state_name": "SC",
+    "county": "Richland",
+    "full_links": [
+      "https://www.scdhec.gov/infectious-diseases/viruses/coronavirus-disease-2019-covid-19/monitoring-testing-covid-19"
+    ]
+  },
+  {
+    "confirmed_date": "3/28",
+    "die_count": 1,
+    "full_links": [
+      "https://www.scdhec.gov/infectious-diseases/viruses/coronavirus-disease-2019-covid-19/monitoring-testing-covid-19",
+      "https://www.wsoctv.com/news/local/coronavirus-local-updates-staff-member-southpark-doctors-office-tests-positive/XOULEGF2Z5CPDESY6RP4SH2L4U/"
+    ],
+    "state_name": "SC",
+    "county": "Horry"
   }
 ]
