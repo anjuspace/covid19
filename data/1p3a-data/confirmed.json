@@ -52851,7 +52851,7 @@
     "confirmed_date": "3/27",
     "people_count": 1,
     "state_name": "LA",
-    "county": "West Celiciana"
+    "county": "West Feliciana"
   },
   {
     "confirmed_date": "3/27",
@@ -54597,7 +54597,7 @@
     "confirmed_date": "3/27",
     "people_count": 1,
     "state_name": "MI",
-    "county": "Dickson"
+    "county": "Dickinson"
   },
   {
     "confirmed_date": "3/27",
@@ -56824,5 +56824,11 @@
     "confirmed_date": "3/27",
     "state_name": "AK",
     "county": "Gridwood"
+  },
+  {
+    "people_count": 1,
+    "confirmed_date": "3/27",
+    "state_name": "ID",
+    "county": "Bonneville"
   }
 ]
