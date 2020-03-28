@@ -10,6 +10,11 @@ import CardActions from '@material-ui/core/CardActions';
 import CardContent from '@material-ui/core/CardContent';
 import Button from '@material-ui/core/Button';
 import i18n from '../data/i18n.yml'
+import ReactGA from 'react-ga';
+ReactGA.initialize('UA-161399414-1', {
+  debug: true,
+  titleCase: false
+});
 
 const useStyles = makeStyles(theme => ({
   root: {
@@ -70,6 +75,16 @@ export default function NewsPanel(props) {
         })
   }
  
+  const handleClick = (url) => {
+    console.log(`this is: ${url}`);
+    ReactGA.event({
+      category: 'news',
+      action: 'open',
+      label: url
+    });
+    window.location=url;
+  }
+
   useEffect(() => {
     const { currentRegion } = props
    
@@ -100,7 +115,7 @@ export default function NewsPanel(props) {
                 </CardActionArea>
                 <CardActions>
                 
-                <Button size="small" color="primary" href={news.url}>
+                <Button size="small" color="primary" href='#' onClick={() => handleClick(news.url)}>
                     Learn More
                 </Button>
             </CardActions>
