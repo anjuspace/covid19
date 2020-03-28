@@ -13390,9 +13390,30 @@
   },
   {
     "die_count": 1,
-    "full_links": [],
+    "full_links": [
+      "https://www.health.state.mn.us/diseases/coronavirus/situation.html"
+    ],
     "confirmed_date": "3/28",
     "state_name": "MN",
+    "county": "Unassigned",
+    "comments_en": "5 people in total have died in Minnesota."
+  },
+  {
+    "die_count": 32,
+    "state_name": "NJ",
+    "county": "Unassigned",
+    "full_links": [
+      "https://www.nj.gov/health/"
+    ],
+    "confirmed_date": "3/28"
+  },
+  {
+    "die_count": 7,
+    "full_links": [
+      "https://coronavirus.health.ok.gov"
+    ],
+    "confirmed_date": "3/28",
+    "state_name": "OK",
     "county": "Unassigned"
   }
 ]
