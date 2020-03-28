@@ -13295,5 +13295,15 @@
     "age_range": "60+",
     "gender": "女",
     "comments_en": "A woman in 60s, deaded at hospital in Anchorage "
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.richmond.com/news/virginia/coronavirus-updates-virginia-tech-cutting-back-commemoration/article_67dbe141-da92-504b-b74d-e7c9ed8a118c.html"
+    ],
+    "confirmed_date": "3/28",
+    "state_name": "VA",
+    "county": "Unassigned",
+    "comments_en": "There  are 17 total deaths by 3/28 morning in VA."
   }
 ]
