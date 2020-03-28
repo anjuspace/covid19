@@ -5653,15 +5653,15 @@
   },
   {
     "confirmed_date": "3/23",
-    "comments": "Wayne County新增158例。",
-    "comments_en": "Wayne County reported 158 new cases.",
-    "die_count": 3,
+    "comments": "Wayne County新增158例。【Update】应为Detroit City数据。",
+    "comments_en": "Wayne County reported 158 new cases. 【Update】Should be deaths in Detroit City.",
     "state_name": "MI",
     "county": "Wayne",
     "full_links": [
       "https://www.clickondetroit.com/news/local/2020/03/23/michigan-health-chief-confirms-15-deaths-due-to-covid-19/",
       "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html"
-    ]
+    ],
+    "die_count": 0
   },
   {
     "confirmed_date": "3/23",
@@ -6812,6 +6812,16 @@
     "full_links": [
       "https://dph.georgia.gov/covid-19-daily-status-report"
     ]
+  },
+  {
+    "full_links": [
+      "https://www.clickondetroit.com/news/local/2020/03/23/michigan-health-chief-confirms-15-deaths-due-to-covid-19/",
+      "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html"
+    ],
+    "confirmed_date": "3/23",
+    "die_count": 3,
+    "state_name": "MI",
+    "county": "Wayne"
   },
   {
     "confirmed_date": "3/24",
@@ -8205,10 +8215,10 @@
     "comments_en": "Lafourche  Parish 1st death.",
     "die_count": 1,
     "state_name": "LA",
-    "county": "Lafourche",
     "full_links": [
       "http://ldh.la.gov/coronavirus/"
-    ]
+    ],
+    "county": "Lafourche"
   },
   {
     "confirmed_date": "3/25",
@@ -11397,10 +11407,10 @@
     "confirmed_date": "3/27",
     "die_count": 1,
     "state_name": "LA",
-    "county": "Lafourche",
     "full_links": [
       "http://ldh.la.gov/coronavirus/"
-    ]
+    ],
+    "county": "Lafourche"
   },
   {
     "confirmed_date": "3/27",
@@ -12260,12 +12270,14 @@
   },
   {
     "confirmed_date": "3/27",
-    "die_count": 1,
     "state_name": "MI",
     "county": "Ingham",
     "full_links": [
       "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html"
-    ]
+    ],
+    "die_count": 0,
+    "comments_en": "【Update】According to the Michigan Health Department, he death in Ingham became 0 on 3/28.",
+    "comments": "【Update】3/28死亡数更新为0。"
   },
   {
     "confirmed_date": "3/27",
@@ -13382,6 +13394,18 @@
     "comments_en": "Houston Health Department has identified the second individual to die by COVID-19 virus as a woman in her 70s with underlying health conditions. She passed away at a local hospital March 27."
   },
   {
+    "state_name": "WA",
+    "county": "Skagit",
+    "full_links": [
+      "https://www.khq.com/coronavirus/public-health-officials-announce-first-covid--death-in-spokane/article_7e9b4c9e-708f-11ea-99e3-4f0e9af22c85.html"
+    ],
+    "confirmed_date": "3/27",
+    "die_count": 1,
+    "comments_en": "A Spokane County resident in his has 80s died after testing positive for COVID-19. This is the first death in Spokane County related to the COVID-19 outbreak.",
+    "age_range": "80+",
+    "gender": "男"
+  },
+  {
     "full_links": [
       "https://www.webcenter11.com/content/news/Gov-Dunleavy-issues-social-distancing-and-travel-mandates-COVID-19-cases-rise-to-85-statewide-569180071.html"
     ],
@@ -13762,5 +13786,554 @@
       "https://www.newschannel5.com/news/covid-19-1-512-cases-7-deaths-confirmed-in-tennessee"
     ],
     "confirmed_date": "3/28"
+  },
+  {
+    "full_links": [
+      "https://www.michigan.gov/coronavirus/0,9753,7-406-98163_98173---,00.html"
+    ],
+    "confirmed_date": "3/28",
+    "state_name": "MI",
+    "county": "Wayne",
+    "comments_en": "Detroit City 30 deaths by 3/28.",
+    "die_count": 7
+  },
+  {
+    "die_count": 1,
+    "state_name": "MO",
+    "county": "Greene",
+    "full_links": [
+      "https://www.ky3.com/content/news/838-cases-of-COVID-19-ten-deaths-reported-in-Missouri-569191671.html"
+    ],
+    "confirmed_date": "3/28"
+  },
+  {
+    "die_count": 1,
+    "state_name": "LA",
+    "county": "Jefferson",
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "confirmed_date": "3/28"
+  },
+  {
+    "full_links": [
+      "https://www.michigan.gov/coronavirus/0,9753,7-406-98163_98173---,00.html"
+    ],
+    "confirmed_date": "3/28",
+    "state_name": "MI",
+    "county": "Genesee",
+    "comments_en": "Genesee total 5 deaths by 3/28",
+    "die_count": 1
+  },
+  {
+    "die_count": 1,
+    "state_name": "LA",
+    "county": "Jefferson",
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "confirmed_date": "3/28"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "confirmed_date": "3/28",
+    "state_name": "LA",
+    "county": "Lafayette"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.michigan.gov/coronavirus/0,9753,7-406-98163_98173---,00.html"
+    ],
+    "confirmed_date": "3/28",
+    "state_name": "MI",
+    "county": "Livingston",
+    "comments_en": "Livingston total 2 deaths by 3/28."
+  },
+  {
+    "die_count": 1,
+    "state_name": "LA",
+    "county": "Orleans",
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "confirmed_date": "3/28"
+  },
+  {
+    "die_count": 1,
+    "state_name": "LA",
+    "county": "Orleans",
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "confirmed_date": "3/28"
+  },
+  {
+    "die_count": 1,
+    "state_name": "LA",
+    "county": "Orleans",
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "confirmed_date": "3/28"
+  },
+  {
+    "die_count": 1,
+    "state_name": "LA",
+    "county": "Orleans",
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "confirmed_date": "3/28"
+  },
+  {
+    "die_count": 1,
+    "state_name": "LA",
+    "county": "Orleans",
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "confirmed_date": "3/28"
+  },
+  {
+    "die_count": 1,
+    "state_name": "LA",
+    "county": "Orleans",
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "confirmed_date": "3/28"
+  },
+  {
+    "die_count": 1,
+    "state_name": "LA",
+    "county": "Orleans",
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "confirmed_date": "3/28"
+  },
+  {
+    "die_count": 1,
+    "state_name": "LA",
+    "county": "Orleans",
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "confirmed_date": "3/28"
+  },
+  {
+    "full_links": [
+      "https://www.michigan.gov/coronavirus/0,9753,7-406-98163_98173---,00.html"
+    ],
+    "confirmed_date": "3/28",
+    "state_name": "MI",
+    "county": "Macomb",
+    "die_count": 3,
+    "comments_en": "Macomb total 17 deaths by 3/28."
+  },
+  {
+    "die_count": 1,
+    "state_name": "LA",
+    "county": "Orleans",
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "confirmed_date": "3/28"
+  },
+  {
+    "die_count": 1,
+    "state_name": "LA",
+    "county": "Orleans",
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "confirmed_date": "3/28"
+  },
+  {
+    "die_count": 1,
+    "state_name": "LA",
+    "county": "Orleans",
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "confirmed_date": "3/28"
+  },
+  {
+    "die_count": 1,
+    "state_name": "LA",
+    "county": "Orleans",
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "confirmed_date": "3/28"
+  },
+  {
+    "die_count": 1,
+    "state_name": "LA",
+    "county": "Orleans",
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "confirmed_date": "3/28"
+  },
+  {
+    "full_links": [
+      "https://www.michigan.gov/coronavirus/0,9753,7-406-98163_98173---,00.html"
+    ],
+    "confirmed_date": "3/28",
+    "state_name": "MI",
+    "county": "Missaukee",
+    "die_count": 1,
+    "comments_en": "Missaukee first death."
+  },
+  {
+    "full_links": [
+      "https://www.michigan.gov/coronavirus/0,9753,7-406-98163_98173---,00.html"
+    ],
+    "confirmed_date": "3/28",
+    "state_name": "MI",
+    "county": "Oakland",
+    "die_count": 5,
+    "comments_en": "Oakland total 31 deaths by 3/28."
+  },
+  {
+    "die_count": 1,
+    "state_name": "LA",
+    "county": "St. Bernard",
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "confirmed_date": "3/28"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "confirmed_date": "3/28",
+    "state_name": "LA",
+    "county": "Vermilion"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://content.govdelivery.com/accounts/ORDHS/bulletins/283b943"
+    ],
+    "confirmed_date": "3/28",
+    "state_name": "OR",
+    "county": "Yamhill",
+    "comments_en": "Oregon’s 13th COVID-19 death is a 93-year-old male in Yamhill County, who tested positive on 3/18/20, and died 03/27/2020 at Providence Newberg Medical Center. He had no known underlying medical conditions.",
+    "gender": "男",
+    "age_range": "90+"
+  },
+  {
+    "full_links": [
+      "https://www.michigan.gov/coronavirus/0,9753,7-406-98163_98173---,00.html"
+    ],
+    "confirmed_date": "3/28",
+    "die_count": 2,
+    "state_name": "MI",
+    "county": "Wayne",
+    "comments_en": "Wayne total 16 deaths by 3/28."
+  },
+  {
+    "die_count": 1,
+    "state_name": "IL",
+    "county": "Cook",
+    "full_links": [
+      "http://www.dph.illinois.gov/topics-services/diseases-and-conditions/diseases-a-z-list/coronavirus",
+      "http://dph.illinois.gov/news/public-health-officials-announce-first-death-infant-coronavirus-disease?fbclid=IwAR0CczaMuW0kn_RVcZ1n5CGKj_ZUz0D3kXpcM1gy-MbTxiE95IhixJNZxys"
+    ],
+    "confirmed_date": "3/28",
+    "age_range": "<10",
+    "comments_en": "The Illinois Department of Public Health (IDPH) today reported the death of an infant younger than one year in Chicago who tested positive for coronavirus disease (COVID-19). \n\n“There has never before been a death associated with COVID-19 in an infant.  A full investigation is underway to determine the cause of death,” said IDPH Director Dr. Ngozi Ezike.  “We must do everything we can to prevent the spread of this deadly virus. If not to protect ourselves, but to protect those around us.”"
+  },
+  {
+    "die_count": 1,
+    "state_name": "IL",
+    "county": "McHenry",
+    "full_links": [
+      "http://www.dph.illinois.gov/topics-services/diseases-and-conditions/diseases-a-z-list/coronavirus",
+      "http://dph.illinois.gov/news/public-health-officials-announce-first-death-infant-coronavirus-disease?fbclid=IwAR0CczaMuW0kn_RVcZ1n5CGKj_ZUz0D3kXpcM1gy-MbTxiE95IhixJNZxys"
+    ],
+    "confirmed_date": "3/28",
+    "gender": "男",
+    "age_range": "50+"
+  },
+  {
+    "die_count": 1,
+    "state_name": "IL",
+    "county": "Will",
+    "full_links": [
+      "http://www.dph.illinois.gov/topics-services/diseases-and-conditions/diseases-a-z-list/coronavirus",
+      "http://dph.illinois.gov/news/public-health-officials-announce-first-death-infant-coronavirus-disease?fbclid=IwAR0CczaMuW0kn_RVcZ1n5CGKj_ZUz0D3kXpcM1gy-MbTxiE95IhixJNZxys"
+    ],
+    "confirmed_date": "3/28",
+    "gender": "女",
+    "age_range": "90+"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "http://www.dph.illinois.gov/topics-services/diseases-and-conditions/diseases-a-z-list/coronavirus",
+      "http://dph.illinois.gov/news/public-health-officials-announce-first-death-infant-coronavirus-disease?fbclid=IwAR0CczaMuW0kn_RVcZ1n5CGKj_ZUz0D3kXpcM1gy-MbTxiE95IhixJNZxys"
+    ],
+    "confirmed_date": "3/28",
+    "state_name": "IL",
+    "county": "Lake",
+    "comments_en": "Lake County: female 90s",
+    "gender": "女",
+    "age_range": "90+"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.fox29.com/news/delaware-reports-3-coronavirus-deaths-213-cases"
+    ],
+    "confirmed_date": "3/28",
+    "state_name": "DE",
+    "county": "New Castle",
+    "comments_en": "Delaware’s third coronavirus death is reported. The patient is a 76-year-old man with underlying health conditions from New Castle County.",
+    "age_range": "70+",
+    "gender": "男"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://govstatus.egov.com/coronavirus"
+    ],
+    "confirmed_date": "3/28",
+    "state_name": "KS",
+    "county": "Unknown",
+    "comments_en": "KS reports total 5 death cases as of 3/28.",
+    "comments": "KS reports total 5 death cases as of 3/28."
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.newscentermaine.com/article/news/health/coronavirus/rhode-island-has-its-first-2-deaths-from-the-coronavirus/97-56a7139e-0e6a-415d-8228-a0c1c3496fbe"
+    ],
+    "confirmed_date": "3/28",
+    "state_name": "RI",
+    "county": "Unassigned",
+    "comments": "3/28日报导，Rhode Island State出现首两名患者去世。其中一位80余岁，周五（3/27）晚去世。",
+    "comments_en": "Rhode Island reported the first two deaths on Saturday 3/28. One of them was in his / her 80s and passed away Friday 3/27. "
+  },
+  {
+    "die_count": 1,
+    "state_name": "RI",
+    "county": "Unassigned",
+    "full_links": [
+      "https://www.newscentermaine.com/article/news/health/coronavirus/rhode-island-has-its-first-2-deaths-from-the-coronavirus/97-56a7139e-0e6a-415d-8228-a0c1c3496fbe"
+    ],
+    "confirmed_date": "3/28",
+    "comments": "3/28日报导，Rhode Island State出现首两名患者去世。其中一位70余岁，周六去世。",
+    "comments_en": "Rhode Island reported the first two deaths on Saturday 3/28. One of them was in his / her 70s and passed away Saturday 3/28. "
+  },
+  {
+    "state_name": "MA",
+    "county": "Essex",
+    "full_links": [
+      "https://www.mass.gov/doc/covid-19-cases-in-massachusetts-as-of-march-28-2020/download"
+    ],
+    "comments_en": "Female, 60s, Essex county,\npreexisting conditions,\nhospitalized",
+    "confirmed_date": "3/28",
+    "die_count": 1,
+    "gender": "女"
+  },
+  {
+    "confirmed_date": "3/28",
+    "die_count": 1,
+    "state_name": "IL",
+    "county": "Kane",
+    "full_links": [
+      "http://www.dph.illinois.gov/topics-services/diseases-and-conditions/diseases-a-z-list/coronavirus",
+      "http://dph.illinois.gov/news/public-health-officials-announce-first-death-infant-coronavirus-disease?fbclid=IwAR0CczaMuW0kn_RVcZ1n5CGKj_ZUz0D3kXpcM1gy-MbTxiE95IhixJNZxys"
+    ],
+    "gender": "男",
+    "age_range": "70+"
+  },
+  {
+    "die_count": 1,
+    "state_name": "MA",
+    "county": "Suffolk",
+    "full_links": [
+      "https://www.mass.gov/doc/covid-19-cases-in-massachusetts-as-of-march-28-2020/download"
+    ],
+    "confirmed_date": "3/28",
+    "comments_en": "Female, 80s, Suffolk county,\npreexisting conditions,\nhospitalized",
+    "gender": "女"
+  },
+  {
+    "confirmed_date": "3/28",
+    "gender": "男",
+    "die_count": 1,
+    "age_range": "70+",
+    "state_name": "IL",
+    "county": "Kane",
+    "full_links": [
+      "http://www.dph.illinois.gov/topics-services/diseases-and-conditions/diseases-a-z-list/coronavirus",
+      "http://dph.illinois.gov/news/public-health-officials-announce-first-death-infant-coronavirus-disease?fbclid=IwAR0CczaMuW0kn_RVcZ1n5CGKj_ZUz0D3kXpcM1gy-MbTxiE95IhixJNZxys"
+    ]
+  },
+  {
+    "die_count": 1,
+    "state_name": "MA",
+    "county": "Worcester",
+    "full_links": [
+      "https://www.mass.gov/doc/covid-19-cases-in-massachusetts-as-of-march-28-2020/download"
+    ],
+    "comments_en": "Male, 80s, Worcester county,\npreexisting conditions,\nhospitalized",
+    "confirmed_date": "3/28",
+    "gender": "男"
+  },
+  {
+    "die_count": 1,
+    "state_name": "MA",
+    "county": "Norfolk",
+    "full_links": [
+      "https://www.mass.gov/doc/covid-19-cases-in-massachusetts-as-of-march-28-2020/download"
+    ],
+    "confirmed_date": "3/28",
+    "comments_en": "Female, 80s, Norfolk county,\nunknown preexisting conditions,\nhospitalization unknown",
+    "gender": "女"
+  },
+  {
+    "confirmed_date": "3/28",
+    "gender": "男",
+    "die_count": 1,
+    "age_range": "70+",
+    "full_links": [
+      "http://www.dph.illinois.gov/topics-services/diseases-and-conditions/diseases-a-z-list/coronavirus",
+      "http://dph.illinois.gov/news/public-health-officials-announce-first-death-infant-coronavirus-disease?fbclid=IwAR0CczaMuW0kn_RVcZ1n5CGKj_ZUz0D3kXpcM1gy-MbTxiE95IhixJNZxys"
+    ],
+    "state_name": "IL",
+    "county": "Cook"
+  },
+  {
+    "confirmed_date": "3/28",
+    "gender": "男",
+    "die_count": 1,
+    "age_range": "70+",
+    "state_name": "IL",
+    "county": "Cook",
+    "full_links": [
+      "http://www.dph.illinois.gov/topics-services/diseases-and-conditions/diseases-a-z-list/coronavirus",
+      "http://dph.illinois.gov/news/public-health-officials-announce-first-death-infant-coronavirus-disease?fbclid=IwAR0CczaMuW0kn_RVcZ1n5CGKj_ZUz0D3kXpcM1gy-MbTxiE95IhixJNZxys"
+    ]
+  },
+  {
+    "die_count": 1,
+    "state_name": "MA",
+    "county": "Hampden",
+    "full_links": [
+      "https://www.mass.gov/doc/covid-19-cases-in-massachusetts-as-of-march-28-2020/download"
+    ],
+    "confirmed_date": "3/28",
+    "comments_en": "Male, 70s, Hampden county,\npreexisting conditions,\nhospitalized"
+  },
+  {
+    "confirmed_date": "3/28",
+    "gender": "男",
+    "die_count": 1,
+    "age_range": "60+",
+    "state_name": "IL",
+    "county": "Cook",
+    "full_links": [
+      "http://www.dph.illinois.gov/topics-services/diseases-and-conditions/diseases-a-z-list/coronavirus",
+      "http://dph.illinois.gov/news/public-health-officials-announce-first-death-infant-coronavirus-disease?fbclid=IwAR0CczaMuW0kn_RVcZ1n5CGKj_ZUz0D3kXpcM1gy-MbTxiE95IhixJNZxys"
+    ]
+  },
+  {
+    "confirmed_date": "3/28",
+    "gender": "男",
+    "die_count": 1,
+    "age_range": "60+",
+    "state_name": "IL",
+    "county": "Cook",
+    "full_links": [
+      "http://www.dph.illinois.gov/topics-services/diseases-and-conditions/diseases-a-z-list/coronavirus",
+      "http://dph.illinois.gov/news/public-health-officials-announce-first-death-infant-coronavirus-disease?fbclid=IwAR0CczaMuW0kn_RVcZ1n5CGKj_ZUz0D3kXpcM1gy-MbTxiE95IhixJNZxys"
+    ]
+  },
+  {
+    "confirmed_date": "3/28",
+    "gender": "女",
+    "die_count": 1,
+    "age_range": "70+",
+    "state_name": "IL",
+    "county": "Cook",
+    "full_links": [
+      "http://www.dph.illinois.gov/topics-services/diseases-and-conditions/diseases-a-z-list/coronavirus",
+      "http://dph.illinois.gov/news/public-health-officials-announce-first-death-infant-coronavirus-disease?fbclid=IwAR0CczaMuW0kn_RVcZ1n5CGKj_ZUz0D3kXpcM1gy-MbTxiE95IhixJNZxys"
+    ]
+  },
+  {
+    "die_count": 1,
+    "state_name": "MA",
+    "county": "Hampden",
+    "full_links": [
+      "https://www.mass.gov/doc/covid-19-cases-in-massachusetts-as-of-march-28-2020/download"
+    ],
+    "confirmed_date": "3/28",
+    "comments_en": "Male, 80s, Hampden county,\npreexisting conditions, not\nhospitalized"
+  },
+  {
+    "confirmed_date": "3/28",
+    "gender": "女",
+    "die_count": 1,
+    "age_range": "80+",
+    "state_name": "IL",
+    "county": "Cook",
+    "full_links": [
+      "http://www.dph.illinois.gov/topics-services/diseases-and-conditions/diseases-a-z-list/coronavirus",
+      "http://dph.illinois.gov/news/public-health-officials-announce-first-death-infant-coronavirus-disease?fbclid=IwAR0CczaMuW0kn_RVcZ1n5CGKj_ZUz0D3kXpcM1gy-MbTxiE95IhixJNZxys"
+    ]
+  },
+  {
+    "confirmed_date": "3/28",
+    "gender": "男",
+    "die_count": 1,
+    "age_range": "80+",
+    "state_name": "IL",
+    "county": "Cook",
+    "full_links": [
+      "http://www.dph.illinois.gov/topics-services/diseases-and-conditions/diseases-a-z-list/coronavirus",
+      "http://dph.illinois.gov/news/public-health-officials-announce-first-death-infant-coronavirus-disease?fbclid=IwAR0CczaMuW0kn_RVcZ1n5CGKj_ZUz0D3kXpcM1gy-MbTxiE95IhixJNZxys"
+    ]
+  },
+  {
+    "die_count": 1,
+    "state_name": "MA",
+    "county": "Norfolk",
+    "full_links": [
+      "https://www.mass.gov/doc/covid-19-cases-in-massachusetts-as-of-march-28-2020/download"
+    ],
+    "confirmed_date": "3/28",
+    "comments_en": "Male, 80s, Norfolk county,\nunknown preexisting conditions,\nhospitalization unknown"
+  },
+  {
+    "die_count": 1,
+    "state_name": "MA",
+    "county": "Worcester",
+    "full_links": [
+      "https://www.mass.gov/doc/covid-19-cases-in-massachusetts-as-of-march-28-2020/download"
+    ],
+    "confirmed_date": "3/28",
+    "comments_en": "Female, 50s, Worcester county,\nunknown preexisting condition,\nhospitalized"
+  },
+  {
+    "die_count": 1,
+    "state_name": "MA",
+    "county": "Hampden",
+    "full_links": [
+      "https://www.mass.gov/doc/covid-19-cases-in-massachusetts-as-of-march-28-2020/download"
+    ],
+    "confirmed_date": "3/28",
+    "comments_en": "Female, 90s, Hampden county,\nunknown preexisting condition,\nhospitalization unknown "
   }
 ]
