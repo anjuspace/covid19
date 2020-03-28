@@ -41,26 +41,42 @@ const useStyles = makeStyles(theme => ({
   }
 }));
 
+const countryCodes = {
+  "中国": "data/news_cn.json",
+  "德国": "data/news_de.json",
+  "意大利": "data/news_it.json",
+  "俄罗斯": "data/news_ru.json",
+  "瑞士": "data/news_sz.json",
+  "美国": "data/news_us.json",
+  "日本": "data/news_jp.json",
+  "韩国": "data/news_kr.json",
+  "全球": "data/news_global.json"
+}
+
 export default function NewsPanel(props) {
   const classes = useStyles();
   const [newsData, setNewsData] = useState([])
   const isCancelled = React.useRef(false);
   
-  async function fetchData() {
-    const res = await fetch('data/us_news.json');
+  async function fetchData(currentRegion) {
+    let newsFile = countryCodes[currentRegion] || "data/news_global.json"
+    const res = await fetch(newsFile);
     res
       .json()
       .then(res => {
-            if (!isCancelled.current)
-                setNewsData(res["articles"]); 
+            if (!isCancelled.current) {
+              setNewsData(res["articles"]);
+            }
         })
   }
-
+ 
   useEffect(() => {
-    
-    fetchData();
+    const { currentRegion } = props
+   
+    fetchData(currentRegion[0]);
     return () => {isCancelled.current = true;}
   });
+ 
   const {darkMode, lang} = props
   if (newsData.length === 0) {
       return (i18n.NO_NEWS_MESSAGE[lang])

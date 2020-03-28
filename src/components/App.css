@@ -1227,7 +1227,7 @@ ul.map-nav-bar:not(:hover) li.current {
 
     .footer-placeholder {
         width: 100%;
-        height: 240px;
+        height: 100px;
     }
 
     .footer {

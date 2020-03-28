@@ -13,6 +13,8 @@ const fs = require('fs')
     { "country":"sz", "keyword": "coronavirus"},
     { "country":"ru", "keyword": "коронавирус"},
     { "country":"global", "keyword": "coronavirus"},
+    {"country": "jp", "keyword": "コロナウイルス"},
+    {"country": "kr", "keyword": "코로나 바이러스"},
   ]
  }
 

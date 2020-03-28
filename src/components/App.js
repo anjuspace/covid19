@@ -1,4 +1,5 @@
 import React, { Component, Fragment } from 'react'
+import { isMobile, isIPad13 } from 'react-device-detect'
 import { Container, Row, Col } from 'reactstrap'
 import ReactTooltip from 'react-tooltip'
 import { AiOutlineFullscreen, AiOutlineFullscreenExit } from 'react-icons/ai'
@@ -58,8 +59,7 @@ class App extends Component {
             width: -1,
             height: -1
         },
-        showMap: true,
-        enableNews: false,
+        showMap: false,
         plotType: 'plot_basic',
         ...defaultState
     }
@@ -83,11 +83,6 @@ class App extends Component {
         this.fetchData()
         this.updateFullDimensions()
         window.addEventListener('resize', this.updateFullDimensions)
-        // eslint-disable-next-line no-restricted-globals
-        const featureFlag = qs.parse(location.search);
-        if (featureFlag['enablenews'] != null) {
-            this.setState({enableNews: true})
-        }
     }
 
     componentWillUnmount() {
@@ -127,16 +122,18 @@ class App extends Component {
         })
 
     newsModeToggle = () => {
-        const {enableNews} = this.state
-        if(enableNews)
-            this.setState({ showMap: !this.state.showMap 
+        this.setState({ showMap: !this.state.showMap 
     })}
 
     metricToggle = (newMetric) => this.setState({ metric: newMetric })
 
     regionToggle = (newRegion, mapChange = true) => {
-        const { currentMap } = this.state
+        const { currentMap, showMap } = this.state
         this.setState({ currentRegion: newRegion })
+        if (!showMap) {
+            this.newsModeToggle()
+        }
+
         if (!mapChange) return
 
         if (currentMap === str.TRANSMISSION) return
@@ -208,9 +205,6 @@ class App extends Component {
         const { lang, dataLoaded, currentMap, fullMap, fullPlot, fullTree, darkMode, showMap } = this.state
         const fullScreenMode = fullMap ? 'map-full' : fullPlot ? 'plot-full' : fullTree ? 'tree-full' : ''
         const FullScreenIcon = fullMap ? AiOutlineFullscreenExit : AiOutlineFullscreen
-        
-        const {enableNews} = this.state
-        
         
         return (
             <div className={`App ${darkMode ? 'dark' : ''}`}>
@@ -315,7 +309,7 @@ class App extends Component {
                                         </React.Fragment>
                                     )}
 
-                                    { !showMap && enableNews && (
+                                    { !showMap && !isMobile && !isIPad13 && (
                                         <NewsPanel {...this.state} />
                                     )}
                                     
@@ -352,7 +346,13 @@ class App extends Component {
                                                 regionToggle={this.regionToggle}
                                                 fullTreeToggle={this.fullTreeToggle}
                                             />
+                                            
                                             <div className="footer-placeholder" />
+                                        </Row>
+                                        <Row style={{ display: 'flex', flexDirection: 'column', padding: 10 }}>
+                                            { !showMap && (isMobile || isIPad13) && (
+                                                <NewsPanel {...this.state} />
+                                            )}
                                         </Row>
                                     </Col>
                                 )}
