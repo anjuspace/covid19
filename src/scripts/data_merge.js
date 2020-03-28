@@ -162,5 +162,33 @@ data[en2zh['Iran']] = {
     ...data[en2zh['Iran']]
 }
 
+const portugal_file = 'public/data/portugal.json'
+let portugalData = JSON.parse(fs.readFileSync(portugal_file))
+data[en2zh['Portugal']] = {
+    ...portugalData,
+    ...data[en2zh['Portugal']]
+}
+
+const brazil_file = 'public/data/brazil.json'
+let brazilData = JSON.parse(fs.readFileSync(brazil_file))
+data[en2zh['Brazil']] = {
+    ...brazilData,
+    ...data[en2zh['Brazil']]
+}
+
+const malaysia_file = 'public/data/malaysia.json'
+let malaysiaData = JSON.parse(fs.readFileSync(malaysia_file))
+data[en2zh['Malaysia']] = {
+    ...malaysiaData,
+    ...data[en2zh['Malaysia']]
+}
+
+const chile_file = 'public/data/chile.json'
+let chileData = JSON.parse(fs.readFileSync(chile_file))
+data[en2zh['Chile']] = {
+    ...chileData,
+    ...data[en2zh['Chile']]
+}
+
 const merged_file_minified = 'public/data/all_minified.json'
 fs.writeFileSync(merged_file_minified, JSON.stringify(data))

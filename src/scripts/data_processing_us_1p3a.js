@@ -28,6 +28,8 @@ const county_name_changes = {
     'Walla Walla County, WA': 'Walla Walla',
     'Walton County, FL': 'Walton',
     'Delaware County, IN': 'Delaware',
+    'Caroll, IN': 'Carroll',
+    'Whitlty, IN': 'Whitley',
     'Berknap, NH': 'Belknap',
     'Nashua, NH': 'Hillsborough',
     'Elko County, NV': 'Elko',
@@ -40,8 +42,17 @@ const county_name_changes = {
     'Seward, AK': 'Kenai Peninsula',
     'Soldotna, AK': 'Kenai Peninsula',
     'Sterling, AK': 'Kenai Peninsula',
+    'Homer, AK': 'Kenai Peninsula',
     'Matanuska-Susitna Borough, AK': 'Matanuska-Susitna',
-    'Dekalb, TN': 'DeKalb'
+    'Palmer, AK': 'Matanuska-Susitna',
+    'Eagle River, AK': 'Anchorage',
+    'North Pole, AK': 'Fairbanks North Star',
+    'Dekalb, TN': 'DeKalb',
+    'Mclntosh, ND': 'McIntosh',
+    'Bear River, UT': 'Box Elder',
+    'Mcduffie, GA': 'McDuffie',
+    'West Celiciana, LA': 'West Feliciana',
+    'Dickson, MI': 'Manistee'
 }
 
 data = data.map((x) => {
@@ -180,6 +191,8 @@ geometries.forEach((geo) => {
     if (countyEnglish === 'Hawaii' && stateAbbr === 'HI') countyEnglish = 'Hawaii Island'
     if (countyEnglish === 'Dewitt' && stateAbbr === 'TX') countyEnglish = 'DeWitt'
     if (countyEnglish === 'Desoto' && stateAbbr === 'MS') countyEnglish = 'DeSoto'
+    if (countyEnglish === 'De Kalb' && stateAbbr === 'AL') countyEnglish = 'DeKalb'
+    if (countyEnglish === 'De Kalb' && stateAbbr === 'IN') countyEnglish = 'DeKalb'
 
     // New York boroughs
     if (countyEnglish === 'Bronx' && stateAbbr === 'NY') countyEnglish = 'New York'
@@ -197,6 +210,8 @@ geometries.forEach((geo) => {
         geo.properties.REGION = `美国.${state}.${county}`
         output_us[state][county].map = true
     } else if (output_us[state][countyAlt]) {
+        geo.properties.NAME_2 = countyAlt
+        geo.properties.CHINESE_NAME = countyAlt
         geo.properties.REGION = `美国.${state}.${countyAlt}`
         output_us[state][countyAlt].map = true
     }
