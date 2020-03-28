@@ -11280,12 +11280,16 @@
   },
   {
     "confirmed_date": "3/27",
-    "die_count": 1,
     "state_name": "PA",
     "county": "Delaware",
     "full_links": [
-      "https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx"
-    ]
+      "https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx",
+      "https://patch.com/pennsylvania/media/2-more-coronavirus-deaths-reported-delaware-county"
+    ],
+    "die_count": 1,
+    "age_range": "60+",
+    "gender": "男",
+    "comments_en": "On Friday, a 63-year-pld man from Middletown Township died from  COVID-19."
   },
   {
     "confirmed_date": "3/27",
@@ -13328,6 +13332,31 @@
     "comments_en": "The governor also announced three more deaths related to COVID-19 :A 73-year-old woman from Jefferson County."
   },
   {
+    "state_name": "PA",
+    "county": "Butler",
+    "full_links": [
+      "https://butlerradio.com/second-person-dies-as-result-of-covid-19-in-butler-county/",
+      "https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx"
+    ],
+    "confirmed_date": "3/27",
+    "die_count": 1,
+    "comments_en": "A second person who tested positive for COVID-19 died at Butler Memorial Hospital Friday morning. No specific details were given about this patient.",
+    "age_range": "Unknown",
+    "gender": "Unknown"
+  },
+  {
+    "state_name": "PA",
+    "county": "Delaware",
+    "full_links": [
+      "https://patch.com/pennsylvania/media/2-more-coronavirus-deaths-reported-delaware-county"
+    ],
+    "confirmed_date": "3/27",
+    "die_count": 1,
+    "age_range": "70+",
+    "gender": "女",
+    "comments_en": "On Friday, a 70-year-old woman from Ridley Township died from the coronavirus."
+  },
+  {
     "full_links": [
       "https://www.webcenter11.com/content/news/Gov-Dunleavy-issues-social-distancing-and-travel-mandates-COVID-19-cases-rise-to-85-statewide-569180071.html"
     ],
@@ -13350,7 +13379,7 @@
     "comments_en": "There  are 17 total deaths by 3/28 morning in VA."
   },
   {
-    "die_count": 58,
+    "die_count": 57,
     "state_name": "NY",
     "county": "Unassigned",
     "full_links": [
@@ -13415,5 +13444,91 @@
     "confirmed_date": "3/28",
     "state_name": "OK",
     "county": "Unassigned"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.co.sauk.wi.us/publichealth/coronavirus"
+    ],
+    "confirmed_date": "3/28",
+    "state_name": "WI",
+    "county": "Sauk",
+    "comments": "3/28 威斯康辛州Sauk County首例死亡。",
+    "comments_en": "3/28 first death case reported in Sauk County, WI."
+  },
+  {
+    "die_count": 8,
+    "full_links": [
+      "https://experience.arcgis.com/experience/96dd742462124fa0b38ddedb9b25e429"
+    ],
+    "confirmed_date": "3/28",
+    "state_name": "FL",
+    "county": "Unassigned",
+    "comments_en": "details coming soon when the report comes out."
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.fresnobee.com/news/coronavirus/article241406796.html"
+    ],
+    "confirmed_date": "3/28",
+    "state_name": "CA",
+    "county": "Madera",
+    "comments_en": "The Madera County Sheriff’s Department confirmed Friday night that Jose Sanchez Barriga, 67, is the man who suffered the first COVID-19-related death in the central San Joaquin Valley. Because Barriga also was suffering from underlying medical issues, his cause of death is attributed to the following: acute cardio pulmonary arrest, bilateral pneumonia and COVID-19.",
+    "comments": "3/28 加州Madera County首例死亡，为67岁男性患者，有疾病史。"
+  },
+  {
+    "full_links": [
+      "https://cumberlink.com/live_well_in_the_cumberland_valley/doh-first-death-reported-for-covid--in-cumberland-county/article_355e7d2c-4561-5821-a396-2b98dc6709d4.html"
+    ],
+    "confirmed_date": "3/28",
+    "state_name": "PA",
+    "county": "Cumberland",
+    "die_count": 1,
+    "comments_en": "First death reported for COVID-19 in Cumberland County on Saturday(3/28).",
+    "age_range": "Unknown",
+    "gender": "Unknown"
+  },
+  {
+    "die_count": 3,
+    "state_name": "GA",
+    "county": "Cobb",
+    "full_links": [
+      "https://dph.georgia.gov/covid-19-daily-status-report"
+    ],
+    "confirmed_date": "3/28",
+    "comments_en": "Cobb county has 3 additional deaths today; the total number of deaths rose from 5 to 8 today. 03/28. No Additional details available as of 2:36PM EST 03.28\n\n ",
+    "gender": "Unknown"
+  },
+  {
+    "state_name": "GA",
+    "county": "Unassigned",
+    "full_links": [
+      "https://dph.georgia.gov/covid-19-daily-status-report"
+    ],
+    "die_count": 1,
+    "confirmed_date": "3/28"
+  },
+  {
+    "full_links": [
+      "https://www.pennlive.com/coronavirus/2020/03/coronavirus-cases-in-pa-climb-by-533-total-number-of-cases-stands-at-2751.html"
+    ],
+    "confirmed_date": "3/28",
+    "die_count": 1,
+    "comments_en": "The first death in Lancaster County related to COVID-19 is reported. ",
+    "age_range": "Unknown",
+    "gender": "Unknown",
+    "state_name": "PA",
+    "county": "Lancaster"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.columbiacountynyhealth.com/home/coronavirus-covid-19/"
+    ],
+    "confirmed_date": "3/28",
+    "state_name": "NY",
+    "county": "Columbia",
+    "comments_en": "We are sad to report that an elderly individual, who was infected with COVID-19 along with multiple other co-morbidities, has passed away. "
   }
 ]
