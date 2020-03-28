@@ -5,7 +5,7 @@ const fetch = require('node-fetch')
 const fs = require('fs')
 
 var today = new Date();
-var date = today.getFullYear()+'-'+(today.getMonth()+1)+'-'+(today.getDate()-5);
+var date = today.getFullYear()+'-'+(today.getMonth()+1)+'-'+(today.getDate()-1);
 
  var pairs2 = {
   "items": [
