@@ -4856,13 +4856,14 @@
     "gender": "女",
     "comments": "弗吉尼亚州报告3起死亡病例，均为80多岁女性。",
     "comments_en": "3/22 The Virginia Department of Health (VDH) reported 3 women in their 80s have died from the coronavirus. One from James City.",
-    "die_count": 1,
     "age_range": "80+",
     "state_name": "VA",
     "county": "James City",
     "full_links": [
-      "https://wset.com/news/coronavirus/three-women-in-80s-die-from-coronavirus-total-deaths-rise-to-6-in-virginia"
-    ]
+      "https://wset.com/news/coronavirus/three-women-in-80s-die-from-coronavirus-total-deaths-rise-to-6-in-virginia",
+      "https://www.washingtonpost.com/graphics/local/dc-maryland-virginia-coronavirus-cases/"
+    ],
+    "die_count": 1
   },
   {
     "confirmed_date": "3/22",
@@ -13424,8 +13425,8 @@
     ],
     "confirmed_date": "3/28",
     "state_name": "VA",
-    "county": "Unassigned",
-    "comments_en": "There  are 17 total deaths by 3/28 morning in VA."
+    "comments_en": "There  are 17 total deaths by 3/28 morning in VA. the Joint Base Langley-Eustis, an air base in Hampton said the spouse of a soldier there had died.",
+    "county": "Hampton"
   },
   {
     "die_count": 56,
@@ -13473,9 +13474,11 @@
       "https://www.health.state.mn.us/diseases/coronavirus/situation.html"
     ],
     "confirmed_date": "3/28",
+    "comments_en": "5 people in total have died in Minnesota. A fifth person has died of COVID-19 in Minnesota, state health officials reported on Saturday, March 28. The person was an individual in their 70s with an underlying health condition who lived in Hennepin County. So far, all five persons to have died of coronavirus in the state are said to have had an underlying health condition.",
     "state_name": "MN",
-    "county": "Unassigned",
-    "comments_en": "5 people in total have died in Minnesota."
+    "county": "Hennepin",
+    "age_range": "70+",
+    "gender": "Unknown"
   },
   {
     "die_count": 32,
@@ -14514,5 +14517,131 @@
     ],
     "state_name": "SC",
     "county": "Horry"
+  },
+  {
+    "die_count": 1,
+    "state_name": "CA",
+    "county": "Santa Clara",
+    "full_links": [
+      "https://www.sccgov.org/sites/phd/DiseaseInformation/novel-coronavirus/Pages/dashboard.aspx"
+    ],
+    "confirmed_date": "3/28",
+    "comments": "3/28 加州Santa Clara County新增5例死亡病例。",
+    "comments_en": "Five more deaths in Santa Clara County."
+  },
+  {
+    "die_count": 1,
+    "state_name": "CA",
+    "county": "Santa Clara",
+    "full_links": [
+      "https://www.sccgov.org/sites/phd/DiseaseInformation/novel-coronavirus/Pages/dashboard.aspx"
+    ],
+    "confirmed_date": "3/28",
+    "comments": "3/28 加州Santa Clara County新增5例死亡病例。",
+    "comments_en": "Five more deaths in Santa Clara County."
+  },
+  {
+    "die_count": 1,
+    "state_name": "CA",
+    "county": "Santa Clara",
+    "full_links": [
+      "https://www.sccgov.org/sites/phd/DiseaseInformation/novel-coronavirus/Pages/dashboard.aspx"
+    ],
+    "confirmed_date": "3/28",
+    "comments": "3/28 加州Santa Clara County新增5例死亡病例。",
+    "comments_en": "Five more deaths in Santa Clara County."
+  },
+  {
+    "die_count": 1,
+    "state_name": "CA",
+    "county": "Santa Clara",
+    "full_links": [
+      "https://www.sccgov.org/sites/phd/DiseaseInformation/novel-coronavirus/Pages/dashboard.aspx"
+    ],
+    "confirmed_date": "3/28",
+    "comments": "3/28 加州Santa Clara County新增5例死亡病例。",
+    "comments_en": "Five more deaths in Santa Clara County."
+  },
+  {
+    "die_count": 1,
+    "state_name": "CA",
+    "county": "Santa Clara",
+    "full_links": [
+      "https://www.sccgov.org/sites/phd/DiseaseInformation/novel-coronavirus/Pages/dashboard.aspx"
+    ],
+    "confirmed_date": "3/28",
+    "comments": "3/28 加州Santa Clara County新增5例死亡病例。",
+    "comments_en": "Five more deaths in Santa Clara County."
+  },
+  {
+    "die_count": 1,
+    "state_name": "WI",
+    "county": "Milwaukee",
+    "full_links": [
+      "https://mcoem.maps.arcgis.com/apps/opsdashboard/index.html#/018eedbe075046779b8062b5fe1055bf"
+    ],
+    "confirmed_date": "3/28",
+    "comments_en": "9 by 3/28 2:30pm"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.kentucky.com/news/coronavirus/article241591191.html"
+    ],
+    "confirmed_date": "3/28",
+    "state_name": "KY",
+    "county": "Kenton",
+    "gender": "Unknown",
+    "age_range": "60+",
+    "comments_en": "Northern Kentucky Health Department announced its first death, a Kenton County resident over the age of 60, bringing the state death total to 9. All of the patients who have died in Kentucky have been over the age of 60.",
+    "comments": "肯塔基州第9例死亡，Kenton郡首例。"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.wbay.com/content/news/Number-of-confirmed-COVID-19-cases-nears-1000-569191681.html"
+    ],
+    "state_name": "WI",
+    "county": "Waupaca",
+    "confirmed_date": "3/28",
+    "comments_en": "3/28 first death case reported in Waupaca County, WI."
+  },
+  {
+    "confirmed_date": "3/28",
+    "die_count": 1,
+    "full_links": [
+      "https://coronavirus.delaware.gov/"
+    ],
+    "state_name": "DE",
+    "county": "New Castle"
+  },
+  {
+    "confirmed_date": "3/28",
+    "die_count": 1,
+    "full_links": [
+      "https://coronavirus.delaware.gov/"
+    ],
+    "state_name": "DE",
+    "county": "Kent"
+  },
+  {
+    "die_count": 5,
+    "state_name": "CT",
+    "county": "Fairfield",
+    "full_links": [
+      "https://portal.ct.gov/-/media/Coronavirus/CTDPHCOVID19summary3282020.pdf?la=en"
+    ],
+    "confirmed_date": "3/28",
+    "comments_en": "3/28 20 total death cases confirmed in Fairfield County, CT."
+  },
+  {
+    "die_count": 1,
+    "state_name": "CT",
+    "county": "Tolland",
+    "full_links": [
+      "https://portal.ct.gov/-/media/Coronavirus/CTDPHCOVID19summary3282020.pdf?la=en"
+    ],
+    "confirmed_date": "3/28",
+    "comments_en": "Total 33 deaths in CT on March 28."
   }
 ]

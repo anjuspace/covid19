@@ -50125,12 +50125,6 @@
   },
   {
     "confirmed_date": "3/26",
-    "people_count": 1,
-    "state_name": "HI",
-    "county": "Unassigned"
-  },
-  {
-    "confirmed_date": "3/26",
     "people_count": 3,
     "state_name": "CA",
     "county": "Madera"
@@ -51400,12 +51394,6 @@
     "people_count": 1,
     "state_name": "IN",
     "county": "Washington"
-  },
-  {
-    "confirmed_date": "3/27",
-    "people_count": 37,
-    "state_name": "DC",
-    "county": "District of Columbia"
   },
   {
     "confirmed_date": "3/27",
@@ -56191,7 +56179,7 @@
   },
   {
     "confirmed_date": "3/27",
-    "people_count": 10,
+    "people_count": 12,
     "state_name": "HI",
     "county": "Honolulu"
   },
@@ -56485,7 +56473,7 @@
   },
   {
     "confirmed_date": "3/27",
-    "people_count": 6,
+    "people_count": 10,
     "state_name": "NC",
     "county": "New Hanover"
   },
@@ -56838,7 +56826,7 @@
     "confirmed_date": "3/27"
   },
   {
-    "people_count": 1,
+    "people_count": 2,
     "confirmed_date": "3/27",
     "state_name": "CA",
     "county": "Kings"
@@ -56914,6 +56902,30 @@
     "confirmed_date": "3/27",
     "state_name": "PA",
     "county": "Clarion"
+  },
+  {
+    "people_count": 37,
+    "confirmed_date": "3/27",
+    "state_name": "DC",
+    "county": "District of Columbia"
+  },
+  {
+    "people_count": 3,
+    "state_name": "KY",
+    "county": "Boone",
+    "confirmed_date": "3/27"
+  },
+  {
+    "people_count": 2,
+    "state_name": "KY",
+    "county": "Campbell",
+    "confirmed_date": "3/27"
+  },
+  {
+    "people_count": 4,
+    "state_name": "KY",
+    "county": "Kenton",
+    "confirmed_date": "3/27"
   },
   {
     "people_count": 21,
@@ -59460,7 +59472,7 @@
     "county": "Madison"
   },
   {
-    "people_count": 1,
+    "people_count": 2,
     "confirmed_date": "3/28",
     "state_name": "AR",
     "county": "Jefferson"
@@ -60852,7 +60864,7 @@
     "confirmed_date": "3/28"
   },
   {
-    "people_count": 23,
+    "people_count": 24,
     "state_name": "DE",
     "county": "New Castle",
     "confirmed_date": "3/28"
@@ -60906,7 +60918,7 @@
     "confirmed_date": "3/28"
   },
   {
-    "people_count": 2,
+    "people_count": 6,
     "state_name": "HI",
     "county": "Kauai",
     "confirmed_date": "3/28"
@@ -61849,7 +61861,7 @@
   },
   {
     "confirmed_date": "3/28",
-    "people_count": 13,
+    "people_count": 12,
     "state_name": "SC",
     "county": "York"
   },
@@ -61902,9 +61914,135 @@
     "county": "Contra Costa"
   },
   {
-    "people_count": 70,
+    "people_count": 60,
     "state_name": "KY",
     "county": "Unassigned",
+    "confirmed_date": "3/28"
+  },
+  {
+    "confirmed_date": "3/28",
+    "people_count": 3,
+    "state_name": "AR",
+    "county": "Pulaski"
+  },
+  {
+    "confirmed_date": "3/28",
+    "people_count": 1,
+    "state_name": "AR",
+    "county": "Cleburne"
+  },
+  {
+    "people_count": 17,
+    "state_name": "CA",
+    "county": "Santa Clara",
+    "confirmed_date": "3/28"
+  },
+  {
+    "confirmed_date": "3/28",
+    "people_count": 22,
+    "state_name": "WA",
+    "county": "Spokane"
+  },
+  {
+    "people_count": 3,
+    "state_name": "HI",
+    "county": "Hawaii",
+    "confirmed_date": "3/28"
+  },
+  {
+    "state_name": "HI",
+    "county": "Honolulu",
+    "confirmed_date": "3/28",
+    "people_count": 19
+  },
+  {
+    "people_count": 19,
+    "state_name": "TX",
+    "county": "Travis",
+    "confirmed_date": "3/28"
+  },
+  {
+    "people_count": 12,
+    "confirmed_date": "3/28",
+    "state_name": "CA",
+    "county": "San Bernardino"
+  },
+  {
+    "confirmed_date": "3/28",
+    "people_count": 11,
+    "state_name": "NM",
+    "county": "Bernalillo"
+  },
+  {
+    "confirmed_date": "3/28",
+    "people_count": 3,
+    "state_name": "NM",
+    "county": "Chaves"
+  },
+  {
+    "confirmed_date": "3/28",
+    "people_count": 1,
+    "state_name": "NM",
+    "county": "Dona Ana"
+  },
+  {
+    "confirmed_date": "3/28",
+    "people_count": 1,
+    "state_name": "NM",
+    "county": "Eddy"
+  },
+  {
+    "people_count": 156,
+    "state_name": "CT",
+    "county": "Fairfield",
+    "confirmed_date": "3/28"
+  },
+  {
+    "confirmed_date": "3/28",
+    "people_count": 1,
+    "state_name": "NM",
+    "county": "San Juan"
+  },
+  {
+    "people_count": 39,
+    "state_name": "CT",
+    "county": "Hartford",
+    "confirmed_date": "3/28"
+  },
+  {
+    "people_count": 13,
+    "state_name": "CT",
+    "county": "Litchfield",
+    "confirmed_date": "3/28"
+  },
+  {
+    "people_count": 3,
+    "state_name": "CT",
+    "county": "Middlesex",
+    "confirmed_date": "3/28"
+  },
+  {
+    "people_count": 14,
+    "state_name": "CT",
+    "county": "New Haven",
+    "confirmed_date": "3/28"
+  },
+  {
+    "people_count": 4,
+    "state_name": "CT",
+    "county": "New London",
+    "confirmed_date": "3/28"
+  },
+  {
+    "people_count": 1,
+    "state_name": "KY",
+    "county": "Boone",
+    "confirmed_date": "3/28"
+  },
+  {
+    "people_count": 4,
+    "state_name": "CT",
+    "county": "Tolland",
     "confirmed_date": "3/28"
   }
 ]
