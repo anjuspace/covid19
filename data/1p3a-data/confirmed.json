@@ -50281,7 +50281,7 @@
   },
   {
     "confirmed_date": "3/26",
-    "people_count": 15,
+    "people_count": 14,
     "state_name": "ID",
     "county": "Ada"
   },
@@ -50320,12 +50320,6 @@
     "people_count": 1,
     "state_name": "ID",
     "county": "Kootenai"
-  },
-  {
-    "confirmed_date": "3/26",
-    "people_count": 3,
-    "state_name": "ID",
-    "county": "Payette"
   },
   {
     "confirmed_date": "3/26",
@@ -50479,7 +50473,7 @@
   },
   {
     "confirmed_date": "3/26",
-    "people_count": 6,
+    "people_count": 5,
     "state_name": "WV",
     "county": "Monongalia"
   },
@@ -51105,7 +51099,7 @@
     "state_name": "MD",
     "county": "Cecil",
     "confirmed_date": "3/27",
-    "people_count": 5
+    "people_count": 8
   },
   {
     "people_count": 6,
@@ -51408,7 +51402,7 @@
     "confirmed_date": "3/27"
   },
   {
-    "people_count": 4,
+    "people_count": 37,
     "state_name": "DC",
     "county": "District of Columbia",
     "confirmed_date": "3/27"
@@ -53172,10 +53166,10 @@
     "confirmed_date": "3/27"
   },
   {
-    "people_count": 24,
     "state_name": "NY",
     "county": "Erie",
-    "confirmed_date": "3/27"
+    "confirmed_date": "3/27",
+    "people_count": 89
   },
   {
     "people_count": 1,
@@ -53185,13 +53179,13 @@
   },
   {
     "confirmed_date": "3/27",
-    "people_count": 11,
+    "people_count": 17,
     "state_name": "ID",
     "county": "Blaine"
   },
   {
     "confirmed_date": "3/27",
-    "people_count": 2,
+    "people_count": 1,
     "state_name": "ID",
     "county": "Twin Falls"
   },
@@ -54024,7 +54018,7 @@
     "confirmed_date": "3/27"
   },
   {
-    "people_count": 1,
+    "people_count": 2,
     "state_name": "NY",
     "county": "Franklin",
     "confirmed_date": "3/27"
@@ -56392,5 +56386,131 @@
     "state_name": "WV",
     "county": "Kanawha",
     "confirmed_date": "3/27"
+  },
+  {
+    "confirmed_date": "3/27",
+    "people_count": 1,
+    "state_name": "ID",
+    "county": "Gem"
+  },
+  {
+    "confirmed_date": "3/27",
+    "people_count": 1,
+    "state_name": "WV",
+    "county": "Marion"
+  },
+  {
+    "people_count": 2,
+    "state_name": "WV",
+    "county": "Mason",
+    "confirmed_date": "3/27"
+  },
+  {
+    "confirmed_date": "3/27",
+    "people_count": 23,
+    "state_name": "ID",
+    "county": "Ada"
+  },
+  {
+    "people_count": 5,
+    "state_name": "WV",
+    "county": "Ohio",
+    "confirmed_date": "3/27"
+  },
+  {
+    "people_count": 1,
+    "state_name": "WV",
+    "county": "Putnam",
+    "confirmed_date": "3/27"
+  },
+  {
+    "confirmed_date": "3/27",
+    "people_count": 1,
+    "state_name": "WV",
+    "county": "Raleigh"
+  },
+  {
+    "confirmed_date": "3/27",
+    "people_count": 1,
+    "county": "Lincoln",
+    "state_name": "ID"
+  },
+  {
+    "people_count": 1,
+    "confirmed_date": "3/27",
+    "state_name": "WV",
+    "county": "Greenbrier"
+  },
+  {
+    "people_count": 1,
+    "state_name": "ID",
+    "county": "Kootenai",
+    "confirmed_date": "3/27"
+  },
+  {
+    "people_count": 1,
+    "confirmed_date": "3/27",
+    "state_name": "WV",
+    "county": "Hancock"
+  },
+  {
+    "people_count": 1,
+    "confirmed_date": "3/27",
+    "state_name": "WV",
+    "county": "Pleasants"
+  },
+  {
+    "people_count": 1,
+    "confirmed_date": "3/27",
+    "state_name": "TX",
+    "county": "Taylor"
+  },
+  {
+    "people_count": 1,
+    "confirmed_date": "3/27",
+    "state_name": "NC",
+    "county": "Randolph"
+  },
+  {
+    "people_count": 3,
+    "confirmed_date": "3/27",
+    "state_name": "CA",
+    "county": "Marin"
+  },
+  {
+    "people_count": 4,
+    "confirmed_date": "3/27",
+    "state_name": "CA",
+    "county": "Fresno"
+  },
+  {
+    "people_count": 13,
+    "state_name": "TX",
+    "county": "Brazoria",
+    "confirmed_date": "3/27"
+  },
+  {
+    "people_count": 10,
+    "confirmed_date": "3/27",
+    "state_name": "CA",
+    "county": "San Bernardino"
+  },
+  {
+    "people_count": 6,
+    "state_name": "NC",
+    "county": "New Hanover",
+    "confirmed_date": "3/27"
+  },
+  {
+    "people_count": 76,
+    "confirmed_date": "3/27",
+    "state_name": "CA",
+    "county": "San Diego"
+  },
+  {
+    "people_count": 6,
+    "confirmed_date": "3/27",
+    "state_name": "CA",
+    "county": "Sonoma"
   }
 ]

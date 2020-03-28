@@ -11170,7 +11170,7 @@
     "comments_en": "San Mateo County  reported 6th death by 3/27 morning."
   },
   {
-    "die_count": 41,
+    "die_count": 31,
     "state_name": "NY",
     "county": "Unassigned",
     "full_links": [
@@ -11784,16 +11784,6 @@
     "gender": "女",
     "age_range": "70+",
     "comments_en": " Two Ozaukee County residents died early Friday."
-  },
-  {
-    "full_links": [
-      "https://www.fox9.com/news/4-deaths-from-covid-19-reported-in-minnesota-number-of-cases-jumps-to-nearly-400"
-    ],
-    "confirmed_date": "3/27",
-    "die_count": 2,
-    "state_name": "MN",
-    "county": "Unassigned",
-    "comments_en": "2 more people have died from the coronavirus in Minnesota, bringing the total number of deaths in the state to 4."
   },
   {
     "full_links": [
@@ -12734,7 +12724,7 @@
       "https://newyork.cbslocal.com/2020/03/27/coronavirus-update-nassau-county-executive-say-we-are-approaching-now-the-steepest-part-of-the-curve/"
     ],
     "confirmed_date": "3/27",
-    "comments_en": "Nassau reported 27 total deaths by 3/26 evening."
+    "comments_en": "Nassau reported 27 total deaths by 3/27 evening."
   },
   {
     "die_count": 3,
@@ -12768,14 +12758,14 @@
     "comments_en": "Westchester, NY now has 10 deaths total"
   },
   {
-    "die_count": 0,
+    "die_count": 1,
     "state_name": "NY",
     "county": "Broome",
     "full_links": [
       "https://www.binghamtonhomepage.com/news/local-news/broome-countys-3-coronavirus-related-death/"
     ],
     "confirmed_date": "3/27",
-    "comments_en": "Jason Garnar announced at his daily briefing Friday afternoon that Broome County has another coronavirus death.\n\nThe victim was a woman in her 70’s who died in a UHS hospital.",
+    "comments_en": "Jason Garnar announced at his daily briefing Friday afternoon that Broome County has another coronavirus death.The victim was a woman in her 70’s who died in a UHS hospital.",
     "age_range": "70+",
     "gender": "女"
   },
@@ -12850,5 +12840,97 @@
     "comments_en": "3/27 Lake County officials regret to announce that the first two Lake County residents have died from complications of Coronavirus Disease 2019 (COVID-19). a woman in her 90s",
     "gender": "女",
     "age_range": "90+"
+  },
+  {
+    "die_count": 11,
+    "full_links": [
+      "https://floridahealthcovid19.gov"
+    ],
+    "confirmed_date": "3/27",
+    "state_name": "FL",
+    "county": "Unassigned",
+    "comments_en": "waiting for FL detail reports."
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://coronavirus.idaho.gov/"
+    ],
+    "confirmed_date": "3/27",
+    "state_name": "ID",
+    "county": "Nez Perce"
+  },
+  {
+    "full_links": [
+      "https://www.wsoctv.com/news/local/coronavirus-local-updates-least-636-cases-reported-nc-456-sc/GZ5HJV3N5JBGHPLYDUWSUIYGPQ/",
+      "https://www.rowancountync.gov/CivicAlerts.aspx?AID=557"
+    ],
+    "confirmed_date": "3/27",
+    "die_count": 1,
+    "state_name": "NC",
+    "county": "Rowan",
+    "comments_en": "The Rowan County Health Department has confirmed that a patient who tested positive for COVID-19 has died. The patient was in the high risk category due to age and underlying medical conditions. They were a resident of Rowan County. ",
+    "gender": "Unknown"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.twincities.com/2020/03/27/coronavirus-minnesota-update-cases-deaths-update/"
+    ],
+    "confirmed_date": "3/27",
+    "state_name": "MN",
+    "county": "Martin",
+    "age_range": "80+",
+    "comments_en": "2 more people have died from the coronavirus in Minnesota, bringing the total number of deaths in the state to 4. Both of the latest fatalities were residents of long-term care facilities. Three of the state’s four COVID-19 deaths were residents of long-term care, and all were in their 80s.",
+    "gender": "Unknown"
+  },
+  {
+    "confirmed_date": "3/27",
+    "comments_en": "2 more people have died from the coronavirus in Minnesota, bringing the total number of deaths in the state to 4. Both of the latest fatalities were residents of long-term care facilities.Three of the state’s four COVID-19 deaths were residents of long-term care, and all were in their 80s.",
+    "die_count": 1,
+    "full_links": [
+      "https://www.fox9.com/news/4-deaths-from-covid-19-reported-in-minnesota-number-of-cases-jumps-to-nearly-400",
+      "https://www.twincities.com/2020/03/27/coronavirus-minnesota-update-cases-deaths-update/"
+    ],
+    "age_range": "80+",
+    "state_name": "MN",
+    "county": "Hennepin",
+    "gender": "Unknown"
+  },
+  {
+    "die_count": 1,
+    "state_name": "NY",
+    "county": "Erie",
+    "full_links": [
+      "http://erieny.maps.arcgis.com/apps/opsdashboard/index.html#/dd7f1c0c352e4192ab162a1dfadc58e1"
+    ],
+    "confirmed_date": "3/27",
+    "comments_en": "By 3/27 21:30 PM EST, Erie County reported 6 death in total. No further details.",
+    "age_range": "Unknown",
+    "gender": "Unknown",
+    "comments": "截至3/27晚， Erie County累计死亡6例。"
+  },
+  {
+    "die_count": 1,
+    "state_name": "NY",
+    "county": "Rockland",
+    "full_links": [
+      "https://www.lohud.com/story/news/coronavirus/2020/03/27/coronavirus-rockland-reports-8th-death-cases-continue-dramatic-rise/2924230001/"
+    ],
+    "confirmed_date": "3/27",
+    "comments_en": "Rockland's eighth fatality was a 71-year-old with other significant health problems who died Thursday.",
+    "age_range": "70+",
+    "gender": "Unknown"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://coronavirus.marinhhs.org/sites/default/files/2020-03/covid-19-status-update-3-27-2020-v2.pdf"
+    ],
+    "state_name": "CA",
+    "county": "Marin",
+    "confirmed_date": "3/27",
+    "comments_en": "The person who passed away was an adult man in his 70’s and had been\nhospitalized for nearly three weeks. ",
+    "comments": "截至3/27，Marin County新增1例死亡，为70多岁男性，已住院将近3个星期。"
   }
 ]
