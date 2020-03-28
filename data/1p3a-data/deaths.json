@@ -11167,12 +11167,12 @@
   {
     "confirmed_date": "3/27",
     "comments_en": "By 3/27 noon, New York reoorted 519 total deaths, placeholder.",
-    "die_count": 31,
     "state_name": "NY",
     "county": "Unassigned",
     "full_links": [
       "https://www.nytimes.com/2020/03/27/nyregion/coronavirus-new-york-update.html"
-    ]
+    ],
+    "die_count": 29
   },
   {
     "confirmed_date": "3/27",
