@@ -56830,5 +56830,11 @@
     "confirmed_date": "3/27",
     "state_name": "ID",
     "county": "Bonneville"
+  },
+  {
+    "confirmed_date": "3/27",
+    "people_count": 2,
+    "state_name": "MD",
+    "county": "Queen Anne's"
   }
 ]

@@ -47,7 +47,7 @@ pairs2["items"].forEach(item =>{
   // publishedAt = newest articles come first.
   // Default: publishedAt
   if(item.country==='global'){
-    queryStr = '&q='+encodeURIComponent(item.keyword)+'&sortBy=publishedAt&apiKey=80e92fe9de91492d807e934300afefc4';
+    queryStr = '&q='+encodeURIComponent(item.keyword)+'&sortBy=publishedAt&language=en&apiKey=80e92fe9de91492d807e934300afefc4';
   } 
   getData(baseUrl+queryStr, item.country)
 })
