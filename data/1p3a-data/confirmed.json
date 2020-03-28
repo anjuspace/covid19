@@ -45252,6 +45252,12 @@
     "county": "Jefferson"
   },
   {
+    "people_count": 1,
+    "state_name": "NY",
+    "county": "Chautauqua",
+    "confirmed_date": "3/25"
+  },
+  {
     "confirmed_date": "3/26",
     "people_count": 1,
     "state_name": "GA",
@@ -53503,7 +53509,7 @@
   },
   {
     "confirmed_date": "3/27",
-    "people_count": 5,
+    "people_count": 13,
     "state_name": "TX",
     "county": "Wichita"
   },
@@ -54019,9 +54025,9 @@
   },
   {
     "confirmed_date": "3/27",
-    "people_count": 1,
     "state_name": "NY",
-    "county": "Cortland"
+    "county": "Cortland",
+    "people_count": 4
   },
   {
     "confirmed_date": "3/27",
@@ -54037,9 +54043,9 @@
   },
   {
     "confirmed_date": "3/27",
-    "people_count": 2,
     "state_name": "NY",
-    "county": "Genesee"
+    "county": "Genesee",
+    "people_count": 3
   },
   {
     "confirmed_date": "3/27",
@@ -56856,6 +56862,18 @@
     "county": "Jefferson"
   },
   {
+    "people_count": 1,
+    "confirmed_date": "3/27",
+    "state_name": "CA",
+    "county": "Kings"
+  },
+  {
+    "people_count": 2,
+    "state_name": "NY",
+    "county": "Chautauqua",
+    "confirmed_date": "3/27"
+  },
+  {
     "people_count": 21,
     "state_name": "PR",
     "county": "Puerto Rico",
@@ -57267,6 +57285,120 @@
     "people_count": 1,
     "state_name": "MT",
     "county": "Silver Bow",
+    "confirmed_date": "3/28"
+  },
+  {
+    "people_count": 4,
+    "state_name": "MO",
+    "county": "Christian",
+    "confirmed_date": "3/28"
+  },
+  {
+    "people_count": 9,
+    "state_name": "TX",
+    "county": "El Paso",
+    "confirmed_date": "3/28"
+  },
+  {
+    "people_count": 2,
+    "state_name": "ND",
+    "county": "Burleigh",
+    "confirmed_date": "3/28"
+  },
+  {
+    "people_count": 1,
+    "state_name": "ND",
+    "county": "Morton",
+    "confirmed_date": "3/28"
+  },
+  {
+    "people_count": 6,
+    "state_name": "ND",
+    "county": "Cass",
+    "confirmed_date": "3/28"
+  },
+  {
+    "people_count": 2,
+    "state_name": "ND",
+    "county": "Stark",
+    "confirmed_date": "3/28"
+  },
+  {
+    "people_count": 2,
+    "confirmed_date": "3/28",
+    "state_name": "ND",
+    "county": "Barnes"
+  },
+  {
+    "people_count": 1,
+    "confirmed_date": "3/28",
+    "state_name": "ND",
+    "county": "Mountrail"
+  },
+  {
+    "people_count": 1,
+    "confirmed_date": "3/28",
+    "state_name": "ND",
+    "county": "Sioux"
+  },
+  {
+    "people_count": 1,
+    "state_name": "NC",
+    "county": "Polk",
+    "confirmed_date": "3/28"
+  },
+  {
+    "people_count": 1,
+    "state_name": "NC",
+    "county": "Henderson",
+    "confirmed_date": "3/28"
+  },
+  {
+    "people_count": 2,
+    "state_name": "NC",
+    "county": "Davidson",
+    "confirmed_date": "3/28"
+  },
+  {
+    "people_count": 1,
+    "state_name": "NC",
+    "county": "Chatham",
+    "confirmed_date": "3/28"
+  },
+  {
+    "people_count": 3,
+    "state_name": "NC",
+    "county": "Iredell",
+    "confirmed_date": "3/28"
+  },
+  {
+    "people_count": 3,
+    "state_name": "WA",
+    "county": "Cowlitz",
+    "confirmed_date": "3/28"
+  },
+  {
+    "people_count": 2,
+    "state_name": "NY",
+    "county": "Franklin",
+    "confirmed_date": "3/28"
+  },
+  {
+    "people_count": 1,
+    "confirmed_date": "3/28",
+    "state_name": "MS",
+    "county": "Alcorn"
+  },
+  {
+    "people_count": 40,
+    "state_name": "NC",
+    "county": "Mecklenburg",
+    "confirmed_date": "3/28"
+  },
+  {
+    "people_count": 5,
+    "state_name": "NY",
+    "county": "Oswego",
     "confirmed_date": "3/28"
   }
 ]
