@@ -19,6 +19,15 @@ DEATHS:
 RECOVERED:
   en: Recovered
   zh: 治愈
+ACTIVE:
+  en: Active
+  zh: 现存确诊
+NEW_CONFIRMED:
+  en: New Confirmed
+  zh: 新增确诊
+NEW_DEATHS:
+  en: New Deaths
+  zh: 新增死亡
 OVERALL:
   en: Overall
   zh: 总体
@@ -60,13 +69,16 @@ MOST_AFFECTED_SUBREGIONS:
   zh: 受影响程度排序
 SUBREGION_ACTIVE_STREAM:
   en: Stream of Active Cases
-  zh: 存量确诊病例流图
+  zh: 现存确诊病例流图
 SUBREGION_FATALITY:
   en: Fatality
   zh: 病死率
 SUBREGION:
   en: Cases
   zh: 病例
+SUBREGION_SHIFTED:
+  en: Cases (Shifted)
+  zh: 病例（基于天数）
 SUBREGION_STREAM:
   en: Stream of Cases
   zh: 病例流图
@@ -115,6 +127,21 @@ THREE_DAYS:
 FIVE_DAYS:
   en: 5 Days
   zh: 5日
+DAY_0:
+  en: Day 0
+  zh: 第0天
+TEN_CASES:
+  en: 10 Cases
+  zh: 10例
+HUNDRED_CASES:
+  en: 100 Cases
+  zh: 100例
+DAYS_AFTER_10_CASES:
+  en: Days after 10 cases
+  zh: 病例超过10之后的天数
+DAYS_AFTER_100_CASES:
+  en: Days after 100 cases
+  zh: 病例超过100之后的天数
 REGION:
   en: Region
   zh: 地区
@@ -196,12 +223,27 @@ NORWAY_MAP:
 IRAN_MAP:
   en: Iran
   zh: 伊朗
+PORTUGAL_MAP:
+  en: Portugal
+  zh: 葡萄牙
+BRAZIL_MAP:
+  en: Brazil
+  zh: 巴西
+MALAYSIA_MAP:
+  en: Malaysia
+  zh: 马来西亚
+CHILE_MAP:
+  en: Chile
+  zh: 智利
 ASIA:
   en: Asia
   zh: 亚洲
 NORTH_AMERICA:
   en: North America
   zh: 北美洲
+SOUTH_AMERICA:
+  en: South America
+  zh: 南美洲
 EUROPE:
   en: Europe
   zh: 欧洲

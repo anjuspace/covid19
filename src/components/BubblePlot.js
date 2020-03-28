@@ -17,7 +17,7 @@ export default class BubblePlot extends Component {
     }
 
     render() {
-        const { data, metric, currentRegion, date, playing, lang, darkMode } = this.props
+        const { data, metric, currentRegion, date, playing, lang, darkMode, fullTree } = this.props
         if (data == null) return <div />
         let plotData = {
             name: str.GLOBAL_ZH,
@@ -37,6 +37,7 @@ export default class BubblePlot extends Component {
         if (
             count == null ||
             count === 0 ||
+            (currentRegion[0] === str.CHINA_ZH && currentRegion.length > 3) ||
             (currentRegion[0] === str.US_ZH && currentRegion.length === 3) ||
             (currentRegion[0] === str.UK_ZH && currentRegion.length > 3)
         )
@@ -55,6 +56,9 @@ export default class BubblePlot extends Component {
         if (currentRegion[0] === str.UK_ZH && currentRegion.length > 2)
             displayNodePath = [ str.GLOBAL_ZH, ...currentRegion.slice(0, 2) ].reverse().join('.')
 
+        if (currentRegion[0] === str.CHINA_ZH && currentRegion.length > 2)
+            displayNodePath = [ str.GLOBAL_ZH, ...currentRegion.slice(0, 2) ].reverse().join('.')
+
         return (
             <div className="bubble-plot-wrap">
                 <ResponsiveBubble
@@ -62,6 +66,7 @@ export default class BubblePlot extends Component {
                     root={plotData}
                     theme={{
                         fontFamily: 'Saira, sans-serif',
+                        fontSize: !fullTree ? 11 : 14,
                         tooltip: {
                             container: {
                                 background: darkMode ? 'var(--darkest-grey)' : 'white'
@@ -80,12 +85,12 @@ export default class BubblePlot extends Component {
                     )}
                     identity="name"
                     value={metric}
-                    colors={[ ...[ 0.3, 0.4, 0.2, 0.1 ].map((x) => interpolateMagma(1 - x)), '#fff' ]}
+                    colors={[ ...[ 0.3, 0.4, 0.15 ].map((x) => interpolateMagma(1 - x)), '#fff' ]}
                     padding={3}
                     enableLabel={true}
                     label={({ data }) => data.displayName}
                     labelTextColor={'#222'}
-                    labelSkipRadius={8}
+                    labelSkipRadius={!fullTree ? 8 : 10}
                     animate={!playing}
                     motionStiffness={50}
                     motionDamping={12}
