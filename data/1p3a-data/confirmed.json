@@ -19995,7 +19995,7 @@
     "confirmed_date": "3/20",
     "people_count": 1,
     "state_name": "NC",
-    "county": "Stanley"
+    "county": "Stanly"
   },
   {
     "confirmed_date": "3/20",
@@ -26911,7 +26911,7 @@
   },
   {
     "confirmed_date": "3/22",
-    "people_count": 2,
+    "people_count": 1,
     "state_name": "GA",
     "county": "Lamar"
   },
@@ -43441,7 +43441,7 @@
   },
   {
     "confirmed_date": "3/25",
-    "people_count": 2,
+    "people_count": 1,
     "state_name": "OR",
     "county": "Benton"
   },
@@ -46915,7 +46915,7 @@
   },
   {
     "confirmed_date": "3/26",
-    "people_count": 3,
+    "people_count": 2,
     "state_name": "GA",
     "county": "Troup"
   },
@@ -50964,12 +50964,6 @@
     "county": "North Pole"
   },
   {
-    "people_count": 12,
-    "confirmed_date": "3/27",
-    "state_name": "CA",
-    "county": "Unassigned"
-  },
-  {
     "people_count": 2,
     "confirmed_date": "3/27",
     "county": "Winston",
@@ -54078,7 +54072,7 @@
     "confirmed_date": "3/27"
   },
   {
-    "people_count": 2,
+    "people_count": 3,
     "state_name": "NY",
     "county": "Otsego",
     "confirmed_date": "3/27"
@@ -54553,9 +54547,9 @@
   },
   {
     "people_count": 1,
+    "confirmed_date": "3/27",
     "state_name": "GA",
-    "county": "Troup",
-    "confirmed_date": "3/27"
+    "county": "Chattahoochee"
   },
   {
     "people_count": 3,
@@ -54594,10 +54588,10 @@
     "confirmed_date": "3/27"
   },
   {
-    "people_count": 2,
     "state_name": "GA",
     "county": "Muscogee",
-    "confirmed_date": "3/27"
+    "confirmed_date": "3/27",
+    "people_count": 1
   },
   {
     "people_count": 1,
@@ -54883,7 +54877,7 @@
   },
   {
     "confirmed_date": "3/27",
-    "people_count": 2,
+    "people_count": 1,
     "state_name": "OR",
     "county": "Lane"
   },
@@ -54963,7 +54957,7 @@
     "people_count": 1,
     "confirmed_date": "3/27",
     "state_name": "GA",
-    "county": "Habersham"
+    "county": "Hart"
   },
   {
     "people_count": 103,
@@ -55608,7 +55602,7 @@
     "county": "Unassigned"
   },
   {
-    "people_count": 1,
+    "people_count": 2,
     "state_name": "NC",
     "county": "Henderson",
     "confirmed_date": "3/27"
@@ -55778,7 +55772,7 @@
   {
     "state_name": "NC",
     "county": "Gaston",
-    "people_count": 5,
+    "people_count": 6,
     "confirmed_date": "3/27"
   },
   {
@@ -56734,5 +56728,65 @@
     "county": "Tulare",
     "confirmed_date": "3/27",
     "people_count": 4
+  },
+  {
+    "people_count": 10,
+    "state_name": "NC",
+    "county": "Durham",
+    "confirmed_date": "3/27"
+  },
+  {
+    "state_name": "NC",
+    "county": "Cabarrus",
+    "confirmed_date": "3/27",
+    "people_count": 9
+  },
+  {
+    "state_name": "NC",
+    "county": "Pitt",
+    "confirmed_date": "3/27",
+    "people_count": 2
+  },
+  {
+    "state_name": "NC",
+    "county": "McDowell",
+    "confirmed_date": "3/27",
+    "people_count": 3
+  },
+  {
+    "state_name": "NC",
+    "county": "Stanly",
+    "confirmed_date": "3/27",
+    "people_count": 2
+  },
+  {
+    "people_count": 1,
+    "confirmed_date": "3/27",
+    "state_name": "NC",
+    "county": "Alleghany"
+  },
+  {
+    "people_count": 1,
+    "confirmed_date": "3/27",
+    "state_name": "NC",
+    "county": "Edgecombe"
+  },
+  {
+    "confirmed_date": "3/27",
+    "people_count": 3,
+    "state_name": "NC",
+    "county": "Greene"
+  },
+  {
+    "state_name": "NV",
+    "county": "Unassigned",
+    "confirmed_date": "3/27",
+    "people_count": 77
+  },
+  {
+    "people_count": 2,
+    "state_name": "WA",
+    "county": "Walla Walla",
+    "confirmed_date": "3/27"
   }
 ]

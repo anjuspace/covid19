@@ -10582,7 +10582,7 @@
     "confirmed_date": "3/26",
     "comments": "3/26 加州Santa Clara County新增2例死亡病例。",
     "comments_en": "Two more deaths in Santa Clara County.",
-    "die_count": 2,
+    "die_count": 1,
     "state_name": "CA",
     "county": "Santa Clara",
     "full_links": [
@@ -11066,6 +11066,17 @@
   },
   {
     "die_count": 1,
+    "state_name": "CA",
+    "county": "Santa Clara",
+    "full_links": [
+      "https://www.sccgov.org/sites/phd/DiseaseInformation/novel-coronavirus/Pages/home.aspx"
+    ],
+    "confirmed_date": "3/26",
+    "comments": "3/26 加州Santa Clara County新增2例死亡病例。",
+    "comments_en": "Two more deaths in Santa Clara County."
+  },
+  {
+    "die_count": 1,
     "state_name": "PR",
     "county": "Puerto Rico",
     "full_links": [
@@ -11183,7 +11194,11 @@
     ],
     "confirmed_date": "3/27",
     "state_name": "FL",
-    "county": "Miami-Dade"
+    "county": "Miami-Dade",
+    "comments": "Dade, 40 year old Male, contact with a confirmed case.\n",
+    "gender": "男",
+    "age_range": "40+",
+    "comments_en": "Dade, 40 year old Male, contact with a confirmed case.\n"
   },
   {
     "die_count": 1,
@@ -11201,7 +11216,11 @@
     "full_links": [
       "https://experience.arcgis.com/experience/96dd742462124fa0b38ddedb9b25e429"
     ],
-    "confirmed_date": "3/27"
+    "confirmed_date": "3/27",
+    "comments": "Lee, 39 year old Male, Unknown travel or contact.",
+    "gender": "男",
+    "age_range": "30+",
+    "comments_en": "Lee, 39 year old Male, Unknown travel or contact."
   },
   {
     "die_count": 1,
@@ -12846,7 +12865,7 @@
     "age_range": "90+"
   },
   {
-    "die_count": 11,
+    "die_count": 3,
     "full_links": [
       "https://floridahealthcovid19.gov"
     ],
@@ -13083,7 +13102,10 @@
       "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-03-27-1819.pdf"
     ],
     "confirmed_date": "3/27",
-    "comments_en": "Broward, 94 year old Male, no travel, unknown contact."
+    "comments_en": "Broward, 94 year old Male, no travel, unknown contact.",
+    "comments": "Broward, 94 year old Male, no travel, unknown contact.",
+    "gender": "男",
+    "age_range": "90+"
   },
   {
     "die_count": 1,
@@ -13093,7 +13115,10 @@
       "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-03-27-1819.pdf"
     ],
     "confirmed_date": "3/27",
-    "comments_en": "Broward, 75 year old Male, contact with a confirmed case."
+    "comments_en": "Broward, 75 year old Male, contact with a confirmed case.",
+    "comments": "Broward, 75 year old Male, contact with a confirmed case.",
+    "gender": "男",
+    "age_range": "70+"
   },
   {
     "die_count": 1,
@@ -13103,7 +13128,10 @@
       "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-03-27-1819.pdf"
     ],
     "confirmed_date": "3/27",
-    "comments_en": "Broward, 70 year old Male, travel to BRAZIL; FL."
+    "comments_en": "Broward, 70 year old Male, travel to BRAZIL; FL.",
+    "comments": "Broward, 70 year old Male, travel to BRAZIL; FL.",
+    "gender": "男",
+    "age_range": "70+"
   },
   {
     "die_count": 1,
@@ -13113,7 +13141,10 @@
       "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-03-27-1819.pdf"
     ],
     "confirmed_date": "3/27",
-    "comments_en": "Broward, 84 year old Female, no travel, unknown contact."
+    "comments_en": "Broward, 84 year old Female, no travel, unknown contact.",
+    "comments": "Broward, 84 year old Female, no travel, unknown contact.",
+    "gender": "女",
+    "age_range": "80+"
   },
   {
     "die_count": 1,
@@ -13123,7 +13154,10 @@
       "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-03-27-1819.pdf"
     ],
     "confirmed_date": "3/27",
-    "comments_en": "Broward, 93 year old Female, unknown travel or contact."
+    "comments_en": "Broward, 93 year old Female, unknown travel or contact.",
+    "comments": "Broward, 93 year old Female, unknown travel or contact.",
+    "gender": "女",
+    "age_range": "90+"
   },
   {
     "die_count": 1,
@@ -13131,6 +13165,69 @@
     "county": "Broward",
     "full_links": [],
     "confirmed_date": "3/27",
-    "comments_en": "Broward, 79 year old Female, unknown travel or contact."
+    "comments_en": "Broward, 79 year old Female, unknown travel or contact.",
+    "comments": "Broward, 79 year old Female, unknown travel or contact.",
+    "gender": "女",
+    "age_range": "70+"
+  },
+  {
+    "die_count": 1,
+    "state_name": "FL",
+    "county": "Hillsborough",
+    "full_links": [
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-03-27-1819.pdf"
+    ],
+    "confirmed_date": "3/27",
+    "comments": "Hillsborough, 71 year old Female, No travel, no contact.",
+    "gender": "女",
+    "age_range": "70+",
+    "comments_en": "Hillsborough, 71 year old Female, No travel, no contact."
+  },
+  {
+    "die_count": 1,
+    "state_name": "FL",
+    "county": "Lee",
+    "full_links": [
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-03-27-1819.pdf"
+    ],
+    "confirmed_date": "3/27",
+    "comments": "Lee, 94 year old Male, No travel, no contact",
+    "gender": "男",
+    "age_range": "90+",
+    "comments_en": "Lee, 94 year old Male, No travel, no contact"
+  },
+  {
+    "die_count": 1,
+    "state_name": "CA",
+    "county": "Contra Costa",
+    "full_links": [
+      "https://www.coronavirus.cchealth.org/"
+    ],
+    "confirmed_date": "3/27",
+    "comments": "3/27 加州Contra Costa County新增1例死亡病例，信息不详",
+    "comments_en": " Contra Costa County reported second death.",
+    "age_range": "Unknown",
+    "gender": "Unknown"
+  },
+  {
+    "full_links": [
+      "https://www.wktv.com/content/news/Health-Department-confirms-first-coronavirus-related-death-569166061.html"
+    ],
+    "confirmed_date": "3/27",
+    "die_count": 1,
+    "state_name": "NY",
+    "county": "Otsego",
+    "comments_en": "One person in Otsego County has died from coronavirus, according to the Otsego County Health Department. Health officials are not releasing details about the person at this time."
+  },
+  {
+    "full_links": [
+      "https://www.syracuse.com/coronavirus/2020/03/85-year-old-herkimer-county-resident-dies-from-covid-19-health-department-says.html"
+    ],
+    "confirmed_date": "3/27",
+    "state_name": "NY",
+    "county": "Herkimer",
+    "die_count": 1,
+    "age_range": "80+",
+    "comments_en": "An 85-year-old Herkimer County resident with underlying health conditions has died after being infected with COVID-19, Herkimer County Health Department officials announced today."
   }
 ]
