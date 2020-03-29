@@ -10218,6 +10218,12 @@
     "county": "Cleburne"
   },
   {
+    "people_count": 1,
+    "confirmed_date": "3/16",
+    "state_name": "UT",
+    "county": "Beaver"
+  },
+  {
     "confirmed_date": "3/17",
     "people_count": 1,
     "state_name": "FL",
@@ -49333,12 +49339,6 @@
   },
   {
     "confirmed_date": "3/26",
-    "state_name": "UT",
-    "county": "Southwest Utah",
-    "people_count": 3
-  },
-  {
-    "confirmed_date": "3/26",
     "people_count": 6,
     "state_name": "UT",
     "county": "Summit"
@@ -49660,12 +49660,6 @@
     "people_count": 1,
     "state_name": "NC",
     "county": "Harnett"
-  },
-  {
-    "confirmed_date": "3/26",
-    "people_count": 1,
-    "state_name": "NC",
-    "county": "Hertford"
   },
   {
     "confirmed_date": "3/26",
@@ -54141,7 +54135,7 @@
     "confirmed_date": "3/27",
     "people_count": 1,
     "state_name": "UT",
-    "county": "Grant"
+    "county": "Grand"
   },
   {
     "confirmed_date": "3/27",
@@ -54163,12 +54157,6 @@
   },
   {
     "confirmed_date": "3/27",
-    "people_count": 1,
-    "state_name": "UT",
-    "county": "Southwest Utah"
-  },
-  {
-    "confirmed_date": "3/27",
     "people_count": 7,
     "state_name": "UT",
     "county": "Summit"
@@ -54183,7 +54171,7 @@
     "confirmed_date": "3/27",
     "people_count": 1,
     "state_name": "UT",
-    "county": "UNI"
+    "county": "Unitah"
   },
   {
     "confirmed_date": "3/27",
@@ -56065,9 +56053,9 @@
   },
   {
     "confirmed_date": "3/27",
-    "people_count": 1,
     "state_name": "NM",
-    "county": "Rio Arriba"
+    "county": "Rio Arriba",
+    "people_count": 0
   },
   {
     "confirmed_date": "3/27",
@@ -57564,8 +57552,14 @@
     "county": "Garfield"
   },
   {
+    "people_count": 1,
+    "state_name": "NV",
+    "county": "Elko",
+    "confirmed_date": "3/27"
+  },
+  {
     "confirmed_date": "3/28",
-    "people_count": 160,
+    "people_count": 125,
     "state_name": "WA",
     "county": "Unassigned"
   },
@@ -57579,7 +57573,7 @@
     "confirmed_date": "3/28",
     "people_count": 3,
     "state_name": "UT",
-    "county": "Grant"
+    "county": "Grand"
   },
   {
     "confirmed_date": "3/28",
@@ -60268,12 +60262,6 @@
     "people_count": 1,
     "state_name": "PA",
     "county": "Columbia"
-  },
-  {
-    "confirmed_date": "3/28",
-    "people_count": 4,
-    "state_name": "UT",
-    "county": "Southwest Utah"
   },
   {
     "confirmed_date": "3/28",
@@ -63798,7 +63786,7 @@
     "confirmed_date": "3/29"
   },
   {
-    "people_count": 1,
+    "people_count": 2,
     "state_name": "AL",
     "county": "Walker",
     "confirmed_date": "3/29"
@@ -64526,7 +64514,7 @@
   {
     "state_name": "NC",
     "county": "Mecklenburg",
-    "people_count": 16,
+    "people_count": 37,
     "confirmed_date": "3/29"
   },
   {
@@ -64896,7 +64884,7 @@
     "confirmed_date": "3/29"
   },
   {
-    "people_count": 62,
+    "people_count": 87,
     "state_name": "PA",
     "county": "Philadelphia",
     "confirmed_date": "3/29"
@@ -66000,7 +65988,7 @@
     "confirmed_date": "3/29"
   },
   {
-    "people_count": 114,
+    "people_count": 124,
     "state_name": "NJ",
     "county": "Morris",
     "confirmed_date": "3/29"
@@ -66042,7 +66030,7 @@
     "confirmed_date": "3/29"
   },
   {
-    "people_count": 7,
+    "people_count": 13,
     "state_name": "NC",
     "county": "Wake",
     "confirmed_date": "3/29"
@@ -66358,12 +66346,6 @@
     "confirmed_date": "3/29",
     "state_name": "UT",
     "county": "San Juan"
-  },
-  {
-    "people_count": 1,
-    "confirmed_date": "3/29",
-    "state_name": "UT",
-    "county": "Southwest Utah"
   },
   {
     "people_count": 24,
@@ -67230,7 +67212,7 @@
     "county": "Kane"
   },
   {
-    "people_count": 5,
+    "people_count": 6,
     "confirmed_date": "3/29",
     "state_name": "AL",
     "county": "Madison"
@@ -67458,7 +67440,7 @@
     "confirmed_date": "3/29"
   },
   {
-    "people_count": 9,
+    "people_count": 8,
     "state_name": "NM",
     "county": "Bernalillo",
     "confirmed_date": "3/29"
@@ -67548,7 +67530,7 @@
     "people_count": 4
   },
   {
-    "people_count": 4,
+    "people_count": 5,
     "state_name": "NM",
     "county": "Santa Fe",
     "confirmed_date": "3/29"
@@ -67570,5 +67552,521 @@
     "state_name": "SC",
     "county": "York",
     "confirmed_date": "3/29"
+  },
+  {
+    "state_name": "NC",
+    "county": "Gaston",
+    "confirmed_date": "3/29",
+    "people_count": 4
+  },
+  {
+    "state_name": "MA",
+    "county": "Middlesex",
+    "people_count": 139,
+    "confirmed_date": "3/29"
+  },
+  {
+    "state_name": "NC",
+    "county": "Granville",
+    "confirmed_date": "3/29",
+    "people_count": 3
+  },
+  {
+    "state_name": "NC",
+    "county": "Guilford",
+    "confirmed_date": "3/29",
+    "people_count": 5
+  },
+  {
+    "state_name": "NC",
+    "county": "Harnett",
+    "confirmed_date": "3/29",
+    "people_count": 3
+  },
+  {
+    "state_name": "NC",
+    "county": "Henderson",
+    "confirmed_date": "3/29",
+    "people_count": 4
+  },
+  {
+    "people_count": 1,
+    "state_name": "NC",
+    "county": "Hoke",
+    "confirmed_date": "3/29"
+  },
+  {
+    "state_name": "NC",
+    "county": "Iredell",
+    "confirmed_date": "3/29",
+    "people_count": 3
+  },
+  {
+    "people_count": 58,
+    "state_name": "MA",
+    "county": "Norfolk",
+    "confirmed_date": "3/29"
+  },
+  {
+    "people_count": 1,
+    "state_name": "NC",
+    "county": "Johnston",
+    "confirmed_date": "3/29"
+  },
+  {
+    "people_count": 2,
+    "state_name": "NC",
+    "county": "Lincoln",
+    "confirmed_date": "3/29"
+  },
+  {
+    "state_name": "MA",
+    "county": "Plymouth",
+    "people_count": 53,
+    "confirmed_date": "3/29"
+  },
+  {
+    "state_name": "NC",
+    "county": "Orange",
+    "confirmed_date": "3/29",
+    "people_count": 5
+  },
+  {
+    "state_name": "MA",
+    "county": "Suffolk",
+    "people_count": 97,
+    "confirmed_date": "3/29"
+  },
+  {
+    "state_name": "NC",
+    "county": "Pitt",
+    "confirmed_date": "3/29",
+    "people_count": 5
+  },
+  {
+    "state_name": "NC",
+    "county": "Randolph",
+    "confirmed_date": "3/29",
+    "people_count": 6
+  },
+  {
+    "state_name": "NC",
+    "county": "Rowan",
+    "confirmed_date": "3/29",
+    "people_count": 5
+  },
+  {
+    "people_count": 104,
+    "state_name": "MA",
+    "county": "Unassigned",
+    "confirmed_date": "3/29"
+  },
+  {
+    "people_count": 1,
+    "state_name": "NC",
+    "county": "Scotland",
+    "confirmed_date": "3/29"
+  },
+  {
+    "people_count": 2,
+    "state_name": "NC",
+    "county": "Stanly",
+    "confirmed_date": "3/29"
+  },
+  {
+    "people_count": 1,
+    "state_name": "NM",
+    "county": "Taos",
+    "confirmed_date": "3/29"
+  },
+  {
+    "people_count": 4,
+    "state_name": "NC",
+    "county": "Union",
+    "confirmed_date": "3/29"
+  },
+  {
+    "people_count": 1,
+    "state_name": "NC",
+    "county": "Vance",
+    "confirmed_date": "3/29"
+  },
+  {
+    "state_name": "NC",
+    "county": "Wilson",
+    "confirmed_date": "3/29",
+    "people_count": 3
+  },
+  {
+    "people_count": 46,
+    "state_name": "MA",
+    "county": "Worcester",
+    "confirmed_date": "3/29"
+  },
+  {
+    "people_count": 2,
+    "state_name": "MO",
+    "county": "Boone",
+    "confirmed_date": "3/29"
+  },
+  {
+    "people_count": 1,
+    "state_name": "MO",
+    "county": "Bates",
+    "confirmed_date": "3/29"
+  },
+  {
+    "people_count": 2,
+    "state_name": "MO",
+    "county": "Callaway",
+    "confirmed_date": "3/29"
+  },
+  {
+    "people_count": 3,
+    "state_name": "MO",
+    "county": "Camden",
+    "confirmed_date": "3/29"
+  },
+  {
+    "people_count": 1,
+    "state_name": "MO",
+    "county": "Clay",
+    "confirmed_date": "3/29"
+  },
+  {
+    "people_count": 1,
+    "state_name": "MO",
+    "county": "Franklin",
+    "confirmed_date": "3/29"
+  },
+  {
+    "people_count": 5,
+    "state_name": "MO",
+    "county": "Jackson",
+    "confirmed_date": "3/29"
+  },
+  {
+    "people_count": 8,
+    "state_name": "MO",
+    "county": "Kansas City",
+    "confirmed_date": "3/29"
+  },
+  {
+    "people_count": 1,
+    "state_name": "MO",
+    "county": "Moniteau",
+    "confirmed_date": "3/29"
+  },
+  {
+    "people_count": 2,
+    "confirmed_date": "3/29",
+    "state_name": "MO",
+    "county": "Ripley"
+  },
+  {
+    "people_count": 6,
+    "state_name": "MO",
+    "county": "St. Charles",
+    "confirmed_date": "3/29"
+  },
+  {
+    "people_count": 27,
+    "state_name": "TX",
+    "county": "Harris",
+    "confirmed_date": "3/29"
+  },
+  {
+    "people_count": 832,
+    "confirmed_date": "3/29",
+    "state_name": "IL",
+    "county": "Cook"
+  },
+  {
+    "people_count": 1,
+    "state_name": "MO",
+    "county": "Stoddard",
+    "confirmed_date": "3/29"
+  },
+  {
+    "people_count": 54,
+    "state_name": "TX",
+    "county": "Harris",
+    "confirmed_date": "3/29"
+  },
+  {
+    "people_count": 4,
+    "state_name": "MO",
+    "county": "TBD",
+    "confirmed_date": "3/29"
+  },
+  {
+    "people_count": 3,
+    "state_name": "MO",
+    "county": "Wright",
+    "confirmed_date": "3/29"
+  },
+  {
+    "people_count": 4,
+    "confirmed_date": "3/29",
+    "state_name": "IL",
+    "county": "DeKalb"
+  },
+  {
+    "people_count": 1,
+    "confirmed_date": "3/29",
+    "state_name": "IL",
+    "county": "Whiteside"
+  },
+  {
+    "people_count": 23,
+    "state_name": "MO",
+    "county": "St. Louis",
+    "confirmed_date": "3/29"
+  },
+  {
+    "people_count": 11,
+    "state_name": "DE",
+    "county": "New Castle",
+    "confirmed_date": "3/29"
+  },
+  {
+    "people_count": 7,
+    "state_name": "DE",
+    "county": "Sussex",
+    "confirmed_date": "3/29"
+  },
+  {
+    "confirmed_date": "3/29",
+    "state_name": "IL",
+    "county": "DuPage",
+    "people_count": 72
+  },
+  {
+    "people_count": 1,
+    "confirmed_date": "3/29",
+    "state_name": "IL",
+    "county": "Rock Island"
+  },
+  {
+    "people_count": 1,
+    "confirmed_date": "3/29",
+    "state_name": "IL",
+    "county": "La Salle"
+  },
+  {
+    "people_count": 1,
+    "confirmed_date": "3/29",
+    "state_name": "AL",
+    "county": "Chambers"
+  },
+  {
+    "people_count": 10,
+    "confirmed_date": "3/29",
+    "state_name": "AL",
+    "county": "Jefferson"
+  },
+  {
+    "people_count": 8,
+    "confirmed_date": "3/29",
+    "state_name": "WA",
+    "county": "Clark"
+  },
+  {
+    "people_count": 1,
+    "confirmed_date": "3/29",
+    "state_name": "AL",
+    "county": "Madison"
+  },
+  {
+    "people_count": 1,
+    "confirmed_date": "3/29",
+    "state_name": "AL",
+    "county": "Marion"
+  },
+  {
+    "people_count": 1,
+    "confirmed_date": "3/29",
+    "state_name": "AL",
+    "county": "Mobile"
+  },
+  {
+    "people_count": 4,
+    "confirmed_date": "3/29",
+    "state_name": "IL",
+    "county": "Kendall"
+  },
+  {
+    "people_count": 1,
+    "confirmed_date": "3/29",
+    "state_name": "AL",
+    "county": "Montgomery"
+  },
+  {
+    "people_count": 1,
+    "confirmed_date": "3/29",
+    "state_name": "AL",
+    "county": "St. Clair"
+  },
+  {
+    "people_count": 1,
+    "confirmed_date": "3/29",
+    "state_name": "AL",
+    "county": "Shelby"
+  },
+  {
+    "people_count": 1,
+    "confirmed_date": "3/29",
+    "state_name": "IL",
+    "county": "Grundy"
+  },
+  {
+    "people_count": 82,
+    "confirmed_date": "3/29",
+    "state_name": "WA",
+    "county": "King"
+  },
+  {
+    "people_count": 9,
+    "confirmed_date": "3/29",
+    "state_name": "CA",
+    "county": "Placer"
+  },
+  {
+    "people_count": 55,
+    "confirmed_date": "3/29",
+    "state_name": "IL",
+    "county": "Will"
+  },
+  {
+    "people_count": 4,
+    "confirmed_date": "3/29",
+    "state_name": "TX",
+    "county": "Smith"
+  },
+  {
+    "people_count": 1,
+    "confirmed_date": "3/29",
+    "state_name": "IL",
+    "county": "Knox"
+  },
+  {
+    "people_count": 2,
+    "state_name": "TX",
+    "county": "Tom Green",
+    "confirmed_date": "3/29"
+  },
+  {
+    "people_count": 6,
+    "confirmed_date": "3/29",
+    "state_name": "IL",
+    "county": "Kankakee"
+  },
+  {
+    "people_count": 1,
+    "state_name": "TX",
+    "county": "Nueces",
+    "confirmed_date": "3/29"
+  },
+  {
+    "people_count": 1,
+    "confirmed_date": "3/29",
+    "state_name": "IL",
+    "county": "Peoria"
+  },
+  {
+    "people_count": 1,
+    "state_name": "NC",
+    "county": "Cleveland",
+    "confirmed_date": "3/29"
+  },
+  {
+    "people_count": 1,
+    "state_name": "NC",
+    "county": "Cumberland",
+    "confirmed_date": "3/29"
+  },
+  {
+    "people_count": 5,
+    "state_name": "TX",
+    "county": "Webb",
+    "confirmed_date": "3/29"
+  },
+  {
+    "people_count": 6,
+    "state_name": "TX",
+    "county": "Collin",
+    "confirmed_date": "3/29"
+  },
+  {
+    "people_count": 2,
+    "state_name": "NC",
+    "county": "Forsyth",
+    "confirmed_date": "3/29"
+  },
+  {
+    "people_count": 1,
+    "confirmed_date": "3/29",
+    "state_name": "IL",
+    "county": "Iroquois"
+  },
+  {
+    "people_count": 4,
+    "confirmed_date": "3/29",
+    "state_name": "IL",
+    "county": "McLean"
+  },
+  {
+    "people_count": 10,
+    "state_name": "TX",
+    "county": "Galveston",
+    "confirmed_date": "3/29"
+  },
+  {
+    "people_count": 1,
+    "confirmed_date": "3/29",
+    "state_name": "UT",
+    "county": "Unassigned Southwest"
+  },
+  {
+    "people_count": 1,
+    "confirmed_date": "3/29",
+    "state_name": "AL",
+    "county": "Coosa"
+  },
+  {
+    "people_count": 1,
+    "state_name": "NC",
+    "county": "Surry",
+    "confirmed_date": "3/29"
+  },
+  {
+    "people_count": 1,
+    "confirmed_date": "3/29",
+    "state_name": "AL",
+    "county": "Marshall"
+  },
+  {
+    "people_count": 35,
+    "state_name": "WA",
+    "county": "Pierce",
+    "confirmed_date": "3/29"
+  },
+  {
+    "people_count": 10,
+    "confirmed_date": "3/29",
+    "state_name": "IL",
+    "county": "Champaign"
+  },
+  {
+    "people_count": 1,
+    "confirmed_date": "3/29",
+    "state_name": "IL",
+    "county": "Adams"
+  },
+  {
+    "people_count": 1,
+    "confirmed_date": "3/29",
+    "state_name": "IL",
+    "county": "Sangamon"
   }
 ]
