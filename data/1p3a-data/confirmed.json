@@ -51236,12 +51236,6 @@
   {
     "confirmed_date": "3/27",
     "people_count": 1,
-    "state_name": "ID",
-    "county": "Canyon"
-  },
-  {
-    "confirmed_date": "3/27",
-    "people_count": 1,
     "state_name": "IN",
     "county": "Brown"
   },
@@ -58638,7 +58632,7 @@
     "confirmed_date": "3/28"
   },
   {
-    "people_count": 9,
+    "people_count": 10,
     "state_name": "GA",
     "county": "Bartow",
     "confirmed_date": "3/28"
@@ -58650,7 +58644,7 @@
     "county": "Tioga"
   },
   {
-    "people_count": 1,
+    "people_count": 2,
     "state_name": "GA",
     "county": "Bryan",
     "confirmed_date": "3/28"
@@ -58674,7 +58668,7 @@
     "confirmed_date": "3/28"
   },
   {
-    "people_count": 2,
+    "people_count": 4,
     "state_name": "GA",
     "county": "Cherokee",
     "confirmed_date": "3/28"
@@ -58698,7 +58692,7 @@
     "confirmed_date": "3/28"
   },
   {
-    "people_count": 18,
+    "people_count": 22,
     "state_name": "GA",
     "county": "Cobb",
     "confirmed_date": "3/28"
@@ -58710,7 +58704,7 @@
     "confirmed_date": "3/28"
   },
   {
-    "people_count": 21,
+    "people_count": 27,
     "state_name": "GA",
     "county": "DeKalb",
     "confirmed_date": "3/28"
@@ -58718,7 +58712,7 @@
   {
     "state_name": "GA",
     "county": "Dougherty",
-    "people_count": 2,
+    "people_count": 21,
     "confirmed_date": "3/28"
   },
   {
@@ -58731,12 +58725,12 @@
     "state_name": "GA",
     "county": "Early",
     "confirmed_date": "3/28",
-    "people_count": 2
+    "people_count": 3
   },
   {
     "state_name": "GA",
     "county": "Fayette",
-    "people_count": 3,
+    "people_count": 4,
     "confirmed_date": "3/28"
   },
   {
@@ -58764,7 +58758,7 @@
     "county": "Sauk"
   },
   {
-    "people_count": 26,
+    "people_count": 31,
     "state_name": "GA",
     "county": "Fulton",
     "confirmed_date": "3/28"
@@ -58778,7 +58772,7 @@
   {
     "state_name": "GA",
     "county": "Gwinnett",
-    "people_count": 8,
+    "people_count": 10,
     "confirmed_date": "3/28"
   },
   {
@@ -58796,7 +58790,7 @@
   {
     "state_name": "GA",
     "county": "Houston",
-    "people_count": 2,
+    "people_count": 3,
     "confirmed_date": "3/28"
   },
   {
@@ -58806,7 +58800,7 @@
     "county": "Jenkins"
   },
   {
-    "people_count": 1,
+    "people_count": 2,
     "state_name": "GA",
     "county": "Liberty",
     "confirmed_date": "3/28"
@@ -58832,7 +58826,7 @@
   {
     "state_name": "GA",
     "county": "Paulding",
-    "people_count": 6,
+    "people_count": 7,
     "confirmed_date": "3/28"
   },
   {
@@ -58866,7 +58860,7 @@
     "confirmed_date": "3/28"
   },
   {
-    "people_count": 1,
+    "people_count": 3,
     "state_name": "GA",
     "county": "Sumter",
     "confirmed_date": "3/28"
@@ -58874,13 +58868,13 @@
   {
     "state_name": "GA",
     "county": "Thomas",
-    "people_count": 3,
+    "people_count": 4,
     "confirmed_date": "3/28"
   },
   {
     "state_name": "GA",
     "county": "Unassigned",
-    "people_count": 23,
+    "people_count": 22,
     "confirmed_date": "3/28"
   },
   {
@@ -58896,7 +58890,7 @@
     "confirmed_date": "3/28"
   },
   {
-    "people_count": 1,
+    "people_count": 2,
     "state_name": "GA",
     "county": "Crisp",
     "confirmed_date": "3/28"
@@ -58986,7 +58980,7 @@
     "confirmed_date": "3/28"
   },
   {
-    "people_count": 1,
+    "people_count": 5,
     "state_name": "TX",
     "county": "El Paso",
     "confirmed_date": "3/28"
@@ -61183,7 +61177,7 @@
   },
   {
     "confirmed_date": "3/28",
-    "people_count": 1,
+    "people_count": 4,
     "state_name": "CA",
     "county": "Sutter"
   },
@@ -61422,7 +61416,7 @@
     "confirmed_date": "3/28"
   },
   {
-    "people_count": 191,
+    "people_count": 232,
     "state_name": "NY",
     "county": "Orange",
     "confirmed_date": "3/28"
@@ -62422,5 +62416,269 @@
     "people_count": 4,
     "state_name": "CA",
     "county": "San Diego"
+  },
+  {
+    "confirmed_date": "3/28",
+    "people_count": 12,
+    "state_name": "CA",
+    "county": "Riverside"
+  },
+  {
+    "people_count": 8,
+    "state_name": "CA",
+    "county": "San Joaquin",
+    "confirmed_date": "3/28"
+  },
+  {
+    "people_count": 9,
+    "confirmed_date": "3/28",
+    "state_name": "TX",
+    "county": "Hidalgo"
+  },
+  {
+    "people_count": 1,
+    "state_name": "CA",
+    "county": "Marin",
+    "confirmed_date": "3/28"
+  },
+  {
+    "people_count": 17,
+    "state_name": "CA",
+    "county": "Santa Barbara",
+    "confirmed_date": "3/28"
+  },
+  {
+    "people_count": 4,
+    "state_name": "CA",
+    "county": "Sonoma",
+    "confirmed_date": "3/28"
+  },
+  {
+    "people_count": 3,
+    "state_name": "CA",
+    "county": "Placer",
+    "confirmed_date": "3/28"
+  },
+  {
+    "people_count": 5,
+    "state_name": "CA",
+    "county": "Santa Cruz",
+    "confirmed_date": "3/28"
+  },
+  {
+    "people_count": 10,
+    "state_name": "NC",
+    "county": "Wake",
+    "confirmed_date": "3/28"
+  },
+  {
+    "people_count": 5,
+    "state_name": "CA",
+    "county": "Tulare",
+    "confirmed_date": "3/28"
+  },
+  {
+    "people_count": 2,
+    "state_name": "NC",
+    "county": "Moore",
+    "confirmed_date": "3/28"
+  },
+  {
+    "people_count": 1,
+    "state_name": "NC",
+    "county": "Cleveland",
+    "confirmed_date": "3/28"
+  },
+  {
+    "people_count": 1,
+    "state_name": "CA",
+    "county": "Shasta",
+    "confirmed_date": "3/28"
+  },
+  {
+    "people_count": 1,
+    "state_name": "NC",
+    "county": "Cabarrus",
+    "confirmed_date": "3/28"
+  },
+  {
+    "people_count": 1,
+    "confirmed_date": "3/28",
+    "county": "Alexander",
+    "state_name": "NC"
+  },
+  {
+    "people_count": 1,
+    "state_name": "CA",
+    "county": "Mendocino",
+    "confirmed_date": "3/28"
+  },
+  {
+    "people_count": 1,
+    "confirmed_date": "3/28",
+    "state_name": "CA",
+    "county": "Glenn"
+  },
+  {
+    "people_count": 5,
+    "confirmed_date": "3/28",
+    "state_name": "ID",
+    "county": "Kootenai"
+  },
+  {
+    "people_count": 2,
+    "state_name": "GA",
+    "county": "Bibb",
+    "confirmed_date": "3/28"
+  },
+  {
+    "people_count": 1,
+    "confirmed_date": "3/28",
+    "county": "Bulloch",
+    "state_name": "GA"
+  },
+  {
+    "people_count": 1,
+    "state_name": "GA",
+    "county": "Calhoun",
+    "confirmed_date": "3/28"
+  },
+  {
+    "people_count": 2,
+    "state_name": "GA",
+    "county": "Catoosa",
+    "confirmed_date": "3/28"
+  },
+  {
+    "people_count": 4,
+    "state_name": "GA",
+    "county": "Coffee",
+    "confirmed_date": "3/28"
+  },
+  {
+    "people_count": 1,
+    "state_name": "GA",
+    "county": "Coweta",
+    "confirmed_date": "3/28"
+  },
+  {
+    "people_count": 1,
+    "state_name": "GA",
+    "county": "Decatur",
+    "confirmed_date": "3/28"
+  },
+  {
+    "people_count": 1,
+    "state_name": "GA",
+    "county": "Forsyth",
+    "confirmed_date": "3/28"
+  },
+  {
+    "people_count": 1,
+    "state_name": "GA",
+    "county": "Haralson",
+    "confirmed_date": "3/28"
+  },
+  {
+    "people_count": 1,
+    "state_name": "GA",
+    "county": "Harris",
+    "confirmed_date": "3/28"
+  },
+  {
+    "people_count": 2,
+    "state_name": "GA",
+    "county": "Laurens",
+    "confirmed_date": "3/28"
+  },
+  {
+    "people_count": 12,
+    "confirmed_date": "3/28",
+    "state_name": "ID",
+    "county": "Ada"
+  },
+  {
+    "people_count": 2,
+    "state_name": "GA",
+    "county": "Lee",
+    "confirmed_date": "3/28"
+  },
+  {
+    "people_count": 1,
+    "state_name": "GA",
+    "county": "Mitchell",
+    "confirmed_date": "3/28"
+  },
+  {
+    "people_count": 1,
+    "state_name": "GA",
+    "county": "Pierce",
+    "confirmed_date": "3/28"
+  },
+  {
+    "people_count": 1,
+    "state_name": "GA",
+    "county": "Pulaski",
+    "confirmed_date": "3/28"
+  },
+  {
+    "people_count": 15,
+    "confirmed_date": "3/28",
+    "state_name": "ID",
+    "county": "Blaine"
+  },
+  {
+    "people_count": 1,
+    "state_name": "GA",
+    "county": "Stephens",
+    "confirmed_date": "3/28"
+  },
+  {
+    "people_count": 4,
+    "state_name": "GA",
+    "county": "Terrell",
+    "confirmed_date": "3/28"
+  },
+  {
+    "people_count": 1,
+    "state_name": "GA",
+    "county": "Upson",
+    "confirmed_date": "3/28"
+  },
+  {
+    "people_count": 3,
+    "state_name": "GA",
+    "county": "Ware",
+    "confirmed_date": "3/28"
+  },
+  {
+    "people_count": 1,
+    "county": "Wheeler",
+    "state_name": "GA",
+    "confirmed_date": "3/28"
+  },
+  {
+    "state_name": "NY",
+    "county": "Tompkins",
+    "confirmed_date": "3/28",
+    "people_count": 8
+  },
+  {
+    "confirmed_date": "3/28",
+    "people_count": 8,
+    "state_name": "MI",
+    "county": "Unassigned"
+  },
+  {
+    "confirmed_date": "3/28",
+    "state_name": "NC",
+    "county": "Northampton",
+    "people_count": 22
+  },
+  {
+    "people_count": 38,
+    "state_name": "DC",
+    "county": "District of Columbia",
+    "confirmed_date": "3/28"
   }
 ]

@@ -3968,15 +3968,16 @@
   },
   {
     "confirmed_date": "3/21",
-    "gender": "Unknown",
+    "gender": "男",
     "comments": "乔治亚州Bartow County死亡一例，具体信息待更新。",
     "comments_en": "One death in Bartow County, GA. Placeholder for further information.",
     "die_count": 1,
-    "age_range": "Unknown",
+    "age_range": "60+",
     "state_name": "GA",
     "county": "Bartow",
     "full_links": [
-      "https://www.ledger-enquirer.com/news/article241397251.html"
+      "https://www.ledger-enquirer.com/news/article241397251.html",
+      "https://www.11alive.com/article/news/health/coronavirus/coronavirus-deaths-in-georgia/85-e9bb2324-2e27-43ca-a347-ced78cbb186b"
     ]
   },
   {
@@ -4533,28 +4534,30 @@
   },
   {
     "confirmed_date": "3/21",
-    "gender": "Unknown",
+    "gender": "男",
     "comments": "乔治亚州Baker County死亡一例，具体信息待更新。",
     "comments_en": "One death in Baker County, GA. Placeholder for further information.",
     "die_count": 1,
-    "age_range": "Unknown",
+    "age_range": "90+",
     "state_name": "GA",
     "county": "Baker",
     "full_links": [
-      "https://dph.georgia.gov/covid-19-daily-status-report"
+      "https://dph.georgia.gov/covid-19-daily-status-report",
+      "https://www.11alive.com/article/news/health/coronavirus/coronavirus-deaths-in-georgia/85-e9bb2324-2e27-43ca-a347-ced78cbb186b"
     ]
   },
   {
     "confirmed_date": "3/21",
-    "gender": "Unknown",
+    "gender": "男",
     "comments": "乔治亚州Barrow County死亡一例，具体信息待更新。",
     "comments_en": "One death in Barrow County, GA. Placeholder for further information.",
     "die_count": 1,
-    "age_range": "Unknown",
+    "age_range": "60+",
     "state_name": "GA",
     "county": "Barrow",
     "full_links": [
-      "https://dph.georgia.gov/covid-19-daily-status-report"
+      "https://dph.georgia.gov/covid-19-daily-status-report",
+      "https://www.11alive.com/article/news/health/coronavirus/coronavirus-deaths-in-georgia/85-e9bb2324-2e27-43ca-a347-ced78cbb186b"
     ]
   },
   {
@@ -4572,28 +4575,30 @@
   },
   {
     "confirmed_date": "3/21",
-    "gender": "Unknown",
+    "gender": "女",
     "comments": "乔治亚州Clarke County死亡一例，具体信息待更新。",
     "comments_en": "One death in Clarke County, GA. Placeholder for further information.",
     "die_count": 1,
-    "age_range": "Unknown",
+    "age_range": "70+",
     "state_name": "GA",
     "county": "Clarke",
     "full_links": [
-      "https://dph.georgia.gov/covid-19-daily-status-report"
+      "https://dph.georgia.gov/covid-19-daily-status-report",
+      "https://www.11alive.com/article/news/health/coronavirus/coronavirus-deaths-in-georgia/85-e9bb2324-2e27-43ca-a347-ced78cbb186b"
     ]
   },
   {
     "confirmed_date": "3/21",
-    "gender": "Unknown",
+    "gender": "男",
     "comments": "乔治亚州Clayton County死亡一例，具体信息待更新。",
     "comments_en": "One death in Clayton County, GA. Placeholder for further information.",
     "die_count": 1,
-    "age_range": "Unknown",
+    "age_range": "40+",
     "state_name": "GA",
     "county": "Clayton",
     "full_links": [
-      "https://dph.georgia.gov/covid-19-daily-status-report"
+      "https://dph.georgia.gov/covid-19-daily-status-report",
+      "https://www.11alive.com/article/news/health/coronavirus/coronavirus-deaths-in-georgia/85-e9bb2324-2e27-43ca-a347-ced78cbb186b"
     ]
   },
   {
@@ -5602,11 +5607,11 @@
   },
   {
     "confirmed_date": "3/22",
-    "gender": "Unknown",
+    "gender": "男",
     "comments": "乔治亚州Cobb County死亡一例，具体信息待更新。",
     "comments_en": "One death in Cobb County, GA. Placeholder for further information.",
     "die_count": 3,
-    "age_range": "Unknown",
+    "age_range": "50+",
     "state_name": "GA",
     "county": "Cobb",
     "full_links": [
@@ -5615,15 +5620,29 @@
   },
   {
     "confirmed_date": "3/22",
-    "gender": "Unknown",
+    "gender": "男",
     "comments": "乔治亚州Coweta County死亡2例，具体信息待更新。",
     "comments_en": "Two death in Coweta County, GA. Placeholder for further information.",
-    "die_count": 2,
-    "age_range": "Unknown",
+    "die_count": 1,
+    "age_range": "70+",
     "state_name": "GA",
     "county": "Coweta",
     "full_links": [
       "https://dph.georgia.gov/covid-19-daily-status-report"
+    ]
+  },
+  {
+    "confirmed_date": "3/22",
+    "gender": "女",
+    "comments": "乔治亚州Coweta County死亡2例，具体信息待更新。",
+    "comments_en": "Two death in Coweta County, GA. Placeholder for further information.",
+    "die_count": 1,
+    "age_range": "40+",
+    "state_name": "GA",
+    "county": "Coweta",
+    "full_links": [
+      "https://dph.georgia.gov/covid-19-daily-status-report",
+      "https://www.11alive.com/article/news/health/coronavirus/coronavirus-deaths-in-georgia/85-e9bb2324-2e27-43ca-a347-ced78cbb186b"
     ]
   },
   {
@@ -6803,11 +6822,11 @@
   },
   {
     "confirmed_date": "3/23",
-    "gender": "Unknown",
+    "gender": "男",
     "comments": "乔治亚州Douglas County死亡1例，具体信息待更新。",
     "comments_en": "One death in Douglas County, GA. Placeholder for further information.",
     "die_count": 1,
-    "age_range": "Unknown",
+    "age_range": "60+",
     "state_name": "GA",
     "county": "Douglas",
     "full_links": [
@@ -7876,37 +7895,39 @@
   },
   {
     "confirmed_date": "3/24",
-    "gender": "Unknown",
+    "gender": "女",
     "comments": "乔治亚州DeKalb County死亡2例，具体信息待更新。",
     "comments_en": "Two death in Dekalb County, GA. Placeholder for further information.",
-    "die_count": 2,
-    "age_range": "Unknown",
+    "die_count": 1,
+    "age_range": "60+",
     "state_name": "GA",
     "county": "DeKalb",
     "full_links": [
-      "https://dph.georgia.gov/covid-19-daily-status-report"
+      "https://dph.georgia.gov/covid-19-daily-status-report",
+      "https://www.11alive.com/article/news/health/coronavirus/coronavirus-deaths-in-georgia/85-e9bb2324-2e27-43ca-a347-ced78cbb186b"
     ]
   },
   {
     "confirmed_date": "3/24",
-    "gender": "Unknown",
+    "gender": "女",
     "comments": "乔治亚州Fayette County死亡1例，具体信息待更新。",
     "comments_en": "One death in Fayette County, GA. Placeholder for further information.",
     "die_count": 1,
-    "age_range": "Unknown",
+    "age_range": "70+",
     "state_name": "GA",
     "county": "Fayette",
     "full_links": [
-      "https://dph.georgia.gov/covid-19-daily-status-report"
+      "https://dph.georgia.gov/covid-19-daily-status-report",
+      "https://www.11alive.com/article/news/health/coronavirus/coronavirus-deaths-in-georgia/85-e9bb2324-2e27-43ca-a347-ced78cbb186b"
     ]
   },
   {
     "confirmed_date": "3/24",
-    "gender": "Unknown",
+    "gender": "男",
     "comments": "乔治亚州Forsyth County死亡1例，具体信息待更新。",
     "comments_en": "One death in Forsyth County, GA. Placeholder for further information.",
     "die_count": 1,
-    "age_range": "Unknown",
+    "age_range": "80+",
     "state_name": "GA",
     "county": "Forsyth",
     "full_links": [
@@ -7915,15 +7936,136 @@
   },
   {
     "confirmed_date": "3/24",
-    "gender": "Unknown",
-    "comments": "乔治亚州Fulton County死亡10例，具体信息待更新。",
-    "comments_en": "Ten death in Fulton County, GA. Placeholder for further information.",
-    "die_count": 10,
+    "gender": "男",
+    "comments": "乔治亚州DeKalb County死亡2例，具体信息待更新。",
+    "comments_en": "Two death in Dekalb County, GA. Placeholder for further information.",
+    "die_count": 1,
+    "age_range": "30+",
+    "state_name": "GA",
+    "county": "DeKalb",
+    "full_links": [
+      "https://dph.georgia.gov/covid-19-daily-status-report",
+      "https://www.11alive.com/article/news/health/coronavirus/coronavirus-deaths-in-georgia/85-e9bb2324-2e27-43ca-a347-ced78cbb186b"
+    ]
+  },
+  {
+    "die_count": 1,
+    "state_name": "GA",
+    "county": "Fulton",
+    "full_links": [
+      "https://www.11alive.com/article/news/health/coronavirus/coronavirus-deaths-in-georgia/85-e9bb2324-2e27-43ca-a347-ced78cbb186b"
+    ],
+    "confirmed_date": "3/24",
+    "comments_en": "Victim 3\nAge: 33\nGender: Male\nUnderlying Condition: Unknown ",
+    "gender": "男",
+    "age_range": "30+"
+  },
+  {
+    "confirmed_date": "3/24",
+    "gender": "男",
+    "comments_en": "Victim 4\nAge: 62\nGender: Male\nUnderlying Condition: Yes ",
+    "die_count": 1,
+    "age_range": "60+",
+    "state_name": "GA",
+    "county": "Fulton",
+    "full_links": [
+      "https://www.11alive.com/article/news/health/coronavirus/coronavirus-deaths-in-georgia/85-e9bb2324-2e27-43ca-a347-ced78cbb186b"
+    ]
+  },
+  {
+    "confirmed_date": "3/24",
+    "gender": "女",
+    "comments_en": "Victim 5\nAge: 70\nGender: Female\nUnderlying Condition: Yes ",
+    "die_count": 1,
+    "age_range": "70+",
+    "state_name": "GA",
+    "county": "Fulton",
+    "full_links": [
+      "https://www.11alive.com/article/news/health/coronavirus/coronavirus-deaths-in-georgia/85-e9bb2324-2e27-43ca-a347-ced78cbb186b"
+    ]
+  },
+  {
+    "confirmed_date": "3/24",
+    "gender": "男",
+    "comments_en": "Victim 6\nAge: 63\nGender: Male\nUnderlying Condition: Yes ",
+    "die_count": 1,
+    "age_range": "60+",
+    "state_name": "GA",
+    "county": "Fulton",
+    "full_links": [
+      "https://www.11alive.com/article/news/health/coronavirus/coronavirus-deaths-in-georgia/85-e9bb2324-2e27-43ca-a347-ced78cbb186b"
+    ]
+  },
+  {
+    "confirmed_date": "3/24",
+    "gender": "女",
+    "comments_en": "Victim 7\nAge: 90\nGender: Female\nUnderlying Condition: Unknown ",
+    "die_count": 1,
+    "age_range": "90+",
+    "state_name": "GA",
+    "county": "Fulton",
+    "full_links": [
+      "https://www.11alive.com/article/news/health/coronavirus/coronavirus-deaths-in-georgia/85-e9bb2324-2e27-43ca-a347-ced78cbb186b"
+    ]
+  },
+  {
+    "confirmed_date": "3/24",
+    "gender": "女",
+    "comments_en": "Victim 8\nAge: 70\nGender: Female\nUnderlying Condition: Yes ",
+    "die_count": 1,
+    "age_range": "70+",
+    "state_name": "GA",
+    "county": "Fulton",
+    "full_links": [
+      "https://www.11alive.com/article/news/health/coronavirus/coronavirus-deaths-in-georgia/85-e9bb2324-2e27-43ca-a347-ced78cbb186b"
+    ]
+  },
+  {
+    "confirmed_date": "3/24",
+    "gender": "女",
+    "comments_en": "Victim 9\nAge: 68\nGender: Female\nUnderlying Condition: Yes ",
+    "die_count": 1,
+    "age_range": "60+",
+    "state_name": "GA",
+    "county": "Fulton",
+    "full_links": [
+      "https://www.11alive.com/article/news/health/coronavirus/coronavirus-deaths-in-georgia/85-e9bb2324-2e27-43ca-a347-ced78cbb186b"
+    ]
+  },
+  {
+    "confirmed_date": "3/24",
+    "gender": "女",
+    "comments_en": "Victim 10\nAge: Unknown\nGender: Female\nUnderlying Condition: Unknown ",
+    "die_count": 1,
     "age_range": "Unknown",
     "state_name": "GA",
     "county": "Fulton",
     "full_links": [
-      "https://dph.georgia.gov/covid-19-daily-status-report"
+      "https://www.11alive.com/article/news/health/coronavirus/coronavirus-deaths-in-georgia/85-e9bb2324-2e27-43ca-a347-ced78cbb186b"
+    ]
+  },
+  {
+    "confirmed_date": "3/24",
+    "gender": "男",
+    "comments_en": "Victim 11\nAge: 81\nGender: Male\nUnderlying Condition: Yes ",
+    "die_count": 1,
+    "age_range": "80+",
+    "state_name": "GA",
+    "county": "Fulton",
+    "full_links": [
+      "https://www.11alive.com/article/news/health/coronavirus/coronavirus-deaths-in-georgia/85-e9bb2324-2e27-43ca-a347-ced78cbb186b"
+    ]
+  },
+  {
+    "confirmed_date": "3/24",
+    "gender": "男",
+    "comments_en": "Victim 12\nAge: 68\nGender: Male\nUnderlying Condition: Yes",
+    "die_count": 1,
+    "age_range": "60+",
+    "state_name": "GA",
+    "county": "Fulton",
+    "full_links": [
+      "https://www.11alive.com/article/news/health/coronavirus/coronavirus-deaths-in-georgia/85-e9bb2324-2e27-43ca-a347-ced78cbb186b"
     ]
   },
   {
@@ -9455,54 +9597,44 @@
   },
   {
     "confirmed_date": "3/25",
-    "gender": "Unknown",
+    "gender": "男",
     "comments": "乔治亚州Gordon County死亡1例，具体信息待更新。",
     "comments_en": "One death in Gordon County, GA. Placeholder for further information.",
     "die_count": 1,
-    "age_range": "Unknown",
+    "age_range": "70+",
     "state_name": "GA",
     "county": "Gordon",
     "full_links": [
-      "https://dph.georgia.gov/covid-19-daily-status-report"
+      "https://dph.georgia.gov/covid-19-daily-status-report",
+      "https://www.11alive.com/article/news/health/coronavirus/coronavirus-deaths-in-georgia/85-e9bb2324-2e27-43ca-a347-ced78cbb186b"
     ]
   },
   {
     "confirmed_date": "3/25",
-    "gender": "Unknown",
+    "gender": "女",
     "comments": "乔治亚州Heard County死亡1例，具体信息待更新。",
     "comments_en": "One death in Heard County, GA. Placeholder for further information.",
     "die_count": 1,
-    "age_range": "Unknown",
+    "age_range": "70+",
     "state_name": "GA",
     "county": "Heard",
     "full_links": [
-      "https://dph.georgia.gov/covid-19-daily-status-report"
+      "https://dph.georgia.gov/covid-19-daily-status-report",
+      "https://www.11alive.com/article/news/health/coronavirus/coronavirus-deaths-in-georgia/85-e9bb2324-2e27-43ca-a347-ced78cbb186b"
     ]
   },
   {
     "confirmed_date": "3/25",
-    "gender": "Unknown",
+    "gender": "男",
     "comments": "乔治亚州Henry County死亡1例，具体信息待更新。",
     "comments_en": "One death in Henry County, GA. Placeholder for further information.",
     "die_count": 1,
-    "age_range": "Unknown",
+    "age_range": "80+",
     "state_name": "GA",
     "county": "Henry",
     "full_links": [
-      "https://dph.georgia.gov/covid-19-daily-status-report"
-    ]
-  },
-  {
-    "confirmed_date": "3/25",
-    "gender": "Unknown",
-    "comments": "乔治亚州Lee County死亡5例，具体信息待更新。",
-    "comments_en": "Five death in Lee County, GA. Placeholder for further information.",
-    "die_count": 5,
-    "age_range": "Unknown",
-    "state_name": "GA",
-    "county": "Lee",
-    "full_links": [
-      "https://dph.georgia.gov/covid-19-daily-status-report"
+      "https://dph.georgia.gov/covid-19-daily-status-report",
+      "https://www.11alive.com/article/news/health/coronavirus/coronavirus-deaths-in-georgia/85-e9bb2324-2e27-43ca-a347-ced78cbb186b"
     ]
   },
   {
@@ -9530,6 +9662,66 @@
     "gender": "男",
     "state_name": "PA",
     "county": "Pike"
+  },
+  {
+    "die_count": 1,
+    "state_name": "GA",
+    "county": "Lee",
+    "full_links": [
+      "https://www.11alive.com/article/news/health/coronavirus/coronavirus-deaths-in-georgia/85-e9bb2324-2e27-43ca-a347-ced78cbb186b"
+    ],
+    "confirmed_date": "3/25",
+    "comments_en": "Victim 1\nAge: 58\nGender: Male\nUnderlying Condition: Yes",
+    "gender": "男",
+    "age_range": "50+"
+  },
+  {
+    "confirmed_date": "3/25",
+    "gender": "男",
+    "comments_en": "Victim 2\nAge: 54\nGender: Male\nUnderlying Condition: Yes",
+    "die_count": 1,
+    "age_range": "50+",
+    "state_name": "GA",
+    "county": "Lee",
+    "full_links": [
+      "https://www.11alive.com/article/news/health/coronavirus/coronavirus-deaths-in-georgia/85-e9bb2324-2e27-43ca-a347-ced78cbb186b"
+    ]
+  },
+  {
+    "confirmed_date": "3/25",
+    "gender": "女",
+    "comments_en": "Victim 3\nAge: 68\nGender: Female\nUnderlying Condition: Yes",
+    "die_count": 1,
+    "age_range": "60+",
+    "state_name": "GA",
+    "county": "Lee",
+    "full_links": [
+      "https://www.11alive.com/article/news/health/coronavirus/coronavirus-deaths-in-georgia/85-e9bb2324-2e27-43ca-a347-ced78cbb186b"
+    ]
+  },
+  {
+    "confirmed_date": "3/25",
+    "gender": "女",
+    "comments_en": "Victim 4\nAge: 64\nGender: Female\nUnderlying Condition: Yes",
+    "die_count": 1,
+    "age_range": "60+",
+    "state_name": "GA",
+    "county": "Lee",
+    "full_links": [
+      "https://www.11alive.com/article/news/health/coronavirus/coronavirus-deaths-in-georgia/85-e9bb2324-2e27-43ca-a347-ced78cbb186b"
+    ]
+  },
+  {
+    "confirmed_date": "3/25",
+    "gender": "女",
+    "comments_en": "Victim 5\nAge: 55\nGender: Female\nUnderlying Condition: Yes",
+    "die_count": 1,
+    "age_range": "50+",
+    "state_name": "GA",
+    "county": "Lee",
+    "full_links": [
+      "https://www.11alive.com/article/news/health/coronavirus/coronavirus-deaths-in-georgia/85-e9bb2324-2e27-43ca-a347-ced78cbb186b"
+    ]
   },
   {
     "confirmed_date": "3/26",
@@ -12285,7 +12477,7 @@
     "gender": "Unknown",
     "comments": "乔治亚州Dougherty County死亡7例，具体信息待更新。",
     "comments_en": "7 death in Dougherty County, GA. Placeholder for further information.",
-    "die_count": 7,
+    "die_count": 1,
     "age_range": "Unknown",
     "state_name": "GA",
     "county": "Dougherty",
@@ -12309,8 +12501,12 @@
     "state_name": "GA",
     "county": "Unassigned",
     "full_links": [
-      "https://www.usnews.com/news/best-states/georgia/articles/2020-03-27/coronavirus-infections-exceed-2-000-in-georgia-deaths-at-64"
-    ]
+      "https://www.usnews.com/news/best-states/georgia/articles/2020-03-27/coronavirus-infections-exceed-2-000-in-georgia-deaths-at-64",
+      "https://www.11alive.com/article/news/health/coronavirus/coronavirus-deaths-in-georgia/85-e9bb2324-2e27-43ca-a347-ced78cbb186b"
+    ],
+    "gender": "Unknown",
+    "age_range": "70+",
+    "comments_en": "Victim 1\nAge: 78\nGender: Unknown\nUnderlying Condition: Yes"
   },
   {
     "confirmed_date": "3/27",
@@ -12650,7 +12846,8 @@
     "county": "Fayette",
     "full_links": [
       "https://www.wave3.com/2020/03/27/beshear-confirms-new-cases/"
-    ]
+    ],
+    "comments": "肯塔基州第7例死亡，一名75岁的女性。"
   },
   {
     "confirmed_date": "3/27",
@@ -12680,7 +12877,8 @@
     "county": "Hopkins",
     "full_links": [
       "https://www.wave3.com/2020/03/27/beshear-confirms-new-cases/"
-    ]
+    ],
+    "comments": "肯塔基州第8例死亡，一名77岁的男性。"
   },
   {
     "confirmed_date": "3/27",
@@ -13043,93 +13241,99 @@
   },
   {
     "confirmed_date": "3/27",
-    "gender": "Unknown",
+    "gender": "男",
     "comments": "乔治亚州Houston County死亡1例，具体信息待更新。",
     "comments_en": "One death in Houston County, GA. Placeholder for further information.",
     "die_count": 1,
-    "age_range": "Unknown",
+    "age_range": "60+",
     "state_name": "GA",
     "county": "Houston",
     "full_links": [
-      "https://dph.georgia.gov/covid-19-daily-status-report"
+      "https://dph.georgia.gov/covid-19-daily-status-report",
+      "https://www.11alive.com/article/news/health/coronavirus/coronavirus-deaths-in-georgia/85-e9bb2324-2e27-43ca-a347-ced78cbb186b"
     ]
   },
   {
     "confirmed_date": "3/27",
-    "gender": "Unknown",
+    "gender": "男",
     "comments": "乔治亚州Lowndes County死亡1例，具体信息待更新。",
     "comments_en": "One death in Lowndes County, GA. Placeholder for further information.",
     "die_count": 1,
-    "age_range": "Unknown",
+    "age_range": "60+",
     "state_name": "GA",
     "county": "Lowndes",
     "full_links": [
-      "https://dph.georgia.gov/covid-19-daily-status-report"
+      "https://dph.georgia.gov/covid-19-daily-status-report",
+      "https://www.11alive.com/article/news/health/coronavirus/coronavirus-deaths-in-georgia/85-e9bb2324-2e27-43ca-a347-ced78cbb186b"
     ]
   },
   {
     "confirmed_date": "3/27",
-    "gender": "Unknown",
+    "gender": "女",
     "comments": "乔治亚州Pickens County死亡1例，具体信息待更新。",
     "comments_en": "One death in Pickens County, GA. Placeholder for further information.",
     "die_count": 1,
-    "age_range": "Unknown",
+    "age_range": "70+",
     "state_name": "GA",
     "county": "Pickens",
     "full_links": [
-      "https://dph.georgia.gov/covid-19-daily-status-report"
+      "https://dph.georgia.gov/covid-19-daily-status-report",
+      "https://www.11alive.com/article/news/health/coronavirus/coronavirus-deaths-in-georgia/85-e9bb2324-2e27-43ca-a347-ced78cbb186b"
     ]
   },
   {
     "confirmed_date": "3/27",
-    "gender": "Unknown",
+    "gender": "女",
     "comments": "乔治亚州Rockdale County死亡1例，具体信息待更新。",
     "comments_en": "One death in Rockdale  County, GA. Placeholder for further information.",
     "die_count": 1,
-    "age_range": "Unknown",
+    "age_range": "50+",
     "state_name": "GA",
     "county": "Rockdale",
     "full_links": [
-      "https://dph.georgia.gov/covid-19-daily-status-report"
+      "https://dph.georgia.gov/covid-19-daily-status-report",
+      "https://www.11alive.com/article/news/health/coronavirus/coronavirus-deaths-in-georgia/85-e9bb2324-2e27-43ca-a347-ced78cbb186b"
     ]
   },
   {
     "confirmed_date": "3/27",
-    "gender": "Unknown",
-    "comments": "乔治亚州Terrell County死亡2例，具体信息待更新。",
-    "comments_en": "Two death in Terrell County, GA. Placeholder for further information.",
-    "die_count": 2,
-    "age_range": "Unknown",
+    "gender": "男",
+    "comments_en": "Victim 1\nAge: 75\nGender: Male\nUnderlying Condition: Yes",
+    "die_count": 1,
+    "age_range": "70+",
     "state_name": "GA",
     "county": "Terrell",
     "full_links": [
-      "https://dph.georgia.gov/covid-19-daily-status-report"
+      "https://dph.georgia.gov/covid-19-daily-status-report",
+      "https://www.11alive.com/article/news/health/coronavirus/coronavirus-deaths-in-georgia/85-e9bb2324-2e27-43ca-a347-ced78cbb186b"
     ]
   },
   {
     "confirmed_date": "3/27",
-    "gender": "Unknown",
+    "gender": "女",
     "comments": "乔治亚州Troup County死亡1例，具体信息待更新。",
     "comments_en": "One death in Troup County, GA. Placeholder for further information.",
     "die_count": 1,
-    "age_range": "Unknown",
+    "age_range": "60+",
     "state_name": "GA",
     "county": "Troup",
     "full_links": [
-      "https://dph.georgia.gov/covid-19-daily-status-report"
+      "https://dph.georgia.gov/covid-19-daily-status-report",
+      "https://www.11alive.com/article/news/health/coronavirus/coronavirus-deaths-in-georgia/85-e9bb2324-2e27-43ca-a347-ced78cbb186b"
     ]
   },
   {
     "confirmed_date": "3/27",
-    "gender": "Unknown",
+    "gender": "男",
     "comments": "乔治亚州Worth County死亡1例，具体信息待更新。",
     "comments_en": "One death in Worth County, GA. Placeholder for further information.",
     "die_count": 1,
-    "age_range": "Unknown",
+    "age_range": "40+",
     "state_name": "GA",
     "county": "Worth",
     "full_links": [
-      "https://dph.georgia.gov/covid-19-daily-status-report"
+      "https://dph.georgia.gov/covid-19-daily-status-report",
+      "https://www.11alive.com/article/news/health/coronavirus/coronavirus-deaths-in-georgia/85-e9bb2324-2e27-43ca-a347-ced78cbb186b"
     ]
   },
   {
@@ -13407,6 +13611,85 @@
     "county": "Spokane"
   },
   {
+    "die_count": 1,
+    "state_name": "GA",
+    "county": "Dougherty",
+    "full_links": [
+      "https://www.11alive.com/article/news/health/coronavirus/coronavirus-deaths-in-georgia/85-e9bb2324-2e27-43ca-a347-ced78cbb186b"
+    ],
+    "confirmed_date": "3/27",
+    "gender": "女",
+    "age_range": "80+"
+  },
+  {
+    "confirmed_date": "3/27",
+    "gender": "男",
+    "die_count": 1,
+    "age_range": "70+",
+    "state_name": "GA",
+    "county": "Dougherty",
+    "full_links": [
+      "https://www.11alive.com/article/news/health/coronavirus/coronavirus-deaths-in-georgia/85-e9bb2324-2e27-43ca-a347-ced78cbb186b"
+    ]
+  },
+  {
+    "confirmed_date": "3/27",
+    "gender": "女",
+    "die_count": 1,
+    "age_range": "Unknown",
+    "state_name": "GA",
+    "county": "Dougherty",
+    "full_links": [
+      "https://www.11alive.com/article/news/health/coronavirus/coronavirus-deaths-in-georgia/85-e9bb2324-2e27-43ca-a347-ced78cbb186b"
+    ]
+  },
+  {
+    "confirmed_date": "3/27",
+    "gender": "女",
+    "die_count": 1,
+    "age_range": "90+",
+    "state_name": "GA",
+    "county": "Dougherty",
+    "full_links": [
+      "https://www.11alive.com/article/news/health/coronavirus/coronavirus-deaths-in-georgia/85-e9bb2324-2e27-43ca-a347-ced78cbb186b"
+    ]
+  },
+  {
+    "confirmed_date": "3/27",
+    "gender": "男",
+    "die_count": 1,
+    "age_range": "80+",
+    "state_name": "GA",
+    "county": "Dougherty",
+    "full_links": [
+      "https://www.11alive.com/article/news/health/coronavirus/coronavirus-deaths-in-georgia/85-e9bb2324-2e27-43ca-a347-ced78cbb186b"
+    ]
+  },
+  {
+    "confirmed_date": "3/27",
+    "gender": "女",
+    "die_count": 1,
+    "age_range": "60+",
+    "state_name": "GA",
+    "county": "Dougherty",
+    "full_links": [
+      "https://www.11alive.com/article/news/health/coronavirus/coronavirus-deaths-in-georgia/85-e9bb2324-2e27-43ca-a347-ced78cbb186b"
+    ]
+  },
+  {
+    "confirmed_date": "3/27",
+    "gender": "女",
+    "comments_en": "Victim 2\nAge: 73\nGender: Female\nUnderlying Condition: Unknown",
+    "die_count": 1,
+    "age_range": "70+",
+    "state_name": "GA",
+    "county": "Terrell",
+    "full_links": [
+      "https://dph.georgia.gov/covid-19-daily-status-report",
+      "https://www.11alive.com/article/news/health/coronavirus/coronavirus-deaths-in-georgia/85-e9bb2324-2e27-43ca-a347-ced78cbb186b"
+    ]
+  },
+  {
     "full_links": [
       "https://www.webcenter11.com/content/news/Gov-Dunleavy-issues-social-distancing-and-travel-mandates-COVID-19-cases-rise-to-85-statewide-569180071.html"
     ],
@@ -13536,24 +13819,30 @@
     "gender": "Unknown"
   },
   {
-    "die_count": 3,
+    "die_count": 4,
     "state_name": "GA",
     "county": "Cobb",
     "full_links": [
-      "https://dph.georgia.gov/covid-19-daily-status-report"
+      "https://dph.georgia.gov/covid-19-daily-status-report",
+      "https://www.11alive.com/article/news/health/coronavirus/coronavirus-deaths-in-georgia/85-e9bb2324-2e27-43ca-a347-ced78cbb186b"
     ],
     "confirmed_date": "3/28",
     "comments_en": "Cobb county has 3 additional deaths today; the total number of deaths rose from 5 to 8 today. 03/28. No Additional details available as of 2:36PM EST 03.28\n\n ",
-    "gender": "Unknown"
+    "gender": "女",
+    "age_range": "80+"
   },
   {
     "state_name": "GA",
     "county": "Unassigned",
     "full_links": [
-      "https://dph.georgia.gov/covid-19-daily-status-report"
+      "https://dph.georgia.gov/covid-19-daily-status-report",
+      "https://www.11alive.com/article/news/health/coronavirus/coronavirus-deaths-in-georgia/85-e9bb2324-2e27-43ca-a347-ced78cbb186b"
     ],
     "die_count": 1,
-    "confirmed_date": "3/28"
+    "confirmed_date": "3/28",
+    "comments_en": "Victim 2\nAge: Unknown\nGender: Male\nUnderlying Condition: Unknown",
+    "gender": "男",
+    "age_range": "Unknown"
   },
   {
     "full_links": [
@@ -14864,5 +15153,170 @@
     "comments_en": "The deceased patient was a man in his 70s, according to a press release from the WCCHD.",
     "gender": "男",
     "age_range": "70+"
+  },
+  {
+    "die_count": 4,
+    "full_links": [
+      "https://app.powerbigov.us/view?r=eyJrIjoiMjA2ZThiOWUtM2FlNS00MGY5LWFmYjUtNmQwNTQ3Nzg5N2I2IiwidCI6ImU0YTM0MGU2LWI4OWUtNGU2OC04ZWFhLTE1NDRkMjcwMzk4MCJ9"
+    ],
+    "confirmed_date": "3/28",
+    "state_name": "NV",
+    "county": "Unassigned"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://coronavirus.idaho.gov/"
+    ],
+    "confirmed_date": "3/28",
+    "state_name": "ID",
+    "county": "Ada"
+  },
+  {
+    "die_count": 1,
+    "state_name": "GA",
+    "county": "DeKalb",
+    "full_links": [
+      "https://dph.georgia.gov/covid-19-daily-status-report"
+    ],
+    "confirmed_date": "3/28"
+  },
+  {
+    "die_count": 4,
+    "state_name": "GA",
+    "county": "Dougherty",
+    "full_links": [
+      "https://dph.georgia.gov/covid-19-daily-status-report"
+    ],
+    "confirmed_date": "3/28"
+  },
+  {
+    "die_count": 1,
+    "state_name": "GA",
+    "county": "Fayette",
+    "full_links": [
+      "https://dph.georgia.gov/covid-19-daily-status-report"
+    ],
+    "confirmed_date": "3/28"
+  },
+  {
+    "die_count": 1,
+    "state_name": "GA",
+    "county": "Fulton",
+    "full_links": [
+      "https://dph.georgia.gov/covid-19-daily-status-report"
+    ],
+    "confirmed_date": "3/28"
+  },
+  {
+    "die_count": 1,
+    "state_name": "GA",
+    "county": "Lee",
+    "full_links": [
+      "https://dph.georgia.gov/covid-19-daily-status-report"
+    ],
+    "confirmed_date": "3/28"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.latimes.com/projects/california-coronavirus-cases-tracking-outbreak/"
+    ],
+    "confirmed_date": "3/28",
+    "state_name": "CA",
+    "county": "Tulare"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://dph.georgia.gov/covid-19-daily-status-report"
+    ],
+    "confirmed_date": "3/28",
+    "state_name": "GA",
+    "county": "Sumter"
+  },
+  {
+    "die_count": 1,
+    "state_name": "NY",
+    "county": "Suffolk",
+    "full_links": [
+      "https://suffolkcountyny.gov/Departments/Health-Services/Health-Bulletins/Novel-Coronavirus/covid-19-case-update-march-28-2020-230-pm"
+    ],
+    "confirmed_date": "3/28",
+    "comments_en": "A male in his 80s with underlying health conditions who was in mandatory isolation at a local hospital",
+    "age_range": "80+",
+    "gender": "男"
+  },
+  {
+    "die_count": 1,
+    "state_name": "NY",
+    "county": "Suffolk",
+    "full_links": [
+      "https://suffolkcountyny.gov/Departments/Health-Services/Health-Bulletins/Novel-Coronavirus/covid-19-case-update-march-28-2020-230-pm"
+    ],
+    "confirmed_date": "3/28",
+    "comments_en": "A female in her 90s with underlying health conditions who was in mandatory isolation at a local hospital",
+    "age_range": "90+",
+    "gender": "女"
+  },
+  {
+    "die_count": 1,
+    "state_name": "NY",
+    "county": "Suffolk",
+    "full_links": [
+      "https://suffolkcountyny.gov/Departments/Health-Services/Health-Bulletins/Novel-Coronavirus/covid-19-case-update-march-28-2020-230-pm"
+    ],
+    "confirmed_date": "3/28",
+    "comments_en": "A male in his 60s with underlying health conditions who was in mandatory isolation at a local hospital",
+    "age_range": "60+",
+    "gender": "男"
+  },
+  {
+    "die_count": 1,
+    "state_name": "NY",
+    "county": "Suffolk",
+    "full_links": [
+      "https://suffolkcountyny.gov/Departments/Health-Services/Health-Bulletins/Novel-Coronavirus/covid-19-case-update-march-28-2020-230-pm"
+    ],
+    "confirmed_date": "3/28",
+    "comments_en": "A male in his 50s with underlying health conditions who was in mandatory isolation at a local hospital",
+    "age_range": "50+",
+    "gender": "男"
+  },
+  {
+    "die_count": 1,
+    "state_name": "NY",
+    "county": "Suffolk",
+    "full_links": [
+      "https://suffolkcountyny.gov/Departments/Health-Services/Health-Bulletins/Novel-Coronavirus/covid-19-case-update-march-28-2020-230-pm"
+    ],
+    "confirmed_date": "3/28",
+    "comments_en": "A male in his 70s with underlying health conditions who was in mandatory isolation at a local hospital",
+    "age_range": "70+",
+    "gender": "男"
+  },
+  {
+    "die_count": 1,
+    "state_name": "NY",
+    "county": "Suffolk",
+    "full_links": [
+      "https://suffolkcountyny.gov/Departments/Health-Services/Health-Bulletins/Novel-Coronavirus/covid-19-case-update-march-28-2020-230-pm"
+    ],
+    "confirmed_date": "3/28",
+    "comments_en": "A male in his 60s with underlying health conditions who died at home. COVID-19 was confirmed by the Suffolk County Medical Examiner.",
+    "age_range": "60+",
+    "gender": "男"
+  },
+  {
+    "state_name": "NY",
+    "county": "Suffolk",
+    "full_links": [
+      "https://suffolkcountyny.gov/Departments/Health-Services/Health-Bulletins/Novel-Coronavirus/covid-19-case-update-march-28-2020-230-pm"
+    ],
+    "confirmed_date": "3/28",
+    "die_count": 1,
+    "comments_en": "A male in his 60s with underlying health conditions who died at home. COVID-19 was confirmed by the Suffolk County Medical Examiner.",
+    "age_range": "60+",
+    "gender": "男"
   }
 ]
