@@ -62812,5 +62812,11 @@
     "confirmed_date": "3/28",
     "state_name": "NC",
     "county": "Cumberland"
+  },
+  {
+    "people_count": 3,
+    "state_name": "KS",
+    "county": "Coffey",
+    "confirmed_date": "3/28"
   }
 ]
