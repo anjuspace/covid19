@@ -15683,5 +15683,27 @@
     ],
     "state_name": "NJ",
     "county": "Warren"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.latimes.com/projects/california-coronavirus-cases-tracking-outbreak/"
+    ],
+    "confirmed_date": "3/28",
+    "state_name": "CA",
+    "county": "Unassigned",
+    "comments_en": "CA reported 121 total deaths by 3/28 night."
+  },
+  {
+    "confirmed_date": "3/29",
+    "die_count": 5,
+    "full_links": [
+      "https://www.washingtonpost.com/graphics/local/dc-maryland-virginia-coronavirus-cases/",
+      "http://www.vdh.virginia.gov/coronavirus/",
+      "https://www.nbc12.com/2020/03/29/almost-covid-cases-virginia-with-deaths/"
+    ],
+    "comments_en": "There are now 890 confirmed COVID-19 cases in Virginia with 122 patients hospitalized and at least 22 people dead.",
+    "state_name": "VA",
+    "county": "Unassigned"
   }
 ]
