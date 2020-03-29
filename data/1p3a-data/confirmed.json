@@ -62920,5 +62920,41 @@
     "people_count": 12,
     "state_name": "CA",
     "county": "Fresno"
+  },
+  {
+    "people_count": 1,
+    "state_name": "TX",
+    "county": "Burnet",
+    "confirmed_date": "3/28"
+  },
+  {
+    "people_count": 27,
+    "state_name": "PR",
+    "county": "Puerto Rico",
+    "confirmed_date": "3/29"
+  },
+  {
+    "people_count": 7,
+    "state_name": "CA",
+    "county": "San Joaquin",
+    "confirmed_date": "3/29"
+  },
+  {
+    "people_count": 1,
+    "state_name": "WA",
+    "county": "Walla Walla",
+    "confirmed_date": "3/29"
+  },
+  {
+    "people_count": 1,
+    "state_name": "GU",
+    "county": "Guam",
+    "confirmed_date": "3/29"
+  },
+  {
+    "people_count": 1,
+    "state_name": "USVI",
+    "county": "Unassigned",
+    "confirmed_date": "3/29"
   }
 ]
