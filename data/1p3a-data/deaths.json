@@ -15723,6 +15723,17 @@
     "confirmed_date": "3/28"
   },
   {
+    "die_count": 1,
+    "state_name": "CA",
+    "county": "Contra Costa",
+    "full_links": [
+      "https://www.coronavirus.cchealth.org/"
+    ],
+    "confirmed_date": "3/28",
+    "age_range": "Unknown",
+    "gender": "Unknown"
+  },
+  {
     "confirmed_date": "3/29",
     "comments_en": "waiting for FL detail reports.",
     "die_count": 2,
@@ -15782,7 +15793,7 @@
       "https://www.cbsnews.com/live-updates/coronavirus-disease-covid-19-latest-news-2020-03-29/"
     ],
     "confirmed_date": "3/29",
-    "comments_en": "By 3/29 noon, New York reoorted 965 total deaths, placeholder."
+    "comments_en": "By 3/29 noon, New York reported 965 total deaths, placeholder."
   },
   {
     "die_count": 1,
@@ -15914,5 +15925,36 @@
     "comments_en": "The second person killed by the virus is a woman in her 90s. Health officials said the woman had been in the hospital.",
     "gender": "女",
     "age_range": "90+"
+  },
+  {
+    "die_count": 21,
+    "state_name": "NJ",
+    "county": "Unassigned",
+    "full_links": [
+      "https://www.nj.gov/health/"
+    ],
+    "confirmed_date": "3/29"
+  },
+  {
+    "die_count": 1,
+    "state_name": "OK",
+    "county": "Oklahoma",
+    "full_links": [
+      "https://coronavirus.health.ok.gov/"
+    ],
+    "confirmed_date": "3/29"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.wcnc.com/article/news/health/coronavirus/coronavirus-real-time-updates-sunday-march-29/275-d6561746-0b0c-4131-86dd-b9bf88657f8c",
+      "https://www.charlotteobserver.com/news/coronavirus/article241602416.html"
+    ],
+    "confirmed_date": "3/29",
+    "state_name": "NC",
+    "county": "Mecklenburg",
+    "comments_en": "The individual was 60-years-old and passed away Sunday morning.",
+    "age_range": "60+",
+    "gender": "Unknown"
   }
 ]
