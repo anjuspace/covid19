@@ -12168,8 +12168,12 @@
     "state_name": "NJ",
     "county": "Hudson",
     "full_links": [
-      "https://www.nj.gov/health/"
-    ]
+      "https://www.nj.gov/health/",
+      "https://hudsoncountyview.com/75-year-old-bayonne-woman-is-citys-2nd-covid-19-fatality-60-current-coronavirus-patients/"
+    ],
+    "comments_en": "75-year-old Bayonne woman is city’s 2nd COVID-19 fatality, 60 current coronavirus patients",
+    "age_range": "70+",
+    "gender": "女"
   },
   {
     "confirmed_date": "3/27",
@@ -13330,15 +13334,16 @@
   },
   {
     "confirmed_date": "3/27",
-    "gender": "Unknown",
+    "gender": "女",
     "comments": "截至3/27晚， Erie County累计死亡6例。",
-    "comments_en": "By 3/27 21:30 PM EST, Erie County reported 6 death in total. No further details.",
+    "comments_en": "Erie County Executive Mark Poloncarz said the latest death was woman in her 40s.",
     "die_count": 1,
-    "age_range": "Unknown",
+    "age_range": "40+",
     "state_name": "NY",
     "county": "Erie",
     "full_links": [
-      "http://erieny.maps.arcgis.com/apps/opsdashboard/index.html#/dd7f1c0c352e4192ab162a1dfadc58e1"
+      "http://erieny.maps.arcgis.com/apps/opsdashboard/index.html#/dd7f1c0c352e4192ab162a1dfadc58e1",
+      "https://www.wgrz.com/article/news/health/coronavirus/erie-county-positive-covid-19-cases-remain-at-166/71-cee4b2e7-f81d-452c-8057-b255ee282188"
     ]
   },
   {
@@ -15910,7 +15915,7 @@
     "comments_en": "By 3/29 12:20 PM EST, NYC reported 678 deaths in total."
   },
   {
-    "die_count": 125,
+    "die_count": 124,
     "state_name": "NY",
     "county": "Unassigned",
     "full_links": [
@@ -16125,15 +16130,6 @@
     "age_range": "80+"
   },
   {
-    "die_count": 20,
-    "full_links": [
-      "https://www.michigan.gov/coronavirus/0,9753,7-406-98163_98173---,00.html"
-    ],
-    "confirmed_date": "3/29",
-    "state_name": "MI",
-    "county": "Unassigned"
-  },
-  {
     "die_count": 2,
     "state_name": "MI",
     "county": "Washtenaw",
@@ -16178,5 +16174,85 @@
       "https://www.health.state.mn.us/diseases/coronavirus/situation.html"
     ],
     "confirmed_date": "3/29"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.michigan.gov/coronavirus/0,9753,7-406-98163_98173---,00.html"
+    ],
+    "confirmed_date": "3/29",
+    "state_name": "MI",
+    "county": "Hillsdale"
+  },
+  {
+    "full_links": [
+      "https://www.michigan.gov/coronavirus/0,9753,7-406-98163_98173---,00.html"
+    ],
+    "die_count": 3,
+    "confirmed_date": "3/29",
+    "state_name": "MI",
+    "county": "Oakland"
+  },
+  {
+    "full_links": [
+      "https://www.michigan.gov/coronavirus/0,9753,7-406-98163_98173---,00.html"
+    ],
+    "confirmed_date": "3/29",
+    "die_count": 5,
+    "state_name": "MI",
+    "county": "Wayne"
+  },
+  {
+    "full_links": [
+      "https://www.michigan.gov/coronavirus/0,9753,7-406-98163_98173---,00.html"
+    ],
+    "confirmed_date": "3/29",
+    "die_count": 5,
+    "state_name": "MI",
+    "county": "Wayne--Detroit"
+  },
+  {
+    "die_count": 3,
+    "full_links": [
+      "https://www.michigan.gov/coronavirus/0,9753,7-406-98163_98173---,00.html"
+    ],
+    "confirmed_date": "3/29",
+    "state_name": "MI",
+    "county": "Macomb"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.michigan.gov/coronavirus/0,9753,7-406-98163_98173---,00.html"
+    ],
+    "confirmed_date": "3/29",
+    "state_name": "MI",
+    "county": "Isabella"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.ksbw.com/article/first-covid-19-death-announced-in-santa-cruz-county/31969605#"
+    ],
+    "comments": "3/29, The Santa Cruz County Health Department has announced the county's first death due to COVID-19. The individual was an adult male in his early 70’s with an underlying health condition.",
+    "state_name": "CA",
+    "county": "Santa Cruz",
+    "confirmed_date": "3/29",
+    "gender": "男",
+    "age_range": "70+",
+    "comments_en": "3/29, The Santa Cruz County Health Department has announced the county's first death due to COVID-19. The individual was an adult male in his early 70’s with an underlying health condition."
+  },
+  {
+    "die_count": 1,
+    "state_name": "NY",
+    "county": "Erie",
+    "full_links": [
+      "https://www.wivb.com/health/erie-county-coronavirus-deaths-up-to-seven-county-now-has-414-confirmed-cases/"
+    ],
+    "confirmed_date": "3/29",
+    "comments_en": "Seven people have died from coronavirus in Erie County, according to the latest data from the county’s COVID-19 map. No further details right now.",
+    "age_range": "Unknown",
+    "gender": "Unknown",
+    "comments": "截至3/29下午， Erie County累计死亡7例。"
   }
 ]
