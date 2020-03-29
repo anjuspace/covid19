@@ -57294,10 +57294,10 @@
     "people_count": 24
   },
   {
-    "people_count": 1,
     "state_name": "MD",
     "county": "Carroll",
-    "confirmed_date": "3/28"
+    "confirmed_date": "3/28",
+    "people_count": 74
   },
   {
     "people_count": 1,
@@ -62866,5 +62866,41 @@
     "confirmed_date": "3/28",
     "state_name": "AL",
     "county": "Tuscaloosa"
+  },
+  {
+    "people_count": 2,
+    "confirmed_date": "3/28",
+    "state_name": "CO",
+    "county": "Mesa"
+  },
+  {
+    "people_count": 94,
+    "confirmed_date": "3/28",
+    "state_name": "NV",
+    "county": "Unassigned"
+  },
+  {
+    "people_count": 1,
+    "confirmed_date": "3/28",
+    "state_name": "NC",
+    "county": "Pasquotank"
+  },
+  {
+    "people_count": 4,
+    "confirmed_date": "3/28",
+    "state_name": "TX",
+    "county": "Taylor"
+  },
+  {
+    "people_count": 7,
+    "state_name": "TX",
+    "county": "Cameron",
+    "confirmed_date": "3/28"
+  },
+  {
+    "people_count": 4,
+    "confirmed_date": "3/28",
+    "state_name": "CA",
+    "county": "Humboldt"
   }
 ]
