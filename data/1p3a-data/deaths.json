@@ -10917,7 +10917,7 @@
     "comments": "爱达荷州3/26首3例死亡病例。",
     "comments_en": "Two Blaine County residents and one Canyon County resident — all men over the age of 60 — have died in connection with COVID-19",
     "die_count": 1,
-    "age_range": "60+",
+    "age_range": "80+",
     "state_name": "ID",
     "county": "Blaine",
     "full_links": [
@@ -10954,7 +10954,7 @@
     "comments": "爱达荷州3/26首3例死亡病例。",
     "comments_en": "Two Blaine County residents and one Canyon County resident — all men over the age of 60 — have died in connection with COVID-19",
     "die_count": 1,
-    "age_range": "60+",
+    "age_range": "70+",
     "state_name": "ID",
     "county": "Canyon",
     "full_links": [
@@ -13358,7 +13358,9 @@
     "county": "Nez Perce",
     "full_links": [
       "https://coronavirus.idaho.gov/"
-    ]
+    ],
+    "gender": "Unknown",
+    "age_range": "80+"
   },
   {
     "confirmed_date": "3/27",
@@ -15495,7 +15497,8 @@
     "county": "Ada",
     "full_links": [
       "https://coronavirus.idaho.gov/"
-    ]
+    ],
+    "age_range": "60+"
   },
   {
     "confirmed_date": "3/28",
@@ -16939,7 +16942,7 @@
   },
   {
     "confirmed_date": "3/29",
-    "comments": "3/28 加州Los Anegeles新增6例死亡，具体信息待更新。",
+    "comments": "3/29 加州Los Anegeles新增5例死亡，具体信息待更新。",
     "comments_en": "3/29 5 new deaths in Los Angels.",
     "die_count": 5,
     "state_name": "CA",
@@ -18200,6 +18203,72 @@
       "https://laist.com/latest/post/20200330/coronavirus-los-angeles-county-updates-march-30"
     ],
     "confirmed_date": "3/30",
-    "comments": "3/3 加州Los Anegeles新增6例死亡，具体信息待更新。"
+    "comments": "3/30 加州Los Anegeles新增7例死亡，具体信息待更新。",
+    "comments_en": "3/30 7 new deaths in Los Angels."
+  },
+  {
+    "die_count": 1,
+    "state_name": "CA",
+    "county": "Santa Clara",
+    "full_links": [
+      "https://www.sccgov.org/sites/phd/DiseaseInformation/novel-coronavirus/Pages/dashboard.aspx"
+    ],
+    "confirmed_date": "3/30",
+    "comments": "3/30 加州Santa Clara County新增3例死亡病例。",
+    "comments_en": "3 more deaths in Santa Clara County."
+  },
+  {
+    "die_count": 1,
+    "state_name": "CA",
+    "county": "Santa Clara",
+    "full_links": [
+      "https://www.sccgov.org/sites/phd/DiseaseInformation/novel-coronavirus/Pages/dashboard.aspx"
+    ],
+    "confirmed_date": "3/30",
+    "comments": "3/30 加州Santa Clara County新增3例死亡病例。",
+    "comments_en": "3 more deaths in Santa Clara County."
+  },
+  {
+    "die_count": 1,
+    "state_name": "CA",
+    "county": "Santa Clara",
+    "full_links": [
+      "https://www.sccgov.org/sites/phd/DiseaseInformation/novel-coronavirus/Pages/dashboard.aspx"
+    ],
+    "confirmed_date": "3/30",
+    "comments": "3/30 加州Santa Clara County新增3例死亡病例。",
+    "comments_en": "3 more deaths in Santa Clara County."
+  },
+  {
+    "die_count": 1,
+    "state_name": "CA",
+    "county": "Riverside",
+    "full_links": [
+      "https://rivcoph.org/coronavirus"
+    ],
+    "confirmed_date": "3/30",
+    "comments": "截至3/30，加州riverside新增1例死亡。"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.expressnews.com/news/local/article/Second-person-dies-of-coronavirus-in-Comal-County-15166572.php"
+    ],
+    "state_name": "TX",
+    "county": "Bexar",
+    "confirmed_date": "3/30",
+    "comments_en": "A man in his 50s with underlying health problems died at Methodist Northeast Hospital after being treated there for an unrelated health issue, officials with San Antonio and Bexar County said. ",
+    "comments": "3/30 Bexar County新增1例死亡，为50多岁男性，有基础病。",
+    "gender": "男",
+    "age_range": "50+"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://cityofmadison.maps.arcgis.com/apps/opsdashboard/index.html#/c3ad3b83e1fe4893837364cbe10ce789"
+    ],
+    "state_name": "WI",
+    "county": "Dane",
+    "confirmed_date": "3/30"
   }
 ]

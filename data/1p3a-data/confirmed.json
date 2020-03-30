@@ -74146,5 +74146,137 @@
     "confirmed_date": "3/30",
     "state_name": "WV",
     "county": "Roane"
+  },
+  {
+    "people_count": 338,
+    "state_name": "CA",
+    "county": "Los Angeles",
+    "confirmed_date": "3/30"
+  },
+  {
+    "people_count": 202,
+    "state_name": "CA",
+    "county": "Santa Clara",
+    "confirmed_date": "3/30"
+  },
+  {
+    "state_name": "CA",
+    "county": "Riverside",
+    "confirmed_date": "3/30",
+    "people_count": 58
+  },
+  {
+    "people_count": 12,
+    "state_name": "CA",
+    "county": "Contra Costa",
+    "confirmed_date": "3/30"
+  },
+  {
+    "people_count": 9,
+    "state_name": "WI",
+    "county": "Dane",
+    "confirmed_date": "3/30"
+  },
+  {
+    "people_count": 56,
+    "state_name": "NH",
+    "county": "Unassigned",
+    "confirmed_date": "3/30"
+  },
+  {
+    "people_count": 3,
+    "confirmed_date": "3/30",
+    "state_name": "AL",
+    "county": "Baldwin"
+  },
+  {
+    "people_count": 1,
+    "confirmed_date": "3/30",
+    "state_name": "AL",
+    "county": "Bibb"
+  },
+  {
+    "people_count": 5,
+    "confirmed_date": "3/30",
+    "state_name": "AL",
+    "county": "Calhoun"
+  },
+  {
+    "people_count": 4,
+    "confirmed_date": "3/30",
+    "state_name": "AL",
+    "county": "Chambers"
+  },
+  {
+    "people_count": 2,
+    "confirmed_date": "3/30",
+    "state_name": "AL",
+    "county": "Chilton"
+  },
+  {
+    "people_count": 2,
+    "confirmed_date": "3/30",
+    "state_name": "AL",
+    "county": "Colbert"
+  },
+  {
+    "people_count": 1,
+    "confirmed_date": "3/30",
+    "state_name": "AL",
+    "county": "Cullman"
+  },
+  {
+    "people_count": 1,
+    "confirmed_date": "3/30",
+    "state_name": "AL",
+    "county": "Fayette"
+  },
+  {
+    "people_count": 1,
+    "confirmed_date": "3/30",
+    "state_name": "AL",
+    "county": "Hale"
+  },
+  {
+    "people_count": 1,
+    "confirmed_date": "3/30",
+    "state_name": "AL",
+    "county": "Houston"
+  },
+  {
+    "people_count": 3,
+    "confirmed_date": "3/30",
+    "state_name": "AL",
+    "county": "Jefferson"
+  },
+  {
+    "people_count": 10,
+    "confirmed_date": "3/30",
+    "state_name": "AL",
+    "county": "Lee"
+  },
+  {
+    "people_count": 4,
+    "confirmed_date": "3/30",
+    "state_name": "AL",
+    "county": "Limestone"
+  },
+  {
+    "people_count": 12,
+    "confirmed_date": "3/30",
+    "state_name": "AL",
+    "county": "Madison"
+  },
+  {
+    "people_count": 1,
+    "confirmed_date": "3/30",
+    "state_name": "AL",
+    "county": "Marshall"
+  },
+  {
+    "people_count": 1,
+    "confirmed_date": "3/30",
+    "state_name": "AL",
+    "county": "Mobile"
   }
 ]
