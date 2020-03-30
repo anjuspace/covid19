@@ -63583,12 +63583,6 @@
   },
   {
     "confirmed_date": "3/28",
-    "people_count": 3,
-    "state_name": "CA",
-    "county": "San Mateo"
-  },
-  {
-    "confirmed_date": "3/28",
     "people_count": 1,
     "state_name": "VI",
     "county": "St. Croix"
@@ -63630,12 +63624,6 @@
     "people_count": 5
   },
   {
-    "confirmed_date": "3/28",
-    "people_count": 28,
-    "state_name": "CA",
-    "county": "Orange"
-  },
-  {
     "confirmed_date": "3/29",
     "people_count": 2,
     "state_name": "VA",
@@ -63643,7 +63631,7 @@
   },
   {
     "confirmed_date": "3/29",
-    "people_count": 0,
+    "people_count": 1,
     "state_name": "FL",
     "county": "Unassigned"
   },
@@ -64422,7 +64410,7 @@
     "county": "Manassas Park"
   },
   {
-    "people_count": 1,
+    "people_count": 5,
     "confirmed_date": "3/29",
     "state_name": "MT",
     "county": "Gallatin"
@@ -64440,7 +64428,7 @@
     "county": "Silver Bow"
   },
   {
-    "people_count": 1,
+    "people_count": 2,
     "confirmed_date": "3/29",
     "state_name": "MT",
     "county": "Flathead"
@@ -65538,7 +65526,7 @@
     "people_count": 32
   },
   {
-    "people_count": 4,
+    "people_count": 9,
     "state_name": "FL",
     "county": "Clay",
     "confirmed_date": "3/29"
@@ -65608,6 +65596,12 @@
     "state_name": "TX",
     "county": "Bastrop",
     "confirmed_date": "3/29"
+  },
+  {
+    "confirmed_date": "3/29",
+    "people_count": 3,
+    "state_name": "CA",
+    "county": "San Mateo"
   },
   {
     "people_count": 3,
@@ -65880,7 +65874,7 @@
     "confirmed_date": "3/29"
   },
   {
-    "people_count": 1,
+    "people_count": 2,
     "state_name": "OR",
     "county": "Lane",
     "confirmed_date": "3/29"
@@ -66480,7 +66474,7 @@
     "confirmed_date": "3/29"
   },
   {
-    "people_count": 3,
+    "people_count": 4,
     "state_name": "FL",
     "county": "Alachua",
     "confirmed_date": "3/29"
@@ -66492,31 +66486,31 @@
     "confirmed_date": "3/29"
   },
   {
-    "people_count": 1,
+    "people_count": 3,
     "state_name": "FL",
     "county": "Brevard",
     "confirmed_date": "3/29"
   },
   {
-    "people_count": 18,
+    "people_count": 192,
     "state_name": "FL",
     "county": "Broward",
     "confirmed_date": "3/29"
   },
   {
-    "people_count": 5,
+    "people_count": 22,
     "state_name": "FL",
     "county": "Duval",
     "confirmed_date": "3/29"
   },
   {
-    "people_count": 2,
+    "people_count": 9,
     "state_name": "FL",
     "county": "Escambia",
     "confirmed_date": "3/29"
   },
   {
-    "people_count": 12,
+    "people_count": 19,
     "state_name": "FL",
     "county": "Hillsborough",
     "confirmed_date": "3/29"
@@ -66738,13 +66732,13 @@
     "confirmed_date": "3/29"
   },
   {
-    "people_count": 1,
+    "people_count": 4,
     "state_name": "FL",
     "county": "Indian River",
     "confirmed_date": "3/29"
   },
   {
-    "people_count": 5,
+    "people_count": 33,
     "state_name": "FL",
     "county": "Lee",
     "confirmed_date": "3/29"
@@ -66774,25 +66768,25 @@
     "confirmed_date": "3/29"
   },
   {
-    "people_count": 1,
+    "people_count": 6,
     "state_name": "FL",
     "county": "Manatee",
     "confirmed_date": "3/29"
   },
   {
-    "people_count": 2,
+    "people_count": 4,
     "state_name": "FL",
     "county": "Marion",
     "confirmed_date": "3/29"
   },
   {
-    "people_count": 33,
+    "people_count": 55,
     "state_name": "FL",
     "county": "Orange",
     "confirmed_date": "3/29"
   },
   {
-    "people_count": 71,
+    "people_count": 351,
     "state_name": "FL",
     "county": "Miami-Dade",
     "confirmed_date": "3/29"
@@ -66810,13 +66804,13 @@
     "confirmed_date": "3/29"
   },
   {
-    "people_count": 9,
+    "people_count": 15,
     "state_name": "FL",
     "county": "Osceola",
     "confirmed_date": "3/29"
   },
   {
-    "people_count": 15,
+    "people_count": 65,
     "state_name": "FL",
     "county": "Palm Beach",
     "confirmed_date": "3/29"
@@ -66828,13 +66822,13 @@
     "confirmed_date": "3/29"
   },
   {
-    "people_count": 2,
+    "people_count": 5,
     "state_name": "FL",
     "county": "Pinellas",
     "confirmed_date": "3/29"
   },
   {
-    "people_count": 2,
+    "people_count": 9,
     "state_name": "FL",
     "county": "Polk",
     "confirmed_date": "3/29"
@@ -66846,25 +66840,25 @@
     "confirmed_date": "3/29"
   },
   {
-    "people_count": 8,
+    "people_count": 13,
     "state_name": "FL",
     "county": "Seminole",
     "confirmed_date": "3/29"
   },
   {
-    "people_count": 1,
+    "people_count": 2,
     "state_name": "FL",
     "county": "St. Lucie",
     "confirmed_date": "3/29"
   },
   {
-    "people_count": 3,
+    "people_count": 5,
     "state_name": "FL",
     "county": "Sumter",
     "confirmed_date": "3/29"
   },
   {
-    "people_count": 3,
+    "people_count": 16,
     "state_name": "FL",
     "county": "Volusia",
     "confirmed_date": "3/29"
@@ -67278,10 +67272,10 @@
     "confirmed_date": "3/29"
   },
   {
-    "people_count": 1,
     "confirmed_date": "3/29",
     "state_name": "TX",
-    "county": "Midland"
+    "county": "Midland",
+    "people_count": 2
   },
   {
     "people_count": 2,
@@ -68310,6 +68304,12 @@
     "confirmed_date": "3/29"
   },
   {
+    "confirmed_date": "3/29",
+    "people_count": 28,
+    "state_name": "CA",
+    "county": "Orange"
+  },
+  {
     "people_count": 10,
     "state_name": "CO",
     "county": "Douglas",
@@ -68412,7 +68412,7 @@
     "confirmed_date": "3/29"
   },
   {
-    "people_count": 11,
+    "people_count": 318,
     "confirmed_date": "3/29",
     "state_name": "CA",
     "county": "Los Angeles"
@@ -68500,5 +68500,233 @@
     "confirmed_date": "3/29",
     "state_name": "WA",
     "county": "Skagit"
+  },
+  {
+    "people_count": 1,
+    "confirmed_date": "3/29",
+    "state_name": "NC",
+    "county": "Pamlico"
+  },
+  {
+    "people_count": 15,
+    "state_name": "ID",
+    "county": "Canyon",
+    "confirmed_date": "3/29"
+  },
+  {
+    "people_count": 1,
+    "state_name": "FL",
+    "county": "Baker",
+    "confirmed_date": "3/29"
+  },
+  {
+    "people_count": 1,
+    "state_name": "FL",
+    "county": "Bradford",
+    "confirmed_date": "3/29"
+  },
+  {
+    "people_count": 1,
+    "state_name": "FL",
+    "county": "Citrus",
+    "confirmed_date": "3/29"
+  },
+  {
+    "people_count": 1,
+    "state_name": "ID",
+    "county": "Gem",
+    "confirmed_date": "3/29"
+  },
+  {
+    "people_count": 16,
+    "state_name": "FL",
+    "county": "Collier",
+    "confirmed_date": "3/29"
+  },
+  {
+    "people_count": 1,
+    "confirmed_date": "3/29",
+    "state_name": "TX",
+    "county": "Hidalgo"
+  },
+  {
+    "people_count": 1,
+    "county": "Glades",
+    "state_name": "FL",
+    "confirmed_date": "3/29"
+  },
+  {
+    "people_count": 1,
+    "state_name": "FL",
+    "county": "Hendry",
+    "confirmed_date": "3/29"
+  },
+  {
+    "people_count": 6,
+    "state_name": "FL",
+    "county": "Hernando",
+    "confirmed_date": "3/29"
+  },
+  {
+    "people_count": 2,
+    "state_name": "FL",
+    "county": "Highlands",
+    "confirmed_date": "3/29"
+  },
+  {
+    "people_count": 1,
+    "state_name": "FL",
+    "county": "Jackson",
+    "confirmed_date": "3/29"
+  },
+  {
+    "people_count": 6,
+    "state_name": "FL",
+    "county": "Lake",
+    "confirmed_date": "3/29"
+  },
+  {
+    "people_count": 1,
+    "state_name": "FL",
+    "county": "Martin",
+    "confirmed_date": "3/29"
+  },
+  {
+    "people_count": 1,
+    "state_name": "FL",
+    "county": "Monroe",
+    "confirmed_date": "3/29"
+  },
+  {
+    "people_count": 1,
+    "state_name": "FL",
+    "county": "Nassau",
+    "confirmed_date": "3/29"
+  },
+  {
+    "people_count": 1,
+    "state_name": "FL",
+    "county": "Okaloosa",
+    "confirmed_date": "3/29"
+  },
+  {
+    "people_count": 1,
+    "state_name": "FL",
+    "county": "Pasco",
+    "confirmed_date": "3/29"
+  },
+  {
+    "people_count": 11,
+    "state_name": "FL",
+    "county": "Sarasota",
+    "confirmed_date": "3/29"
+  },
+  {
+    "people_count": 9,
+    "state_name": "FL",
+    "county": "St. Johns",
+    "confirmed_date": "3/29"
+  },
+  {
+    "people_count": 1,
+    "state_name": "FL",
+    "county": "Suwannee",
+    "confirmed_date": "3/29"
+  },
+  {
+    "people_count": 14,
+    "confirmed_date": "3/29",
+    "state_name": "NH",
+    "county": "Rockingham"
+  },
+  {
+    "people_count": 16,
+    "state_name": "NH",
+    "county": "Hillsborough",
+    "confirmed_date": "3/29"
+  },
+  {
+    "people_count": 1,
+    "county": "Wakulla",
+    "state_name": "FL",
+    "confirmed_date": "3/29"
+  },
+  {
+    "people_count": 1,
+    "state_name": "NH",
+    "county": "Grafton",
+    "confirmed_date": "3/29"
+  },
+  {
+    "people_count": 4,
+    "state_name": "NH",
+    "county": "Merrimack",
+    "confirmed_date": "3/29"
+  },
+  {
+    "people_count": 5,
+    "confirmed_date": "3/29",
+    "state_name": "NH",
+    "county": "Strafford"
+  },
+  {
+    "people_count": 2,
+    "confirmed_date": "3/29",
+    "state_name": "NH",
+    "county": "Carroll"
+  },
+  {
+    "people_count": 1,
+    "confirmed_date": "3/29",
+    "state_name": "NH",
+    "county": "Cheshire"
+  },
+  {
+    "people_count": 1,
+    "confirmed_date": "3/29",
+    "state_name": "NH",
+    "county": "Sullivan"
+  },
+  {
+    "people_count": 14,
+    "state_name": "NY",
+    "county": "Tompkins",
+    "confirmed_date": "3/29"
+  },
+  {
+    "people_count": 1,
+    "state_name": "MT",
+    "county": "Lincoln",
+    "confirmed_date": "3/29"
+  },
+  {
+    "people_count": 38,
+    "state_name": "CA",
+    "county": "Riverside",
+    "confirmed_date": "3/29"
+  },
+  {
+    "people_count": 1,
+    "state_name": "MT",
+    "county": "Lake",
+    "confirmed_date": "3/29"
+  },
+  {
+    "people_count": 1,
+    "confirmed_date": "3/29",
+    "state_name": "TX",
+    "county": "Crane"
+  },
+  {
+    "people_count": 3,
+    "state_name": "TN",
+    "county": "Knox",
+    "confirmed_date": "3/29"
+  },
+  {
+    "people_count": 12,
+    "confirmed_date": "3/29",
+    "state_name": "WA",
+    "county": "Island"
   }
 ]

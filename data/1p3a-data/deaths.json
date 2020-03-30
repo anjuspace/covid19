@@ -2814,7 +2814,7 @@
     "gender": "男",
     "comments": "佛州3/20新增1例死亡，累计死亡10例。其中1例系46岁男性，坐标Pinellas County。(之前政府报道误报为Pasco County, 现已修改）",
     "comments_en": "There are one more death in FL, and 10 total in the state by 3/20. A 46-year-old male in Pinellas County (which was mistakenly reported by the state to be in Pasco County before). \n",
-    "die_count": 0,
+    "die_count": 1,
     "age_range": "40+",
     "state_name": "FL",
     "county": "Pinellas",
@@ -7726,8 +7726,11 @@
     "state_name": "FL",
     "county": "Sarasota",
     "full_links": [
-      "https://www.yourobserver.com/article/covid-19-cornavirus-patient-dies-sarasota-memorial-hospital-terrence-mcnally"
-    ]
+      "https://www.yourobserver.com/article/covid-19-cornavirus-patient-dies-sarasota-memorial-hospital-terrence-mcnally",
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-03-29-1002.pdf"
+    ],
+    "gender": "男",
+    "age_range": "80+"
   },
   {
     "confirmed_date": "3/24",
@@ -11647,8 +11650,11 @@
     "state_name": "FL",
     "county": "Highlands",
     "full_links": [
-      "https://experience.arcgis.com/experience/96dd742462124fa0b38ddedb9b25e429"
-    ]
+      "https://experience.arcgis.com/experience/96dd742462124fa0b38ddedb9b25e429",
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-03-29-1002.pdf"
+    ],
+    "gender": "女",
+    "age_range": "70+"
   },
   {
     "confirmed_date": "3/27",
@@ -11669,8 +11675,11 @@
     "state_name": "FL",
     "county": "Sarasota",
     "full_links": [
-      "https://experience.arcgis.com/experience/96dd742462124fa0b38ddedb9b25e429"
-    ]
+      "https://experience.arcgis.com/experience/96dd742462124fa0b38ddedb9b25e429",
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-03-29-1002.pdf"
+    ],
+    "gender": "男",
+    "age_range": "80+"
   },
   {
     "confirmed_date": "3/27",
@@ -13998,6 +14007,17 @@
     "age_range": "60+"
   },
   {
+    "die_count": 1,
+    "state_name": "FL",
+    "county": "Palm Beach",
+    "full_links": [
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-03-29-1002.pdf"
+    ],
+    "confirmed_date": "3/27",
+    "gender": "女",
+    "age_range": "80+"
+  },
+  {
     "confirmed_date": "3/28",
     "gender": "女",
     "comments_en": "A woman in 60s, deaded at hospital in Anchorage ",
@@ -15932,14 +15952,13 @@
     "comments_en": "73 year old; had been on a ventilator after testing positive ; undergoing immunotherapy treatments after beating lung cancer twice"
   },
   {
-    "confirmed_date": "3/29",
-    "comments_en": "waiting for FL detail reports.",
-    "die_count": 2,
-    "state_name": "FL",
-    "county": "Unassigned",
+    "die_count": 1,
+    "state_name": "ID",
+    "county": "Ada",
     "full_links": [
-      "https://floridahealthcovid19.gov"
-    ]
+      "https://www.cdhd.idaho.gov/dac-coronavirus.php"
+    ],
+    "confirmed_date": "3/28"
   },
   {
     "confirmed_date": "3/29",
@@ -15975,17 +15994,17 @@
     "comments_en": "Buncombe County Health and Human Services (BCHHS) is reporting the first COVID-19 associated death in a Buncombe County resident."
   },
   {
-    "die_count": 6,
     "state_name": "NY",
     "county": "New York",
     "full_links": [
-      "https://www1.nyc.gov/assets/doh/downloads/pdf/imm/covid-19-daily-data-summary-deaths.pdf"
+      "https://www1.nyc.gov/assets/doh/downloads/pdf/imm/covid-19-daily-data-summary.pdf"
     ],
     "confirmed_date": "3/29",
-    "comments_en": "By 3/29 12:20 PM EST, NYC reported 678 deaths in total."
+    "comments_en": "By 3/29 12:20 PM EST, NYC reported 776 deaths in total.",
+    "die_count": 104
   },
   {
-    "die_count": 115,
+    "die_count": 17,
     "state_name": "NY",
     "county": "Unassigned",
     "full_links": [
@@ -16214,36 +16233,42 @@
     "full_links": [
       "https://www.health.state.mn.us/diseases/coronavirus/situation.html"
     ],
+    "confirmed_date": "3/29",
     "state_name": "MN",
-    "county": "Unassigned",
-    "confirmed_date": "3/29"
+    "county": "Hennepin",
+    "comments_en": "Four new deaths related to COVID-19 were reported in Minnesota on Sunday, including three new fatal cases among residents of long-term care facilities in Hennepin County.",
+    "gender": "Unknown"
   },
   {
     "die_count": 1,
-    "state_name": "MN",
-    "county": "Unassigned",
     "full_links": [
       "https://www.health.state.mn.us/diseases/coronavirus/situation.html"
     ],
-    "confirmed_date": "3/29"
+    "confirmed_date": "3/29",
+    "state_name": "MN",
+    "county": "Hennepin",
+    "comments_en": "Four new deaths related to COVID-19 were reported in Minnesota on Sunday, including three new fatal cases among residents of long-term care facilities in Hennepin County.",
+    "gender": "Unknown"
   },
   {
     "die_count": 1,
-    "state_name": "MN",
-    "county": "Unassigned",
     "full_links": [
       "https://www.health.state.mn.us/diseases/coronavirus/situation.html"
     ],
-    "confirmed_date": "3/29"
+    "confirmed_date": "3/29",
+    "state_name": "MN",
+    "county": "Hennepin",
+    "comments_en": "Four new deaths related to COVID-19 were reported in Minnesota on Sunday, including three new fatal cases among residents of long-term care facilities in Hennepin County.",
+    "gender": "Unknown"
   },
   {
     "die_count": 1,
-    "state_name": "MN",
-    "county": "Unassigned",
     "full_links": [
       "https://www.health.state.mn.us/diseases/coronavirus/situation.html"
     ],
-    "confirmed_date": "3/29"
+    "confirmed_date": "3/29",
+    "state_name": "MN",
+    "county": "Martin"
   },
   {
     "die_count": 1,
@@ -16741,5 +16766,68 @@
     "confirmed_date": "3/29",
     "state_name": "IL",
     "county": "La Salle"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.necn.com/news/coronavirus/new-hampshire-coronavirus-death-brings-total-to-3/2252776/"
+    ],
+    "confirmed_date": "3/29",
+    "state_name": "NH",
+    "county": "Rockingham",
+    "comments_en": "A third New Hampshire resident has died due to the outbreak of COVID-19.The victim was a Rockingham County woman described as over 60 years old with underlying health issues.",
+    "gender": "女",
+    "age_range": "60+",
+    "comments": "3/29，Rockingham County新增1例死亡，累计3例。该新增为60多岁女性，有基础病。"
+  },
+  {
+    "confirmed_date": "3/29",
+    "comments": "3/28 加州Los Anegeles新增6例死亡，具体信息待更新。",
+    "comments_en": "3/29 5 new deaths in Los Angels.",
+    "die_count": 5,
+    "state_name": "CA",
+    "county": "Los Angeles",
+    "full_links": [
+      "https://content.govdelivery.com/bulletins/gd/CALACOUNTY-283beb8?from=groupmessage&isappinstalled=0"
+    ]
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-03-29-1002.pdf"
+    ],
+    "confirmed_date": "3/29",
+    "comments_en": "55 St. Lucie 59 Male Unknown No FL resident 03/27/20",
+    "gender": "男",
+    "age_range": "50+",
+    "state_name": "FL",
+    "county": "St. Lucie"
+  },
+  {
+    "die_count": 1,
+    "state_name": "FL",
+    "county": "Palm Beach",
+    "full_links": [
+      "https://fdoh.maps.arcgis.com/apps/opsdashboard/index.html#/8d0de33f260d444c852a615dc7837c86"
+    ],
+    "confirmed_date": "3/29"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://fdoh.maps.arcgis.com/apps/opsdashboard/index.html#/8d0de33f260d444c852a615dc7837c86"
+    ],
+    "confirmed_date": "3/29",
+    "state_name": "FL",
+    "county": "Collier"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://fdoh.maps.arcgis.com/apps/opsdashboard/index.html#/8d0de33f260d444c852a615dc7837c86"
+    ],
+    "confirmed_date": "3/29",
+    "state_name": "FL",
+    "county": "Unassigned"
   }
 ]
