@@ -2814,7 +2814,7 @@
     "gender": "男",
     "comments": "佛州3/20新增1例死亡，累计死亡10例。其中1例系46岁男性，坐标Pinellas County。(之前政府报道误报为Pasco County, 现已修改）",
     "comments_en": "There are one more death in FL, and 10 total in the state by 3/20. A 46-year-old male in Pinellas County (which was mistakenly reported by the state to be in Pasco County before). \n",
-    "die_count": 0,
+    "die_count": 1,
     "age_range": "40+",
     "state_name": "FL",
     "county": "Pinellas",
@@ -7726,8 +7726,11 @@
     "state_name": "FL",
     "county": "Sarasota",
     "full_links": [
-      "https://www.yourobserver.com/article/covid-19-cornavirus-patient-dies-sarasota-memorial-hospital-terrence-mcnally"
-    ]
+      "https://www.yourobserver.com/article/covid-19-cornavirus-patient-dies-sarasota-memorial-hospital-terrence-mcnally",
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-03-29-1002.pdf"
+    ],
+    "gender": "男",
+    "age_range": "80+"
   },
   {
     "confirmed_date": "3/24",
@@ -9483,11 +9486,13 @@
   {
     "confirmed_date": "3/25",
     "die_count": 1,
-    "state_name": "NJ",
-    "county": "Unassigned",
     "full_links": [
-      "https://www.nj.gov/health/"
-    ]
+      "https://www.nj.gov/health/",
+      "https://www.thedailyjournal.com/story/news/local/2020/03/25/cumberland-county-reports-first-covid-19-death/5078494002/"
+    ],
+    "state_name": "NJ",
+    "county": "Cumberland",
+    "comments_en": "Cumberland County officials on Wednesday morning announced a Bridgeton resident who was hospitalized for COVID-19 outside of the county has died. The county released no additional details regarding the person's sex or age. "
   },
   {
     "confirmed_date": "3/25",
@@ -11608,12 +11613,12 @@
   {
     "confirmed_date": "3/27",
     "comments_en": "By 3/27 noon, New York reoorted 519 total deaths, placeholder.",
-    "die_count": 20,
     "state_name": "NY",
     "county": "Unassigned",
     "full_links": [
       "https://www.nytimes.com/2020/03/27/nyregion/coronavirus-new-york-update.html"
-    ]
+    ],
+    "die_count": 19
   },
   {
     "confirmed_date": "3/27",
@@ -11647,8 +11652,11 @@
     "state_name": "FL",
     "county": "Highlands",
     "full_links": [
-      "https://experience.arcgis.com/experience/96dd742462124fa0b38ddedb9b25e429"
-    ]
+      "https://experience.arcgis.com/experience/96dd742462124fa0b38ddedb9b25e429",
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-03-29-1002.pdf"
+    ],
+    "gender": "女",
+    "age_range": "70+"
   },
   {
     "confirmed_date": "3/27",
@@ -11669,8 +11677,11 @@
     "state_name": "FL",
     "county": "Sarasota",
     "full_links": [
-      "https://experience.arcgis.com/experience/96dd742462124fa0b38ddedb9b25e429"
-    ]
+      "https://experience.arcgis.com/experience/96dd742462124fa0b38ddedb9b25e429",
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-03-29-1002.pdf"
+    ],
+    "gender": "男",
+    "age_range": "80+"
   },
   {
     "confirmed_date": "3/27",
@@ -13976,13 +13987,14 @@
   {
     "die_count": 1,
     "full_links": [
-      "https://cbs6albany.com/news/coronavirus/albany-county-reports-coronavirus-death"
+      "https://cbs6albany.com/news/coronavirus/albany-county-reports-coronavirus-death",
+      "https://www.albanycounty.com/departments/health/2019-novel-coronavirus"
     ],
     "confirmed_date": "3/27",
     "state_name": "NY",
     "county": "Albany",
-    "comments_en": "ALBANY (WRGB) Albany County Executive Dan McCoy reports that a senior county resident diagnosed with COVID-19 has died.",
-    "age_range": "Unknown",
+    "comments_en": "Yesterday, County Executive McCoy announced that a man in his 70s with multiple underlying medical issues had died after a short period of time at St. Peter’s Hospital.",
+    "age_range": "70+",
     "gender": "男"
   },
   {
@@ -13996,6 +14008,29 @@
     "county": "Camden",
     "gender": "男",
     "age_range": "60+"
+  },
+  {
+    "die_count": 1,
+    "state_name": "FL",
+    "county": "Palm Beach",
+    "full_links": [
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-03-29-1002.pdf"
+    ],
+    "confirmed_date": "3/27",
+    "gender": "女",
+    "age_range": "80+"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.saratogacountyny.gov/wp/wp-content/uploads/2020/03/UPDATE-3.29.pdf"
+    ],
+    "confirmed_date": "3/27",
+    "state_name": "NY",
+    "county": "Saratoga",
+    "comments_en": "On Friday, March 27th, a 95-year-old woman who had tested positive for COVID19 passed away at Glens Falls Hospital.",
+    "age_range": "90+",
+    "gender": "女"
   },
   {
     "confirmed_date": "3/28",
@@ -14135,12 +14170,12 @@
     "comments_en": "Victim 2\nAge: Unknown\nGender: Male\nUnderlying Condition: Unknown",
     "die_count": 1,
     "age_range": "Unknown",
-    "state_name": "GA",
-    "county": "Unassigned",
     "full_links": [
       "https://dph.georgia.gov/covid-19-daily-status-report",
       "https://www.11alive.com/article/news/health/coronavirus/coronavirus-deaths-in-georgia/85-e9bb2324-2e27-43ca-a347-ced78cbb186b"
-    ]
+    ],
+    "state_name": "GA",
+    "county": "Unassigned"
   },
   {
     "confirmed_date": "3/28",
@@ -15920,24 +15955,25 @@
     "age_range": "60+"
   },
   {
-    "confirmed_date": "3/28",
     "die_count": 1,
     "full_links": [
-      "https://www.jsonline.com/story/news/local/wisconsin/2020/03/27/coronavirus-wisconsin-latest-updates-cases-cancellations/2924044001/"
+      "https://www.cbs42.com/news/national/baldwin-county-man-dies-after-testing-positive-for-covid-19/"
     ],
-    "state_name": "WI",
-    "county": "Milwaukee",
-    "comments_en": "Milwaukee County reported a new death on Sunday, bringing the total number of confirmed deaths due to coronavirus in the state of Wisconsin to 18."
+    "confirmed_date": "3/28",
+    "state_name": "AL",
+    "county": "Baldwin",
+    "age_range": "70+",
+    "gender": "男",
+    "comments_en": "73 year old; had been on a ventilator after testing positive ; undergoing immunotherapy treatments after beating lung cancer twice"
   },
   {
-    "confirmed_date": "3/29",
-    "comments_en": "waiting for FL detail reports.",
-    "die_count": 2,
-    "state_name": "FL",
-    "county": "Unassigned",
+    "die_count": 1,
+    "state_name": "ID",
+    "county": "Ada",
     "full_links": [
-      "https://floridahealthcovid19.gov"
-    ]
+      "https://www.cdhd.idaho.gov/dac-coronavirus.php"
+    ],
+    "confirmed_date": "3/28"
   },
   {
     "confirmed_date": "3/29",
@@ -15973,17 +16009,17 @@
     "comments_en": "Buncombe County Health and Human Services (BCHHS) is reporting the first COVID-19 associated death in a Buncombe County resident."
   },
   {
-    "die_count": 6,
     "state_name": "NY",
     "county": "New York",
     "full_links": [
-      "https://www1.nyc.gov/assets/doh/downloads/pdf/imm/covid-19-daily-data-summary-deaths.pdf"
+      "https://www1.nyc.gov/assets/doh/downloads/pdf/imm/covid-19-daily-data-summary.pdf"
     ],
     "confirmed_date": "3/29",
-    "comments_en": "By 3/29 12:20 PM EST, NYC reported 678 deaths in total."
+    "comments_en": "By 3/29 12:20 PM EST, NYC reported 776 deaths in total.",
+    "die_count": 104
   },
   {
-    "die_count": 115,
+    "die_count": 17,
     "state_name": "NY",
     "county": "Unassigned",
     "full_links": [
@@ -16212,36 +16248,49 @@
     "full_links": [
       "https://www.health.state.mn.us/diseases/coronavirus/situation.html"
     ],
+    "confirmed_date": "3/29",
     "state_name": "MN",
-    "county": "Unassigned",
-    "confirmed_date": "3/29"
+    "county": "Hennepin",
+    "comments_en": "Four new deaths related to COVID-19 were reported in Minnesota on Sunday, including three new fatal cases among residents of long-term care facilities in Hennepin County.",
+    "gender": "Unknown",
+    "age_range": "80+"
   },
   {
     "die_count": 1,
-    "state_name": "MN",
-    "county": "Unassigned",
     "full_links": [
       "https://www.health.state.mn.us/diseases/coronavirus/situation.html"
     ],
-    "confirmed_date": "3/29"
+    "confirmed_date": "3/29",
+    "state_name": "MN",
+    "county": "Hennepin",
+    "comments_en": "Four new deaths related to COVID-19 were reported in Minnesota on Sunday, including three new fatal cases among residents of long-term care facilities in Hennepin County.",
+    "gender": "Unknown",
+    "age_range": "80+"
   },
   {
     "die_count": 1,
-    "state_name": "MN",
-    "county": "Unassigned",
     "full_links": [
-      "https://www.health.state.mn.us/diseases/coronavirus/situation.html"
+      "https://www.health.state.mn.us/diseases/coronavirus/situation.html",
+      "https://www.startribune.com/4-more-coronavirus-deaths-in-minnesota-health-officials-say/569202192/"
     ],
-    "confirmed_date": "3/29"
+    "confirmed_date": "3/29",
+    "state_name": "MN",
+    "county": "Hennepin",
+    "comments_en": "Four new deaths related to COVID-19 were reported in Minnesota on Sunday, including three new fatal cases among residents of long-term care facilities in Hennepin County.",
+    "gender": "Unknown",
+    "age_range": "90+"
   },
   {
     "die_count": 1,
-    "state_name": "MN",
-    "county": "Unassigned",
     "full_links": [
       "https://www.health.state.mn.us/diseases/coronavirus/situation.html"
     ],
-    "confirmed_date": "3/29"
+    "confirmed_date": "3/29",
+    "state_name": "MN",
+    "county": "Martin",
+    "comments_en": "The fourth death reported Sunday happened in Martin County in southern Minnesota, and did not involve a long-term care facility, Minnesota Health Department Commissioner Jan Malcolm said in a media briefing Sunday.",
+    "age_range": "50+",
+    "gender": "Unknown"
   },
   {
     "die_count": 1,
@@ -16609,18 +16658,6 @@
   {
     "die_count": 1,
     "full_links": [
-      "https://www.cbs42.com/news/national/baldwin-county-man-dies-after-testing-positive-for-covid-19/"
-    ],
-    "confirmed_date": "3/29",
-    "state_name": "AL",
-    "county": "Baldwin",
-    "age_range": "70+",
-    "gender": "男",
-    "comments_en": "73 year old; had been on a ventilator after testing positive ; undergoing immunotherapy treatments after beating lung cancer twice"
-  },
-  {
-    "die_count": 1,
-    "full_links": [
       "https://www.washoecounty.us/outreach/2020/03/2020-03-29-ji-0329-update.php"
     ],
     "confirmed_date": "3/29",
@@ -16629,5 +16666,324 @@
     "comments_en": "The case was a male in his 40s and is under investigation. It is not known if the case had underlying health conditions.",
     "gender": "男",
     "age_range": "40+"
+  },
+  {
+    "confirmed_date": "3/29",
+    "die_count": 1,
+    "full_links": [
+      "https://www.jsonline.com/story/news/local/wisconsin/2020/03/27/coronavirus-wisconsin-latest-updates-cases-cancellations/2924044001/"
+    ],
+    "state_name": "WI",
+    "county": "Milwaukee",
+    "comments_en": "Milwaukee County reported a new death on Sunday, bringing the total number of confirmed deaths due to coronavirus in the state of Wisconsin to 18."
+  },
+  {
+    "die_count": 1,
+    "state_name": "AR",
+    "county": "Unassigned",
+    "full_links": [
+      "https://adem.maps.arcgis.com/apps/opsdashboard/index.html#/f533ac8a8b6040e5896b05b47b17a647"
+    ],
+    "confirmed_date": "3/29"
+  },
+  {
+    "die_count": 1,
+    "state_name": "KS",
+    "county": "Johnson",
+    "full_links": [
+      "https://www.kshb.com/news/coronavirus/covid-19-case-tracker-where-we-stand-in-mo-ks-nationwide"
+    ],
+    "confirmed_date": "3/29"
+  },
+  {
+    "full_links": [
+      "https://www.arlnow.com/2020/03/29/breaking-arlington-county-announces-first-coronavirus-deaths/"
+    ],
+    "die_count": 1,
+    "confirmed_date": "3/29",
+    "state_name": "VA",
+    "county": "Arlington",
+    "comments_en": "Arlington County announced the deaths Sunday afternoon. The victims were older and had “chronic medical conditions,” the county said. “The first patient was a 72-year-old with chronic medical conditions, who had been ill with COVID-19 for a few weeks,” the county said in a press release. ",
+    "age_range": "70+"
+  },
+  {
+    "full_links": [
+      "https://www.arlnow.com/2020/03/29/breaking-arlington-county-announces-first-coronavirus-deaths/"
+    ],
+    "die_count": 1,
+    "confirmed_date": "3/29",
+    "state_name": "VA",
+    "county": "Arlington",
+    "comments_en": "“The second was a 60-year-old with chronic medical conditions, identified with COVID-19 this past week. The close contacts of both patients have been identified.”",
+    "age_range": "60+"
+  },
+  {
+    "die_count": 1,
+    "state_name": "CO",
+    "county": "El Paso",
+    "full_links": [
+      "https://covid19.colorado.gov/case-data"
+    ],
+    "confirmed_date": "3/29"
+  },
+  {
+    "die_count": 2,
+    "state_name": "CO",
+    "county": "Weld",
+    "full_links": [
+      "https://covid19.colorado.gov/case-data"
+    ],
+    "confirmed_date": "3/29"
+  },
+  {
+    "die_count": 3,
+    "state_name": "WA",
+    "county": "Whatcom",
+    "full_links": [
+      "https://www.whatcomcounty.us/3329/Novel-Coronavirus-COVID-19#case"
+    ],
+    "confirmed_date": "3/29"
+  },
+  {
+    "die_count": 2,
+    "full_links": [
+      "http://www.dph.illinois.gov/topics-services/diseases-and-conditions/diseases-a-z-list/coronavirus"
+    ],
+    "confirmed_date": "3/29",
+    "state_name": "IL",
+    "county": "Kane"
+  },
+  {
+    "die_count": 12,
+    "full_links": [
+      "http://www.dph.illinois.gov/topics-services/diseases-and-conditions/diseases-a-z-list/coronavirus"
+    ],
+    "confirmed_date": "3/29",
+    "state_name": "IL",
+    "county": "Cook"
+  },
+  {
+    "full_links": [
+      "http://www.dph.illinois.gov/topics-services/diseases-and-conditions/diseases-a-z-list/coronavirus"
+    ],
+    "confirmed_date": "3/29",
+    "state_name": "IL",
+    "county": "DuPage",
+    "die_count": 1
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "http://www.dph.illinois.gov/topics-services/diseases-and-conditions/diseases-a-z-list/coronavirus"
+    ],
+    "confirmed_date": "3/29",
+    "state_name": "IL",
+    "county": "Kendall"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "http://www.dph.illinois.gov/topics-services/diseases-and-conditions/diseases-a-z-list/coronavirus"
+    ],
+    "confirmed_date": "3/29",
+    "state_name": "IL",
+    "county": "La Salle"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.necn.com/news/coronavirus/new-hampshire-coronavirus-death-brings-total-to-3/2252776/"
+    ],
+    "confirmed_date": "3/29",
+    "state_name": "NH",
+    "county": "Rockingham",
+    "comments_en": "A third New Hampshire resident has died due to the outbreak of COVID-19.The victim was a Rockingham County woman described as over 60 years old with underlying health issues.",
+    "gender": "女",
+    "age_range": "60+",
+    "comments": "3/29，Rockingham County新增1例死亡，累计3例。该新增为60多岁女性，有基础病。"
+  },
+  {
+    "confirmed_date": "3/29",
+    "comments": "3/28 加州Los Anegeles新增6例死亡，具体信息待更新。",
+    "comments_en": "3/29 5 new deaths in Los Angels.",
+    "die_count": 5,
+    "state_name": "CA",
+    "county": "Los Angeles",
+    "full_links": [
+      "https://content.govdelivery.com/bulletins/gd/CALACOUNTY-283beb8?from=groupmessage&isappinstalled=0"
+    ]
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-03-29-1002.pdf"
+    ],
+    "confirmed_date": "3/29",
+    "comments_en": "55 St. Lucie 59 Male Unknown No FL resident 03/27/20",
+    "gender": "男",
+    "age_range": "50+",
+    "state_name": "FL",
+    "county": "St. Lucie"
+  },
+  {
+    "die_count": 1,
+    "state_name": "FL",
+    "county": "Palm Beach",
+    "full_links": [
+      "https://fdoh.maps.arcgis.com/apps/opsdashboard/index.html#/8d0de33f260d444c852a615dc7837c86"
+    ],
+    "confirmed_date": "3/29"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://fdoh.maps.arcgis.com/apps/opsdashboard/index.html#/8d0de33f260d444c852a615dc7837c86"
+    ],
+    "confirmed_date": "3/29",
+    "state_name": "FL",
+    "county": "Collier"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://fdoh.maps.arcgis.com/apps/opsdashboard/index.html#/8d0de33f260d444c852a615dc7837c86"
+    ],
+    "confirmed_date": "3/29",
+    "state_name": "FL",
+    "county": "Unassigned"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.usnews.com/news/best-states/west-virginia/articles/2020-03-29/west-virginia-reports-first-coronavirus-death"
+    ],
+    "confirmed_date": "3/29",
+    "state_name": "WV",
+    "county": "Marion",
+    "comments_en": "West Virginia has reported the state’s first death linked to the new coronavirus pandemic, health officials said. The fatality involved an 88-year-old woman from Marion County.",
+    "comments": "3/29 Marion County新增1例死亡。该例为88岁女性。",
+    "gender": "女",
+    "age_range": "80+"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "-bringing-Maryland-deaths-to-15.aspx",
+      "https://health.maryland.gov/newsroom/Pages/Maryland-Department-of-Health-announces-5-more-deaths-due-to-COVID-19"
+    ],
+    "confirmed_date": "3/29",
+    "state_name": "MD",
+    "county": "Carroll",
+    "gender": "男",
+    "age_range": "90+",
+    "comments_en": "a Carroll County man in his 90s with underlying medical conditions"
+  },
+  {
+    "confirmed_date": "3/29",
+    "die_count": 2,
+    "state_name": "PR",
+    "county": "Puerto Rico",
+    "full_links": [
+      "http://www.salud.gov.pr/Pages/coronavirus.aspx"
+    ]
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "-bringing-Maryland-deaths-to-15.aspx",
+      "https://health.maryland.gov/newsroom/Pages/Maryland-Department-of-Health-announces-5-more-deaths-due-to-COVID-19"
+    ],
+    "confirmed_date": "3/29",
+    "state_name": "MD",
+    "county": "Howard",
+    "gender": "男",
+    "comments_en": "a Howard County man in his 70s with underlying medical conditions",
+    "age_range": "70+"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "-bringing-Maryland-deaths-to-15.aspx",
+      "https://health.maryland.gov/newsroom/Pages/Maryland-Department-of-Health-announces-5-more-deaths-due-to-COVID-19"
+    ],
+    "confirmed_date": "3/29",
+    "state_name": "MD",
+    "county": "Prince George's",
+    "gender": "男",
+    "comments_en": "a Prince George’s County man in his 30s with underlying medical conditions",
+    "age_range": "30+"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "-bringing-Maryland-deaths-to-15.aspx",
+      "https://health.maryland.gov/newsroom/Pages/Maryland-Department-of-Health-announces-5-more-deaths-due-to-COVID-19"
+    ],
+    "confirmed_date": "3/29",
+    "state_name": "MD",
+    "county": "Prince George's",
+    "gender": "女",
+    "comments_en": "a Prince George’s County woman is her 50s with underlying medical conditions",
+    "age_range": "50+"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "-bringing-Maryland-deaths-to-15.aspx",
+      "https://health.maryland.gov/newsroom/Pages/Maryland-Department-of-Health-announces-5-more-deaths-due-to-COVID-19"
+    ],
+    "confirmed_date": "3/29",
+    "state_name": "MD",
+    "county": "Prince George's",
+    "gender": "男",
+    "comments_en": "a Prince George’s County man is his 70s with underlying medical conditions",
+    "age_range": "70+"
+  },
+  {
+    "confirmed_date": "3/29",
+    "die_count": 1,
+    "state_name": "CA",
+    "county": "San Francisco",
+    "full_links": [
+      "https://www.sfdph.org/dph/alerts/coronavirus.asp"
+    ]
+  },
+  {
+    "confirmed_date": "3/29",
+    "gender": "男",
+    "die_count": 2,
+    "age_range": "60+",
+    "state_name": "PA",
+    "county": "Bucks",
+    "full_links": [
+      "https://covid19-bucksgis.hub.arcgis.com"
+    ]
+  },
+  {
+    "die_count": 1,
+    "state_name": "GA",
+    "county": "Henry",
+    "full_links": [
+      "https://dph.georgia.gov/covid-19-daily-status-report"
+    ],
+    "confirmed_date": "3/29"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://dph.georgia.gov/covid-19-daily-status-report"
+    ],
+    "confirmed_date": "3/29",
+    "state_name": "GA",
+    "county": "Peach"
+  },
+  {
+    "die_count": 2,
+    "state_name": "GA",
+    "county": "Whitfield",
+    "full_links": [
+      "https://dph.georgia.gov/covid-19-daily-status-report"
+    ],
+    "confirmed_date": "3/29"
   }
 ]
