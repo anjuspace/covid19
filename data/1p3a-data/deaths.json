@@ -15980,13 +15980,13 @@
     "confirmed_date": "3/29",
     "comments_en": "There are now 890 confirmed COVID-19 cases in Virginia with 122 patients hospitalized and at least 22 people dead.",
     "die_count": 5,
-    "state_name": "VA",
-    "county": "Unassigned",
     "full_links": [
       "https://www.washingtonpost.com/graphics/local/dc-maryland-virginia-coronavirus-cases/",
       "http://www.vdh.virginia.gov/coronavirus/",
       "https://www.nbc12.com/2020/03/29/almost-covid-cases-virginia-with-deaths/"
-    ]
+    ],
+    "state_name": "VA",
+    "county": "Unknown"
   },
   {
     "confirmed_date": "3/29",
@@ -17097,7 +17097,9 @@
     "county": "Monroe",
     "full_links": [
       "https://www2.monroecounty.gov/files/health/coronavirus/2020.03.39%20PM%20COVID%20.pdf"
-    ]
+    ],
+    "comments_en": "A sixth COVID-19 related death occurred today in Monroe County. ",
+    "age_range": "Unknown"
   },
   {
     "confirmed_date": "3/29",
@@ -17179,7 +17181,7 @@
   {
     "die_count": 1,
     "full_links": [
-      "https://www.facebook.com/HarrisCountyPublicHealth/photos/a.354966457899185/2919224728139999/?type=3&theater"
+      "http://publichealth.harriscountytx.gov/Portals/27/Documents/Resources/2019%20nCoV/HCPH-Second-Confirmed-Death%203_29.pdf?ver=2020-03-29-172019-823"
     ],
     "confirmed_date": "3/29",
     "state_name": "TX",
@@ -17197,5 +17199,14 @@
     ],
     "confirmed_date": "3/30",
     "comments_en": "Sixth death in PR by 3/30 morning."
+  },
+  {
+    "die_count": 1,
+    "state_name": "VA",
+    "county": "Unknown",
+    "full_links": [
+      "http://www.vdh.virginia.gov/coronavirus/"
+    ],
+    "confirmed_date": "3/30"
   }
 ]
