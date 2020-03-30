@@ -64549,7 +64549,7 @@
   },
   {
     "confirmed_date": "3/29",
-    "people_count": 0,
+    "people_count": 933,
     "state_name": "NY",
     "county": "Unassigned"
   },
@@ -69388,5 +69388,11 @@
     "people_count": 6,
     "state_name": "CA",
     "county": "Tulare"
+  },
+  {
+    "people_count": 47,
+    "state_name": "PR",
+    "county": "Puerto Rico",
+    "confirmed_date": "3/30"
   }
 ]

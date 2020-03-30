@@ -16022,11 +16022,12 @@
   {
     "confirmed_date": "3/29",
     "comments_en": "By 3/29 noon, New York reported 965 total deaths, placeholder.",
-    "die_count": 17,
+    "die_count": 77,
     "state_name": "NY",
     "county": "Unassigned",
     "full_links": [
-      "https://www.cbsnews.com/live-updates/coronavirus-disease-covid-19-latest-news-2020-03-29/"
+      "https://www.cbsnews.com/live-updates/coronavirus-disease-covid-19-latest-news-2020-03-29/",
+      "https://katu.com/news/nation-world/new-york-state-surpasses-1000-coronavirus-deaths"
     ]
   },
   {
@@ -16882,12 +16883,15 @@
   },
   {
     "confirmed_date": "3/29",
-    "die_count": 2,
+    "die_count": 1,
     "state_name": "PR",
     "county": "Puerto Rico",
     "full_links": [
       "http://www.salud.gov.pr/Pages/coronavirus.aspx"
-    ]
+    ],
+    "age_range": "60+",
+    "gender": "男",
+    "comments_en": "This death joins that of two men, 68 and 42, respectively."
   },
   {
     "confirmed_date": "3/29",
@@ -17149,5 +17153,27 @@
     "full_links": [
       "http://www.acphd.org/2019-ncov.aspx"
     ]
+  },
+  {
+    "confirmed_date": "3/29",
+    "die_count": 1,
+    "state_name": "PR",
+    "county": "Puerto Rico",
+    "full_links": [
+      "http://www.salud.gov.pr/Pages/coronavirus.aspx"
+    ],
+    "age_range": "40+",
+    "gender": "男",
+    "comments_en": "This death joins that of two men, 68 and 42, respectively."
+  },
+  {
+    "die_count": 1,
+    "state_name": "PR",
+    "county": "Puerto Rico",
+    "full_links": [
+      "https://www.elnuevodia.com/noticias/locales/nota/confirmanlasextamuerteporelcoronavirusenpuertorico-2556969/"
+    ],
+    "confirmed_date": "3/30",
+    "comments_en": "Sixth death in PR by 3/30 morning."
   }
 ]
