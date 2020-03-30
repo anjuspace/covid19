@@ -57049,6 +57049,12 @@
   },
   {
     "confirmed_date": "3/27",
+    "people_count": 0,
+    "state_name": "MS",
+    "county": "Alcorn"
+  },
+  {
+    "confirmed_date": "3/27",
     "people_count": 7,
     "state_name": "NY",
     "county": "Livingston"
@@ -63630,6 +63636,12 @@
     "county": "Crawford"
   },
   {
+    "people_count": 1,
+    "confirmed_date": "3/28",
+    "state_name": "WI",
+    "county": "Jackson"
+  },
+  {
     "confirmed_date": "3/29",
     "people_count": 2,
     "state_name": "VA",
@@ -63640,12 +63652,6 @@
     "people_count": 1,
     "state_name": "FL",
     "county": "Unassigned"
-  },
-  {
-    "confirmed_date": "3/29",
-    "people_count": 1,
-    "state_name": "MS",
-    "county": "Alcorn"
   },
   {
     "confirmed_date": "3/29",
@@ -69408,6 +69414,18 @@
     "confirmed_date": "3/29"
   },
   {
+    "people_count": 1,
+    "county": "Leon",
+    "state_name": "TX",
+    "confirmed_date": "3/29"
+  },
+  {
+    "people_count": 1,
+    "state_name": "ID",
+    "county": "Bonneville",
+    "confirmed_date": "3/29"
+  },
+  {
     "people_count": 47,
     "state_name": "PR",
     "county": "Puerto Rico",
@@ -70072,11 +70090,5 @@
     "state_name": "NC",
     "county": "Halifax",
     "confirmed_date": "3/30"
-  },
-  {
-    "people_count": 1,
-    "confirmed_date": "3/28",
-    "state_name": "WI",
-    "county": "Jackson"
   }
 ]

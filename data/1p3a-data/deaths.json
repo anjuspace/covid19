@@ -9548,11 +9548,12 @@
   {
     "confirmed_date": "3/25",
     "die_count": 1,
-    "state_name": "NJ",
-    "county": "Unassigned",
     "full_links": [
-      "https://www.nj.gov/health/"
-    ]
+      "https://www.nj.gov/health/",
+      "https://hudsoncountyview.com/1st-covid-19-death-at-christ-hospital-confirmed-2-under-investigation-fulop-says/"
+    ],
+    "state_name": "NJ",
+    "county": "Hudson"
   },
   {
     "confirmed_date": "3/25",
@@ -17208,5 +17209,29 @@
       "http://www.vdh.virginia.gov/coronavirus/"
     ],
     "confirmed_date": "3/30"
+  },
+  {
+    "die_count": 2,
+    "full_links": [
+      "https://www.in.gov/isdh/28470.htm?utm_source=agency-website&utm_medium=&utm_campaign=&utm_term=&utm_content="
+    ],
+    "confirmed_date": "3/30",
+    "state_name": "IN",
+    "county": "Marion",
+    "age_range": "Unknown",
+    "gender": "Unknown",
+    "comments_en": "IN DoH reported 2 more deaths in Marion. Total to 12 deaths by 10:24 a.m. ET March 30, 2020"
+  },
+  {
+    "die_count": 2,
+    "full_links": [
+      "https://www.in.gov/isdh/28470.htm?utm_source=agency-website&utm_medium=&utm_campaign=&utm_term=&utm_content="
+    ],
+    "confirmed_date": "3/30",
+    "state_name": "IN",
+    "county": "Franklin",
+    "age_range": "Unknown",
+    "gender": "Unknown",
+    "comments_en": "IN DoH reported 2 more deaths in Franklin. Total to 4 deaths by 10:24 a.m. ET March 30, 2020"
   }
 ]
