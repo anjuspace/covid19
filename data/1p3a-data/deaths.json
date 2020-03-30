@@ -17194,17 +17194,23 @@
     "state_name": "WA",
     "county": "Spokane",
     "full_links": [
-      "https://srhd.org/covid19"
-    ]
+      "https://www.khq.com/coronavirus/third-fourth-covid--related-deaths-reported-in-spokane-county/video_e6aa9672-72c0-11ea-a8bf-f3c1a3d381ec.html"
+    ],
+    "gender": "男",
+    "age_range": "80+",
+    "comments_en": "SRHD says the two deaths were reported Sunday, March 29, including a man in his 80's and a woman in her 60's, both residents of Spokane County."
   },
   {
     "confirmed_date": "3/29",
+    "comments_en": "SRHD says the two deaths were reported Sunday, March 29, including a man in his 80's and a woman in her 60's, both residents of Spokane County.",
     "die_count": 1,
     "state_name": "WA",
     "county": "Spokane",
     "full_links": [
-      "https://srhd.org/covid19"
-    ]
+      "https://www.khq.com/coronavirus/third-fourth-covid--related-deaths-reported-in-spokane-county/video_e6aa9672-72c0-11ea-a8bf-f3c1a3d381ec.html"
+    ],
+    "gender": "女",
+    "age_range": "60+"
   },
   {
     "confirmed_date": "3/29",
@@ -17660,7 +17666,7 @@
     "confirmed_date": "3/30"
   },
   {
-    "die_count": 0,
+    "die_count": 1,
     "state_name": "RI",
     "county": "Unassigned",
     "full_links": [
@@ -18075,5 +18081,125 @@
     "comments_en": "The deceased resident was a woman in her 70s with underlying health conditions. She was a previously-reported COVID-19 case and died on March 29 in an area hospital. ",
     "gender": "女",
     "age_range": "70+"
+  },
+  {
+    "die_count": 1,
+    "state_name": "TX",
+    "county": "Travis",
+    "full_links": [
+      "http://www.austintexas.gov/COVID19"
+    ],
+    "confirmed_date": "3/30"
+  },
+  {
+    "die_count": 1,
+    "state_name": "OH",
+    "county": "Lucas",
+    "full_links": [
+      "https://www.lucascountyhealth.com/coronavirusupdates/"
+    ],
+    "confirmed_date": "3/30",
+    "comments": "3/30下午俄亥俄州公布Lucas累计3例死亡，暂无更多信息。"
+  },
+  {
+    "die_count": 1,
+    "state_name": "OR",
+    "county": "Clackamas",
+    "full_links": [
+      "https://govstatus.egov.com/OR-OHA-COVID-19"
+    ],
+    "confirmed_date": "3/30"
+  },
+  {
+    "die_count": 1,
+    "state_name": "OR",
+    "county": "Yamhill",
+    "full_links": [
+      "https://govstatus.egov.com/OR-OHA-COVID-19"
+    ],
+    "confirmed_date": "3/30"
+  },
+  {
+    "die_count": 1,
+    "state_name": "OR",
+    "county": "Linn",
+    "full_links": [
+      "https://govstatus.egov.com/OR-OHA-COVID-19"
+    ],
+    "confirmed_date": "3/30"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.scdhec.gov/news-releases/south-carolina-announces-two-additional-deaths-related-covid-19-151-new-cases"
+    ],
+    "state_name": "SC",
+    "county": "Beaufort",
+    "confirmed_date": "3/30",
+    "comments": "3/30 Beaufort County新增一例死亡，有基础病。",
+    "comments_en": "The patient was an elderly individual from Beaufort County who had underlying health conditions."
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.scdhec.gov/news-releases/south-carolina-announces-two-additional-deaths-related-covid-19-151-new-cases"
+    ],
+    "state_name": "SC",
+    "county": "Anderson",
+    "confirmed_date": "3/30",
+    "comments": "3/30 Anderson County新增一例死亡，有基础病。",
+    "comments_en": "The patient was an elderly individual from Anderson County with underlying health conditions."
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://govstatus.egov.com/kycovid19?t=123"
+    ],
+    "confirmed_date": "3/30",
+    "state_name": "KY",
+    "county": "Unassigned"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://govstatus.egov.com/kycovid19?t=123"
+    ],
+    "confirmed_date": "3/30",
+    "state_name": "KY",
+    "county": "Unassigned"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://portal.ct.gov/-/media/Coronavirus/CTDPHCOVID19summary3302020.pdf?la=en"
+    ],
+    "confirmed_date": "3/30",
+    "state_name": "CT",
+    "county": "Hartford",
+    "comments_en": "No further details",
+    "age_range": "Unknown",
+    "gender": "Unknown"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://portal.ct.gov/-/media/Coronavirus/CTDPHCOVID19summary3302020.pdf?la=en"
+    ],
+    "confirmed_date": "3/30",
+    "state_name": "CT",
+    "county": "Litchfield",
+    "age_range": "Unknown",
+    "gender": "Unknown",
+    "comments_en": "No further details"
+  },
+  {
+    "die_count": 7,
+    "state_name": "CA",
+    "county": "Los Angeles",
+    "full_links": [
+      "https://laist.com/latest/post/20200330/coronavirus-los-angeles-county-updates-march-30"
+    ],
+    "confirmed_date": "3/30",
+    "comments": "3/3 加州Los Anegeles新增6例死亡，具体信息待更新。"
   }
 ]
