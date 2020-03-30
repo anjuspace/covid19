@@ -29979,7 +29979,7 @@
     "confirmed_date": "3/23",
     "state_name": "KY",
     "county": "Unassigned",
-    "people_count": 4
+    "people_count": 3
   },
   {
     "confirmed_date": "3/23",
@@ -39763,9 +39763,9 @@
   },
   {
     "confirmed_date": "3/24",
-    "people_count": 2,
     "state_name": "KY",
-    "county": "Muhlenberg"
+    "county": "Muhlenberg",
+    "people_count": 5
   },
   {
     "confirmed_date": "3/24",
@@ -43459,7 +43459,7 @@
   },
   {
     "confirmed_date": "3/25",
-    "people_count": 12,
+    "people_count": 5,
     "state_name": "KY",
     "county": "Unassigned"
   },
@@ -45379,9 +45379,9 @@
   },
   {
     "confirmed_date": "3/25",
-    "people_count": 1,
     "state_name": "KY",
-    "county": "Nelson"
+    "county": "Nelson",
+    "people_count": 2
   },
   {
     "confirmed_date": "3/25",
@@ -49489,12 +49489,6 @@
   },
   {
     "confirmed_date": "3/26",
-    "people_count": 6,
-    "state_name": "KY",
-    "county": "Unassigned"
-  },
-  {
-    "confirmed_date": "3/26",
     "people_count": 20,
     "state_name": "CO",
     "county": "Weld"
@@ -51067,9 +51061,9 @@
   },
   {
     "confirmed_date": "3/26",
-    "people_count": 1,
     "state_name": "KY",
-    "county": "Calloway"
+    "county": "Calloway",
+    "people_count": 2
   },
   {
     "confirmed_date": "3/26",
@@ -51127,9 +51121,9 @@
   },
   {
     "confirmed_date": "3/26",
-    "people_count": 2,
     "state_name": "KY",
-    "county": "Madison"
+    "county": "Madison",
+    "people_count": 3
   },
   {
     "confirmed_date": "3/26",
@@ -55831,12 +55825,6 @@
   },
   {
     "confirmed_date": "3/27",
-    "state_name": "KY",
-    "county": "Unassigned",
-    "people_count": 4
-  },
-  {
-    "confirmed_date": "3/27",
     "people_count": 134,
     "state_name": "WA",
     "county": "Snohomish"
@@ -57421,7 +57409,7 @@
   },
   {
     "confirmed_date": "3/27",
-    "people_count": 3,
+    "people_count": 4,
     "state_name": "KY",
     "county": "Jessamine"
   },
@@ -57463,9 +57451,9 @@
   },
   {
     "confirmed_date": "3/27",
-    "people_count": 1,
     "state_name": "KY",
-    "county": "Simpson"
+    "county": "Simpson",
+    "people_count": 3
   },
   {
     "confirmed_date": "3/27",
@@ -57532,6 +57520,18 @@
     "state_name": "NV",
     "county": "Elko",
     "confirmed_date": "3/27"
+  },
+  {
+    "people_count": 1,
+    "confirmed_date": "3/27",
+    "state_name": "KY",
+    "county": "Hopkins"
+  },
+  {
+    "confirmed_date": "3/27",
+    "people_count": 2,
+    "state_name": "KY",
+    "county": "McCracken"
   },
   {
     "confirmed_date": "3/28",
@@ -62222,12 +62222,6 @@
   {
     "confirmed_date": "3/28",
     "people_count": 3,
-    "state_name": "KY",
-    "county": "Unassigned"
-  },
-  {
-    "confirmed_date": "3/28",
-    "people_count": 3,
     "state_name": "AR",
     "county": "Pulaski"
   },
@@ -63289,7 +63283,7 @@
   },
   {
     "confirmed_date": "3/28",
-    "people_count": 2,
+    "people_count": 3,
     "state_name": "KY",
     "county": "Scott"
   },
@@ -63307,9 +63301,9 @@
   },
   {
     "confirmed_date": "3/28",
-    "people_count": 2,
     "state_name": "KY",
-    "county": "Warren"
+    "county": "Warren",
+    "people_count": 5
   },
   {
     "confirmed_date": "3/28",
@@ -68457,7 +68451,7 @@
     "people_count": 1,
     "confirmed_date": "3/29",
     "state_name": "MO",
-    "county": "Maries"
+    "county": "Phelps Maries"
   },
   {
     "people_count": 2,
@@ -69322,5 +69316,17 @@
     "state_name": "WA",
     "county": "Unassigned",
     "confirmed_date": "3/29"
+  },
+  {
+    "confirmed_date": "3/29",
+    "state_name": "KY",
+    "county": "Hopkins",
+    "people_count": 5
+  },
+  {
+    "people_count": 1,
+    "confirmed_date": "3/29",
+    "state_name": "MI",
+    "county": "Houghton"
   }
 ]

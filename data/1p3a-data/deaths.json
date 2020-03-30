@@ -13137,7 +13137,8 @@
     "state_name": "WA",
     "county": "Benton",
     "full_links": [
-      "https://www.doh.wa.gov/Emergencies/Coronavirus"
+      "https://www.doh.wa.gov/Emergencies/Coronavirus",
+      "https://bfhd.wa.gov/cms/One.aspx?portalId=10766056&pageId=16584954"
     ]
   },
   {
@@ -16518,11 +16519,12 @@
     "comments": "Placer County第二例死亡。"
   },
   {
-    "die_count": 5,
+    "die_count": 8,
     "state_name": "WA",
     "county": "King",
     "full_links": [
-      "https://www.kingcounty.gov/depts/health/communicable-diseases/disease-control/novel-coronavirus.aspx"
+      "https://www.kingcounty.gov/depts/health/communicable-diseases/disease-control/novel-coronavirus.aspx",
+      "https://www.doh.wa.gov/Emergencies/Coronavirus"
     ],
     "confirmed_date": "3/29"
   },
@@ -17128,5 +17130,24 @@
     "state_name": "TN",
     "county": "Sumner",
     "comments_en": "these 4 cases were reported by News Channel 5; no further details. "
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.doh.wa.gov/Emergencies/Coronavirus"
+    ],
+    "state_name": "WA",
+    "county": "Klickitat",
+    "confirmed_date": "3/29"
+  },
+  {
+    "die_count": 1,
+    "state_name": "CA",
+    "county": "Alameda",
+    "full_links": [
+      "http://www.acphd.org/2019-ncov.aspx"
+    ],
+    "confirmed_date": "3/29",
+    "comments": "3/29 加州Alameda County新增1例死亡病例。"
   }
 ]
