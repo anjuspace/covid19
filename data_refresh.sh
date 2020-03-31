@@ -2,12 +2,11 @@
 echo  `date +"%Y-%m-%d %T"` "-- Start Refresh Data" >> ~/tmp/test.txt
 
 cd /home/leizhao/ui/covid19 
-
 git pull >> ~/tmp/test.txt
 
 git submodule sync --recursive >> ~/tmp/test.txt
 git submodule update --remote >> ~/tmp/test.txt
-yarn install >> ~/tmp/test.txt
+yarn postinstall >> ~/tmp/test.txt
 yarn build >> ~/tmp/test.txt
 
 git add .
