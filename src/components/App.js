@@ -315,7 +315,7 @@ class App extends Component {
                                         </React.Fragment>
                                     )}
 
-                                    { !showMap && !isMobile && !isIPad13 && (
+                                    { !showMap && !isMobile && !isIPad13 && !fullPlot && !fullTree && (
                                         <NewsPanel {...this.state} />
                                     )}
                                     
