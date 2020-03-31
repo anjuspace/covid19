@@ -17633,16 +17633,6 @@
   },
   {
     "confirmed_date": "3/30",
-    "comments_en": "MS reported 16 total deaths by 3/30.placeholder.",
-    "die_count": 2,
-    "state_name": "MS",
-    "county": "Unassigned",
-    "full_links": [
-      "https://twitter.com/msdh?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
-    ]
-  },
-  {
-    "confirmed_date": "3/30",
     "comments": "3/30 亚利桑那州 新增3例死亡病例，具体待查， 累计20例死亡病例。",
     "comments_en": "AZ adds 3 more deaths, total death cases 20.",
     "die_count": 3,
@@ -19361,5 +19351,23 @@
     "full_links": [
       "https://coronavirus.marinhhs.org/surveillance"
     ]
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://msdh.ms.gov/msdhsite/_static/14,0,420.html"
+    ],
+    "confirmed_date": "3/30",
+    "state_name": "MS",
+    "county": "Amite"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://msdh.ms.gov/msdhsite/_static/14,0,420.html"
+    ],
+    "confirmed_date": "3/30",
+    "state_name": "MS",
+    "county": "Leflore"
   }
 ]
