@@ -76168,5 +76168,29 @@
     "state_name": "CA",
     "county": "San Diego",
     "confirmed_date": "3/31"
+  },
+  {
+    "people_count": 11,
+    "state_name": "GU",
+    "county": "Guam",
+    "confirmed_date": "3/31"
+  },
+  {
+    "people_count": 2,
+    "state_name": "WA",
+    "county": "Chelan",
+    "confirmed_date": "3/31"
+  },
+  {
+    "people_count": 14,
+    "state_name": "WA",
+    "county": "Yakima",
+    "confirmed_date": "3/31"
+  },
+  {
+    "people_count": 4,
+    "state_name": "WA",
+    "county": "Whatcom",
+    "confirmed_date": "3/31"
   }
 ]

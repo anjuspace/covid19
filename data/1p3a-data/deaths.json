@@ -19031,7 +19031,9 @@
     "county": "Chatham",
     "full_links": [
       "https://dph.georgia.gov/covid-19-daily-status-report"
-    ]
+    ],
+    "gender": "Unknown",
+    "age_range": "Unknown"
   },
   {
     "confirmed_date": "3/30",
@@ -19402,5 +19404,37 @@
     "age_range": "50+",
     "gender": "女",
     "comments_en": "The agency detailed that the most recent victims of the disease are two women who had no travel history.\n\nThe first of these cases was a 53-year-old Bayamon resident who was diagnosed with the coronavirus while being confined to an unidentified hospital."
+  },
+  {
+    "die_count": 1,
+    "state_name": "GU",
+    "county": "Guam",
+    "full_links": [
+      "https://www.postguam.com/news/local/new-covid--cases-confirmed-cases/article_dca91694-7338-11ea-add1-6f23504ad28e.html"
+    ],
+    "confirmed_date": "3/31",
+    "gender": "男",
+    "age_range": "70+",
+    "comments_en": "The latest test results come after the governor announced the island's second COVID-19 related death- a 79-year-old man who had been admitted to the hospital since March 24.  "
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.kshb.com/news/coronavirus/covid-19-case-tracker-where-we-stand-in-mo-ks-nationwide"
+    ],
+    "confirmed_date": "3/31",
+    "state_name": "MO",
+    "county": "Lafayette",
+    "comments_en": "1st death in Lafayette County for 14 total deaths in Missouri."
+  },
+  {
+    "die_count": 1,
+    "state_name": "WA",
+    "county": "Chelan",
+    "full_links": [
+      "https://cdhd.wa.gov/covid-19/"
+    ],
+    "confirmed_date": "3/31",
+    "comments_en": "chelan County reported 2 deaths by 3/31."
   }
 ]
