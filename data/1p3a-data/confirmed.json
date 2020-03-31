@@ -48823,9 +48823,9 @@
   },
   {
     "confirmed_date": "3/26",
-    "people_count": 31,
     "state_name": "TN",
-    "county": "Unassigned"
+    "county": "Unassigned",
+    "people_count": 20
   },
   {
     "confirmed_date": "3/26",
@@ -54655,7 +54655,7 @@
   },
   {
     "confirmed_date": "3/27",
-    "people_count": 47,
+    "people_count": 0,
     "state_name": "TN",
     "county": "Unassigned"
   },
@@ -70794,7 +70794,7 @@
     "confirmed_date": "3/30"
   },
   {
-    "people_count": 3,
+    "people_count": 11,
     "state_name": "TX",
     "county": "Hays",
     "confirmed_date": "3/30"
@@ -70842,7 +70842,7 @@
     "confirmed_date": "3/30"
   },
   {
-    "people_count": 9,
+    "people_count": 10,
     "state_name": "TX",
     "county": "Matagorda",
     "confirmed_date": "3/30"
@@ -71286,7 +71286,7 @@
     "confirmed_date": "3/30"
   },
   {
-    "people_count": 5,
+    "people_count": 10,
     "state_name": "NC",
     "county": "Pitt",
     "confirmed_date": "3/30"
@@ -72402,7 +72402,7 @@
     "confirmed_date": "3/30"
   },
   {
-    "people_count": 1,
+    "people_count": 3,
     "confirmed_date": "3/30",
     "state_name": "NC",
     "county": "Davidson"
@@ -72420,7 +72420,7 @@
     "confirmed_date": "3/30"
   },
   {
-    "people_count": 1,
+    "people_count": 2,
     "confirmed_date": "3/30",
     "state_name": "NC",
     "county": "Wilkes"
@@ -73260,7 +73260,7 @@
     "confirmed_date": "3/30"
   },
   {
-    "people_count": 2,
+    "people_count": 3,
     "confirmed_date": "3/30",
     "state_name": "NC",
     "county": "Bertie"
@@ -73272,7 +73272,7 @@
     "county": "Weber-Morgan"
   },
   {
-    "people_count": 1,
+    "people_count": 2,
     "confirmed_date": "3/30",
     "state_name": "NC",
     "county": "Buncombe"
@@ -74112,7 +74112,7 @@
     "confirmed_date": "3/30"
   },
   {
-    "people_count": 1,
+    "people_count": 0,
     "state_name": "WY",
     "county": "Natrona",
     "confirmed_date": "3/30"
@@ -74124,7 +74124,7 @@
     "confirmed_date": "3/30"
   },
   {
-    "people_count": 2,
+    "people_count": 3,
     "state_name": "WY",
     "county": "Teton",
     "confirmed_date": "3/30"
@@ -74940,7 +74940,7 @@
     "confirmed_date": "3/30"
   },
   {
-    "people_count": 13,
+    "people_count": 26,
     "confirmed_date": "3/30",
     "state_name": "TX",
     "county": "Collin"
@@ -75580,5 +75580,131 @@
     "confirmed_date": "3/30",
     "state_name": "TN",
     "county": "Marshall"
+  },
+  {
+    "people_count": 42,
+    "state_name": "TN",
+    "county": "Out-of-state",
+    "confirmed_date": "3/30"
+  },
+  {
+    "people_count": 1,
+    "state_name": "WY",
+    "county": "Sweetwater",
+    "confirmed_date": "3/30"
+  },
+  {
+    "people_count": 1,
+    "confirmed_date": "3/30",
+    "state_name": "NC",
+    "county": "Union"
+  },
+  {
+    "people_count": 5,
+    "state_name": "CA",
+    "county": "Marin",
+    "confirmed_date": "3/30"
+  },
+  {
+    "people_count": 6,
+    "state_name": "NC",
+    "county": "Davie",
+    "confirmed_date": "3/30"
+  },
+  {
+    "people_count": 1,
+    "state_name": "NC",
+    "county": "Franklin",
+    "confirmed_date": "3/30"
+  },
+  {
+    "people_count": 2,
+    "state_name": "NC",
+    "county": "Gaston",
+    "confirmed_date": "3/30"
+  },
+  {
+    "people_count": 1,
+    "state_name": "NC",
+    "county": "Granville",
+    "confirmed_date": "3/30"
+  },
+  {
+    "people_count": 3,
+    "state_name": "NC",
+    "county": "Henderson",
+    "confirmed_date": "3/30"
+  },
+  {
+    "people_count": 1,
+    "state_name": "NC",
+    "county": "Johnston",
+    "confirmed_date": "3/30"
+  },
+  {
+    "people_count": 2,
+    "state_name": "NC",
+    "county": "McDowell",
+    "confirmed_date": "3/30"
+  },
+  {
+    "people_count": 10,
+    "state_name": "TX",
+    "county": "Hidalgo",
+    "confirmed_date": "3/30"
+  },
+  {
+    "people_count": 2,
+    "state_name": "NC",
+    "county": "Onslow",
+    "confirmed_date": "3/30"
+  },
+  {
+    "people_count": 2,
+    "state_name": "NC",
+    "county": "Randolph",
+    "confirmed_date": "3/30"
+  },
+  {
+    "people_count": 3,
+    "state_name": "TX",
+    "county": "Polk",
+    "confirmed_date": "3/30"
+  },
+  {
+    "confirmed_date": "3/30",
+    "people_count": 1,
+    "state_name": "AZ",
+    "county": "Coconino"
+  },
+  {
+    "people_count": 2,
+    "state_name": "AK",
+    "county": "Anchorage",
+    "confirmed_date": "3/30"
+  },
+  {
+    "people_count": 2,
+    "state_name": "AK",
+    "county": "Fairbanks North Star",
+    "confirmed_date": "3/30"
+  },
+  {
+    "people_count": 1,
+    "state_name": "AK",
+    "county": "Palmer",
+    "confirmed_date": "3/30"
+  },
+  {
+    "people_count": 1,
+    "state_name": "NC",
+    "county": "Columbus",
+    "confirmed_date": "3/30"
+  },
+  {
+    "people_count": 1,
+    "state_name": "NC",
+    "county": "Yadkin",
+    "confirmed_date": "3/30"
   }
 ]
