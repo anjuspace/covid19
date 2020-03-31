@@ -11588,13 +11588,16 @@
   },
   {
     "confirmed_date": "3/27",
-    "comments_en": "fifth death reported in Md.",
+    "comments_en": "fifth death reported in Md. An Anne Arundel County resident. He was over 80 years of age. ",
     "die_count": 1,
-    "state_name": "MD",
-    "county": "Unassigned",
     "full_links": [
-      "https://www.washingtonpost.com/dc-md-va/2020/03/27/coronavirus-dc-maryland-virginia-updates/"
-    ]
+      "https://www.washingtonpost.com/dc-md-va/2020/03/27/coronavirus-dc-maryland-virginia-updates/",
+      "https://health.maryland.gov/newsroom/Pages/Maryland-Department-of-Health-Announces-Fifth-Coronavirus-Death.aspx"
+    ],
+    "state_name": "MD",
+    "county": "Anne Arundel",
+    "gender": "男",
+    "age_range": "80+"
   },
   {
     "confirmed_date": "3/27",
@@ -17464,6 +17467,15 @@
     ]
   },
   {
+    "die_count": 2,
+    "state_name": "NN",
+    "county": "Unassigned",
+    "full_links": [
+      "https://www.kob.com/new-mexico-news/navajo-nation-announces-20-new-confirmed-positive-covid-19-cases-3-new-deaths/5688048/"
+    ],
+    "confirmed_date": "3/29"
+  },
+  {
     "confirmed_date": "3/30",
     "comments_en": "Estos dos casos se unen a la muerte de un hombre de 68 años que viajó a Nueva York, a la de dos hombres de 68 y 42 años, respectivamente, a la de una puertorriqueña de 48, seguida de un turista de Nueva York de 73 y una turista italiana de 68.",
     "die_count": 1,
@@ -19370,14 +19382,16 @@
     "comments_en": "chelan County reported 2 deaths by 3/31."
   },
   {
-    "die_count": 3,
-    "state_name": "MD",
-    "county": "Unassigned",
+    "die_count": 1,
     "full_links": [
-      "https://coronavirus.maryland.gov/"
+      "https://twitter.com/MDHealthDept/status/1245051184638984198"
     ],
     "confirmed_date": "3/31",
-    "comments_en": "By 3/31 10 AM EST, Maryland reported 18 deaths in total."
+    "state_name": "MD",
+    "county": "Carroll",
+    "comments_en": "A Carroll Co. man in his 80s with underlying conditions",
+    "gender": "男",
+    "age_range": "80+"
   },
   {
     "die_count": 1,
@@ -19790,6 +19804,118 @@
     ],
     "state_name": "PA",
     "county": "Snyder",
+    "confirmed_date": "3/31"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.healthvermont.gov/response/infectious-disease/2019-novel-coronavirus"
+    ],
+    "confirmed_date": "3/31",
+    "state_name": "VT",
+    "county": "Unassigned"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://coronavirus.iowa.gov/?fbclid=IwAR31EmnKafsX48tYZk8WwDGmicVtS3ylajho2yrR7TVjTYgmf0ZuYCnAkHI"
+    ],
+    "confirmed_date": "3/31",
+    "state_name": "IA",
+    "county": "Unassigned",
+    "comments_en": "3/31 IA state total 7 deseased."
+  },
+  {
+    "die_count": 4,
+    "full_links": [
+      "https://www.azdhs.gov/preparedness/epidemiology-disease-control/infectious-disease-epidemiology/index.php#novel-coronavirus-home"
+    ],
+    "confirmed_date": "3/31",
+    "state_name": "AZ",
+    "county": "Unassigned",
+    "comments": "3/31 亚利桑那州 新增4例死亡病例，具体待查， 累计24例死亡病例。",
+    "comments_en": "AZ adds 4 more deaths, total death cases 24."
+  },
+  {
+    "die_count": 8,
+    "state_name": "NV",
+    "county": "Clark",
+    "full_links": [
+      "https://www.reviewjournal.com/local/local-nevada/8-new-covid-19-deaths-in-clark-county-as-state-caseload-hits-1113-1995318/"
+    ],
+    "confirmed_date": "3/31",
+    "comments_en": "As of March 31,  8 new COVID-19 deaths in Clark County have been reported. ",
+    "age_range": "Unknown",
+    "gender": "Unknown"
+  },
+  {
+    "state_name": "MA",
+    "county": "Hampden",
+    "full_links": [
+      "https://www.npr.org/sections/coronavirus-live-updates/2020/03/31/824405812/11-veterans-die-at-soldiers-home-in-massachusetts-amid-covid-19-outbreak?utm_medium=social&utm_source=facebook.com&utm_campaign=npr&utm_term=nprnews"
+    ],
+    "confirmed_date": "3/31",
+    "die_count": 5,
+    "comments_en": "Eleven veterans have died at a soldiers' home in Holyoke, Mass., where a COVID-19 outbreak is now threatening even more residents and staff. At least five of the people who died have tested positive for COVID-19; other tests are still pending in the case."
+  },
+  {
+    "state_name": "MD",
+    "county": "Howard",
+    "full_links": [
+      "https://twitter.com/MDHealthDept/status/1245051184638984198"
+    ],
+    "confirmed_date": "3/31",
+    "die_count": 1,
+    "gender": "男",
+    "age_range": "80+",
+    "comments_en": "A Howard Co. man in his 80s with underlying conditions"
+  },
+  {
+    "state_name": "MD",
+    "county": "Prince George's",
+    "full_links": [
+      "https://twitter.com/MDHealthDept/status/1245051184638984198"
+    ],
+    "confirmed_date": "3/31",
+    "die_count": 1,
+    "comments_en": "A Prince George's Co. man in his 40s, no underlying conditions",
+    "gender": "男",
+    "age_range": "40+"
+  },
+  {
+    "die_count": 1,
+    "state_name": "GA",
+    "county": "Fulton",
+    "full_links": [
+      "https://dph.georgia.gov/covid-19-daily-status-report"
+    ],
+    "confirmed_date": "3/31"
+  },
+  {
+    "die_count": 1,
+    "state_name": "LA",
+    "county": "Ascension",
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "confirmed_date": "3/31"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "confirmed_date": "3/31",
+    "state_name": "LA",
+    "county": "Bossier"
+  },
+  {
+    "die_count": 2,
+    "state_name": "LA",
+    "county": "Caddo",
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
     "confirmed_date": "3/31"
   }
 ]
