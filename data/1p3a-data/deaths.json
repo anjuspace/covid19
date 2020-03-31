@@ -19257,15 +19257,6 @@
   {
     "confirmed_date": "3/30",
     "die_count": 1,
-    "state_name": "TX",
-    "county": "Unassigned",
-    "full_links": [
-      "https://www.houstonchronicle.com/coronavirus/article/covid-interactive-map-houston-texas-us-case-virus-15142609.php"
-    ]
-  },
-  {
-    "confirmed_date": "3/30",
-    "die_count": 1,
     "state_name": "PA",
     "county": "Delaware",
     "full_links": [
@@ -19436,5 +19427,56 @@
     ],
     "confirmed_date": "3/31",
     "comments_en": "chelan County reported 2 deaths by 3/31."
+  },
+  {
+    "die_count": 3,
+    "state_name": "MD",
+    "county": "Unassigned",
+    "full_links": [
+      "https://coronavirus.maryland.gov/"
+    ],
+    "confirmed_date": "3/31",
+    "comments_en": "By 3/31 10 AM EST, Maryland reported 18 deaths in total."
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.wxii12.com/article/health-officials-report-first-covid-19-death-in-forsyth-county/31990353"
+    ],
+    "confirmed_date": "3/31",
+    "state_name": "NC",
+    "county": "Forsyth",
+    "age_range": "90+",
+    "comments_en": "Forsyth County health officials said the individual died Monday. The patient was in their early 90s and had several underlying medical conditions.\n\n"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.montgomeryadvertiser.com/story/news/2020/03/30/first-coronavirus-related-death-reported-montgomery-county-covid-19/5090431002/"
+    ],
+    "confirmed_date": "3/31",
+    "state_name": "AL",
+    "county": "Montgomery",
+    "comments_en": "According to Monique Smith, Division D Coordinator of the Alabama Emergency Management Agency, the primary cause of death is still being investigated but has confirmed the death is coronavirus-related. 3/30",
+    "age_range": "Unknown",
+    "gender": "Unknown"
+  },
+  {
+    "die_count": 2,
+    "state_name": "VA",
+    "county": "Unknown",
+    "full_links": [
+      "http://www.vdh.virginia.gov/coronavirus/"
+    ],
+    "confirmed_date": "3/31"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.jdnews.com/news/20200330/onslow-patient-dies-due-to-coronavirus-complication"
+    ],
+    "confirmed_date": "3/31",
+    "state_name": "NC",
+    "county": "Onslow"
   }
 ]
