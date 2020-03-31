@@ -17621,16 +17621,6 @@
   },
   {
     "confirmed_date": "3/30",
-    "comments_en": "FL reported 63 total deaths by 3/30.",
-    "die_count": 3,
-    "state_name": "FL",
-    "county": "Unassigned",
-    "full_links": [
-      "https://experience.arcgis.com/experience/96dd742462124fa0b38ddedb9b25e429"
-    ]
-  },
-  {
-    "confirmed_date": "3/30",
     "gender": "女",
     "die_count": 1,
     "age_range": "80+",
@@ -19446,6 +19436,15 @@
     "comments_en": "Late on 3/30/2020, St. Louis County Department of Public Health (DPH) received notification of a death of a 50-59 year old female with chronic medical conditions. This is the third death in St. Louis County."
   },
   {
+    "die_count": 4,
+    "full_links": [
+      "https://www.smchealth.org/coronavirus"
+    ],
+    "confirmed_date": "3/30",
+    "state_name": "CA",
+    "county": "San Mateo"
+  },
+  {
     "confirmed_date": "3/31",
     "die_count": 1,
     "state_name": "GA",
@@ -19704,15 +19703,6 @@
     "comments_en": "A 70-year-old local woman who tested positive for the new coronavirus died Saturday in Wadley Regional Medical Center, her husband said Monday, marking the first fatality related to the disease in Bowie County.",
     "age_range": "70+",
     "gender": "女"
-  },
-  {
-    "die_count": 6,
-    "state_name": "FL",
-    "county": "Unassigned",
-    "full_links": [
-      "https://floridahealthcovid19.gov/"
-    ],
-    "confirmed_date": "3/31"
   },
   {
     "state_name": "NY",
@@ -21097,6 +21087,264 @@
     "county": "Gordon",
     "gender": "男",
     "age_range": "70+",
+    "confirmed_date": "3/31"
+  },
+  {
+    "die_count": 1,
+    "state_name": "TX",
+    "county": "Denton",
+    "full_links": [
+      "https://dentoncounty.gov/-/media/Departments/Health-Services/PDFs/Press-Release/Press%20Release%20COVID%2019/Press%20ReleaseFourth%20COVID19%20Related%20Death%20and%2015%20New%20COVID19%20Cases%20in%20Denton%20County03312020.pdf?la=en"
+    ],
+    "confirmed_date": "3/31",
+    "comments_en": "The patient, a male resident of The Colony in his 60s, was a previously reported\nhospitalized, locally transmitted COVID-19 case in Denton County. ",
+    "gender": "男",
+    "age_range": "60+"
+  },
+  {
+    "full_links": [
+      "https://www.wisn.com/article/coronavirus-85-year-old-woman-dies-from-complications/31993712"
+    ],
+    "die_count": 1,
+    "state_name": "WI",
+    "county": "Waukesha",
+    "gender": "女",
+    "age_range": "80+",
+    "comments_en": "An 85-year-old African American woman died from coronavirus complications Tuesday morning after several days of hospitalization. That brings the total number of Wisconsin victims to 25. No further details as of 06:08PM EST 03/31.",
+    "confirmed_date": "3/31"
+  },
+  {
+    "die_count": 2,
+    "full_links": [
+      "https://www.sccgov.org/sites/phd/DiseaseInformation/novel-coronavirus/Pages/dashboard.aspx"
+    ],
+    "confirmed_date": "3/31",
+    "state_name": "CA",
+    "county": "Santa Clara"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://coronavirus.in.gov/2393.htm"
+    ],
+    "confirmed_date": "3/31",
+    "state_name": "IN",
+    "county": "Decatur"
+  },
+  {
+    "die_count": 1,
+    "state_name": "WA",
+    "county": "Benton",
+    "full_links": [
+      "https://www.bfhd.wa.gov/programs_services/investigations___outbreaks/covid-19_case_count"
+    ],
+    "confirmed_date": "3/31"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.wfmynews2.com/article/news/health/coronavirus/live-coronavirus-updates-north-carolina/83-9e92c2a5-716a-49e2-9408-b332a161bb25"
+    ],
+    "county": "Guilford",
+    "state_name": "NC",
+    "confirmed_date": "3/31",
+    "comments_en": "According to a release from county officials, the patient died on Tuesday, March 31 and was 78 years old. The patient had additional underlying medical conditions. ",
+    "gender": "男",
+    "age_range": "70+"
+  },
+  {
+    "die_count": 2,
+    "state_name": "CO",
+    "county": "El Paso",
+    "full_links": [
+      "https://covid19.colorado.gov/case-data"
+    ],
+    "confirmed_date": "3/31"
+  },
+  {
+    "die_count": 2,
+    "state_name": "CO",
+    "county": "Weld",
+    "full_links": [
+      "https://covid19.colorado.gov/case-data"
+    ],
+    "confirmed_date": "3/31"
+  },
+  {
+    "die_count": 1,
+    "state_name": "CO",
+    "county": "Denver",
+    "full_links": [
+      "https://covid19.colorado.gov/case-data"
+    ],
+    "confirmed_date": "3/31"
+  },
+  {
+    "die_count": 2,
+    "state_name": "CO",
+    "county": "Larimer",
+    "full_links": [
+      "https://covid19.colorado.gov/case-data"
+    ],
+    "confirmed_date": "3/31"
+  },
+  {
+    "die_count": 1,
+    "state_name": "CO",
+    "county": "Jefferson",
+    "full_links": [
+      "https://covid19.colorado.gov/case-data"
+    ],
+    "confirmed_date": "3/31"
+  },
+  {
+    "die_count": 6,
+    "state_name": "CO",
+    "county": "Arapahoe",
+    "full_links": [
+      "https://covid19.colorado.gov/case-data"
+    ],
+    "confirmed_date": "3/31"
+  },
+  {
+    "die_count": 1,
+    "state_name": "WA",
+    "county": "Snohomish",
+    "full_links": [
+      "https://www.snohd.org/499/COVID-19-Case-Count-Info"
+    ],
+    "confirmed_date": "3/31",
+    "comments_en": "Woman in her 60s with underlying health conditions, died 3/30/20",
+    "gender": "女",
+    "age_range": "60+"
+  },
+  {
+    "die_count": 1,
+    "state_name": "WA",
+    "county": "Snohomish",
+    "full_links": [
+      "https://www.snohd.org/499/COVID-19-Case-Count-Info"
+    ],
+    "confirmed_date": "3/31",
+    "comments_en": "Man in his 70s with underlying health conditions, died 3/29/20",
+    "gender": "男",
+    "age_range": "70+"
+  },
+  {
+    "die_count": 1,
+    "state_name": "CO",
+    "county": "Boulder",
+    "full_links": [
+      "https://covid19.colorado.gov/case-data"
+    ],
+    "confirmed_date": "3/31"
+  },
+  {
+    "die_count": 2,
+    "full_links": [
+      "https://covid19.colorado.gov/case-data"
+    ],
+    "confirmed_date": "3/31",
+    "state_name": "CO",
+    "county": "Adams"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://covid19.colorado.gov/case-data"
+    ],
+    "confirmed_date": "3/31",
+    "state_name": "CO",
+    "county": "Broomfield"
+  },
+  {
+    "die_count": 1,
+    "state_name": "FL",
+    "county": "Broward",
+    "full_links": [
+      "https://fdoh.maps.arcgis.com/apps/opsdashboard/index.html#/8d0de33f260d444c852a615dc7837c86"
+    ],
+    "confirmed_date": "3/31"
+  },
+  {
+    "die_count": 1,
+    "state_name": "FL",
+    "county": "Miami-Dade",
+    "full_links": [
+      "https://fdoh.maps.arcgis.com/apps/opsdashboard/index.html#/8d0de33f260d444c852a615dc7837c86"
+    ],
+    "confirmed_date": "3/31"
+  },
+  {
+    "die_count": 1,
+    "state_name": "FL",
+    "county": "Duval",
+    "full_links": [
+      "https://fdoh.maps.arcgis.com/apps/opsdashboard/index.html#/8d0de33f260d444c852a615dc7837c86"
+    ],
+    "confirmed_date": "3/31"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://fdoh.maps.arcgis.com/apps/opsdashboard/index.html#/8d0de33f260d444c852a615dc7837c86"
+    ],
+    "confirmed_date": "3/31",
+    "state_name": "FL",
+    "county": "Glades"
+  },
+  {
+    "die_count": 1,
+    "state_name": "FL",
+    "county": "Hillsborough",
+    "full_links": [
+      "https://fdoh.maps.arcgis.com/apps/opsdashboard/index.html#/8d0de33f260d444c852a615dc7837c86"
+    ],
+    "confirmed_date": "3/31"
+  },
+  {
+    "die_count": 1,
+    "state_name": "FL",
+    "county": "Lee",
+    "full_links": [
+      "https://fdoh.maps.arcgis.com/apps/opsdashboard/index.html#/8d0de33f260d444c852a615dc7837c86"
+    ],
+    "confirmed_date": "3/31"
+  },
+  {
+    "confirmed_date": "3/31",
+    "die_count": 1,
+    "state_name": "FL",
+    "county": "Lee",
+    "full_links": [
+      "https://fdoh.maps.arcgis.com/apps/opsdashboard/index.html#/8d0de33f260d444c852a615dc7837c86"
+    ]
+  },
+  {
+    "confirmed_date": "3/31",
+    "die_count": 1,
+    "state_name": "FL",
+    "county": "Miami-Dade",
+    "full_links": [
+      "https://fdoh.maps.arcgis.com/apps/opsdashboard/index.html#/8d0de33f260d444c852a615dc7837c86"
+    ]
+  },
+  {
+    "confirmed_date": "3/31",
+    "die_count": 1,
+    "state_name": "FL",
+    "county": "Miami-Dade",
+    "full_links": [
+      "https://fdoh.maps.arcgis.com/apps/opsdashboard/index.html#/8d0de33f260d444c852a615dc7837c86"
+    ]
+  },
+  {
+    "die_count": 1,
+    "state_name": "FL",
+    "county": "Manatee",
+    "full_links": [
+      "https://fdoh.maps.arcgis.com/apps/opsdashboard/index.html#/8d0de33f260d444c852a615dc7837c86"
+    ],
     "confirmed_date": "3/31"
   }
 ]
