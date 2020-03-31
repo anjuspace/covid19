@@ -16,6 +16,24 @@ export default class BubblePlot extends Component {
         this.props.regionToggle(region)
     }
 
+    bringTextsToTop = () => {
+        setTimeout(() => {
+            document.querySelectorAll('.bubble-plot-wrap text').forEach((elem) => {
+                let parentElem = elem.parentNode
+                // bring texts to top
+                elem.parentNode.parentNode.appendChild(parentElem)
+            })
+        }, 100)
+    }
+
+    componentDidUpdate() {
+        this.bringTextsToTop()
+    }
+
+    componentDidMount() {
+        this.bringTextsToTop()
+    }
+
     render() {
         const { data, metric, currentRegion, date, playing, lang, darkMode, fullTree } = this.props
         if (data == null) return <div />
@@ -39,7 +57,8 @@ export default class BubblePlot extends Component {
             count === 0 ||
             (currentRegion[0] === str.CHINA_ZH && currentRegion.length > 3) ||
             (currentRegion[0] === str.US_ZH && currentRegion.length === 3) ||
-            (currentRegion[0] === str.UK_ZH && currentRegion.length > 3)
+            (currentRegion[0] === str.UK_ZH && currentRegion.length > 3) ||
+            (currentRegion[0] === str.ITALY_ZH && currentRegion.length > 2)
         )
             currentNodePath = [ str.GLOBAL_ZH, ...currentRegion.slice(0, currentRegion.length - 1) ].reverse().join('.')
 
@@ -58,6 +77,9 @@ export default class BubblePlot extends Component {
 
         if (currentRegion[0] === str.CHINA_ZH && currentRegion.length > 2)
             displayNodePath = [ str.GLOBAL_ZH, ...currentRegion.slice(0, 2) ].reverse().join('.')
+
+        if (currentRegion[0] === str.ITALY_ZH && currentRegion.length > 1)
+            displayNodePath = [ str.GLOBAL_ZH, str.ITALY_ZH ].reverse().join('.')
 
         return (
             <div className="bubble-plot-wrap">
@@ -90,7 +112,7 @@ export default class BubblePlot extends Component {
                     enableLabel={true}
                     label={({ data }) => data.displayName}
                     labelTextColor={'#222'}
-                    labelSkipRadius={!fullTree ? 8 : 10}
+                    labelSkipRadius={!fullTree ? 6 : 10}
                     animate={!playing}
                     motionStiffness={50}
                     motionDamping={12}

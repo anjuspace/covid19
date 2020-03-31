@@ -64,6 +64,21 @@ INFECTION_NUMBER:
 DEATH_NUMBER:
   en: Number of Deaths
   zh: 死亡人数
+CASE_DOUBLING_TIME:
+  en: Case Doubling Time
+  zh: 病例倍增时间
+CASE_DOUBLING_TIME_IN_DAYS:
+  en: Estimated Doubling Time (In Days)
+  zh: 估算倍增时间（天）
+DAYS:
+  en: Days
+  zh: 天
+ESTIMATED_RO:
+  en: Estimated R₀
+  zh: 估算R₀
+ESTIMATED_RO_SEIR:
+  en: Estimated R₀ (Based on SEIR)
+  zh: 估算R₀（基于SEIR模型）
 MOST_AFFECTED_SUBREGIONS:
   en: Most Affected
   zh: 受影响程度排序
@@ -137,10 +152,10 @@ HUNDRED_CASES:
   en: 100 Cases
   zh: 100例
 DAYS_AFTER_10_CASES:
-  en: Days after 10 cases
+  en: Days since 10 cases
   zh: 病例超过10之后的天数
 DAYS_AFTER_100_CASES:
-  en: Days after 100 cases
+  en: Days since 100 cases
   zh: 病例超过100之后的天数
 REGION:
   en: Region
@@ -173,8 +188,11 @@ KOREA_MAP:
   en: South Korea
   zh: 韩国
 ITALY_MAP:
-  en: Italy
-  zh: 意大利
+  en: Italy (Regions)
+  zh: 意大利（大区级）
+ITALY_MAP2:
+  en: Italy (Provinces)
+  zh: 意大利（省级）
 US_MAP:
   en: US (States)
   zh: 美国（州级）
@@ -235,6 +253,12 @@ MALAYSIA_MAP:
 CHILE_MAP:
   en: Chile
   zh: 智利
+BELGIUM_MAP:
+  en: Belgium
+  zh: 比利时
+CZECHIA_MAP:
+  en: Czechia
+  zh: 捷克
 ASIA:
   en: Asia
   zh: 亚洲

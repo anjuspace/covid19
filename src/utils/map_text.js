@@ -38,6 +38,12 @@ export const mapText = {
         flagCode: 'it',
         continent: i18n.EUROPE
     },
+    ITA2: {
+        title: i18n.ITALY_MAP2,
+        regionName: str.ITALY_ZH,
+        flagCode: 'it',
+        continent: i18n.EUROPE
+    },
     ESP: {
         title: i18n.SPAIN_MAP,
         regionName: str.SPAIN_ZH,
@@ -92,6 +98,12 @@ export const mapText = {
         flagCode: 'nl',
         continent: i18n.EUROPE
     },
+    BEL: {
+        title: i18n.BELGIUM_MAP,
+        regionName: str.BELGIUM_ZH,
+        flagCode: 'be',
+        continent: i18n.EUROPE
+    },
     MYS: {
         title: i18n.MALAYSIA_MAP,
         regionName: str.MALAYSIA_ZH,
@@ -138,6 +150,12 @@ export const mapText = {
         title: i18n.SWEDEN_MAP,
         regionName: str.SWEDEN_ZH,
         flagCode: 'se',
+        continent: i18n.EUROPE
+    },
+    CZE: {
+        title: i18n.CZECHIA_MAP,
+        regionName: str.CZECHIA_ZH,
+        flagCode: 'cz',
         continent: i18n.EUROPE
     },
     POL: {

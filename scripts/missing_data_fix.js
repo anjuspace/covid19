@@ -1,5 +1,6 @@
 // fill missing data
 const fs = require('fs')
+const assert = require('assert')
 
 const data_file = 'public/data/all_minified.json'
 let data = JSON.parse(fs.readFileSync(data_file))
@@ -17,7 +18,9 @@ currDate = parseDate(currDate)
 function fillMissingData(obj) {
     if (typeof obj !== 'object' || obj == null) return
     ;[ 'confirmedCount', 'curedCount', 'deadCount' ].forEach((metric) => {
-        if (obj[metric] == null || Object.keys(obj[metric]).length === 0) return
+        if (obj[metric] == null) obj[metric] = {}
+        if (Object.keys(obj[metric]).length === 0) return
+
         const firstDateString = Object.keys(obj[metric]).sort((a, b) => (parseDate(a) > parseDate(b) ? 1 : -1))[0]
         let date = parseDate(firstDateString)
         let previousDate = new Date(date.getTime())
@@ -25,13 +28,18 @@ function fillMissingData(obj) {
         // use a new object so that the date keys are sorted
         let newMetricObj = {}
 
+        let firstCaseOccurs = false
         while (date <= currDate) {
             const dateString = date.toISOString().slice(0, 10)
             const previousDateString = previousDate.toISOString().slice(0, 10)
             if (!(dateString in obj[metric])) {
                 obj[metric][dateString] = obj[metric][previousDateString]
             }
-            newMetricObj[dateString] = obj[metric][dateString]
+
+            const count = obj[metric][dateString]
+            assert(!isNaN(count) && count != null, `${count} is not a valid count!`)
+            if (count > 0) firstCaseOccurs = true
+            if (firstCaseOccurs) newMetricObj[dateString] = obj[metric][dateString]
 
             // next day
             previousDate = new Date(date.getTime())

@@ -28,17 +28,12 @@ const county_name_changes = {
     'Walla Walla County, WA': 'Walla Walla',
     'Walton County, FL': 'Walton',
     'Delaware County, IN': 'Delaware',
-    'Caroll, IN': 'Carroll',
-    'Whitlty, IN': 'Whitley',
-    'Berknap, NH': 'Belknap',
-    'Nashua, NH': 'Hillsborough',
+    'Verm., IN': 'Vermillion',
     'Elko County, NV': 'Elko',
     'Filmore, MN': 'Fillmore',
     'LeSeur, MN': 'Le Sueur',
     'Blue earth, MN': 'Blue Earth',
     'Lac Qui Parle, MN': 'Lac qui Parle',
-    'Brockton, MA': 'Plymouth',
-    'Stanley, NC': 'Gaston',
     'Seward, AK': 'Kenai Peninsula',
     'Soldotna, AK': 'Kenai Peninsula',
     'Sterling, AK': 'Kenai Peninsula',
@@ -46,13 +41,20 @@ const county_name_changes = {
     'Matanuska-Susitna Borough, AK': 'Matanuska-Susitna',
     'Palmer, AK': 'Matanuska-Susitna',
     'Eagle River, AK': 'Anchorage',
+    'Gridwood, AK': 'Anchorage',
     'North Pole, AK': 'Fairbanks North Star',
     'Dekalb, TN': 'DeKalb',
-    'Mclntosh, ND': 'McIntosh',
     'Bear River, UT': 'Box Elder',
     'Mcduffie, GA': 'McDuffie',
-    'West Celiciana, LA': 'West Feliciana',
-    'Dickson, MI': 'Manistee'
+    'Wayne--Detroit, MI': 'Wayne',
+    'Joplin, MO': 'Jasper',
+    'Mckean, PA': 'McKean',
+    'De Witt, TX': 'DeWitt',
+    'El Paso--Fort Bliss, TX': 'El Paso',
+    'Harris--Non Houston, TX': 'Harris',
+    'Harris--Houston, TX': 'Harris',
+    'Unitah, UT': 'Uintah',
+    'Mcintosh, GA': 'McIntosh'
 }
 
 data = data.map((x) => {
@@ -171,7 +173,7 @@ fs.writeFileSync(`public/data/us.json`, JSON.stringify(output_us))
 
 // modify map
 const mapName = 'gadm36_USA_2'
-let map = JSON.parse(fs.readFileSync(`public/maps/${mapName}.json`))
+let map = JSON.parse(fs.readFileSync(`data/maps/${mapName}.json`))
 let geometries = map.objects[mapName].geometries
 
 geometries.forEach((geo) => {
@@ -193,6 +195,7 @@ geometries.forEach((geo) => {
     if (countyEnglish === 'Desoto' && stateAbbr === 'MS') countyEnglish = 'DeSoto'
     if (countyEnglish === 'De Kalb' && stateAbbr === 'AL') countyEnglish = 'DeKalb'
     if (countyEnglish === 'De Kalb' && stateAbbr === 'IN') countyEnglish = 'DeKalb'
+    if (countyEnglish === 'Mc Kean' && stateAbbr === 'PA') countyEnglish = 'McKean'
 
     // New York boroughs
     if (countyEnglish === 'Bronx' && stateAbbr === 'NY') countyEnglish = 'New York'
@@ -231,7 +234,7 @@ map.objects[mapName].geometries = geometries
 fs.writeFileSync(`public/maps/${mapName}.json`, JSON.stringify(map))
 
 // modify map
-map = JSON.parse(fs.readFileSync('public/maps/states-10m.json'))
+map = JSON.parse(fs.readFileSync('data/maps/USA.json'))
 let objectName = 'states'
 geometries = map.objects[objectName].geometries
 
@@ -247,4 +250,4 @@ geometries.forEach((geo) => {
 })
 
 map.objects[objectName].geometries = geometries
-fs.writeFileSync(`public/maps/states-10m.json`, JSON.stringify(map))
+fs.writeFileSync(`public/maps/USA.json`, JSON.stringify(map))

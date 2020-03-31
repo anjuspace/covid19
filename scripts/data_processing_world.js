@@ -4,7 +4,7 @@ const assert = require('assert')
 
 const data_folder = 'data/jhu-data/csse_covid_19_data/csse_covid_19_time_series'
 const confirmed_file = `${data_folder}/time_series_covid19_confirmed_global.csv`
-// const cured_file = `${data_folder}/time_series_19-covid-Recovered.csv`
+const cured_file = `${data_folder}/time_series_covid19_recovered_global.csv`
 const dead_file = `${data_folder}/time_series_covid19_deaths_global.csv`
 const curr_data_file = 'data/jhu_current_data.csv'
 
@@ -15,7 +15,8 @@ const mapNames = {
     'Gambia, The': 'Gambia',
     'Bahamas, The': 'Bahamas',
     'West Bank and Gaza': 'Palestine',
-    Burma: 'Myanmar'
+    Burma: 'Myanmar',
+    'St Martin': 'Saint Martin'
 }
 
 // translations
@@ -170,10 +171,9 @@ function generateData(filename, metric) {
             if (country === 'France') {
                 if (province === '') province = 'Metropolitan France'
             }
-            if ([ 'French Guiana', 'Martinique', 'Reunion' ].includes(country)) {
-                province = country
-                country = 'France'
-            }
+
+            // Canada
+            if (country === 'Canada' && province === 'Recovered') return
 
             if (country in mapNames)
                 // match names from map
@@ -210,9 +210,6 @@ function generateData(filename, metric) {
                 }
                 output_world[countryKey][provinceKey][metric] = {}
             }
-
-            // recovered counts not reported by JHU database anymore
-            if (metric === 'curedCount') return output_world
 
             dates.forEach((date, index) => {
                 let count = parseInt(lineSplit[index + 4], 10) || 0
@@ -270,7 +267,7 @@ function generateData(filename, metric) {
 }
 
 const confirmedData = generateData(confirmed_file, 'confirmedCount')
-const curedData = generateData(confirmed_file, 'curedCount')
+const curedData = generateData(cured_file, 'curedCount')
 const deadData = generateData(dead_file, 'deadCount')
 let allData = _.merge(_.merge(confirmedData, curedData), deadData)
 
@@ -303,7 +300,7 @@ fs.writeFileSync(`public/data/world.json`, JSON.stringify(allData))
 
 // modify world map
 
-let map = JSON.parse(fs.readFileSync('public/maps/world-50m.json'))
+let map = JSON.parse(fs.readFileSync('data/maps/WORLD.json'))
 let objectName = 'ne_50m_admin_0_countries'
 let geometries = map.objects[objectName].geometries
 
@@ -322,6 +319,7 @@ geometries.forEach((geo) => {
     if (countryName === 'Central African Rep.') countryName = 'Central African Republic'
     if (countryName === 'Faeroe Is.') countryName = 'Faroe Islands'
     if (countryName === 'Eq. Guinea') countryName = 'Equatorial Guinea'
+    if (countryName === 'Fr. Polynesia') countryName = 'French Polynesia'
 
     geo.properties.NAME = countryName
 
@@ -341,6 +339,8 @@ geometries.forEach((geo) => {
         geo.properties.REGION = `丹麦.${countryKey}`
     } else if (countryName === 'Isle of Man') {
         geo.properties.REGION = `英国.皇家属地.${countryKey}`
+    } else if (countryName === 'French Polynesia' || countryName === 'New Caledonia') {
+        geo.properties.REGION = `法国.海外领土.${countryKey}`
     } else if (countryName === 'Puerto Rico') {
         geo.properties.REGION = `美国.${countryKey}`
     } else {
@@ -350,11 +350,11 @@ geometries.forEach((geo) => {
 })
 
 map.objects[objectName].geometries = geometries
-fs.writeFileSync(`public/maps/world-50m.json`, JSON.stringify(map))
+fs.writeFileSync(`public/maps/WORLD.json`, JSON.stringify(map))
 
 // modify Europe map
 
-map = JSON.parse(fs.readFileSync('public/maps/europe.json'))
+map = JSON.parse(fs.readFileSync('data/maps/europe.json'))
 objectName = 'europe'
 geometries = map.objects[objectName].geometries
 
@@ -378,4 +378,4 @@ geometries.forEach((geo) => {
 })
 
 map.objects[objectName].geometries = geometries
-fs.writeFileSync(`public/maps/europe.json`, JSON.stringify(map))
+fs.writeFileSync(`public/maps/EUROPE.json`, JSON.stringify(map))
