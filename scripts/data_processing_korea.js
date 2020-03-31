@@ -58,8 +58,8 @@ confirmed_data.forEach(function(line, index) {
         regions = lineSplit.slice(2, -1)
         // regions.push('Unknown Region')
         assert(
-            regions[regions.length - 1] === 'quarantined on import',
-            `"${regions[regions.length - 1]}" should be "quarantined on import"!`
+            regions[regions.length - 1] === 'entry screening',
+            `"${regions[regions.length - 1]}" should be "entry screening"!`
         )
         regions[regions.length - 1] = 'Imported'
         regions.forEach((region) => {
@@ -246,7 +246,7 @@ fs.writeFileSync(`public/data/korea.json`, JSON.stringify(output_korea))
 
 // modify map
 const mapName = 'gadm36_KOR_1'
-let map = JSON.parse(fs.readFileSync(`public/maps/${mapName}.json`))
+let map = JSON.parse(fs.readFileSync(`data/maps/${mapName}.json`))
 let geometries = map.objects[mapName].geometries
 
 geometries.forEach((geo) => {

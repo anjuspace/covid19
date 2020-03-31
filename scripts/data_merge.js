@@ -43,13 +43,17 @@ data_france[en2zh['Metropolitan France']] = {
     curedCount: data[en2zh['France']][en2zh['Metropolitan France']].curedCount,
     deadCount: data[en2zh['France']][en2zh['Metropolitan France']].deadCount
 }
-;[ 'Martinique', 'Saint Barthelemy', 'St Martin' ].forEach((region) => {
+;[ 'French Polynesia' ].forEach((region) => {
     data_france[en2zh['Overseas France']][en2zh[region]] = data[en2zh['France']][en2zh[region]]
     ;[ 'confirmedCount', 'deadCount', 'curedCount' ].forEach((metric) => {
         data_france[en2zh['Overseas France']][metric] = _.mergeWith(
-            {},
             data_france[en2zh['Overseas France']][metric],
-            data[en2zh['France']][en2zh[region]][metric],
+            Object.keys(data[en2zh['France']][en2zh[region]][metric])
+                .filter((d) => d in data_france[en2zh['Overseas France']][metric])
+                .reduce((obj, d) => {
+                    obj[d] = data[en2zh['France']][en2zh[region]][metric][d]
+                    return obj
+                }, {}),
             _.add
         )
     })
@@ -188,6 +192,20 @@ let chileData = JSON.parse(fs.readFileSync(chile_file))
 data[en2zh['Chile']] = {
     ...chileData,
     ...data[en2zh['Chile']]
+}
+
+const belgium_file = 'public/data/belgium.json'
+let belgiumData = JSON.parse(fs.readFileSync(belgium_file))
+data[en2zh['Belgium']] = {
+    ...belgiumData,
+    ...data[en2zh['Belgium']]
+}
+
+const czechia_file = 'public/data/czechia.json'
+let czechiaData = JSON.parse(fs.readFileSync(czechia_file))
+data[en2zh['Czechia']] = {
+    ...czechiaData,
+    ...data[en2zh['Czechia']]
 }
 
 const merged_file_minified = 'public/data/all_minified.json'
