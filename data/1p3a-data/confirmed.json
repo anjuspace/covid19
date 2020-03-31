@@ -76126,5 +76126,47 @@
     "confirmed_date": "3/30",
     "county": "Webster",
     "state_name": "MO"
+  },
+  {
+    "people_count": 1,
+    "state_name": "WA",
+    "county": "Stevens",
+    "confirmed_date": "3/30"
+  },
+  {
+    "people_count": 3,
+    "state_name": "WA",
+    "county": "Mason",
+    "confirmed_date": "3/31"
+  },
+  {
+    "people_count": 39,
+    "state_name": "PA",
+    "county": "Bucks",
+    "confirmed_date": "3/31"
+  },
+  {
+    "people_count": 1,
+    "state_name": "WA",
+    "county": "Grays Harbor",
+    "confirmed_date": "3/31"
+  },
+  {
+    "state_name": "PR",
+    "county": "Puerto Rico",
+    "confirmed_date": "3/31",
+    "people_count": 65
+  },
+  {
+    "people_count": 31,
+    "state_name": "CA",
+    "county": "Los Angeles",
+    "confirmed_date": "3/31"
+  },
+  {
+    "people_count": 4,
+    "state_name": "CA",
+    "county": "San Diego",
+    "confirmed_date": "3/31"
   }
 ]

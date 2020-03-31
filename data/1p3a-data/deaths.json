@@ -17183,7 +17183,7 @@
   {
     "confirmed_date": "3/29",
     "gender": "男",
-    "die_count": 2,
+    "die_count": 1,
     "age_range": "60+",
     "state_name": "PA",
     "county": "Bucks",
@@ -17562,13 +17562,16 @@
   },
   {
     "confirmed_date": "3/30",
-    "comments_en": "Sixth death in PR by 3/30 morning.",
+    "comments_en": "Estos dos casos se unen a la muerte de un hombre de 68 años que viajó a Nueva York, a la de dos hombres de 68 y 42 años, respectivamente, a la de una puertorriqueña de 48, seguida de un turista de Nueva York de 73 y una turista italiana de 68.",
     "die_count": 1,
     "state_name": "PR",
     "county": "Puerto Rico",
     "full_links": [
-      "https://www.elnuevodia.com/noticias/locales/nota/confirmanlasextamuerteporelcoronavirusenpuertorico-2556969/"
-    ]
+      "https://www.elnuevodia.com/noticias/locales/nota/confirmanlasextamuerteporelcoronavirusenpuertorico-2556969/",
+      "https://www.elnuevodia.com/noticias/locales/nota/subenaocholasmuertesporcoronavirusenpuertorico-2557230/"
+    ],
+    "age_range": "60+",
+    "gender": "男"
   },
   {
     "confirmed_date": "3/30",
@@ -19092,13 +19095,16 @@
   },
   {
     "confirmed_date": "3/30",
-    "comments_en": "The Health Secretary, Lorenzo González Feliciano, confirmed today the seventh death caused by Covid-19 on the Island.",
+    "comments_en": "The other woman was 66 years old and was admitted to a health institution in the Caguas region after presenting symptoms of the disease. Subsequently, the test was positive.\n",
     "die_count": 1,
     "state_name": "PR",
     "county": "Puerto Rico",
     "full_links": [
-      "https://www.elvocero.com/noticia_rotary/article_bf339252-72d8-11ea-83a0-fb5e4d1a4848.html"
-    ]
+      "https://www.elvocero.com/noticia_rotary/article_bf339252-72d8-11ea-83a0-fb5e4d1a4848.html",
+      "https://www.elnuevodia.com/noticias/locales/nota/subenaocholasmuertesporcoronavirusenpuertorico-2557230/"
+    ],
+    "age_range": "60+",
+    "gender": "女"
   },
   {
     "confirmed_date": "3/30",
@@ -19384,5 +19390,17 @@
     "confirmed_date": "3/30",
     "state_name": "MS",
     "county": "Leflore"
+  },
+  {
+    "die_count": 1,
+    "state_name": "PR",
+    "county": "Puerto Rico",
+    "full_links": [
+      "https://www.elnuevodia.com/noticias/locales/nota/subenaocholasmuertesporcoronavirusenpuertorico-2557230/"
+    ],
+    "confirmed_date": "3/30",
+    "age_range": "50+",
+    "gender": "女",
+    "comments_en": "The agency detailed that the most recent victims of the disease are two women who had no travel history.\n\nThe first of these cases was a 53-year-old Bayamon resident who was diagnosed with the coronavirus while being confined to an unidentified hospital."
   }
 ]
