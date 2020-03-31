@@ -19645,5 +19645,43 @@
     "comments_en": "A 70-year-old local woman who tested positive for the new coronavirus died Saturday in Wadley Regional Medical Center, her husband said Monday, marking the first fatality related to the disease in Bowie County.",
     "age_range": "70+",
     "gender": "女"
+  },
+  {
+    "die_count": 6,
+    "state_name": "FL",
+    "county": "Unassigned",
+    "full_links": [
+      "https://floridahealthcovid19.gov/"
+    ],
+    "confirmed_date": "3/31"
+  },
+  {
+    "state_name": "NY",
+    "county": "Unassigned",
+    "full_links": [
+      "https://twitter.com/ZackFinkNews/status/1245012377310986243"
+    ],
+    "confirmed_date": "3/31",
+    "comments_en": "By 3/31 noon, New York reported 1550 total deaths, placeholder.",
+    "die_count": 190
+  },
+  {
+    "die_count": 18,
+    "state_name": "NY",
+    "county": "New York",
+    "full_links": [
+      "https://www1.nyc.gov/assets/doh/downloads/pdf/imm/covid-19-daily-data-summary.pdf"
+    ],
+    "confirmed_date": "3/31",
+    "comments_en": "By 3/31 12:20 PM EST, NYC reported 932 deaths in total."
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.facebook.com/groups/ErathCountyBreakingNews/permalink/2868382273255425/"
+    ],
+    "confirmed_date": "3/31",
+    "state_name": "TX",
+    "county": "Erath"
   }
 ]

@@ -77404,5 +77404,53 @@
     "confirmed_date": "3/31",
     "state_name": "ND",
     "county": "Williams"
+  },
+  {
+    "people_count": 9,
+    "state_name": "WI",
+    "county": "Dane",
+    "confirmed_date": "3/31"
+  },
+  {
+    "people_count": 0,
+    "state_name": "FL",
+    "county": "Unassigned",
+    "confirmed_date": "3/31"
+  },
+  {
+    "people_count": 5598,
+    "state_name": "NY",
+    "county": "Unassigned",
+    "confirmed_date": "3/31"
+  },
+  {
+    "state_name": "NY",
+    "county": "New York",
+    "confirmed_date": "3/31",
+    "people_count": 2813
+  },
+  {
+    "confirmed_date": "3/31",
+    "people_count": 23,
+    "state_name": "CA",
+    "county": "San Francisco"
+  },
+  {
+    "people_count": 2,
+    "state_name": "TX",
+    "county": "Erath",
+    "confirmed_date": "3/31"
+  },
+  {
+    "people_count": 8,
+    "state_name": "KS",
+    "county": "Wyandotte",
+    "confirmed_date": "3/31"
+  },
+  {
+    "people_count": 1,
+    "state_name": "FL",
+    "county": "Highlands",
+    "confirmed_date": "3/31"
   }
 ]
