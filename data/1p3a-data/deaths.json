@@ -5991,11 +5991,11 @@
     "comments": "新泽西3/23新增1例死亡。",
     "comments_en": "One new death was reported in NJ by 3/23.",
     "die_count": 1,
-    "state_name": "NJ",
-    "county": "Unassigned",
     "full_links": [
       "https://www.nj.gov/health/"
-    ]
+    ],
+    "state_name": "NJ",
+    "county": "Union"
   },
   {
     "confirmed_date": "3/23",
@@ -7292,7 +7292,7 @@
     "confirmed_date": "3/24",
     "comments": "截止3/24, 新泽西州州 累计死亡44例, 新增17例。",
     "comments_en": "NJ State  County has in total 44 death cases by 3/24, with 17 new cases added. ",
-    "die_count": 11,
+    "die_count": 0,
     "state_name": "NJ",
     "county": "Unassigned",
     "full_links": [
@@ -8179,7 +8179,7 @@
   },
   {
     "confirmed_date": "3/24",
-    "die_count": 1,
+    "die_count": 3,
     "state_name": "NJ",
     "county": "Bergen",
     "full_links": [
@@ -8189,7 +8189,7 @@
   },
   {
     "confirmed_date": "3/24",
-    "die_count": 1,
+    "die_count": 3,
     "state_name": "NJ",
     "county": "Ocean",
     "full_links": [
@@ -8198,7 +8198,7 @@
   },
   {
     "confirmed_date": "3/24",
-    "die_count": 2,
+    "die_count": 3,
     "state_name": "NJ",
     "county": "Morris",
     "full_links": [
@@ -8207,7 +8207,7 @@
   },
   {
     "confirmed_date": "3/24",
-    "die_count": 1,
+    "die_count": 2,
     "state_name": "NJ",
     "county": "Monmouth",
     "full_links": [
@@ -8255,6 +8255,33 @@
     "full_links": [
       "http://www.dph.illinois.gov/news/202003"
     ]
+  },
+  {
+    "die_count": 2,
+    "state_name": "NJ",
+    "county": "Middlesex",
+    "full_links": [
+      "https://covid19.nj.gov/"
+    ],
+    "confirmed_date": "3/24"
+  },
+  {
+    "die_count": 2,
+    "state_name": "NJ",
+    "county": "Somerset",
+    "full_links": [
+      "https://covid19.nj.gov/"
+    ],
+    "confirmed_date": "3/24"
+  },
+  {
+    "die_count": 2,
+    "state_name": "NJ",
+    "county": "Union",
+    "full_links": [
+      "https://covid19.nj.gov/"
+    ],
+    "confirmed_date": "3/24"
   },
   {
     "confirmed_date": "3/25",
@@ -8579,11 +8606,11 @@
     "comments": "截止3/25, 新泽西州州 累计死亡62例, 新增18例。具体信息具体信息稍后更新。",
     "comments_en": "NJ State  County has in total 62 death cases by 3/25, with 18 new cases added. [We will update the details later].",
     "die_count": 1,
-    "state_name": "NJ",
-    "county": "Unassigned",
     "full_links": [
       "https://www.nj.gov/health/"
-    ]
+    ],
+    "state_name": "NJ",
+    "county": "Union"
   },
   {
     "confirmed_date": "3/25",
@@ -19810,6 +19837,33 @@
     "confirmed_date": "3/30"
   },
   {
+    "die_count": 4,
+    "state_name": "NJ",
+    "county": "Middlesex",
+    "full_links": [
+      "https://covid19.nj.gov/"
+    ],
+    "confirmed_date": "3/30"
+  },
+  {
+    "die_count": 4,
+    "state_name": "NJ",
+    "county": "Monmouth",
+    "full_links": [
+      "https://covid19.nj.gov/"
+    ],
+    "confirmed_date": "3/30"
+  },
+  {
+    "die_count": 3,
+    "state_name": "NJ",
+    "county": "Morris",
+    "full_links": [
+      "https://covid19.nj.gov/"
+    ],
+    "confirmed_date": "3/30"
+  },
+  {
     "confirmed_date": "3/31",
     "gender": "男",
     "die_count": 1,
@@ -22686,7 +22740,7 @@
     "confirmed_date": "3/31"
   },
   {
-    "die_count": 21,
+    "die_count": 19,
     "state_name": "NJ",
     "county": "Bergen",
     "full_links": [
@@ -22704,13 +22758,103 @@
     "confirmed_date": "3/31"
   },
   {
-    "die_count": 4,
+    "die_count": 0,
     "state_name": "NJ",
     "county": "Union",
+    "full_links": [],
+    "confirmed_date": "3/31"
+  },
+  {
+    "die_count": 4,
+    "state_name": "NJ",
+    "county": "Middlesex",
     "full_links": [
       "https://covid19.nj.gov/"
     ],
     "confirmed_date": "3/31"
+  },
+  {
+    "die_count": 5,
+    "state_name": "NJ",
+    "county": "Monmouth",
+    "full_links": [
+      "https://covid19.nj.gov/"
+    ],
+    "confirmed_date": "3/31"
+  },
+  {
+    "die_count": 5,
+    "state_name": "NJ",
+    "county": "Morris",
+    "full_links": [
+      "https://covid19.nj.gov/"
+    ],
+    "confirmed_date": "3/31"
+  },
+  {
+    "die_count": 6,
+    "state_name": "NJ",
+    "county": "Ocean",
+    "full_links": [
+      "https://covid19.nj.gov/"
+    ],
+    "confirmed_date": "3/31"
+  },
+  {
+    "die_count": 1,
+    "state_name": "NJ",
+    "county": "Somerset",
+    "full_links": [
+      "https://covid19.nj.gov/"
+    ],
+    "confirmed_date": "3/31"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://covid19.nj.gov/"
+    ],
+    "state_name": "NJ",
+    "county": "Mercer",
+    "confirmed_date": "3/31"
+  },
+  {
+    "die_count": 2,
+    "state_name": "NJ",
+    "county": "Sussex",
+    "full_links": [
+      "https://covid19.nj.gov/"
+    ],
+    "confirmed_date": "3/31"
+  },
+  {
+    "die_count": 1,
+    "state_name": "NJ",
+    "county": "Gloucester",
+    "full_links": [
+      "https://covid19.nj.gov/"
+    ],
+    "confirmed_date": "3/31"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://covid19.nj.gov/"
+    ],
+    "confirmed_date": "3/31",
+    "state_name": "NJ",
+    "county": "Hunterdon"
+  },
+  {
+    "full_links": [
+      "https://www.nbcdfw.com/news/coronavirus/tarrant-county-reports-two-new-deaths-connected-to-covid-19/2343437/"
+    ],
+    "state_name": "TX",
+    "county": "Tarrant",
+    "confirmed_date": "4/1",
+    "comments_en": "A woman from Fort Worth are Tarrant County's third fatalities related to the outbreak of the new coronavirus.  She had underlying health conditions.",
+    "die_count": 1,
+    "gender": "女"
   },
   {
     "die_count": 1,
@@ -22944,7 +23088,8 @@
     "state_name": "NY",
     "county": "Unassigned",
     "full_links": [
-      "https://www.pscp.tv/w/1YpJkQnrepEKj"
+      "https://www.pscp.tv/w/1YpJkQnrepEKj",
+      "https://www.cnn.com/world/live-news/coronavirus-pandemic-04-01-20-intl/h_afa486a70c1ce30ccf225ea6ec80b7f9"
     ],
     "confirmed_date": "4/1",
     "die_count": 184,
@@ -22969,5 +23114,34 @@
     "county": "Unassigned",
     "age_range": "Unknown",
     "gender": "Unknown"
+  },
+  {
+    "full_links": [
+      "https://www.nbcdfw.com/news/coronavirus/tarrant-county-reports-two-new-deaths-connected-to-covid-19/2343437/"
+    ],
+    "die_count": 1,
+    "confirmed_date": "4/1",
+    "state_name": "TX",
+    "county": "Tarrant",
+    "gender": "男",
+    "comments_en": "A man from Hurst  is Tarrant County's second  fatalities related to the outbreak of the new coronavirus, and he had underlying health conditions. "
+  },
+  {
+    "die_count": 3,
+    "full_links": [
+      "https://www.healthvermont.gov/response/infectious-disease/2019-novel-coronavirus"
+    ],
+    "state_name": "VT",
+    "county": "Unassigned",
+    "confirmed_date": "4/1"
+  },
+  {
+    "die_count": 14,
+    "state_name": "GA",
+    "county": "Unassigned",
+    "full_links": [
+      "https://dph.georgia.gov/covid-19-daily-status-report"
+    ],
+    "confirmed_date": "4/1"
   }
 ]
