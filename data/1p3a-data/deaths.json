@@ -13882,7 +13882,6 @@
     "confirmed_date": "3/27",
     "gender": "女",
     "die_count": 1,
-    "age_range": "Unknown",
     "state_name": "GA",
     "county": "Dougherty",
     "full_links": [
@@ -16024,7 +16023,6 @@
     "gender": "男",
     "comments_en": "Cobb county has 3 additional deaths today; the total number of deaths rose from 5 to 8 today. 03/28. No Additional details available as of 2:36PM EST 03.28\n\n ",
     "die_count": 1,
-    "age_range": "Unknown",
     "state_name": "GA",
     "county": "Cobb",
     "full_links": [
@@ -16060,7 +16058,6 @@
     "confirmed_date": "3/28",
     "gender": "男",
     "die_count": 1,
-    "age_range": "Unknown",
     "state_name": "GA",
     "county": "Dougherty",
     "full_links": [
@@ -17648,7 +17645,6 @@
   },
   {
     "confirmed_date": "3/30",
-    "gender": "Unknown",
     "die_count": 1,
     "age_range": "70+",
     "state_name": "GA",
@@ -19428,15 +19424,6 @@
     "comments_en": "Patient/age unknown in Ozaukee County: Death reported by Washington Ozaukee Health officials on March 30"
   },
   {
-    "confirmed_date": "3/30",
-    "die_count": 10,
-    "full_links": [
-      "http://www.publichealth.lacounty.gov/media/Coronavirus/"
-    ],
-    "state_name": "CA",
-    "county": "Los Angeles"
-  },
-  {
     "die_count": 1,
     "state_name": "MO",
     "county": "St. Louis",
@@ -19726,17 +19713,17 @@
     ],
     "confirmed_date": "3/31",
     "comments_en": "By 3/31 noon, New York reported 1550 total deaths, placeholder.",
-    "die_count": 190
+    "die_count": 24
   },
   {
-    "die_count": 18,
+    "die_count": 182,
     "state_name": "NY",
     "county": "New York",
     "full_links": [
-      "https://www1.nyc.gov/assets/doh/downloads/pdf/imm/covid-19-daily-data-summary.pdf"
+      "https://www1.nyc.gov/site/doh/covid/covid-19-data.page"
     ],
     "confirmed_date": "3/31",
-    "comments_en": "By 3/31 12:20 PM EST, NYC reported 932 deaths in total."
+    "comments_en": "By 3/31 19:20 PM EST, NYC reported 1096 deaths in total."
   },
   {
     "die_count": 1,
@@ -20437,7 +20424,9 @@
   {
     "state_name": "RI",
     "county": "Unassigned",
-    "full_links": [],
+    "full_links": [
+      "https://www.wpri.com/health/coronavirus/march-31-ri-coronavirus-update/"
+    ],
     "confirmed_date": "3/31",
     "die_count": 1,
     "age_range": "80+",
@@ -21020,6 +21009,15 @@
   },
   {
     "confirmed_date": "3/31",
+    "die_count": 10,
+    "full_links": [
+      "http://www.publichealth.lacounty.gov/media/Coronavirus/"
+    ],
+    "state_name": "CA",
+    "county": "Los Angeles"
+  },
+  {
+    "confirmed_date": "3/31",
     "die_count": 1,
     "full_links": [
       "https://www.scdhec.gov/infectious-diseases/viruses/coronavirus-disease-2019-covid-19/monitoring-testing-covid-19",
@@ -21491,5 +21489,219 @@
       "https://fdoh.maps.arcgis.com/apps/opsdashboard/index.html#/8d0de33f260d444c852a615dc7837c86",
       "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-03-31-1742.pdf"
     ]
+  },
+  {
+    "confirmed_date": "3/31",
+    "gender": "Unknown",
+    "die_count": 1,
+    "age_range": "Unknown",
+    "state_name": "GA",
+    "county": "Fulton",
+    "full_links": [
+      "https://dph.georgia.gov/covid-19-daily-status-report"
+    ]
+  },
+  {
+    "confirmed_date": "3/31",
+    "gender": "Unknown",
+    "die_count": 8,
+    "age_range": "Unknown",
+    "state_name": "GA",
+    "county": "Dougherty",
+    "full_links": [
+      "https://dph.georgia.gov/covid-19-daily-status-report",
+      "https://www.11alive.com/article/news/health/coronavirus/coronavirus-deaths-in-georgia/85-e9bb2324-2e27-43ca-a347-ced78cbb186b"
+    ]
+  },
+  {
+    "confirmed_date": "3/31",
+    "die_count": 1,
+    "state_name": "GA",
+    "county": "Cobb",
+    "full_links": [
+      "https://dph.georgia.gov/covid-19-daily-status-report",
+      "https://www.11alive.com/article/news/health/coronavirus/coronavirus-deaths-in-georgia/85-e9bb2324-2e27-43ca-a347-ced78cbb186b"
+    ]
+  },
+  {
+    "confirmed_date": "3/31",
+    "die_count": 1,
+    "state_name": "GA",
+    "county": "DeKalb",
+    "full_links": [
+      "https://dph.georgia.gov/covid-19-daily-status-report",
+      "https://www.11alive.com/article/news/health/coronavirus/coronavirus-deaths-in-georgia/85-e9bb2324-2e27-43ca-a347-ced78cbb186b"
+    ]
+  },
+  {
+    "confirmed_date": "3/31",
+    "die_count": 1,
+    "state_name": "GA",
+    "county": "Bartow",
+    "full_links": [
+      "https://dph.georgia.gov/covid-19-daily-status-report",
+      "https://www.11alive.com/article/news/health/coronavirus/coronavirus-deaths-in-georgia/85-e9bb2324-2e27-43ca-a347-ced78cbb186b"
+    ]
+  },
+  {
+    "confirmed_date": "3/31",
+    "die_count": 1,
+    "state_name": "GA",
+    "county": "Lee",
+    "full_links": [
+      "https://dph.georgia.gov/covid-19-daily-status-report",
+      "https://www.11alive.com/article/news/health/coronavirus/coronavirus-deaths-in-georgia/85-e9bb2324-2e27-43ca-a347-ced78cbb186b"
+    ]
+  },
+  {
+    "confirmed_date": "3/31",
+    "die_count": 1,
+    "state_name": "GA",
+    "county": "Cherokee",
+    "full_links": [
+      "https://dph.georgia.gov/covid-19-daily-status-report",
+      "https://www.11alive.com/article/news/health/coronavirus/coronavirus-deaths-in-georgia/85-e9bb2324-2e27-43ca-a347-ced78cbb186b"
+    ]
+  },
+  {
+    "confirmed_date": "3/31",
+    "die_count": 1,
+    "full_links": [
+      "https://www.latimes.com/projects/california-coronavirus-cases-tracking-outbreak/"
+    ],
+    "state_name": "CA",
+    "county": "San Joaquin"
+  },
+  {
+    "die_count": 1,
+    "state_name": "KY",
+    "county": "Jefferson",
+    "full_links": [
+      "https://www.kentucky.com/news/coronavirus/article241659126.html"
+    ],
+    "gender": "女",
+    "age_range": "80+",
+    "confirmed_date": "3/31"
+  },
+  {
+    "die_count": 1,
+    "state_name": "KY",
+    "county": "Jefferson",
+    "full_links": [
+      "https://www.kentucky.com/news/coronavirus/article241659126.html"
+    ],
+    "gender": "女",
+    "age_range": "80+",
+    "confirmed_date": "3/31"
+  },
+  {
+    "die_count": 1,
+    "state_name": "KY",
+    "county": "Jefferson",
+    "full_links": [
+      "https://www.kentucky.com/news/coronavirus/article241659126.html"
+    ],
+    "gender": "男",
+    "age_range": "70+",
+    "confirmed_date": "3/31"
+  },
+  {
+    "die_count": 1,
+    "state_name": "KY",
+    "county": "Jefferson",
+    "full_links": [
+      "https://www.kentucky.com/news/coronavirus/article241659126.html"
+    ],
+    "gender": "男",
+    "age_range": "60+",
+    "confirmed_date": "3/31"
+  },
+  {
+    "die_count": 1,
+    "state_name": "KY",
+    "county": "Fayette",
+    "full_links": [
+      "https://www.kentucky.com/news/coronavirus/article241659126.html"
+    ],
+    "gender": "女",
+    "age_range": "80+",
+    "confirmed_date": "3/31"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.kentucky.com/news/coronavirus/article241659126.html"
+    ],
+    "confirmed_date": "3/31",
+    "state_name": "KY",
+    "county": "Bullitt",
+    "gender": "男",
+    "age_range": "70+"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.staradvertiser.com/coronavirus/"
+    ],
+    "state_name": "HI",
+    "county": "Unassigned",
+    "confirmed_date": "3/31"
+  },
+  {
+    "die_count": 1,
+    "state_name": "CA",
+    "county": "Sonoma",
+    "full_links": [
+      "https://www.pressdemocrat.com/news/10863702-181/santa-rosa-police-officer-dies"
+    ],
+    "confirmed_date": "3/31"
+  },
+  {
+    "confirmed_date": "3/31",
+    "die_count": 1,
+    "full_links": [
+      "https://www.sanantonio.gov/Health/News/Alerts/CoronaVirus"
+    ],
+    "state_name": "TX",
+    "county": "Bexar",
+    "gender": "男"
+  },
+  {
+    "confirmed_date": "3/31",
+    "die_count": 1,
+    "full_links": [
+      "https://www.sanantonio.gov/Health/News/Alerts/CoronaVirus"
+    ],
+    "state_name": "TX",
+    "county": "Bexar",
+    "gender": "女"
+  },
+  {
+    "confirmed_date": "3/31",
+    "die_count": 1,
+    "full_links": [
+      "https://www.sanantonio.gov/Health/News/Alerts/CoronaVirus"
+    ],
+    "state_name": "TX",
+    "county": "Bexar",
+    "gender": "男"
+  },
+  {
+    "die_count": 1,
+    "state_name": "NY",
+    "county": "Monroe",
+    "full_links": [
+      "https://www.rochesterfirst.com/coronavirus/9th-covid-19-death-300-confirmed-cases-57-hospitalized-24-in-icu/"
+    ],
+    "confirmed_date": "3/31"
+  },
+  {
+    "die_count": 2,
+    "state_name": "NY",
+    "county": "Erie",
+    "full_links": [
+      "http://erieny.maps.arcgis.com/apps/opsdashboard/index.html#/dd7f1c0c352e4192ab162a1dfadc58e1"
+    ],
+    "confirmed_date": "3/31"
   }
 ]
