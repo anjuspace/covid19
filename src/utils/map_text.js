@@ -116,6 +116,12 @@ export const mapText = {
         flagCode: 'jp',
         continent: i18n.ASIA
     },
+    IND: {
+        title: i18n.INDIA_MAP,
+        regionName: str.INDIA_ZH,
+        flagCode: 'in',
+        continent: i18n.ASIA
+    },
     AUT: {
         title: i18n.AUSTRIA_MAP,
         regionName: str.AUSTRIA_ZH,
@@ -158,16 +164,16 @@ export const mapText = {
         flagCode: 'cz',
         continent: i18n.EUROPE
     },
-    POL: {
-        title: i18n.POLAND_MAP,
-        regionName: str.POLAND_ZH,
-        flagCode: 'pl',
-        continent: i18n.EUROPE
-    },
     RUS: {
         title: i18n.RUSSIA_MAP,
         regionName: str.RUSSIA_ZH,
         flagCode: 'ru',
+        continent: i18n.EUROPE
+    },
+    POL: {
+        title: i18n.POLAND_MAP,
+        regionName: str.POLAND_ZH,
+        flagCode: 'pl',
         continent: i18n.EUROPE
     },
     BRA: {
@@ -180,6 +186,24 @@ export const mapText = {
         title: i18n.CHILE_MAP,
         regionName: str.CHILE_ZH,
         flagCode: 'cl',
+        continent: i18n.SOUTH_AMERICA
+    },
+    MEX: {
+        title: i18n.MEXICO_MAP,
+        regionName: str.MEXICO_ZH,
+        flagCode: 'mx',
+        continent: i18n.NORTH_AMERICA
+    },
+    ECU: {
+        title: i18n.ECUADOR_MAP,
+        regionName: str.ECUADOR_ZH,
+        flagCode: 'ec',
+        continent: i18n.SOUTH_AMERICA
+    },
+    ARG: {
+        title: i18n.ARGENTINA_MAP,
+        regionName: str.ARGENTINA_ZH,
+        flagCode: 'ar',
         continent: i18n.SOUTH_AMERICA
     },
     TRANSMISSION: {
