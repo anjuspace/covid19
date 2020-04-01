@@ -22813,7 +22813,7 @@
   },
   {
     "confirmed_date": "3/31",
-    "die_count": 1,
+    "die_count": 0,
     "state_name": "NJ",
     "county": "Hunterdon",
     "full_links": [
@@ -23029,17 +23029,6 @@
   },
   {
     "confirmed_date": "4/1",
-    "gender": "Unknown",
-    "die_count": 1,
-    "age_range": "60+",
-    "state_name": "WI",
-    "county": "Winnebago",
-    "full_links": [
-      "https://wrex.com/2020/03/31/winnebago-county-announces-1st-covid-19-related-death/"
-    ]
-  },
-  {
-    "confirmed_date": "4/1",
     "comments": "Needs details.",
     "comments_en": "Needs details.",
     "die_count": 1,
@@ -23088,7 +23077,8 @@
     "county": "Beadle",
     "full_links": [
       "https://www.argusleader.com/story/news/2020/04/01/coronavirus-state-health-officials-speak-12-30/5103172002/"
-    ]
+    ],
+    "comments_en": "COVID-19 has caused the death of a second person in South Dakota. The 51-year-old mother of three from Huron died suddenly on Saturday morning at a Sioux Falls hospital. The test result for COVID-19 came back on Tuesday was positive. "
   },
   {
     "confirmed_date": "4/1",
@@ -23969,5 +23959,459 @@
       "https://twitter.com/nassauexecutive/status/1245422148774170627?s=21"
     ],
     "confirmed_date": "4/1"
+  },
+  {
+    "die_count": 5,
+    "full_links": [
+      "https://www.health.state.mn.us/diseases/coronavirus/situation.html"
+    ],
+    "confirmed_date": "4/1",
+    "state_name": "MN",
+    "county": "Unassigned"
+  },
+  {
+    "die_count": 5,
+    "state_name": "NV",
+    "county": "Clark",
+    "full_links": [
+      "https://www.reviewjournal.com/news/politics-and-government/nevada/clark-county-reports-5-new-deaths-as-nevada-covid-19-cases-hit-1279-1996281/"
+    ],
+    "confirmed_date": "4/1"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.mass.gov/doc/covid-19-cases-in-massachusetts-as-of-april-1-2020/download"
+    ],
+    "confirmed_date": "4/1",
+    "state_name": "MA",
+    "county": "Hampden",
+    "gender": "男",
+    "age_range": "80+"
+  },
+  {
+    "confirmed_date": "4/1",
+    "gender": "男",
+    "die_count": 1,
+    "age_range": "90+",
+    "full_links": [
+      "https://www.mass.gov/doc/covid-19-cases-in-massachusetts-as-of-april-1-2020/download"
+    ],
+    "state_name": "MA",
+    "county": "Essex"
+  },
+  {
+    "confirmed_date": "4/1",
+    "gender": "男",
+    "die_count": 1,
+    "age_range": "70+",
+    "full_links": [
+      "https://www.mass.gov/doc/covid-19-cases-in-massachusetts-as-of-april-1-2020/download"
+    ],
+    "state_name": "MA",
+    "county": "Middlesex"
+  },
+  {
+    "confirmed_date": "4/1",
+    "gender": "女",
+    "die_count": 1,
+    "age_range": "80+",
+    "full_links": [
+      "https://www.mass.gov/doc/covid-19-cases-in-massachusetts-as-of-april-1-2020/download"
+    ],
+    "state_name": "MA",
+    "county": "Suffolk"
+  },
+  {
+    "confirmed_date": "4/1",
+    "gender": "男",
+    "die_count": 1,
+    "age_range": "30+",
+    "state_name": "MA",
+    "county": "Suffolk",
+    "full_links": [
+      "https://www.mass.gov/doc/covid-19-cases-in-massachusetts-as-of-april-1-2020/download"
+    ]
+  },
+  {
+    "confirmed_date": "4/1",
+    "gender": "女",
+    "die_count": 1,
+    "age_range": "70+",
+    "full_links": [
+      "https://www.mass.gov/doc/covid-19-cases-in-massachusetts-as-of-april-1-2020/download"
+    ],
+    "state_name": "MA",
+    "county": "Franklin"
+  },
+  {
+    "confirmed_date": "4/1",
+    "gender": "女",
+    "die_count": 1,
+    "age_range": "80+",
+    "full_links": [
+      "https://www.mass.gov/doc/covid-19-cases-in-massachusetts-as-of-april-1-2020/download"
+    ],
+    "state_name": "MA",
+    "county": "Worcester"
+  },
+  {
+    "confirmed_date": "4/1",
+    "gender": "女",
+    "die_count": 1,
+    "age_range": "90+",
+    "full_links": [
+      "https://www.mass.gov/doc/covid-19-cases-in-massachusetts-as-of-april-1-2020/download"
+    ],
+    "state_name": "MA",
+    "county": "Bristol"
+  },
+  {
+    "die_count": 35,
+    "full_links": [
+      "http://www.dph.illinois.gov/topics-services/diseases-and-conditions/diseases-a-z-list/coronavirus"
+    ],
+    "confirmed_date": "4/1",
+    "state_name": "IL",
+    "county": "Cook"
+  },
+  {
+    "full_links": [
+      "http://www.dph.illinois.gov/topics-services/diseases-and-conditions/diseases-a-z-list/coronavirus"
+    ],
+    "confirmed_date": "4/1",
+    "die_count": 1,
+    "state_name": "IL",
+    "county": "Will"
+  },
+  {
+    "full_links": [
+      "http://www.dph.illinois.gov/topics-services/diseases-and-conditions/diseases-a-z-list/coronavirus"
+    ],
+    "confirmed_date": "4/1",
+    "die_count": 1,
+    "state_name": "IL",
+    "county": "Carroll"
+  },
+  {
+    "full_links": [
+      "http://www.dph.illinois.gov/topics-services/diseases-and-conditions/diseases-a-z-list/coronavirus"
+    ],
+    "confirmed_date": "4/1",
+    "die_count": 1,
+    "state_name": "IL",
+    "county": "Kane"
+  },
+  {
+    "full_links": [
+      "http://www.dph.illinois.gov/topics-services/diseases-and-conditions/diseases-a-z-list/coronavirus"
+    ],
+    "confirmed_date": "4/1",
+    "die_count": 1,
+    "state_name": "IL",
+    "county": "Lake"
+  },
+  {
+    "full_links": [
+      "http://www.dph.illinois.gov/topics-services/diseases-and-conditions/diseases-a-z-list/coronavirus"
+    ],
+    "confirmed_date": "4/1",
+    "die_count": 1,
+    "state_name": "IL",
+    "county": "Sangamon"
+  },
+  {
+    "full_links": [
+      "http://www.dph.illinois.gov/topics-services/diseases-and-conditions/diseases-a-z-list/coronavirus"
+    ],
+    "confirmed_date": "4/1",
+    "die_count": 1,
+    "state_name": "IL",
+    "county": "DuPage"
+  },
+  {
+    "confirmed_date": "4/1",
+    "gender": "女",
+    "die_count": 1,
+    "age_range": "70+",
+    "state_name": "MA",
+    "county": "Suffolk",
+    "full_links": [
+      "https://www.mass.gov/doc/covid-19-cases-in-massachusetts-as-of-april-1-2020/download"
+    ]
+  },
+  {
+    "confirmed_date": "4/1",
+    "gender": "男",
+    "die_count": 1,
+    "age_range": "80+",
+    "state_name": "MA",
+    "county": "Essex",
+    "full_links": [
+      "https://www.mass.gov/doc/covid-19-cases-in-massachusetts-as-of-april-1-2020/download"
+    ]
+  },
+  {
+    "confirmed_date": "4/1",
+    "gender": "男",
+    "die_count": 1,
+    "age_range": "80+",
+    "state_name": "MA",
+    "county": "Essex",
+    "full_links": [
+      "https://www.mass.gov/doc/covid-19-cases-in-massachusetts-as-of-april-1-2020/download"
+    ]
+  },
+  {
+    "confirmed_date": "4/1",
+    "gender": "女",
+    "die_count": 1,
+    "age_range": "80+",
+    "state_name": "MA",
+    "county": "Hampden",
+    "full_links": [
+      "https://www.mass.gov/doc/covid-19-cases-in-massachusetts-as-of-april-1-2020/download"
+    ]
+  },
+  {
+    "confirmed_date": "4/1",
+    "gender": "女",
+    "die_count": 1,
+    "age_range": "90+",
+    "state_name": "MA",
+    "county": "Hampden",
+    "full_links": [
+      "https://www.mass.gov/doc/covid-19-cases-in-massachusetts-as-of-april-1-2020/download"
+    ]
+  },
+  {
+    "confirmed_date": "4/1",
+    "gender": "女",
+    "die_count": 1,
+    "age_range": "70+",
+    "full_links": [
+      "https://www.mass.gov/doc/covid-19-cases-in-massachusetts-as-of-april-1-2020/download"
+    ],
+    "state_name": "MA",
+    "county": "Plymouth"
+  },
+  {
+    "confirmed_date": "4/1",
+    "gender": "女",
+    "die_count": 1,
+    "age_range": "80+",
+    "full_links": [
+      "https://www.mass.gov/doc/covid-19-cases-in-massachusetts-as-of-april-1-2020/download"
+    ],
+    "state_name": "MA",
+    "county": "Norfolk"
+  },
+  {
+    "confirmed_date": "4/1",
+    "gender": "男",
+    "die_count": 1,
+    "age_range": "80+",
+    "full_links": [
+      "https://www.mass.gov/doc/covid-19-cases-in-massachusetts-as-of-april-1-2020/download"
+    ],
+    "state_name": "MA",
+    "county": "Plymouth"
+  },
+  {
+    "confirmed_date": "4/1",
+    "gender": "男",
+    "die_count": 1,
+    "age_range": "70+",
+    "state_name": "MA",
+    "county": "Suffolk",
+    "full_links": [
+      "https://www.mass.gov/doc/covid-19-cases-in-massachusetts-as-of-april-1-2020/download"
+    ]
+  },
+  {
+    "confirmed_date": "4/1",
+    "gender": "女",
+    "die_count": 1,
+    "age_range": "100+",
+    "state_name": "MA",
+    "county": "Suffolk",
+    "full_links": [
+      "https://www.mass.gov/doc/covid-19-cases-in-massachusetts-as-of-april-1-2020/download"
+    ],
+    "comments_en": "Female 100s"
+  },
+  {
+    "confirmed_date": "4/1",
+    "gender": "女",
+    "die_count": 1,
+    "age_range": "90+",
+    "state_name": "MA",
+    "county": "Essex",
+    "full_links": [
+      "https://www.mass.gov/doc/covid-19-cases-in-massachusetts-as-of-april-1-2020/download"
+    ]
+  },
+  {
+    "confirmed_date": "4/1",
+    "gender": "女",
+    "die_count": 1,
+    "age_range": "50+",
+    "full_links": [
+      "https://www.mass.gov/doc/covid-19-cases-in-massachusetts-as-of-april-1-2020/download"
+    ],
+    "state_name": "MA",
+    "county": "Barnstable"
+  },
+  {
+    "confirmed_date": "4/1",
+    "gender": "男",
+    "die_count": 1,
+    "age_range": "90+",
+    "state_name": "MA",
+    "county": "Hampden",
+    "full_links": [
+      "https://www.mass.gov/doc/covid-19-cases-in-massachusetts-as-of-april-1-2020/download"
+    ]
+  },
+  {
+    "confirmed_date": "4/1",
+    "gender": "女",
+    "die_count": 1,
+    "age_range": "60+",
+    "state_name": "MA",
+    "county": "Essex",
+    "full_links": [
+      "https://www.mass.gov/doc/covid-19-cases-in-massachusetts-as-of-april-1-2020/download"
+    ]
+  },
+  {
+    "confirmed_date": "4/1",
+    "gender": "女",
+    "die_count": 1,
+    "age_range": "70+",
+    "state_name": "MA",
+    "county": "Plymouth",
+    "full_links": [
+      "https://www.mass.gov/doc/covid-19-cases-in-massachusetts-as-of-april-1-2020/download"
+    ]
+  },
+  {
+    "confirmed_date": "4/1",
+    "gender": "女",
+    "die_count": 1,
+    "age_range": "60+",
+    "full_links": [
+      "https://www.mass.gov/doc/covid-19-cases-in-massachusetts-as-of-april-1-2020/download"
+    ],
+    "state_name": "MA",
+    "county": "Worcester"
+  },
+  {
+    "die_count": 1,
+    "state_name": "NJ",
+    "county": "Gloucester",
+    "full_links": [
+      "https://www.nj.gov/health/cd/topics/covid2019_dashboard.shtml"
+    ],
+    "confirmed_date": "4/1"
+  },
+  {
+    "confirmed_date": "4/1",
+    "gender": "女",
+    "die_count": 1,
+    "age_range": "90+",
+    "full_links": [
+      "https://www.mass.gov/doc/covid-19-cases-in-massachusetts-as-of-april-1-2020/download"
+    ],
+    "state_name": "MA",
+    "county": "Franklin"
+  },
+  {
+    "confirmed_date": "4/1",
+    "gender": "女",
+    "die_count": 1,
+    "age_range": "90+",
+    "state_name": "MA",
+    "county": "Suffolk",
+    "full_links": [
+      "https://www.mass.gov/doc/covid-19-cases-in-massachusetts-as-of-april-1-2020/download"
+    ]
+  },
+  {
+    "confirmed_date": "4/1",
+    "gender": "男",
+    "die_count": 1,
+    "age_range": "50+",
+    "state_name": "MA",
+    "county": "Norfolk",
+    "full_links": [
+      "https://www.mass.gov/doc/covid-19-cases-in-massachusetts-as-of-april-1-2020/download"
+    ]
+  },
+  {
+    "confirmed_date": "4/1",
+    "gender": "女",
+    "die_count": 1,
+    "age_range": "60+",
+    "state_name": "MA",
+    "county": "Hampden",
+    "full_links": [
+      "https://www.mass.gov/doc/covid-19-cases-in-massachusetts-as-of-april-1-2020/download"
+    ]
+  },
+  {
+    "confirmed_date": "4/1",
+    "gender": "男",
+    "die_count": 1,
+    "age_range": "80+",
+    "state_name": "MA",
+    "county": "Middlesex",
+    "full_links": [
+      "https://www.mass.gov/doc/covid-19-cases-in-massachusetts-as-of-april-1-2020/download"
+    ]
+  },
+  {
+    "confirmed_date": "4/1",
+    "gender": "男",
+    "die_count": 1,
+    "age_range": "80+",
+    "state_name": "MA",
+    "county": "Norfolk",
+    "full_links": [
+      "https://www.mass.gov/doc/covid-19-cases-in-massachusetts-as-of-april-1-2020/download"
+    ]
+  },
+  {
+    "confirmed_date": "4/1",
+    "gender": "男",
+    "die_count": 1,
+    "age_range": "80+",
+    "state_name": "MA",
+    "county": "Suffolk",
+    "full_links": [
+      "https://www.mass.gov/doc/covid-19-cases-in-massachusetts-as-of-april-1-2020/download"
+    ]
+  },
+  {
+    "confirmed_date": "4/1",
+    "gender": "男",
+    "die_count": 1,
+    "age_range": "80+",
+    "state_name": "MA",
+    "county": "Middlesex",
+    "full_links": [
+      "https://www.mass.gov/doc/covid-19-cases-in-massachusetts-as-of-april-1-2020/download"
+    ]
+  },
+  {
+    "confirmed_date": "4/1",
+    "gender": "男",
+    "die_count": 1,
+    "age_range": "70+",
+    "state_name": "MA",
+    "county": "Franklin",
+    "full_links": [
+      "https://www.mass.gov/doc/covid-19-cases-in-massachusetts-as-of-april-1-2020/download"
+    ]
   }
 ]
