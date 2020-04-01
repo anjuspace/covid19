@@ -4804,11 +4804,11 @@
   },
   {
     "confirmed_date": "3/22",
-    "gender": "Unknown",
+    "gender": "女",
     "comments": "3/22 伊利诺伊累计死亡9例。新增1例死亡。",
     "comments_en": "3/22 Illinois has a total of 9 deaths. placeholder. ",
     "die_count": 1,
-    "age_range": "Unknown",
+    "age_range": "70+",
     "state_name": "IL",
     "county": "McLean",
     "full_links": [
@@ -4836,7 +4836,8 @@
     "die_count": 1,
     "age_range": "Unknown",
     "full_links": [
-      "https://www.nj.gov/health/"
+      "https://www.nj.gov/health/",
+      "https://www.nj.com/coronavirus/2020/03/where-is-the-coronavirus-in-nj-map-update-on-county-by-county-cases-march-23-2020.html"
     ],
     "state_name": "NJ",
     "county": "Bergen"
@@ -4848,11 +4849,12 @@
     "comments_en": "One new death was reported in NJ by 3/22.",
     "die_count": 1,
     "age_range": "Unknown",
-    "county": "Unassigned",
     "full_links": [
-      "https://www.nj.gov/health/"
+      "https://www.nj.gov/health/",
+      "https://www.nj.com/coronavirus/2020/03/where-is-the-coronavirus-in-nj-map-update-on-county-by-county-cases-march-23-2020.html"
     ],
-    "state_name": "NJ"
+    "state_name": "NJ",
+    "county": "Warren"
   },
   {
     "confirmed_date": "3/22",
@@ -5622,6 +5624,35 @@
   {
     "confirmed_date": "3/22",
     "gender": "男",
+    "comments": "Cook County 第5例死亡。",
+    "comments_en": "Cook County 5th death.",
+    "die_count": 1,
+    "age_range": "80+",
+    "state_name": "IL",
+    "county": "Cook",
+    "full_links": [
+      "https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Illinois",
+      "http://www.dph.illinois.gov/topics-services/diseases-and-conditions/diseases-a-z-list/coronavirus",
+      "http://www.dph.illinois.gov/news/202003"
+    ]
+  },
+  {
+    "confirmed_date": "3/22",
+    "gender": "男",
+    "comments": "Cook County 第6例死亡。",
+    "comments_en": "Cook County 6th death.",
+    "die_count": 1,
+    "age_range": "80+",
+    "state_name": "IL",
+    "county": "Cook",
+    "full_links": [
+      "https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Illinois",
+      "http://www.dph.illinois.gov/topics-services/diseases-and-conditions/diseases-a-z-list/coronavirus"
+    ]
+  },
+  {
+    "confirmed_date": "3/22",
+    "gender": "男",
     "comments": "Palm Beach首例死亡，系83岁男性。",
     "comments_en": "Palm Beach 1st Death, a 83 year old male.",
     "die_count": 1,
@@ -5813,7 +5844,8 @@
     "die_count": 1,
     "age_range": "Unknown",
     "full_links": [
-      "https://www.nj.gov/health/"
+      "https://www.nj.gov/health/",
+      "https://www.nj.com/coronavirus/2020/03/where-is-the-coronavirus-in-nj-map-update-on-county-by-county-cases-march-23-2020.html"
     ],
     "state_name": "NJ",
     "county": "Bergen"
@@ -5948,7 +5980,8 @@
     "comments_en": "One new death was reported in NJ by 3/23.",
     "die_count": 1,
     "full_links": [
-      "https://www.nj.gov/health/"
+      "https://www.nj.gov/health/",
+      "https://www.nj.com/coronavirus/2020/03/where-is-the-coronavirus-in-nj-map-update-on-county-by-county-cases-march-23-2020.html"
     ],
     "state_name": "NJ",
     "county": "Bergen"
@@ -5969,33 +6002,36 @@
     "comments": "新泽西3/23新增1例死亡。",
     "comments_en": "One new death was reported in NJ by 3/23.",
     "die_count": 1,
-    "county": "Unassigned",
     "full_links": [
-      "https://www.nj.gov/health/"
+      "https://www.nj.gov/health/",
+      "https://www.nj.com/coronavirus/2020/03/where-is-the-coronavirus-in-nj-map-update-on-county-by-county-cases-march-23-2020.html"
     ],
-    "state_name": "NJ"
+    "state_name": "NJ",
+    "county": "Middlesex"
   },
   {
     "confirmed_date": "3/23",
     "comments": "新泽西3/23新增1例死亡。",
     "comments_en": "One new death was reported in NJ by 3/23.",
     "die_count": 1,
-    "county": "Unassigned",
     "full_links": [
-      "https://www.nj.gov/health/"
+      "https://www.nj.gov/health/",
+      "https://www.nj.com/coronavirus/2020/03/where-is-the-coronavirus-in-nj-map-update-on-county-by-county-cases-march-23-2020.html"
     ],
-    "state_name": "NJ"
+    "state_name": "NJ",
+    "county": "Passaic"
   },
   {
     "confirmed_date": "3/23",
     "comments": "新泽西3/23新增1例死亡。",
     "comments_en": "One new death was reported in NJ by 3/23.",
     "die_count": 1,
-    "county": "Unassigned",
     "full_links": [
-      "https://www.nj.gov/health/"
+      "https://www.nj.gov/health/",
+      "https://www.nj.com/coronavirus/2020/03/where-is-the-coronavirus-in-nj-map-update-on-county-by-county-cases-march-23-2020.html"
     ],
-    "state_name": "NJ"
+    "state_name": "NJ",
+    "county": "Somerset"
   },
   {
     "confirmed_date": "3/23",
@@ -6205,39 +6241,11 @@
   },
   {
     "confirmed_date": "3/23",
-    "gender": "Unknown",
-    "comments": "Cook County 第5例死亡。",
-    "comments_en": "Cook County 5th death.",
-    "die_count": 1,
-    "age_range": "Unknown",
-    "state_name": "IL",
-    "county": "Cook",
-    "full_links": [
-      "https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Illinois",
-      "http://www.dph.illinois.gov/topics-services/diseases-and-conditions/diseases-a-z-list/coronavirus"
-    ]
-  },
-  {
-    "confirmed_date": "3/23",
-    "gender": "Unknown",
-    "comments": "Cook County 第6例死亡。",
-    "comments_en": "Cook County 6th death.",
-    "die_count": 1,
-    "age_range": "Unknown",
-    "state_name": "IL",
-    "county": "Cook",
-    "full_links": [
-      "https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Illinois",
-      "http://www.dph.illinois.gov/topics-services/diseases-and-conditions/diseases-a-z-list/coronavirus"
-    ]
-  },
-  {
-    "confirmed_date": "3/23",
-    "gender": "Unknown",
+    "gender": "男",
     "comments": "Cook County 第7例死亡。",
     "comments_en": "Cook County 7th death.",
     "die_count": 1,
-    "age_range": "Unknown",
+    "age_range": "80+",
     "state_name": "IL",
     "county": "Cook",
     "full_links": [
@@ -6247,11 +6255,11 @@
   },
   {
     "confirmed_date": "3/23",
-    "gender": "Unknown",
+    "gender": "男",
     "comments": "Cook County 第8例死亡。",
     "comments_en": "Cook County 8th death.",
     "die_count": 1,
-    "age_range": "Unknown",
+    "age_range": "80+",
     "state_name": "IL",
     "county": "Cook",
     "full_links": [
@@ -6261,11 +6269,11 @@
   },
   {
     "confirmed_date": "3/23",
-    "gender": "Unknown",
+    "gender": "男",
     "comments": "Cook County 第9例死亡。",
     "comments_en": "Cook County 9th death.",
     "die_count": 1,
-    "age_range": "Unknown",
+    "age_range": "90+",
     "state_name": "IL",
     "county": "Cook",
     "full_links": [
@@ -7284,7 +7292,7 @@
     "confirmed_date": "3/24",
     "comments": "截止3/24, 新泽西州州 累计死亡44例, 新增17例。",
     "comments_en": "NJ State  County has in total 44 death cases by 3/24, with 17 new cases added. ",
-    "die_count": 17,
+    "die_count": 11,
     "county": "Unassigned",
     "full_links": [
       "https://www.nj.gov/health/"
@@ -7413,12 +7421,14 @@
     "confirmed_date": "3/24",
     "comments": "3/24 Cook County累计13例死亡。",
     "comments_en": "IL State Cook County reports 13 deaths as of 3/24.",
-    "die_count": 4,
+    "die_count": 1,
     "state_name": "IL",
     "county": "Cook",
     "full_links": [
       "http://www.dph.illinois.gov/topics-services/diseases-and-conditions/diseases-a-z-list/coronavirus"
-    ]
+    ],
+    "gender": "男",
+    "age_range": "50+"
   },
   {
     "confirmed_date": "3/24",
@@ -8166,6 +8176,85 @@
     "full_links": [
       "https://www.11alive.com/article/news/health/coronavirus/coronavirus-deaths-in-georgia/85-e9bb2324-2e27-43ca-a347-ced78cbb186b"
     ]
+  },
+  {
+    "confirmed_date": "3/24",
+    "die_count": 1,
+    "full_links": [
+      "https://covid19.nj.gov/",
+      "https://www.nj.com/coronavirus/2020/03/where-is-the-coronavirus-in-nj-latest-map-update-on-county-by-county-cases-march-29-2020.html"
+    ],
+    "state_name": "NJ",
+    "county": "Bergen"
+  },
+  {
+    "confirmed_date": "3/24",
+    "die_count": 1,
+    "state_name": "NJ",
+    "county": "Ocean",
+    "full_links": [
+      "https://www.nj.com/coronavirus/2020/03/where-is-the-coronavirus-in-nj-latest-map-update-on-county-by-county-cases-march-29-2020.html"
+    ]
+  },
+  {
+    "confirmed_date": "3/24",
+    "die_count": 2,
+    "state_name": "NJ",
+    "county": "Morris",
+    "full_links": [
+      "https://www.nj.com/coronavirus/2020/03/where-is-the-coronavirus-in-nj-latest-map-update-on-county-by-county-cases-march-29-2020.html"
+    ]
+  },
+  {
+    "confirmed_date": "3/24",
+    "die_count": 1,
+    "state_name": "NJ",
+    "county": "Monmouth",
+    "full_links": [
+      "https://www.nj.com/coronavirus/2020/03/where-is-the-coronavirus-in-nj-latest-map-update-on-county-by-county-cases-march-29-2020.html"
+    ]
+  },
+  {
+    "confirmed_date": "3/24",
+    "die_count": 1,
+    "state_name": "NJ",
+    "county": "Essex",
+    "full_links": [
+      "https://www.nj.com/coronavirus/2020/03/where-is-the-coronavirus-in-nj-latest-map-update-on-county-by-county-cases-march-29-2020.html"
+    ]
+  },
+  {
+    "die_count": 1,
+    "state_name": "IL",
+    "county": "Cook",
+    "full_links": [
+      "http://www.dph.illinois.gov/news/202003"
+    ],
+    "confirmed_date": "3/24",
+    "age_range": "60+",
+    "gender": "Unknown"
+  },
+  {
+    "die_count": 1,
+    "state_name": "IL",
+    "county": "Cook",
+    "full_links": [
+      "http://www.dph.illinois.gov/news/202003"
+    ],
+    "confirmed_date": "3/24",
+    "age_range": "60+",
+    "gender": "Unknown"
+  },
+  {
+    "die_count": 1,
+    "state_name": "IL",
+    "county": "DuPage",
+    "full_links": [
+      "http://www.dph.illinois.gov/news/202003"
+    ],
+    "confirmed_date": "3/24",
+    "gender": "女",
+    "age_range": "90+"
   },
   {
     "confirmed_date": "3/25",
@@ -16338,15 +16427,6 @@
   },
   {
     "confirmed_date": "3/29",
-    "die_count": 9,
-    "full_links": [
-      "https://covid19.nj.gov/"
-    ],
-    "state_name": "NJ",
-    "county": "Bergen"
-  },
-  {
-    "confirmed_date": "3/29",
     "die_count": 1,
     "state_name": "OK",
     "county": "Oklahoma",
@@ -17609,7 +17689,7 @@
   },
   {
     "confirmed_date": "3/29",
-    "die_count": 12,
+    "die_count": 0,
     "state_name": "NJ",
     "county": "Unassigned",
     "full_links": [
@@ -17627,6 +17707,88 @@
     "confirmed_date": "3/29",
     "gender": "女",
     "age_range": "60+"
+  },
+  {
+    "die_count": 1,
+    "state_name": "NJ",
+    "county": "Burlington",
+    "full_links": [
+      "https://www.nj.com/coronavirus/2020/03/where-is-the-coronavirus-in-nj-latest-map-update-on-county-by-county-cases-march-29-2020.html"
+    ],
+    "confirmed_date": "3/29"
+  },
+  {
+    "die_count": 4,
+    "state_name": "NJ",
+    "county": "Essex",
+    "full_links": [
+      "https://www.nj.com/coronavirus/2020/03/where-is-the-coronavirus-in-nj-latest-map-update-on-county-by-county-cases-march-29-2020.html"
+    ],
+    "confirmed_date": "3/29"
+  },
+  {
+    "die_count": 1,
+    "state_name": "NJ",
+    "county": "Middlesex",
+    "full_links": [
+      "https://www.nj.com/coronavirus/2020/03/where-is-the-coronavirus-in-nj-latest-map-update-on-county-by-county-cases-march-29-2020.html"
+    ],
+    "confirmed_date": "3/29"
+  },
+  {
+    "die_count": 2,
+    "state_name": "NJ",
+    "county": "Monmouth",
+    "full_links": [
+      "https://www.nj.com/coronavirus/2020/03/where-is-the-coronavirus-in-nj-latest-map-update-on-county-by-county-cases-march-29-2020.html"
+    ],
+    "confirmed_date": "3/29"
+  },
+  {
+    "die_count": 2,
+    "state_name": "NJ",
+    "county": "Morris",
+    "full_links": [
+      "https://www.nj.com/coronavirus/2020/03/where-is-the-coronavirus-in-nj-latest-map-update-on-county-by-county-cases-march-29-2020.html"
+    ],
+    "confirmed_date": "3/29"
+  },
+  {
+    "die_count": 2,
+    "state_name": "NJ",
+    "county": "Ocean",
+    "full_links": [
+      "https://www.nj.com/coronavirus/2020/03/where-is-the-coronavirus-in-nj-latest-map-update-on-county-by-county-cases-march-29-2020.html"
+    ],
+    "confirmed_date": "3/29"
+  },
+  {
+    "die_count": 1,
+    "state_name": "NJ",
+    "county": "Somerset",
+    "full_links": [
+      "https://www.nj.com/coronavirus/2020/03/where-is-the-coronavirus-in-nj-latest-map-update-on-county-by-county-cases-march-29-2020.html"
+    ],
+    "confirmed_date": "3/29"
+  },
+  {
+    "die_count": 3,
+    "state_name": "NJ",
+    "county": "Union",
+    "full_links": [
+      "https://www.nj.com/coronavirus/2020/03/where-is-the-coronavirus-in-nj-latest-map-update-on-county-by-county-cases-march-29-2020.html"
+    ],
+    "confirmed_date": "3/29"
+  },
+  {
+    "confirmed_date": "3/29",
+    "die_count": 5,
+    "state_name": "NJ",
+    "county": "Bergen",
+    "full_links": [
+      "https://covid19.nj.gov/",
+      "https://www.nj.com/coronavirus/2020/03/where-is-the-coronavirus-in-nj-latest-map-update-on-county-by-county-cases-march-29-2020.html"
+    ]
   },
   {
     "confirmed_date": "3/30",
@@ -17945,7 +18107,7 @@
   },
   {
     "confirmed_date": "3/30",
-    "die_count": 34,
+    "die_count": 24,
     "county": "Unassigned",
     "full_links": [
       "https://covid19.nj.gov/"
@@ -19163,8 +19325,11 @@
     "state_name": "ID",
     "county": "Nez Perce",
     "full_links": [
-      "https://idahopublichealth.com/district-2/novel-coronavirus"
-    ]
+      "https://idahopublichealth.com/district-2/novel-coronavirus",
+      "https://lmtribune.com/tri-state-memorial-hospital-confirms-two-covid--related-deaths/article_1dc431ca-7151-11ea-860b-83ddb96d657e.html"
+    ],
+    "gender": "Unknown",
+    "age_range": "90+"
   },
   {
     "confirmed_date": "3/30",
@@ -19613,6 +19778,22 @@
     ],
     "confirmed_date": "3/30",
     "comments_en": "13% of New York's cases are in Westchester County, officials reported Tuesday. The county announced there are 9,967 positive cases and 25 dead, up 10 since Friday."
+  },
+  {
+    "die_count": 7,
+    "state_name": "NJ",
+    "county": "Essex",
+    "full_links": [],
+    "confirmed_date": "3/30"
+  },
+  {
+    "die_count": 3,
+    "state_name": "NJ",
+    "county": "Somerset",
+    "full_links": [
+      "https://www.nj.com/coronavirus/2020/03/where-is-the-coronavirus-in-nj-latest-map-update-on-county-by-county-cases-march-31-2020.html"
+    ],
+    "confirmed_date": "3/30"
   },
   {
     "confirmed_date": "3/31",
@@ -20428,7 +20609,7 @@
       "https://www.nj.com/coronavirus/2020/03/nj-coronavirus-deaths-surge-to-267-with-18696-total-cases-more-than-2k-new-positive-tests-reported.html"
     ],
     "confirmed_date": "3/31",
-    "die_count": 68
+    "die_count": 58
   },
   {
     "full_links": [
@@ -22214,7 +22395,9 @@
     "die_count": 1,
     "state_name": "IL",
     "county": "Cook",
-    "full_links": [],
+    "full_links": [
+      "http://www.dph.illinois.gov/news/202003"
+    ],
     "confirmed_date": "3/31",
     "gender": "男",
     "age_range": "80+"
@@ -22223,7 +22406,9 @@
     "die_count": 1,
     "state_name": "IL",
     "county": "Cook",
-    "full_links": [],
+    "full_links": [
+      "http://www.dph.illinois.gov/news/202003"
+    ],
     "confirmed_date": "3/31",
     "gender": "女",
     "age_range": "80+"
@@ -22232,7 +22417,9 @@
     "die_count": 1,
     "state_name": "IL",
     "county": "Cook",
-    "full_links": [],
+    "full_links": [
+      "http://www.dph.illinois.gov/news/202003"
+    ],
     "confirmed_date": "3/31",
     "gender": "男",
     "age_range": "90+"
@@ -22267,5 +22454,66 @@
     "confirmed_date": "3/31",
     "gender": "女",
     "age_range": "80+"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://cv.nmhealth.org/2020/03/31/updated-new-mexico-covid-19-cases-now-at-315/"
+    ],
+    "confirmed_date": "3/31",
+    "age_range": "40+",
+    "gender": "男",
+    "state_name": "NM",
+    "county": "Bernalillo",
+    "comments_en": "A male in his 40s in Bernalillo County who died Sunday, March 29. He had an underlying medical condition."
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.wacotrib.com/news/local/waco-isd-principal-becomes-first-covid-19-death-in-mclennan-county/article_527c9074-0f59-5de8-aea8-a9e7549e08d1.html"
+    ],
+    "state_name": "TX",
+    "county": "McLennan",
+    "confirmed_date": "3/31",
+    "comments_en": "A Waco Independent School District principal died Tuesday from complications of COVID-19, the first death related to the disease in McLennan County, Superintendent Susan Kincannon announced.",
+    "gender": "男",
+    "age_range": "40+"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://whyy.org/articles/trump-declares-major-disaster-in-pa-penn-to-pay-laid-off-dining-workers/"
+    ],
+    "confirmed_date": "3/31",
+    "state_name": "PA",
+    "county": "Unassigned"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://health.frederickcountymd.gov/DocumentCenter/View/5743/33120-First-Frederick-County-COVID-19-Death"
+    ],
+    "confirmed_date": "3/31",
+    "state_name": "MD",
+    "county": "Frederick",
+    "comments": "Frederick County Health Department announced today\nthe first death of a Frederick County resident from COVID-19: a woman in her 90s with\nunderlying medical conditions.",
+    "gender": "女",
+    "age_range": "90+"
+  },
+  {
+    "die_count": 2,
+    "state_name": "NJ",
+    "county": "Burlington",
+    "full_links": [
+      "https://www.nj.com/coronavirus/2020/03/where-is-the-coronavirus-in-nj-latest-map-update-on-county-by-county-cases-march-31-2020.html"
+    ],
+    "confirmed_date": "3/31"
+  },
+  {
+    "die_count": 8,
+    "state_name": "NJ",
+    "county": "Essex",
+    "full_links": [],
+    "confirmed_date": "3/31"
   }
 ]
