@@ -20414,7 +20414,7 @@
   },
   {
     "confirmed_date": "3/31",
-    "die_count": 1,
+    "die_count": 0,
     "state_name": "LA",
     "county": "Ascension",
     "full_links": [
@@ -20594,7 +20594,7 @@
   },
   {
     "confirmed_date": "3/31",
-    "die_count": 4,
+    "die_count": 0,
     "state_name": "LA",
     "county": "Unassigned",
     "full_links": [
@@ -21852,7 +21852,7 @@
   },
   {
     "confirmed_date": "3/31",
-    "die_count": 9,
+    "die_count": 0,
     "state_name": "AL",
     "county": "Unassigned",
     "full_links": [
@@ -22750,7 +22750,7 @@
   },
   {
     "confirmed_date": "3/31",
-    "die_count": 4,
+    "die_count": 7,
     "state_name": "NJ",
     "county": "Middlesex",
     "full_links": [
@@ -22759,7 +22759,7 @@
   },
   {
     "confirmed_date": "3/31",
-    "die_count": 5,
+    "die_count": 8,
     "state_name": "NJ",
     "county": "Monmouth",
     "full_links": [
@@ -22807,15 +22807,6 @@
     "die_count": 2,
     "state_name": "NJ",
     "county": "Sussex",
-    "full_links": [
-      "https://covid19.nj.gov/"
-    ]
-  },
-  {
-    "confirmed_date": "3/31",
-    "die_count": 1,
-    "state_name": "NJ",
-    "county": "Gloucester",
     "full_links": [
       "https://covid19.nj.gov/"
     ]
@@ -23071,7 +23062,7 @@
   {
     "confirmed_date": "4/1",
     "comments_en": "By 4/1 noon, New York reported 1941 total deaths, placeholder.",
-    "die_count": 183,
+    "die_count": 169,
     "state_name": "NY",
     "county": "Unassigned",
     "full_links": [
@@ -23121,7 +23112,7 @@
   },
   {
     "confirmed_date": "4/1",
-    "die_count": 4,
+    "die_count": 1,
     "state_name": "GA",
     "county": "Unassigned",
     "full_links": [
@@ -23333,7 +23324,7 @@
   },
   {
     "confirmed_date": "4/1",
-    "die_count": 5,
+    "die_count": 0,
     "state_name": "NJ",
     "county": "Unassigned",
     "full_links": [
@@ -23472,6 +23463,510 @@
     "county": "Houston",
     "full_links": [
       "https://dph.georgia.gov/covid-19-daily-status-report"
+    ],
+    "confirmed_date": "4/1"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://dph.georgia.gov/covid-19-daily-status-report"
+    ],
+    "state_name": "GA",
+    "county": "Bryan",
+    "confirmed_date": "4/1"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://dph.georgia.gov/covid-19-daily-status-report"
+    ],
+    "state_name": "GA",
+    "county": "Calhoun",
+    "confirmed_date": "4/1"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://dph.georgia.gov/covid-19-daily-status-report"
+    ],
+    "state_name": "GA",
+    "county": "Ware",
+    "confirmed_date": "4/1"
+  },
+  {
+    "die_count": 2,
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "confirmed_date": "4/1",
+    "state_name": "LA",
+    "county": "Avoyelles"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "confirmed_date": "4/1",
+    "state_name": "LA",
+    "county": "East Baton Rouge"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "confirmed_date": "4/1",
+    "state_name": "LA",
+    "county": "Iberia"
+  },
+  {
+    "die_count": 7,
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "confirmed_date": "4/1",
+    "state_name": "LA",
+    "county": "Jefferson"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "confirmed_date": "4/1",
+    "state_name": "LA",
+    "county": "Lafayette"
+  },
+  {
+    "die_count": 2,
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "confirmed_date": "4/1",
+    "state_name": "LA",
+    "county": "Lafourche"
+  },
+  {
+    "die_count": 14,
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "confirmed_date": "4/1",
+    "state_name": "LA",
+    "county": "Orleans"
+  },
+  {
+    "die_count": 2,
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "confirmed_date": "4/1",
+    "state_name": "LA",
+    "county": "Plaquemines"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "confirmed_date": "4/1",
+    "state_name": "LA",
+    "county": "Rapides"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "confirmed_date": "4/1",
+    "state_name": "LA",
+    "county": "St. Bernard"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "confirmed_date": "4/1",
+    "state_name": "LA",
+    "county": "St. Charles"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "confirmed_date": "4/1",
+    "state_name": "LA",
+    "county": "St. John the Baptist"
+  },
+  {
+    "die_count": 2,
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "confirmed_date": "4/1",
+    "state_name": "LA",
+    "county": "St. Tammany"
+  },
+  {
+    "die_count": 2,
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "confirmed_date": "4/1",
+    "state_name": "LA",
+    "county": "Tangipahoa"
+  },
+  {
+    "die_count": 1,
+    "state_name": "WA",
+    "county": "Spokane",
+    "full_links": [
+      "https://www.krem.com/article/news/health/coronavirus/real-time-updates-spokane-regional-health-reports-145-cases-in-spokane-county/293-24bf1d4b-e2cf-4215-923e-2c626caaf7f6"
+    ],
+    "confirmed_date": "4/1"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "confirmed_date": "4/1",
+    "state_name": "LA",
+    "county": "Washington"
+  },
+  {
+    "die_count": 1,
+    "state_name": "RI",
+    "county": "Unassigned",
+    "full_links": [
+      "https://www.wpri.com/health/coronavirus/ri-leaders-to-offer-covid-19-update-at-230-pm-wednesday/"
+    ],
+    "confirmed_date": "4/1"
+  },
+  {
+    "die_count": 1,
+    "state_name": "RI",
+    "county": "Unassigned",
+    "full_links": [
+      "https://www.wpri.com/health/coronavirus/ri-leaders-to-offer-covid-19-update-at-230-pm-wednesday/"
+    ],
+    "confirmed_date": "4/1"
+  },
+  {
+    "die_count": 3,
+    "state_name": "CA",
+    "county": "Orange",
+    "full_links": [
+      "https://coronavirus.egovoc.com/coronavirus-in-oc"
+    ],
+    "confirmed_date": "4/1"
+  },
+  {
+    "state_name": "OH",
+    "county": "Cuyahoga",
+    "full_links": [
+      "https://coronavirus.ohio.gov/wps/portal/gov/covid-19/home/dashboard"
+    ],
+    "confirmed_date": "4/1",
+    "die_count": 3
+  },
+  {
+    "state_name": "OH",
+    "county": "Franklin",
+    "full_links": [
+      "https://coronavirus.ohio.gov/wps/portal/gov/covid-19/home/dashboard"
+    ],
+    "confirmed_date": "4/1",
+    "die_count": 1
+  },
+  {
+    "state_name": "OH",
+    "county": "Mahoning",
+    "full_links": [
+      "https://coronavirus.ohio.gov/wps/portal/gov/covid-19/home/dashboard"
+    ],
+    "confirmed_date": "4/1",
+    "die_count": 1
+  },
+  {
+    "state_name": "OH",
+    "county": "Summit",
+    "full_links": [
+      "https://coronavirus.ohio.gov/wps/portal/gov/covid-19/home/dashboard"
+    ],
+    "confirmed_date": "4/1",
+    "die_count": 2
+  },
+  {
+    "state_name": "OH",
+    "county": "Trumbull",
+    "full_links": [
+      "https://coronavirus.ohio.gov/wps/portal/gov/covid-19/home/dashboard"
+    ],
+    "confirmed_date": "4/1",
+    "die_count": 1
+  },
+  {
+    "full_links": [],
+    "confirmed_date": "4/1",
+    "die_count": 2,
+    "state_name": "OH",
+    "county": "Madison"
+  },
+  {
+    "state_name": "MI",
+    "county": "Genesee",
+    "full_links": [
+      "https://www.michigan.gov/coronavirus/0,9753,7-406-98163_98173---,00.html"
+    ],
+    "confirmed_date": "4/1",
+    "die_count": 1
+  },
+  {
+    "full_links": [
+      "https://www.michigan.gov/coronavirus/0,9753,7-406-98163_98173---,00.html"
+    ],
+    "die_count": 1,
+    "state_name": "MI",
+    "county": "Emmet",
+    "confirmed_date": "4/1"
+  },
+  {
+    "state_name": "MI",
+    "county": "Ingham",
+    "full_links": [
+      "https://www.michigan.gov/coronavirus/0,9753,7-406-98163_98173---,00.html"
+    ],
+    "confirmed_date": "4/1",
+    "die_count": 1
+  },
+  {
+    "state_name": "MI",
+    "county": "Jackson",
+    "full_links": [
+      "https://www.michigan.gov/coronavirus/0,9753,7-406-98163_98173---,00.html"
+    ],
+    "confirmed_date": "4/1",
+    "die_count": 1
+  },
+  {
+    "state_name": "MI",
+    "county": "Kent",
+    "full_links": [
+      "https://www.michigan.gov/coronavirus/0,9753,7-406-98163_98173---,00.html"
+    ],
+    "confirmed_date": "4/1",
+    "die_count": 1
+  },
+  {
+    "state_name": "MI",
+    "county": "Macomb",
+    "full_links": [
+      "https://www.michigan.gov/coronavirus/0,9753,7-406-98163_98173---,00.html"
+    ],
+    "confirmed_date": "4/1",
+    "die_count": 13
+  },
+  {
+    "state_name": "MI",
+    "county": "Oakland",
+    "full_links": [
+      "https://www.michigan.gov/coronavirus/0,9753,7-406-98163_98173---,00.html"
+    ],
+    "confirmed_date": "4/1",
+    "die_count": 29
+  },
+  {
+    "full_links": [
+      "https://www.michigan.gov/coronavirus/0,9753,7-406-98163_98173---,00.html"
+    ],
+    "confirmed_date": "4/1",
+    "die_count": 1,
+    "state_name": "MI",
+    "county": "Sanilac"
+  },
+  {
+    "state_name": "MI",
+    "county": "Washtenaw",
+    "full_links": [
+      "https://www.michigan.gov/coronavirus/0,9753,7-406-98163_98173---,00.html"
+    ],
+    "confirmed_date": "4/1",
+    "die_count": 1
+  },
+  {
+    "state_name": "MI",
+    "county": "Wayne",
+    "full_links": [
+      "https://www.michigan.gov/coronavirus/0,9753,7-406-98163_98173---,00.html"
+    ],
+    "confirmed_date": "4/1",
+    "die_count": 18
+  },
+  {
+    "die_count": 2,
+    "full_links": [
+      "https://experience.arcgis.com/experience/96dd742462124fa0b38ddedb9b25e429"
+    ],
+    "state_name": "FL",
+    "county": "Unassigned",
+    "confirmed_date": "4/1"
+  },
+  {
+    "full_links": [],
+    "confirmed_date": "4/1",
+    "die_count": 1,
+    "state_name": "MI",
+    "county": "Out of State"
+  },
+  {
+    "full_links": [
+      "https://www.michigan.gov/coronavirus/0,9753,7-406-98163_98173---,00.html"
+    ],
+    "confirmed_date": "4/1",
+    "die_count": 2,
+    "state_name": "MI",
+    "county": "Unknown"
+  },
+  {
+    "state_name": "MI",
+    "county": "Wayne--Detroit",
+    "full_links": [
+      "https://www.michigan.gov/coronavirus/0,9753,7-406-98163_98173---,00.html"
+    ],
+    "confirmed_date": "4/1",
+    "die_count": 8
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html"
+    ],
+    "confirmed_date": "4/1",
+    "state_name": "AL",
+    "county": "Cullman"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html"
+    ],
+    "confirmed_date": "4/1",
+    "state_name": "AL",
+    "county": "Etowah"
+  },
+  {
+    "die_count": 4,
+    "full_links": [
+      "https://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html"
+    ],
+    "confirmed_date": "4/1",
+    "state_name": "AL",
+    "county": "Jefferson"
+  },
+  {
+    "die_count": 2,
+    "full_links": [
+      "https://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html"
+    ],
+    "confirmed_date": "4/1",
+    "state_name": "AL",
+    "county": "Marion"
+  },
+  {
+    "die_count": 2,
+    "full_links": [
+      "https://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html"
+    ],
+    "confirmed_date": "4/1",
+    "state_name": "AL",
+    "county": "Mobile"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html"
+    ],
+    "confirmed_date": "4/1",
+    "state_name": "AL",
+    "county": "Shelby"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html"
+    ],
+    "confirmed_date": "4/1",
+    "state_name": "AL",
+    "county": "Washington"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.facebook.com/votekeough/posts/2820756144667940"
+    ],
+    "confirmed_date": "4/1",
+    "state_name": "TX",
+    "county": "Montgomery",
+    "gender": "男",
+    "age_range": "90+"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.facebook.com/votekeough/posts/2820756144667940"
+    ],
+    "confirmed_date": "4/1",
+    "state_name": "TX",
+    "county": "Montgomery",
+    "gender": "男",
+    "age_range": "80+"
+  },
+  {
+    "die_count": 1,
+    "state_name": "MO",
+    "county": "Greene",
+    "full_links": [
+      "https://health.mo.gov/living/healthcondiseases/communicable/novel-coronavirus/results.php"
+    ],
+    "confirmed_date": "4/1"
+  },
+  {
+    "die_count": 1,
+    "state_name": "MO",
+    "county": "Greene",
+    "full_links": [
+      "https://health.mo.gov/living/healthcondiseases/communicable/novel-coronavirus/results.php"
+    ],
+    "confirmed_date": "4/1"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://health.mo.gov/living/healthcondiseases/communicable/novel-coronavirus/results.php"
+    ],
+    "confirmed_date": "4/1",
+    "state_name": "MO",
+    "county": "Cass"
+  },
+  {
+    "die_count": 1,
+    "state_name": "NY",
+    "county": "Erie",
+    "full_links": [
+      "http://erieny.maps.arcgis.com/apps/opsdashboard/index.html#/dd7f1c0c352e4192ab162a1dfadc58e1"
+    ],
+    "confirmed_date": "4/1"
+  },
+  {
+    "die_count": 13,
+    "state_name": "NY",
+    "county": "Nassau",
+    "full_links": [
+      "https://twitter.com/nassauexecutive/status/1245422148774170627?s=21"
     ],
     "confirmed_date": "4/1"
   }
