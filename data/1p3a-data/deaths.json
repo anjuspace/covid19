@@ -16984,8 +16984,11 @@
     "state_name": "FL",
     "county": "Palm Beach",
     "full_links": [
-      "https://fdoh.maps.arcgis.com/apps/opsdashboard/index.html#/8d0de33f260d444c852a615dc7837c86"
-    ]
+      "https://fdoh.maps.arcgis.com/apps/opsdashboard/index.html#/8d0de33f260d444c852a615dc7837c86",
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-03-31-1742.pdf"
+    ],
+    "gender": "男",
+    "age_range": "70+"
   },
   {
     "confirmed_date": "3/29",
@@ -17004,8 +17007,10 @@
     "state_name": "FL",
     "county": "Okaloosa",
     "full_links": [
-      "https://fdoh.maps.arcgis.com/apps/opsdashboard/index.html#/8d0de33f260d444c852a615dc7837c86"
-    ]
+      "https://fdoh.maps.arcgis.com/apps/opsdashboard/index.html#/8d0de33f260d444c852a615dc7837c86",
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-03-31-1742.pdf"
+    ],
+    "gender": "男"
   },
   {
     "confirmed_date": "3/29",
@@ -19107,8 +19112,11 @@
     "state_name": "FL",
     "county": "Palm Beach",
     "full_links": [
-      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-03-30-1733.pdf"
-    ]
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-03-30-1733.pdf",
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-03-31-1742.pdf"
+    ],
+    "gender": "女",
+    "age_range": "90+"
   },
   {
     "confirmed_date": "3/30",
@@ -19116,8 +19124,11 @@
     "state_name": "FL",
     "county": "Palm Beach",
     "full_links": [
-      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-03-30-1733.pdf"
-    ]
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-03-30-1733.pdf",
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-03-31-1742.pdf"
+    ],
+    "gender": "女",
+    "age_range": "80+"
   },
   {
     "confirmed_date": "3/30",
@@ -19125,8 +19136,11 @@
     "state_name": "FL",
     "county": "Santa Rosa",
     "full_links": [
-      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-03-30-1733.pdf"
-    ]
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-03-30-1733.pdf",
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-03-31-1742.pdf"
+    ],
+    "gender": "女",
+    "age_range": "80+"
   },
   {
     "confirmed_date": "3/30",
@@ -21262,18 +21276,24 @@
     "state_name": "FL",
     "county": "Broward",
     "full_links": [
-      "https://fdoh.maps.arcgis.com/apps/opsdashboard/index.html#/8d0de33f260d444c852a615dc7837c86"
+      "https://fdoh.maps.arcgis.com/apps/opsdashboard/index.html#/8d0de33f260d444c852a615dc7837c86",
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-03-31-1742.pdf"
     ],
-    "confirmed_date": "3/31"
+    "confirmed_date": "3/31",
+    "gender": "女",
+    "age_range": "60+"
   },
   {
     "die_count": 1,
     "state_name": "FL",
     "county": "Miami-Dade",
     "full_links": [
-      "https://fdoh.maps.arcgis.com/apps/opsdashboard/index.html#/8d0de33f260d444c852a615dc7837c86"
+      "https://fdoh.maps.arcgis.com/apps/opsdashboard/index.html#/8d0de33f260d444c852a615dc7837c86",
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-03-31-1742.pdf"
     ],
-    "confirmed_date": "3/31"
+    "confirmed_date": "3/31",
+    "gender": "男",
+    "age_range": "40+"
   },
   {
     "die_count": 1,
@@ -21282,34 +21302,45 @@
     "full_links": [
       "https://fdoh.maps.arcgis.com/apps/opsdashboard/index.html#/8d0de33f260d444c852a615dc7837c86"
     ],
-    "confirmed_date": "3/31"
+    "confirmed_date": "3/31",
+    "gender": "男",
+    "age_range": "80+"
   },
   {
     "die_count": 1,
     "full_links": [
-      "https://fdoh.maps.arcgis.com/apps/opsdashboard/index.html#/8d0de33f260d444c852a615dc7837c86"
+      "https://fdoh.maps.arcgis.com/apps/opsdashboard/index.html#/8d0de33f260d444c852a615dc7837c86",
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-03-31-1742.pdf"
     ],
     "confirmed_date": "3/31",
     "state_name": "FL",
-    "county": "Glades"
+    "county": "Glades",
+    "gender": "男",
+    "age_range": "80+"
   },
   {
     "die_count": 1,
     "state_name": "FL",
     "county": "Hillsborough",
     "full_links": [
-      "https://fdoh.maps.arcgis.com/apps/opsdashboard/index.html#/8d0de33f260d444c852a615dc7837c86"
+      "https://fdoh.maps.arcgis.com/apps/opsdashboard/index.html#/8d0de33f260d444c852a615dc7837c86",
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-03-31-1742.pdf"
     ],
-    "confirmed_date": "3/31"
+    "confirmed_date": "3/31",
+    "gender": "女",
+    "age_range": "90+"
   },
   {
     "die_count": 1,
     "state_name": "FL",
     "county": "Lee",
     "full_links": [
-      "https://fdoh.maps.arcgis.com/apps/opsdashboard/index.html#/8d0de33f260d444c852a615dc7837c86"
+      "https://fdoh.maps.arcgis.com/apps/opsdashboard/index.html#/8d0de33f260d444c852a615dc7837c86",
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-03-31-1742.pdf"
     ],
-    "confirmed_date": "3/31"
+    "confirmed_date": "3/31",
+    "gender": "女",
+    "age_range": "90+"
   },
   {
     "confirmed_date": "3/31",
@@ -21317,8 +21348,11 @@
     "state_name": "FL",
     "county": "Lee",
     "full_links": [
-      "https://fdoh.maps.arcgis.com/apps/opsdashboard/index.html#/8d0de33f260d444c852a615dc7837c86"
-    ]
+      "https://fdoh.maps.arcgis.com/apps/opsdashboard/index.html#/8d0de33f260d444c852a615dc7837c86",
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-03-31-1742.pdf"
+    ],
+    "gender": "女",
+    "age_range": "60+"
   },
   {
     "confirmed_date": "3/31",
@@ -21326,8 +21360,11 @@
     "state_name": "FL",
     "county": "Miami-Dade",
     "full_links": [
-      "https://fdoh.maps.arcgis.com/apps/opsdashboard/index.html#/8d0de33f260d444c852a615dc7837c86"
-    ]
+      "https://fdoh.maps.arcgis.com/apps/opsdashboard/index.html#/8d0de33f260d444c852a615dc7837c86",
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-03-31-1742.pdf"
+    ],
+    "gender": "男",
+    "age_range": "70+"
   },
   {
     "confirmed_date": "3/31",
@@ -21335,16 +21372,124 @@
     "state_name": "FL",
     "county": "Miami-Dade",
     "full_links": [
-      "https://fdoh.maps.arcgis.com/apps/opsdashboard/index.html#/8d0de33f260d444c852a615dc7837c86"
-    ]
+      "https://fdoh.maps.arcgis.com/apps/opsdashboard/index.html#/8d0de33f260d444c852a615dc7837c86",
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-03-31-1742.pdf"
+    ],
+    "gender": "男",
+    "age_range": "70+"
   },
   {
     "die_count": 1,
     "state_name": "FL",
     "county": "Manatee",
     "full_links": [
-      "https://fdoh.maps.arcgis.com/apps/opsdashboard/index.html#/8d0de33f260d444c852a615dc7837c86"
+      "https://fdoh.maps.arcgis.com/apps/opsdashboard/index.html#/8d0de33f260d444c852a615dc7837c86",
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-03-31-1742.pdf"
+    ],
+    "confirmed_date": "3/31",
+    "gender": "男",
+    "age_range": "60+"
+  },
+  {
+    "confirmed_date": "3/31",
+    "die_count": 1,
+    "state_name": "FL",
+    "county": "Palm Beach",
+    "full_links": [
+      "https://fdoh.maps.arcgis.com/apps/opsdashboard/index.html#/8d0de33f260d444c852a615dc7837c86",
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-03-31-1742.pdf"
+    ],
+    "gender": "男",
+    "age_range": "90+"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://fdoh.maps.arcgis.com/apps/opsdashboard/index.html#/8d0de33f260d444c852a615dc7837c86",
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-03-31-1742.pdf"
+    ],
+    "confirmed_date": "3/31",
+    "state_name": "FL",
+    "county": "Polk",
+    "gender": "男",
+    "age_range": "60+"
+  },
+  {
+    "die_count": 1,
+    "state_name": "FL",
+    "county": "Sarasota",
+    "full_links": [
+      "https://fdoh.maps.arcgis.com/apps/opsdashboard/index.html#/8d0de33f260d444c852a615dc7837c86",
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-03-31-1742.pdf"
+    ],
+    "confirmed_date": "3/31",
+    "gender": "男",
+    "age_range": "20+"
+  },
+  {
+    "confirmed_date": "3/31",
+    "die_count": 8,
+    "full_links": [
+      "https://alpublichealth.maps.arcgis.com/apps/opsdashboard/index.html#/6d2771faa9da4a2786a509d82c8cf0f7"
+    ],
+    "state_name": "AL",
+    "county": "Unassigned"
+  },
+  {
+    "die_count": 4,
+    "state_name": "CA",
+    "county": "Riverside",
+    "full_links": [
+      "https://www.rivcoph.org/coronavirus"
     ],
     "confirmed_date": "3/31"
+  },
+  {
+    "confirmed_date": "3/31",
+    "gender": "男",
+    "die_count": 1,
+    "age_range": "90+",
+    "state_name": "FL",
+    "county": "Palm Beach",
+    "full_links": [
+      "https://fdoh.maps.arcgis.com/apps/opsdashboard/index.html#/8d0de33f260d444c852a615dc7837c86",
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-03-31-1742.pdf"
+    ]
+  },
+  {
+    "confirmed_date": "3/31",
+    "gender": "男",
+    "die_count": 1,
+    "age_range": "70+",
+    "state_name": "FL",
+    "county": "Palm Beach",
+    "full_links": [
+      "https://fdoh.maps.arcgis.com/apps/opsdashboard/index.html#/8d0de33f260d444c852a615dc7837c86",
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-03-31-1742.pdf"
+    ]
+  },
+  {
+    "confirmed_date": "3/31",
+    "gender": "女",
+    "die_count": 1,
+    "age_range": "70+",
+    "state_name": "FL",
+    "county": "Palm Beach",
+    "full_links": [
+      "https://fdoh.maps.arcgis.com/apps/opsdashboard/index.html#/8d0de33f260d444c852a615dc7837c86",
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-03-31-1742.pdf"
+    ]
+  },
+  {
+    "confirmed_date": "3/31",
+    "gender": "女",
+    "die_count": 1,
+    "age_range": "70+",
+    "state_name": "FL",
+    "county": "Palm Beach",
+    "full_links": [
+      "https://fdoh.maps.arcgis.com/apps/opsdashboard/index.html#/8d0de33f260d444c852a615dc7837c86",
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-03-31-1742.pdf"
+    ]
   }
 ]

@@ -61405,7 +61405,7 @@
   },
   {
     "confirmed_date": "3/28",
-    "people_count": 212,
+    "people_count": 264,
     "state_name": "MA",
     "county": "Suffolk"
   },
@@ -61417,9 +61417,9 @@
   },
   {
     "confirmed_date": "3/28",
-    "people_count": 30,
     "state_name": "MA",
-    "county": "Unassigned"
+    "county": "Unassigned",
+    "people_count": 1
   },
   {
     "confirmed_date": "3/28",
@@ -67639,9 +67639,9 @@
   },
   {
     "confirmed_date": "3/29",
-    "people_count": 97,
     "state_name": "MA",
-    "county": "Suffolk"
+    "county": "Suffolk",
+    "people_count": 201
   },
   {
     "confirmed_date": "3/29",
@@ -72722,12 +72722,6 @@
   {
     "confirmed_date": "3/30",
     "people_count": 2,
-    "state_name": "AL",
-    "county": "Mobile"
-  },
-  {
-    "confirmed_date": "3/30",
-    "people_count": 2,
     "state_name": "MN",
     "county": "Le Sueur"
   },
@@ -72739,7 +72733,7 @@
   },
   {
     "confirmed_date": "3/30",
-    "people_count": 1,
+    "people_count": 2,
     "state_name": "AL",
     "county": "Talladega"
   },
@@ -73735,7 +73729,7 @@
   },
   {
     "confirmed_date": "3/30",
-    "people_count": 0,
+    "people_count": 29,
     "state_name": "MA",
     "county": "Unassigned"
   },
@@ -74479,7 +74473,7 @@
   },
   {
     "confirmed_date": "3/30",
-    "people_count": 2,
+    "people_count": 4,
     "state_name": "AL",
     "county": "Mobile"
   },
@@ -74524,12 +74518,6 @@
     "people_count": 1,
     "state_name": "AL",
     "county": "Sumter"
-  },
-  {
-    "confirmed_date": "3/30",
-    "people_count": 1,
-    "state_name": "AL",
-    "county": "Talladega"
   },
   {
     "confirmed_date": "3/30",
@@ -76314,7 +76302,7 @@
     "people_count": 65
   },
   {
-    "people_count": 537,
+    "people_count": 545,
     "state_name": "CA",
     "county": "Los Angeles",
     "confirmed_date": "3/31"
@@ -76356,7 +76344,7 @@
     "confirmed_date": "3/31"
   },
   {
-    "people_count": 1,
+    "people_count": 2,
     "state_name": "MT",
     "county": "Cascade",
     "confirmed_date": "3/31"
@@ -76896,7 +76884,7 @@
     "confirmed_date": "3/31"
   },
   {
-    "people_count": 3,
+    "people_count": 7,
     "confirmed_date": "3/31",
     "state_name": "AL",
     "county": "Mobile"
@@ -78060,7 +78048,7 @@
     "county": "Butler"
   },
   {
-    "people_count": 39,
+    "people_count": 44,
     "state_name": "ID",
     "county": "Blaine",
     "confirmed_date": "3/31"
@@ -79944,7 +79932,7 @@
     "confirmed_date": "3/31"
   },
   {
-    "people_count": 1,
+    "people_count": 5,
     "state_name": "TX",
     "county": "Ellis",
     "confirmed_date": "3/31"
@@ -80382,7 +80370,7 @@
     "people_count": 279
   },
   {
-    "people_count": 7,
+    "people_count": 12,
     "state_name": "WA",
     "county": "Thurston",
     "confirmed_date": "3/31"
@@ -80646,7 +80634,7 @@
     "people_count": 1
   },
   {
-    "people_count": 258,
+    "people_count": 102,
     "state_name": "MA",
     "county": "Suffolk",
     "confirmed_date": "3/31"
@@ -82492,5 +82480,227 @@
     "people_count": 2,
     "state_name": "AL",
     "county": "Etowah"
+  },
+  {
+    "confirmed_date": "3/31",
+    "people_count": 1,
+    "state_name": "AL",
+    "county": "Jackson"
+  },
+  {
+    "confirmed_date": "3/31",
+    "people_count": 13,
+    "state_name": "AL",
+    "county": "Jefferson"
+  },
+  {
+    "confirmed_date": "3/31",
+    "people_count": 2,
+    "state_name": "AL",
+    "county": "Lee"
+  },
+  {
+    "confirmed_date": "3/31",
+    "people_count": 2,
+    "state_name": "AL",
+    "county": "Limestone"
+  },
+  {
+    "confirmed_date": "3/31",
+    "people_count": 3,
+    "state_name": "AL",
+    "county": "Madison"
+  },
+  {
+    "confirmed_date": "3/31",
+    "people_count": 1,
+    "state_name": "AL",
+    "county": "Morgan"
+  },
+  {
+    "confirmed_date": "3/31",
+    "people_count": 1,
+    "state_name": "AL",
+    "county": "Pickens"
+  },
+  {
+    "confirmed_date": "3/31",
+    "people_count": 1,
+    "state_name": "AL",
+    "county": "St. Clair"
+  },
+  {
+    "confirmed_date": "3/31",
+    "people_count": 1,
+    "state_name": "AL",
+    "county": "Talladega"
+  },
+  {
+    "confirmed_date": "3/31",
+    "people_count": 1,
+    "state_name": "AL",
+    "county": "Tuscaloosa"
+  },
+  {
+    "confirmed_date": "3/31",
+    "people_count": 1,
+    "state_name": "AL",
+    "county": "Walker"
+  },
+  {
+    "confirmed_date": "3/31",
+    "people_count": 1,
+    "state_name": "AL",
+    "county": "Wilcox"
+  },
+  {
+    "people_count": 80,
+    "state_name": "CA",
+    "county": "Riverside",
+    "confirmed_date": "3/31"
+  },
+  {
+    "people_count": 5,
+    "state_name": "MT",
+    "county": "Gallatin",
+    "confirmed_date": "3/31"
+  },
+  {
+    "people_count": 3,
+    "state_name": "MT",
+    "county": "Yellowstone",
+    "confirmed_date": "3/31"
+  },
+  {
+    "people_count": 2,
+    "state_name": "MT",
+    "county": "Missoula",
+    "confirmed_date": "3/31"
+  },
+  {
+    "people_count": 1,
+    "state_name": "MT",
+    "county": "Lewis and Clark",
+    "confirmed_date": "3/31"
+  },
+  {
+    "people_count": 1,
+    "county": "Musselshell",
+    "state_name": "MT",
+    "confirmed_date": "3/31"
+  },
+  {
+    "people_count": 1,
+    "state_name": "MT",
+    "county": "Toole",
+    "confirmed_date": "3/31"
+  },
+  {
+    "people_count": 25,
+    "state_name": "TX",
+    "county": "Fort Bend",
+    "confirmed_date": "3/31"
+  },
+  {
+    "people_count": 16,
+    "state_name": "TX",
+    "county": "Brazoria",
+    "confirmed_date": "3/31"
+  },
+  {
+    "people_count": 1,
+    "confirmed_date": "3/31",
+    "state_name": "UT",
+    "county": "Cache"
+  },
+  {
+    "people_count": 1,
+    "confirmed_date": "3/31",
+    "state_name": "UT",
+    "county": "Iron"
+  },
+  {
+    "people_count": 3,
+    "confirmed_date": "3/31",
+    "state_name": "UT",
+    "county": "Non-Utah resident"
+  },
+  {
+    "people_count": 5,
+    "confirmed_date": "3/31",
+    "state_name": "UT",
+    "county": "Washington"
+  },
+  {
+    "people_count": 32,
+    "state_name": "ID",
+    "county": "Ada",
+    "confirmed_date": "3/31"
+  },
+  {
+    "people_count": 21,
+    "state_name": "NH",
+    "county": "Rockingham",
+    "confirmed_date": "3/31"
+  },
+  {
+    "people_count": 7,
+    "state_name": "NH",
+    "county": "Hillsborough",
+    "confirmed_date": "3/31"
+  },
+  {
+    "people_count": 6,
+    "state_name": "NH",
+    "county": "Strafford",
+    "confirmed_date": "3/31"
+  },
+  {
+    "people_count": 5,
+    "state_name": "NH",
+    "county": "Merrimack",
+    "confirmed_date": "3/31"
+  },
+  {
+    "people_count": 2,
+    "state_name": "NH",
+    "county": "Carroll",
+    "confirmed_date": "3/31"
+  },
+  {
+    "people_count": 1,
+    "state_name": "NH",
+    "county": "Cheshire",
+    "confirmed_date": "3/31"
+  },
+  {
+    "people_count": 1,
+    "state_name": "NH",
+    "county": "Sullivan",
+    "confirmed_date": "3/31"
+  },
+  {
+    "people_count": 1,
+    "confirmed_date": "3/31",
+    "state_name": "ID",
+    "county": "Adam"
+  },
+  {
+    "people_count": 1,
+    "state_name": "ID",
+    "county": "Bannock",
+    "confirmed_date": "3/31"
+  },
+  {
+    "people_count": 1,
+    "state_name": "ID",
+    "county": "Bingham",
+    "confirmed_date": "3/31"
+  },
+  {
+    "people_count": 1,
+    "confirmed_date": "3/31",
+    "state_name": "ID",
+    "county": "Camas"
   }
 ]
