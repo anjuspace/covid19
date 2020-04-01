@@ -4835,11 +4835,11 @@
     "comments_en": "One new death was reported in NJ by 3/22.",
     "die_count": 1,
     "age_range": "Unknown",
-    "county": "Unassigned",
     "full_links": [
       "https://www.nj.gov/health/"
     ],
-    "state_name": "NJ"
+    "state_name": "NJ",
+    "county": "Bergen"
   },
   {
     "confirmed_date": "3/22",
@@ -5812,11 +5812,11 @@
     "comments_en": "One new death was reported in NJ by 3/22.",
     "die_count": 1,
     "age_range": "Unknown",
-    "county": "Unassigned",
     "full_links": [
       "https://www.nj.gov/health/"
     ],
-    "state_name": "NJ"
+    "state_name": "NJ",
+    "county": "Bergen"
   },
   {
     "confirmed_date": "3/23",
@@ -5947,11 +5947,11 @@
     "comments": "新泽西3/23新增1例死亡。",
     "comments_en": "One new death was reported in NJ by 3/23.",
     "die_count": 1,
-    "county": "Unassigned",
     "full_links": [
       "https://www.nj.gov/health/"
     ],
-    "state_name": "NJ"
+    "state_name": "NJ",
+    "county": "Bergen"
   },
   {
     "confirmed_date": "3/23",
@@ -9110,7 +9110,8 @@
     "county": "Kane",
     "full_links": [
       "https://newschannel20.com/news/local/330-new-covid-19-cases-in-illinois-3-more-deaths"
-    ]
+    ],
+    "age_range": "90+"
   },
   {
     "confirmed_date": "3/25",
@@ -10054,7 +10055,8 @@
     "confirmed_date": "3/26",
     "die_count": 4,
     "full_links": [
-      "https://covid19.nj.gov/"
+      "https://covid19.nj.gov/",
+      "https://www.nj.com/coronavirus/2020/03/nj-coronavirus-outbreak-hits-6876-cases-with-81-deaths-another-2492-positive-tests-in-huge-single-day-increase.html"
     ],
     "state_name": "NJ",
     "county": "Essex"
@@ -11426,7 +11428,8 @@
     "confirmed_date": "3/26",
     "die_count": 3,
     "full_links": [
-      "https://covid19.nj.gov/"
+      "https://covid19.nj.gov/",
+      "https://www.nj.com/coronavirus/2020/03/nj-coronavirus-outbreak-hits-6876-cases-with-81-deaths-another-2492-positive-tests-in-huge-single-day-increase.html"
     ],
     "state_name": "NJ",
     "county": "Bergen"
@@ -11435,7 +11438,8 @@
     "confirmed_date": "3/26",
     "die_count": 3,
     "full_links": [
-      "https://covid19.nj.gov/"
+      "https://covid19.nj.gov/",
+      "https://www.nj.com/coronavirus/2020/03/nj-coronavirus-outbreak-hits-6876-cases-with-81-deaths-another-2492-positive-tests-in-huge-single-day-increase.html"
     ],
     "state_name": "NJ",
     "county": "Middlesex"
@@ -11444,7 +11448,8 @@
     "confirmed_date": "3/26",
     "die_count": 2,
     "full_links": [
-      "https://covid19.nj.gov/"
+      "https://covid19.nj.gov/",
+      "https://www.nj.com/coronavirus/2020/03/nj-coronavirus-outbreak-hits-6876-cases-with-81-deaths-another-2492-positive-tests-in-huge-single-day-increase.html"
     ],
     "state_name": "NJ",
     "county": "Burlington"
@@ -11453,7 +11458,8 @@
     "confirmed_date": "3/26",
     "die_count": 2,
     "full_links": [
-      "https://covid19.nj.gov/"
+      "https://covid19.nj.gov/",
+      "https://www.nj.com/coronavirus/2020/03/nj-coronavirus-outbreak-hits-6876-cases-with-81-deaths-another-2492-positive-tests-in-huge-single-day-increase.html"
     ],
     "state_name": "NJ",
     "county": "Monmouth"
@@ -11462,7 +11468,8 @@
     "confirmed_date": "3/26",
     "die_count": 2,
     "full_links": [
-      "https://covid19.nj.gov/"
+      "https://covid19.nj.gov/",
+      "https://www.nj.com/coronavirus/2020/03/nj-coronavirus-outbreak-hits-6876-cases-with-81-deaths-another-2492-positive-tests-in-huge-single-day-increase.html"
     ],
     "state_name": "NJ",
     "county": "Morris"
@@ -11471,7 +11478,8 @@
     "confirmed_date": "3/26",
     "die_count": 1,
     "full_links": [
-      "https://covid19.nj.gov/"
+      "https://covid19.nj.gov/",
+      "https://www.nj.com/coronavirus/2020/03/nj-coronavirus-outbreak-hits-6876-cases-with-81-deaths-another-2492-positive-tests-in-huge-single-day-increase.html"
     ],
     "state_name": "NJ",
     "county": "Ocean"
@@ -11480,7 +11488,8 @@
     "confirmed_date": "3/26",
     "die_count": 1,
     "full_links": [
-      "https://covid19.nj.gov/"
+      "https://covid19.nj.gov/",
+      "https://www.nj.com/coronavirus/2020/03/nj-coronavirus-outbreak-hits-6876-cases-with-81-deaths-another-2492-positive-tests-in-huge-single-day-increase.html"
     ],
     "state_name": "NJ",
     "county": "Passaic"
@@ -11489,7 +11498,8 @@
     "confirmed_date": "3/26",
     "die_count": 1,
     "full_links": [
-      "https://covid19.nj.gov/"
+      "https://covid19.nj.gov/",
+      "https://www.nj.com/coronavirus/2020/03/nj-coronavirus-outbreak-hits-6876-cases-with-81-deaths-another-2492-positive-tests-in-huge-single-day-increase.html"
     ],
     "state_name": "NJ",
     "county": "Somerset"
@@ -11975,7 +11985,8 @@
     "confirmed_date": "3/27",
     "die_count": 1,
     "full_links": [
-      "https://covid19.nj.gov/"
+      "https://covid19.nj.gov/",
+      "https://www.dailyrecord.com/story/news/local/morris-county/2020/03/27/coronavirus-nj-march-27-morris-county-reports-391-total-cases/2928051001/"
     ],
     "state_name": "NJ",
     "county": "Essex"
@@ -11984,7 +11995,8 @@
     "confirmed_date": "3/27",
     "die_count": 1,
     "full_links": [
-      "https://covid19.nj.gov/"
+      "https://covid19.nj.gov/",
+      "https://www.dailyrecord.com/story/news/local/morris-county/2020/03/27/coronavirus-nj-march-27-morris-county-reports-391-total-cases/2928051001/"
     ],
     "state_name": "NJ",
     "county": "Essex"
@@ -11993,7 +12005,8 @@
     "confirmed_date": "3/27",
     "die_count": 1,
     "full_links": [
-      "https://covid19.nj.gov/"
+      "https://covid19.nj.gov/",
+      "https://www.dailyrecord.com/story/news/local/morris-county/2020/03/27/coronavirus-nj-march-27-morris-county-reports-391-total-cases/2928051001/"
     ],
     "state_name": "NJ",
     "county": "Ocean"
@@ -12002,7 +12015,8 @@
     "confirmed_date": "3/27",
     "die_count": 1,
     "full_links": [
-      "https://covid19.nj.gov/"
+      "https://covid19.nj.gov/",
+      "https://www.dailyrecord.com/story/news/local/morris-county/2020/03/27/coronavirus-nj-march-27-morris-county-reports-391-total-cases/2928051001/"
     ],
     "state_name": "NJ",
     "county": "Middlesex"
@@ -12011,7 +12025,8 @@
     "confirmed_date": "3/27",
     "die_count": 1,
     "full_links": [
-      "https://covid19.nj.gov/"
+      "https://covid19.nj.gov/",
+      "https://www.dailyrecord.com/story/news/local/morris-county/2020/03/27/coronavirus-nj-march-27-morris-county-reports-391-total-cases/2928051001/"
     ],
     "state_name": "NJ",
     "county": "Bergen"
@@ -12020,7 +12035,8 @@
     "confirmed_date": "3/27",
     "die_count": 1,
     "full_links": [
-      "https://covid19.nj.gov/"
+      "https://covid19.nj.gov/",
+      "https://www.dailyrecord.com/story/news/local/morris-county/2020/03/27/coronavirus-nj-march-27-morris-county-reports-391-total-cases/2928051001/"
     ],
     "state_name": "NJ",
     "county": "Bergen"
@@ -12029,7 +12045,8 @@
     "confirmed_date": "3/27",
     "die_count": 1,
     "full_links": [
-      "https://covid19.nj.gov/"
+      "https://covid19.nj.gov/",
+      "https://www.dailyrecord.com/story/news/local/morris-county/2020/03/27/coronavirus-nj-march-27-morris-county-reports-391-total-cases/2928051001/"
     ],
     "state_name": "NJ",
     "county": "Bergen"
@@ -12038,7 +12055,8 @@
     "confirmed_date": "3/27",
     "die_count": 1,
     "full_links": [
-      "https://covid19.nj.gov/"
+      "https://covid19.nj.gov/",
+      "https://www.dailyrecord.com/story/news/local/morris-county/2020/03/27/coronavirus-nj-march-27-morris-county-reports-391-total-cases/2928051001/"
     ],
     "state_name": "NJ",
     "county": "Bergen"
@@ -12047,7 +12065,8 @@
     "confirmed_date": "3/27",
     "die_count": 1,
     "full_links": [
-      "https://covid19.nj.gov/"
+      "https://covid19.nj.gov/",
+      "https://www.dailyrecord.com/story/news/local/morris-county/2020/03/27/coronavirus-nj-march-27-morris-county-reports-391-total-cases/2928051001/"
     ],
     "state_name": "NJ",
     "county": "Bergen"
@@ -12056,7 +12075,8 @@
     "confirmed_date": "3/27",
     "die_count": 1,
     "full_links": [
-      "https://covid19.nj.gov/"
+      "https://covid19.nj.gov/",
+      "https://www.dailyrecord.com/story/news/local/morris-county/2020/03/27/coronavirus-nj-march-27-morris-county-reports-391-total-cases/2928051001/"
     ],
     "state_name": "NJ",
     "county": "Bergen"
@@ -12065,7 +12085,8 @@
     "confirmed_date": "3/27",
     "die_count": 1,
     "full_links": [
-      "https://covid19.nj.gov/"
+      "https://covid19.nj.gov/",
+      "https://www.dailyrecord.com/story/news/local/morris-county/2020/03/27/coronavirus-nj-march-27-morris-county-reports-391-total-cases/2928051001/"
     ],
     "state_name": "NJ",
     "county": "Bergen"
@@ -12074,7 +12095,8 @@
     "confirmed_date": "3/27",
     "die_count": 1,
     "full_links": [
-      "https://covid19.nj.gov/"
+      "https://covid19.nj.gov/",
+      "https://www.dailyrecord.com/story/news/local/morris-county/2020/03/27/coronavirus-nj-march-27-morris-county-reports-391-total-cases/2928051001/"
     ],
     "state_name": "NJ",
     "county": "Middlesex"
@@ -12083,7 +12105,8 @@
     "confirmed_date": "3/27",
     "die_count": 1,
     "full_links": [
-      "https://covid19.nj.gov/"
+      "https://covid19.nj.gov/",
+      "https://www.dailyrecord.com/story/news/local/morris-county/2020/03/27/coronavirus-nj-march-27-morris-county-reports-391-total-cases/2928051001/"
     ],
     "state_name": "NJ",
     "county": "Middlesex"
@@ -12092,7 +12115,8 @@
     "confirmed_date": "3/27",
     "die_count": 1,
     "full_links": [
-      "https://covid19.nj.gov/"
+      "https://covid19.nj.gov/",
+      "https://www.dailyrecord.com/story/news/local/morris-county/2020/03/27/coronavirus-nj-march-27-morris-county-reports-391-total-cases/2928051001/"
     ],
     "state_name": "NJ",
     "county": "Monmouth"
@@ -12101,7 +12125,8 @@
     "confirmed_date": "3/27",
     "die_count": 1,
     "full_links": [
-      "https://covid19.nj.gov/"
+      "https://covid19.nj.gov/",
+      "https://www.dailyrecord.com/story/news/local/morris-county/2020/03/27/coronavirus-nj-march-27-morris-county-reports-391-total-cases/2928051001/"
     ],
     "state_name": "NJ",
     "county": "Middlesex"
@@ -12110,7 +12135,8 @@
     "confirmed_date": "3/27",
     "die_count": 1,
     "full_links": [
-      "https://covid19.nj.gov/"
+      "https://covid19.nj.gov/",
+      "https://www.dailyrecord.com/story/news/local/morris-county/2020/03/27/coronavirus-nj-march-27-morris-county-reports-391-total-cases/2928051001/"
     ],
     "state_name": "NJ",
     "county": "Monmouth"
@@ -12119,7 +12145,8 @@
     "confirmed_date": "3/27",
     "die_count": 1,
     "full_links": [
-      "https://covid19.nj.gov/"
+      "https://covid19.nj.gov/",
+      "https://www.dailyrecord.com/story/news/local/morris-county/2020/03/27/coronavirus-nj-march-27-morris-county-reports-391-total-cases/2928051001/"
     ],
     "state_name": "NJ",
     "county": "Monmouth"
@@ -12128,7 +12155,8 @@
     "confirmed_date": "3/27",
     "die_count": 1,
     "full_links": [
-      "https://covid19.nj.gov/"
+      "https://covid19.nj.gov/",
+      "https://www.dailyrecord.com/story/news/local/morris-county/2020/03/27/coronavirus-nj-march-27-morris-county-reports-391-total-cases/2928051001/"
     ],
     "state_name": "NJ",
     "county": "Ocean"
@@ -12137,7 +12165,8 @@
     "confirmed_date": "3/27",
     "die_count": 1,
     "full_links": [
-      "https://covid19.nj.gov/"
+      "https://covid19.nj.gov/",
+      "https://www.dailyrecord.com/story/news/local/morris-county/2020/03/27/coronavirus-nj-march-27-morris-county-reports-391-total-cases/2928051001/"
     ],
     "state_name": "NJ",
     "county": "Ocean"
@@ -12146,7 +12175,8 @@
     "confirmed_date": "3/27",
     "die_count": 1,
     "full_links": [
-      "https://covid19.nj.gov/"
+      "https://covid19.nj.gov/",
+      "https://www.dailyrecord.com/story/news/local/morris-county/2020/03/27/coronavirus-nj-march-27-morris-county-reports-391-total-cases/2928051001/"
     ],
     "state_name": "NJ",
     "county": "Somerset"
@@ -12155,7 +12185,8 @@
     "confirmed_date": "3/27",
     "die_count": 1,
     "full_links": [
-      "https://covid19.nj.gov/"
+      "https://covid19.nj.gov/",
+      "https://www.dailyrecord.com/story/news/local/morris-county/2020/03/27/coronavirus-nj-march-27-morris-county-reports-391-total-cases/2928051001/"
     ],
     "state_name": "NJ",
     "county": "Ocean"
@@ -12164,7 +12195,8 @@
     "confirmed_date": "3/27",
     "die_count": 1,
     "full_links": [
-      "https://covid19.nj.gov/"
+      "https://covid19.nj.gov/",
+      "https://www.dailyrecord.com/story/news/local/morris-county/2020/03/27/coronavirus-nj-march-27-morris-county-reports-391-total-cases/2928051001/"
     ],
     "state_name": "NJ",
     "county": "Somerset"
@@ -12173,7 +12205,8 @@
     "confirmed_date": "3/27",
     "die_count": 1,
     "full_links": [
-      "https://covid19.nj.gov/"
+      "https://covid19.nj.gov/",
+      "https://www.dailyrecord.com/story/news/local/morris-county/2020/03/27/coronavirus-nj-march-27-morris-county-reports-391-total-cases/2928051001/"
     ],
     "state_name": "NJ",
     "county": "Somerset"
@@ -12184,7 +12217,8 @@
     "die_count": 1,
     "age_range": "80+",
     "full_links": [
-      "https://covid19.nj.gov/"
+      "https://covid19.nj.gov/",
+      "https://www.dailyrecord.com/story/news/local/morris-county/2020/03/27/coronavirus-nj-march-27-morris-county-reports-391-total-cases/2928051001/"
     ],
     "state_name": "NJ",
     "county": "Gloucester"
@@ -12195,7 +12229,8 @@
     "die_count": 1,
     "age_range": "70+",
     "full_links": [
-      "https://covid19.nj.gov/"
+      "https://covid19.nj.gov/",
+      "https://www.dailyrecord.com/story/news/local/morris-county/2020/03/27/coronavirus-nj-march-27-morris-county-reports-391-total-cases/2928051001/"
     ],
     "state_name": "NJ",
     "county": "Hudson"
@@ -12204,7 +12239,8 @@
     "confirmed_date": "3/27",
     "die_count": 1,
     "full_links": [
-      "https://covid19.nj.gov/"
+      "https://covid19.nj.gov/",
+      "https://www.dailyrecord.com/story/news/local/morris-county/2020/03/27/coronavirus-nj-march-27-morris-county-reports-391-total-cases/2928051001/"
     ],
     "state_name": "NJ",
     "county": "Morris"
@@ -12212,11 +12248,12 @@
   {
     "confirmed_date": "3/27",
     "die_count": 1,
-    "county": "Unassigned",
     "full_links": [
-      "https://covid19.nj.gov/"
+      "https://covid19.nj.gov/",
+      "https://www.dailyrecord.com/story/news/local/morris-county/2020/03/27/coronavirus-nj-march-27-morris-county-reports-391-total-cases/2928051001/"
     ],
-    "state_name": "NJ"
+    "state_name": "NJ",
+    "county": "Morris"
   },
   {
     "confirmed_date": "3/27",
@@ -14119,11 +14156,11 @@
   {
     "confirmed_date": "3/28",
     "die_count": 5,
-    "county": "Unassigned",
     "full_links": [
       "https://covid19.nj.gov/"
     ],
-    "state_name": "NJ"
+    "state_name": "NJ",
+    "county": "Middlesex"
   },
   {
     "confirmed_date": "3/28",
@@ -15793,92 +15830,92 @@
   {
     "confirmed_date": "3/28",
     "die_count": 7,
-    "county": "Unassigned",
     "full_links": [
       "https://covid19.nj.gov/"
     ],
-    "state_name": "NJ"
+    "state_name": "NJ",
+    "county": "Bergen"
   },
   {
     "confirmed_date": "3/28",
     "die_count": 2,
-    "county": "Unassigned",
     "full_links": [
       "https://covid19.nj.gov/"
     ],
-    "state_name": "NJ"
+    "state_name": "NJ",
+    "county": "Essex"
   },
   {
     "confirmed_date": "3/28",
     "die_count": 1,
-    "county": "Unassigned",
     "full_links": [
       "https://covid19.nj.gov/"
     ],
-    "state_name": "NJ"
+    "state_name": "NJ",
+    "county": "Hudson"
   },
   {
     "confirmed_date": "3/28",
     "die_count": 3,
-    "county": "Unassigned",
     "full_links": [
       "https://covid19.nj.gov/"
     ],
-    "state_name": "NJ"
+    "state_name": "NJ",
+    "county": "Morris"
   },
   {
     "confirmed_date": "3/28",
     "die_count": 1,
-    "county": "Unassigned",
     "full_links": [
       "https://covid19.nj.gov/"
     ],
-    "state_name": "NJ"
+    "state_name": "NJ",
+    "county": "Ocean"
   },
   {
     "confirmed_date": "3/28",
     "die_count": 2,
-    "county": "Unassigned",
     "full_links": [
       "https://covid19.nj.gov/"
     ],
-    "state_name": "NJ"
+    "state_name": "NJ",
+    "county": "Passaic"
   },
   {
     "confirmed_date": "3/28",
     "die_count": 1,
-    "county": "Unassigned",
     "full_links": [
       "https://covid19.nj.gov/"
     ],
-    "state_name": "NJ"
+    "state_name": "NJ",
+    "county": "Somerset"
   },
   {
     "confirmed_date": "3/28",
     "die_count": 1,
-    "county": "Unassigned",
     "full_links": [
       "https://covid19.nj.gov/"
     ],
-    "state_name": "NJ"
+    "state_name": "NJ",
+    "county": "Sussex"
   },
   {
     "confirmed_date": "3/28",
     "die_count": 7,
-    "county": "Unassigned",
     "full_links": [
       "https://covid19.nj.gov/"
     ],
-    "state_name": "NJ"
+    "state_name": "NJ",
+    "county": "Union"
   },
   {
     "confirmed_date": "3/28",
     "die_count": 1,
-    "county": "Unassigned",
     "full_links": [
       "https://covid19.nj.gov/"
     ],
-    "state_name": "NJ"
+    "state_name": "NJ",
+    "county": "Warren"
   },
   {
     "confirmed_date": "3/28",
@@ -15935,11 +15972,11 @@
   {
     "confirmed_date": "3/28",
     "die_count": 1,
-    "county": "Unassigned",
     "full_links": [
       "https://covid19.nj.gov/"
     ],
-    "state_name": "NJ"
+    "state_name": "NJ",
+    "county": "Hudson"
   },
   {
     "confirmed_date": "3/28",
@@ -16301,12 +16338,12 @@
   },
   {
     "confirmed_date": "3/29",
-    "die_count": 21,
-    "county": "Unassigned",
+    "die_count": 9,
     "full_links": [
       "https://covid19.nj.gov/"
     ],
-    "state_name": "NJ"
+    "state_name": "NJ",
+    "county": "Bergen"
   },
   {
     "confirmed_date": "3/29",
@@ -17420,7 +17457,7 @@
   {
     "confirmed_date": "3/29",
     "gender": "女",
-    "die_count": 2,
+    "die_count": 1,
     "age_range": "60+",
     "state_name": "IL",
     "county": "Cook",
@@ -17432,7 +17469,7 @@
   {
     "confirmed_date": "3/29",
     "gender": "男",
-    "die_count": 2,
+    "die_count": 1,
     "age_range": "70+",
     "state_name": "IL",
     "county": "Cook",
@@ -17444,7 +17481,7 @@
   {
     "confirmed_date": "3/29",
     "gender": "女",
-    "die_count": 3,
+    "die_count": 1,
     "age_range": "70+",
     "state_name": "IL",
     "county": "Cook",
@@ -17456,7 +17493,7 @@
   {
     "confirmed_date": "3/29",
     "gender": "男",
-    "die_count": 2,
+    "die_count": 1,
     "age_range": "80+",
     "state_name": "IL",
     "county": "Cook",
@@ -17521,6 +17558,75 @@
     "comments_en": "A 76-year-old Plattekill man has died of the coronavirus, the first death of an Ulster County resident from the pandemic, the county's top official announced Sunday afternoon, March 29. ",
     "age_range": "70+",
     "gender": "男"
+  },
+  {
+    "die_count": 1,
+    "state_name": "IL",
+    "county": "Cook",
+    "full_links": [
+      "http://www.dph.illinois.gov/topics-services/diseases-and-conditions/diseases-a-z-list/coronavirus",
+      "http://www.dph.illinois.gov/news/202003"
+    ],
+    "confirmed_date": "3/29",
+    "gender": "男",
+    "age_range": "80+"
+  },
+  {
+    "die_count": 1,
+    "state_name": "IL",
+    "county": "Cook",
+    "full_links": [
+      "http://www.dph.illinois.gov/topics-services/diseases-and-conditions/diseases-a-z-list/coronavirus",
+      "http://www.dph.illinois.gov/news/202003"
+    ],
+    "confirmed_date": "3/29",
+    "gender": "女",
+    "age_range": "70+"
+  },
+  {
+    "die_count": 1,
+    "state_name": "IL",
+    "county": "Cook",
+    "full_links": [
+      "http://www.dph.illinois.gov/topics-services/diseases-and-conditions/diseases-a-z-list/coronavirus",
+      "http://www.dph.illinois.gov/news/202003"
+    ],
+    "confirmed_date": "3/29",
+    "gender": "女",
+    "age_range": "70+"
+  },
+  {
+    "die_count": 1,
+    "state_name": "IL",
+    "county": "Cook",
+    "full_links": [
+      "http://www.dph.illinois.gov/topics-services/diseases-and-conditions/diseases-a-z-list/coronavirus",
+      "http://www.dph.illinois.gov/news/202003"
+    ],
+    "confirmed_date": "3/29",
+    "gender": "男",
+    "age_range": "70+"
+  },
+  {
+    "confirmed_date": "3/29",
+    "die_count": 12,
+    "state_name": "NJ",
+    "county": "Unassigned",
+    "full_links": [
+      "https://covid19.nj.gov/"
+    ]
+  },
+  {
+    "die_count": 1,
+    "state_name": "IL",
+    "county": "Cook",
+    "full_links": [
+      "http://www.dph.illinois.gov/topics-services/diseases-and-conditions/diseases-a-z-list/coronavirus",
+      "http://www.dph.illinois.gov/news/202003"
+    ],
+    "confirmed_date": "3/29",
+    "gender": "女",
+    "age_range": "60+"
   },
   {
     "confirmed_date": "3/30",
@@ -19772,11 +19878,12 @@
     "state_name": "NY",
     "county": "Unassigned",
     "full_links": [
-      "https://twitter.com/ZackFinkNews/status/1245012377310986243"
+      "https://twitter.com/ZackFinkNews/status/1245012377310986243",
+      "https://www.nbcnewyork.com/news/local/how-many-in-tri-state-have-tested-positive-for-coronavirus-here-are-latest-cases-by-the-numbers/2317721/"
     ],
     "confirmed_date": "3/31",
-    "comments_en": "By 3/31 noon, New York reported 1550 total deaths, placeholder.",
-    "die_count": 0
+    "comments_en": "By 3/31, New York reported 1714 total deaths, placeholder.",
+    "die_count": 164
   },
   {
     "die_count": 182,
@@ -19842,7 +19949,7 @@
     "comments_en": "Details need to check."
   },
   {
-    "die_count": 1,
+    "die_count": 3,
     "state_name": "CA",
     "county": "San Bernardino",
     "full_links": [
@@ -20877,22 +20984,16 @@
     "county": "Plymouth"
   },
   {
-    "die_count": 17,
     "full_links": [
-      "http://www.dph.illinois.gov/topics-services/diseases-and-conditions/diseases-a-z-list/coronavirus"
+      "http://www.dph.illinois.gov/topics-services/diseases-and-conditions/diseases-a-z-list/coronavirus",
+      "http://www.dph.illinois.gov/news/202003"
     ],
     "confirmed_date": "3/31",
+    "die_count": 1,
     "state_name": "IL",
-    "county": "Cook"
-  },
-  {
-    "full_links": [
-      "http://www.dph.illinois.gov/topics-services/diseases-and-conditions/diseases-a-z-list/coronavirus"
-    ],
-    "confirmed_date": "3/31",
-    "die_count": 2,
-    "state_name": "IL",
-    "county": "Will"
+    "county": "Will",
+    "gender": "男",
+    "age_range": "80+"
   },
   {
     "full_links": [
@@ -20901,7 +21002,9 @@
     "confirmed_date": "3/31",
     "die_count": 1,
     "state_name": "IL",
-    "county": "McLean"
+    "county": "McLean",
+    "gender": "男",
+    "age_range": "70+"
   },
   {
     "full_links": [
@@ -20910,16 +21013,9 @@
     "confirmed_date": "3/31",
     "die_count": 1,
     "state_name": "IL",
-    "county": "Lake"
-  },
-  {
-    "full_links": [
-      "http://www.dph.illinois.gov/topics-services/diseases-and-conditions/diseases-a-z-list/coronavirus"
-    ],
-    "confirmed_date": "3/31",
-    "die_count": 2,
-    "state_name": "IL",
-    "county": "DuPage"
+    "county": "Lake",
+    "gender": "女",
+    "age_range": "60+"
   },
   {
     "full_links": [
@@ -20928,7 +21024,9 @@
     "confirmed_date": "3/31",
     "die_count": 1,
     "state_name": "IL",
-    "county": "Kane"
+    "county": "DuPage",
+    "gender": "女",
+    "age_range": "70+"
   },
   {
     "full_links": [
@@ -20937,7 +21035,20 @@
     "confirmed_date": "3/31",
     "die_count": 1,
     "state_name": "IL",
-    "county": "Morgan"
+    "county": "Kane",
+    "gender": "男",
+    "age_range": "80+"
+  },
+  {
+    "full_links": [
+      "http://www.dph.illinois.gov/topics-services/diseases-and-conditions/diseases-a-z-list/coronavirus"
+    ],
+    "confirmed_date": "3/31",
+    "die_count": 1,
+    "state_name": "IL",
+    "county": "Morgan",
+    "gender": "男",
+    "age_range": "80+"
   },
   {
     "die_count": 1,
@@ -21628,7 +21739,7 @@
   },
   {
     "confirmed_date": "3/31",
-    "die_count": 1,
+    "die_count": 2,
     "full_links": [
       "https://www.latimes.com/projects/california-coronavirus-cases-tracking-outbreak/"
     ],
@@ -21908,5 +22019,253 @@
     ],
     "confirmed_date": "3/31",
     "comments_en": "Nassau County now has 8,544 positive cases -- up 1,200 from Monday -- with 15 new fatalities to bring the county total to 63."
+  },
+  {
+    "die_count": 3,
+    "state_name": "PA",
+    "county": "Bucks",
+    "full_links": [
+      "https://covid19-bucksgis.hub.arcgis.com/"
+    ],
+    "confirmed_date": "3/31"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.vcemergency.com/covid19-sp"
+    ],
+    "confirmed_date": "3/31",
+    "state_name": "CA",
+    "county": "Ventura"
+  },
+  {
+    "die_count": 2,
+    "full_links": [
+      "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/status.html"
+    ],
+    "state_name": "CA",
+    "county": "San Diego",
+    "confirmed_date": "3/31"
+  },
+  {
+    "die_count": 1,
+    "state_name": "IL",
+    "county": "Cook",
+    "full_links": [
+      "http://www.dph.illinois.gov/news/202003"
+    ],
+    "confirmed_date": "3/31",
+    "gender": "男",
+    "age_range": "50+"
+  },
+  {
+    "die_count": 1,
+    "state_name": "IL",
+    "county": "Cook",
+    "full_links": [
+      "http://www.dph.illinois.gov/news/202003"
+    ],
+    "confirmed_date": "3/31",
+    "gender": "男",
+    "age_range": "60+"
+  },
+  {
+    "die_count": 1,
+    "state_name": "IL",
+    "county": "Cook",
+    "full_links": [
+      "http://www.dph.illinois.gov/news/202003"
+    ],
+    "confirmed_date": "3/31",
+    "gender": "女",
+    "age_range": "60+"
+  },
+  {
+    "die_count": 1,
+    "state_name": "IL",
+    "county": "Cook",
+    "full_links": [
+      "http://www.dph.illinois.gov/news/202003"
+    ],
+    "confirmed_date": "3/31",
+    "gender": "男",
+    "age_range": "70+"
+  },
+  {
+    "die_count": 1,
+    "state_name": "IL",
+    "county": "Cook",
+    "full_links": [
+      "http://www.dph.illinois.gov/news/202003"
+    ],
+    "confirmed_date": "3/31",
+    "gender": "男",
+    "age_range": "70+"
+  },
+  {
+    "die_count": 1,
+    "state_name": "IL",
+    "county": "Cook",
+    "full_links": [
+      "http://www.dph.illinois.gov/news/202003"
+    ],
+    "confirmed_date": "3/31",
+    "gender": "男",
+    "age_range": "70+"
+  },
+  {
+    "die_count": 1,
+    "state_name": "IL",
+    "county": "Cook",
+    "full_links": [
+      "http://www.dph.illinois.gov/news/202003"
+    ],
+    "confirmed_date": "3/31",
+    "gender": "男",
+    "age_range": "70+"
+  },
+  {
+    "die_count": 1,
+    "state_name": "IL",
+    "county": "Cook",
+    "full_links": [
+      "http://www.dph.illinois.gov/news/202003"
+    ],
+    "confirmed_date": "3/31",
+    "gender": "男",
+    "age_range": "70+"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://kentucky.gov/Pages/Activity-stream.aspx?n=GovernorBeshear&prId=111"
+    ],
+    "confirmed_date": "3/31",
+    "state_name": "KY",
+    "county": "Unassigned"
+  },
+  {
+    "die_count": 1,
+    "state_name": "IL",
+    "county": "Cook",
+    "full_links": [
+      "http://www.dph.illinois.gov/news/202003"
+    ],
+    "confirmed_date": "3/31",
+    "gender": "男",
+    "age_range": "50+"
+  },
+  {
+    "die_count": 1,
+    "state_name": "IL",
+    "county": "Cook",
+    "full_links": [
+      "http://www.dph.illinois.gov/news/202003"
+    ],
+    "confirmed_date": "3/31",
+    "gender": "女",
+    "age_range": "60+"
+  },
+  {
+    "die_count": 1,
+    "state_name": "IL",
+    "county": "Cook",
+    "full_links": [
+      "http://www.dph.illinois.gov/news/202003"
+    ],
+    "confirmed_date": "3/31",
+    "gender": "女",
+    "age_range": "70+"
+  },
+  {
+    "die_count": 1,
+    "state_name": "IL",
+    "county": "Cook",
+    "full_links": [
+      "http://www.dph.illinois.gov/news/202003"
+    ],
+    "confirmed_date": "3/31",
+    "gender": "女",
+    "age_range": "70+"
+  },
+  {
+    "die_count": 1,
+    "state_name": "IL",
+    "county": "Cook",
+    "full_links": [
+      "http://www.dph.illinois.gov/news/202003"
+    ],
+    "confirmed_date": "3/31",
+    "gender": "男",
+    "age_range": "80+"
+  },
+  {
+    "die_count": 1,
+    "state_name": "IL",
+    "county": "Cook",
+    "full_links": [
+      "http://www.dph.illinois.gov/news/202003"
+    ],
+    "confirmed_date": "3/31",
+    "gender": "男",
+    "age_range": "80+"
+  },
+  {
+    "die_count": 1,
+    "state_name": "IL",
+    "county": "Cook",
+    "full_links": [],
+    "confirmed_date": "3/31",
+    "gender": "男",
+    "age_range": "80+"
+  },
+  {
+    "die_count": 1,
+    "state_name": "IL",
+    "county": "Cook",
+    "full_links": [],
+    "confirmed_date": "3/31",
+    "gender": "女",
+    "age_range": "80+"
+  },
+  {
+    "die_count": 1,
+    "state_name": "IL",
+    "county": "Cook",
+    "full_links": [],
+    "confirmed_date": "3/31",
+    "gender": "男",
+    "age_range": "90+"
+  },
+  {
+    "die_count": 1,
+    "state_name": "IL",
+    "county": "DuPage",
+    "full_links": [
+      "http://www.dph.illinois.gov/news/202003"
+    ],
+    "confirmed_date": "3/31",
+    "gender": "女",
+    "age_range": "70+"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.latimes.com/projects/california-coronavirus-cases-tracking-outbreak/"
+    ],
+    "state_name": "CA",
+    "county": "Mono",
+    "confirmed_date": "3/31"
+  },
+  {
+    "die_count": 1,
+    "state_name": "IL",
+    "county": "Will",
+    "full_links": [
+      "http://www.dph.illinois.gov/news/202003"
+    ],
+    "confirmed_date": "3/31",
+    "gender": "女",
+    "age_range": "80+"
   }
 ]
