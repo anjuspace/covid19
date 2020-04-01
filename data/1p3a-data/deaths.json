@@ -21846,6 +21846,15 @@
     ]
   },
   {
+    "die_count": 1,
+    "state_name": "ID",
+    "county": "Cassia",
+    "full_links": [
+      "https://coronavirus.idaho.gov/"
+    ],
+    "confirmed_date": "3/31"
+  },
+  {
     "confirmed_date": "3/31",
     "gender": "Unknown",
     "die_count": 1,
@@ -22593,6 +22602,24 @@
   },
   {
     "die_count": 1,
+    "state_name": "CA",
+    "county": "Unassigned",
+    "full_links": [
+      "https://www.latimes.com/projects/california-coronavirus-cases-tracking-outbreak/"
+    ],
+    "confirmed_date": "3/31"
+  },
+  {
+    "die_count": 1,
+    "state_name": "KS",
+    "county": "Johnson",
+    "full_links": [
+      "https://www.kshb.com/news/coronavirus/covid-19-case-tracker-where-we-stand-in-mo-ks-nationwide"
+    ],
+    "confirmed_date": "3/31"
+  },
+  {
+    "die_count": 1,
     "state_name": "PR",
     "county": "Puerto Rico",
     "full_links": [
@@ -22623,5 +22650,38 @@
     "confirmed_date": "4/1",
     "gender": "女",
     "age_range": "60+"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.wxii12.com/article/wilkes-county-reports-first-positive-case-of-covid-19/31979512"
+    ],
+    "state_name": "NC",
+    "county": "Wilkes",
+    "confirmed_date": "4/1",
+    "comments_en": "Health officials in Wilkes County are reporting its death related to COVID-19. The individual died late Tuesday from complications associated with the virus. The patient was in their late 60’s.",
+    "gender": "Unknown",
+    "age_range": "60+"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://myfox8.com/news/nc-sheriffs-deputy-dies-after-fight-against-covid-19-officials-say/"
+    ],
+    "state_name": "NC",
+    "county": "Montgomery",
+    "confirmed_date": "4/1",
+    "comments_en": "A Montgomery County Sheriff’s Office deputy has died from the coronavirus, according to a Facebook post by the Randolph County Sheriff’s Office."
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.saipantribune.com/index.php/breaking-news-4-new-covid-19-cases-in-nmi/"
+    ],
+    "confirmed_date": "4/1",
+    "state_name": "MP",
+    "county": "Saipan",
+    "gender": "男",
+    "age_range": "70+"
   }
 ]

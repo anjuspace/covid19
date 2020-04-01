@@ -35949,7 +35949,7 @@
     "confirmed_date": "3/24",
     "people_count": 1,
     "state_name": "PA",
-    "county": "​Juniata"
+    "county": "Juniata"
   },
   {
     "confirmed_date": "3/24",
@@ -70123,7 +70123,7 @@
   },
   {
     "confirmed_date": "3/30",
-    "people_count": 1,
+    "people_count": 2,
     "state_name": "ND",
     "county": "Burleigh"
   },
@@ -70815,7 +70815,7 @@
     "confirmed_date": "3/30",
     "people_count": 2,
     "state_name": "PA",
-    "county": "​Juniata"
+    "county": "Juniata"
   },
   {
     "confirmed_date": "3/30",
@@ -76285,13 +76285,13 @@
   },
   {
     "confirmed_date": "3/31",
-    "people_count": 545,
+    "people_count": 563,
     "state_name": "CA",
     "county": "Los Angeles"
   },
   {
     "confirmed_date": "3/31",
-    "people_count": 131,
+    "people_count": 134,
     "state_name": "CA",
     "county": "San Diego"
   },
@@ -77497,7 +77497,7 @@
   },
   {
     "confirmed_date": "3/31",
-    "people_count": 8,
+    "people_count": 7,
     "state_name": "ND",
     "county": "Cass"
   },
@@ -77539,13 +77539,13 @@
   },
   {
     "confirmed_date": "3/31",
-    "people_count": 1,
+    "people_count": 2,
     "state_name": "ND",
     "county": "Stark"
   },
   {
     "confirmed_date": "3/31",
-    "people_count": 2,
+    "people_count": 3,
     "state_name": "ND",
     "county": "Williams"
   },
@@ -83382,6 +83382,18 @@
     "county": "Imperial"
   },
   {
+    "people_count": 1,
+    "state_name": "ND",
+    "county": "Grand Forks",
+    "confirmed_date": "3/31"
+  },
+  {
+    "people_count": 1,
+    "confirmed_date": "3/31",
+    "state_name": "ND",
+    "county": "McKenzie"
+  },
+  {
     "people_count": 47,
     "state_name": "PR",
     "county": "Puerto Rico",
@@ -83392,5 +83404,29 @@
     "state_name": "WA",
     "county": "Unassigned",
     "confirmed_date": "4/1"
+  },
+  {
+    "people_count": 5,
+    "state_name": "CA",
+    "county": "Nevada",
+    "confirmed_date": "4/1"
+  },
+  {
+    "people_count": 8,
+    "state_name": "GU",
+    "county": "Guam",
+    "confirmed_date": "4/1"
+  },
+  {
+    "people_count": 4,
+    "state_name": "MP",
+    "county": "Saipan",
+    "confirmed_date": "4/1"
+  },
+  {
+    "people_count": 10,
+    "confirmed_date": "4/1",
+    "state_name": "WI",
+    "county": "Dane"
   }
 ]
