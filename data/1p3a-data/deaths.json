@@ -24024,7 +24024,7 @@
     "county": "Cass"
   },
   {
-    "die_count": 1,
+    "die_count": 2,
     "state_name": "NY",
     "county": "Erie",
     "full_links": [
@@ -25875,5 +25875,17 @@
       "https://experience.arcgis.com/experience/96dd742462124fa0b38ddedb9b25e429"
     ],
     "confirmed_date": "4/1"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.newsobserver.com/news/coronavirus/article241691726.html"
+    ],
+    "state_name": "NC",
+    "county": "Bertie",
+    "confirmed_date": "4/1",
+    "age_range": "60+",
+    "gender": "Unknown",
+    "comments_en": "Bertie County reported its first coronavirus-related death Wednesday afternoon. The person who died was 65 years old. No further information was released, the post said.\n"
   }
 ]
