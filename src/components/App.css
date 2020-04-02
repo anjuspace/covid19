@@ -473,7 +473,7 @@ ul.map-nav-bar:not(:hover) li.current {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin-bottom: 30px;
+    margin-bottom: 20px;
     margin-right: 5px;
 }
 
@@ -505,11 +505,9 @@ ul.map-nav-bar:not(:hover) li.current {
     align-items: center;
     font-family: 'Saira Condensed', sans-serif;
     font-weight: 400;
-    color: rgb(101, 221, 155);
 }
 
-.deadCount-count {
-    font-size: 34px;
+.count-daily {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -599,8 +597,8 @@ ul.map-nav-bar:not(:hover) li.current {
 }
 
 .region-option-count {
-    width: 50px;
-    min-width: 50px;
+    width: 60px;
+    min-width: 60px;
     border-radius: 50px;
     background-color: var(--lighter-grey);
     display: flex;
