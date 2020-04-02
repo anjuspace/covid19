@@ -18976,14 +18976,14 @@
   {
     "confirmed_date": "3/30",
     "gender": "Unknown",
-    "comments_en": "The Carteret County Health Department has reported the first COVID-19 associated death in the county. Health officials say the person died on Saturday from complications associated with the virus. The patient was a Virginia resident, in their 80’s, andofficials say they had several underlying medical conditions.",
+    "comments_en": "Health officials say the person died on Saturday from complications associated with the virus. The patient was a Virginia resident, in their 80’s, andofficials say they had several underlying medical conditions.The confirmed case and death of this person will be reported in the county where they lived, in Virginia, and will not be reflected on the NC Department of Health Human Services case count for confirmed cases and deaths in Carteret County.",
     "die_count": 1,
     "age_range": "80+",
-    "state_name": "NC",
-    "county": "Carteret",
     "full_links": [
       "https://wcti12.com/news/local/first-coronavirus-case-reported-in-pamlico-county"
-    ]
+    ],
+    "state_name": "VA",
+    "county": "Unassigned"
   },
   {
     "confirmed_date": "3/30",
@@ -22843,6 +22843,34 @@
   },
   {
     "die_count": 1,
+    "state_name": "MO",
+    "county": "Greene",
+    "full_links": [
+      "https://health.mo.gov/living/healthcondiseases/communicable/novel-coronavirus/results.php",
+      "https://www.springfieldmo.gov/civicalerts.aspx?AID=6661"
+    ],
+    "confirmed_date": "3/31",
+    "comments": "One loss, a man in his 90s, was a positive case from the Morningside of Springfield East assisted living facility.",
+    "gender": "男",
+    "age_range": "90+",
+    "comments_en": "One loss, a man in his 90s, was a positive case from the Morningside of Springfield East assisted living facility."
+  },
+  {
+    "die_count": 1,
+    "state_name": "MO",
+    "county": "Greene",
+    "full_links": [
+      "https://health.mo.gov/living/healthcondiseases/communicable/novel-coronavirus/results.php",
+      "https://www.springfieldmo.gov/civicalerts.aspx?AID=6661"
+    ],
+    "confirmed_date": "3/31",
+    "comments": "The second was a man in his 80s who was immunocompromised. He was a contact of a person who was an international traveler. This makes six deaths from COVID-19 in Greene County. ",
+    "comments_en": "The second was a man in his 80s who was immunocompromised. He was a contact of a person who was an international traveler. This makes six deaths from COVID-19 in Greene County. ",
+    "age_range": "80+",
+    "gender": "男"
+  },
+  {
+    "die_count": 1,
     "state_name": "NJ",
     "county": "Gloucester",
     "full_links": [
@@ -23970,24 +23998,6 @@
   },
   {
     "die_count": 1,
-    "state_name": "MO",
-    "county": "Greene",
-    "full_links": [
-      "https://health.mo.gov/living/healthcondiseases/communicable/novel-coronavirus/results.php"
-    ],
-    "confirmed_date": "4/1"
-  },
-  {
-    "die_count": 1,
-    "state_name": "MO",
-    "county": "Greene",
-    "full_links": [
-      "https://health.mo.gov/living/healthcondiseases/communicable/novel-coronavirus/results.php"
-    ],
-    "confirmed_date": "4/1"
-  },
-  {
-    "die_count": 1,
     "full_links": [
       "https://health.mo.gov/living/healthcondiseases/communicable/novel-coronavirus/results.php"
     ],
@@ -24895,13 +24905,13 @@
     "county": "unassigned"
   },
   {
-    "die_count": 11,
     "state_name": "CO",
     "county": "Unassigned",
     "full_links": [
       "https://covid19.colorado.gov/case-data"
     ],
-    "confirmed_date": "4/1"
+    "confirmed_date": "4/1",
+    "die_count": 3
   },
   {
     "die_count": 1,
@@ -24964,6 +24974,182 @@
     "full_links": [
       "https://www.countynewscenter.com/15-san-diegans-have-died-from-covid-19-cases-reach-849/",
       "https://twitter.com/SanDiegoCounty/status/1245493016598462464"
+    ],
+    "confirmed_date": "4/1"
+  },
+  {
+    "die_count": 1,
+    "state_name": "CO",
+    "county": "Arapahoe",
+    "full_links": [
+      "https://covid19.colorado.gov/case-data"
+    ],
+    "confirmed_date": "4/1"
+  },
+  {
+    "die_count": 1,
+    "state_name": "CO",
+    "county": "Broomfield",
+    "full_links": [
+      "https://covid19.colorado.gov/case-data"
+    ],
+    "confirmed_date": "4/1"
+  },
+  {
+    "die_count": 1,
+    "state_name": "CO",
+    "county": "Denver",
+    "full_links": [
+      "https://covid19.colorado.gov/case-data"
+    ],
+    "confirmed_date": "4/1"
+  },
+  {
+    "die_count": 1,
+    "state_name": "MO",
+    "county": "St. Louis",
+    "full_links": [
+      "https://www.stlouisco.com/Your-Government/County-Executive/COVID-19"
+    ],
+    "confirmed_date": "4/1",
+    "comments": "On 3/31/2020, St. Louis County Department of Public Health (DPH) received notification of the death of an 80-89 year old man with chronic medical conditions. This is the fourth death in St. Louis County.",
+    "gender": "男",
+    "age_range": "80+",
+    "comments_en": "On 3/31/2020, St. Louis County Department of Public Health (DPH) received notification of the death of an 80-89 year old man with chronic medical conditions. This is the fourth death in St. Louis County."
+  },
+  {
+    "die_count": 1,
+    "state_name": "CO",
+    "county": "El Paso",
+    "full_links": [
+      "https://covid19.colorado.gov/case-data"
+    ],
+    "confirmed_date": "4/1"
+  },
+  {
+    "die_count": 1,
+    "state_name": "CO",
+    "county": "Jefferson",
+    "full_links": [
+      "https://covid19.colorado.gov/case-data"
+    ],
+    "confirmed_date": "4/1"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.wfmynews2.com/article/news/health/coronavirus/coronavirus-death-reported-in-rockingham-county/83-f6f14fee-0f0b-4084-9f67-1500bc74c9a6"
+    ],
+    "confirmed_date": "4/1",
+    "state_name": "NC",
+    "county": "Rockingham",
+    "comments_en": "A person has died in Rockingham County from the coronavirus. Rockingham County Health leaders said the patient was in his or her 60s and had several underlying medical conditions.",
+    "age_range": "60+",
+    "gender": "Unknown"
+  },
+  {
+    "die_count": 1,
+    "state_name": "CO",
+    "county": "Larimer",
+    "full_links": [
+      "https://covid19.colorado.gov/case-data"
+    ],
+    "confirmed_date": "4/1"
+  },
+  {
+    "die_count": 1,
+    "state_name": "CO",
+    "county": "Weld",
+    "full_links": [
+      "https://covid19.colorado.gov/case-data"
+    ],
+    "confirmed_date": "4/1"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://covid19.colorado.gov/case-data"
+    ],
+    "state_name": "CO",
+    "county": "Out of state",
+    "confirmed_date": "4/1"
+  },
+  {
+    "die_count": 1,
+    "state_name": "NC",
+    "county": "Mecklenburg",
+    "full_links": [
+      "https://www.newsobserver.com/news/coronavirus/article241693341.html"
+    ],
+    "confirmed_date": "4/1",
+    "comments_en": "Mecklenburg reported 2nd death by 4/1."
+  },
+  {
+    "die_count": 2,
+    "state_name": "MO",
+    "county": "St. Charles",
+    "full_links": [
+      "https://www.sccmo.org/2105/COVID-19"
+    ],
+    "confirmed_date": "4/1"
+  },
+  {
+    "die_count": 1,
+    "state_name": "MO",
+    "county": "Jackson",
+    "full_links": [
+      "https://jacohd.maps.arcgis.com/apps/opsdashboard/index.html#/5aa91e10f7684b10952c1326ecd91670"
+    ],
+    "confirmed_date": "4/1"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://keyt.com/news/2020/04/01/first-death-from-covid-19-reported-in-santa-barbara-county/"
+    ],
+    "confirmed_date": "4/1",
+    "state_name": "CA",
+    "county": "Santa Barbara",
+    "comments_en": "Santa Barbara County has now seen its first death from COVID-19.\nThe person was a North County in their 60s with underlying health problems, according to County public health officer Dr. Henning Ansorg.",
+    "age_range": "60+",
+    "gender": "Unknown"
+  },
+  {
+    "die_count": 1,
+    "state_name": "DC",
+    "county": "District of Columbia",
+    "full_links": [
+      "https://coronavirus.dc.gov/page/coronavirus-data"
+    ],
+    "confirmed_date": "4/1",
+    "comments_en": "The District reported 2 new deaths on Tuesday night."
+  },
+  {
+    "die_count": 1,
+    "state_name": "DC",
+    "county": "District of Columbia",
+    "full_links": [
+      "https://coronavirus.dc.gov/page/coronavirus-data"
+    ],
+    "confirmed_date": "4/1",
+    "comments_en": "The District reported 2 new deaths on Tuesday night."
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.yuba.org/coronavirus/"
+    ],
+    "confirmed_date": "4/1",
+    "state_name": "CA",
+    "county": "Sutter",
+    "comments_en": "Sutter County reported first death by 4/1."
+  },
+  {
+    "die_count": 3,
+    "state_name": "WA",
+    "county": "Yakima",
+    "full_links": [
+      "https://www.yakimacounty.us/2323/COVID-19"
     ],
     "confirmed_date": "4/1"
   }
