@@ -7022,9 +7022,7 @@
     "county": "Pima",
     "full_links": [
       "https://www.azdhs.gov/preparedness/epidemiology-disease-control/infectious-disease-epidemiology/index.php#novel-coronavirus-home"
-    ],
-    "state_name": "AZ",
-    "county": "Pima"
+    ]
   },
   {
     "confirmed_date": "3/24",
@@ -7688,7 +7686,9 @@
     "age_range": "50+",
     "state_name": "AR",
     "county": "Pulaski",
-    "full_links": []
+    "full_links": [
+      "healthy.arkansas.gov/programs-services/topics/novel-coronavirus"
+    ]
   },
   {
     "confirmed_date": "3/24",
@@ -7709,11 +7709,11 @@
     "comments": "3/24 爱荷华州首例死亡。该患者是一位居住在Dubuque的61-80岁的老人。",
     "comments_en": "3/24/20, The Iowa Department of Public Health (IDPH) learned late today of the first death associated with novel coronavirus (COVID-19). The individual was an older adult, 61-80 years of age, and a resident of Dubuque County. ",
     "die_count": 1,
+    "state_name": "IA",
     "county": "Dubuque",
     "full_links": [
       "https://idph.iowa.gov/News/ArtMID/646/ArticleID/158315/First-COVID-19-Death-Confirmed-in-Iowa-32420?fbclid=IwAR3lA-z-k_AVPKMxm05iZv3f11WbdCSUMIFiDy6erltTezuohwz-UG3LU9I#.XnqfGaa-jAE.facebook"
-    ],
-    "state_name": "IA"
+    ]
   },
   {
     "confirmed_date": "3/24",
@@ -11414,24 +11414,24 @@
     "comments": "一位80多岁老人，来自Poweshiek，于周四晚上去世。",
     "comments_en": "According to the IDPH, two Iowans with COVID-19 passed away Thursday night. One elderly adult (81+ years) from Poweshiek County and one older adult (61-80 years) from Allamakee County. Three people, in total, have died from coronavirus in Iowa to date.",
     "die_count": 1,
+    "state_name": "IA",
     "county": "Poweshiek",
     "full_links": [
       "https://whotv.com/news/2-more-deaths-56-new-covid-19-cases-diagnosed-in-iowa/?fbclid=IwAR3R6eWtlsRwdz6o2Zu_BGvhKx1wx80Zo50xLzGP7UtQng8vjURh6H0JXac",
       "https://www.kcrg.com/content/news/Two-more-coronavirus-related-deaths-in-eastern-Iowa-56-additional-positive-cases-569161991.html"
-    ],
-    "state_name": "IA"
+    ]
   },
   {
     "confirmed_date": "3/26",
     "comments": "一位61-80岁老人，来自Allamakee，于周四晚上去世。",
     "comments_en": "According to the IDPH, two Iowans with COVID-19 passed away Thursday night. One elderly adult (81+ years) from Poweshiek County and one older adult (61-80 years) from Allamakee County. Three people, in total, have died from coronavirus in Iowa to date.",
     "die_count": 1,
+    "state_name": "IA",
     "county": "Allamakee",
     "full_links": [
       "https://whotv.com/news/2-more-deaths-56-new-covid-19-cases-diagnosed-in-iowa/?fbclid=IwAR3R6eWtlsRwdz6o2Zu_BGvhKx1wx80Zo50xLzGP7UtQng8vjURh6H0JXac",
       "https://www.kcrg.com/content/news/Two-more-coronavirus-related-deaths-in-eastern-Iowa-56-additional-positive-cases-569161991.html"
-    ],
-    "state_name": "IA"
+    ]
   },
   {
     "confirmed_date": "3/26",
@@ -11919,9 +11919,7 @@
     "county": "Maricopa",
     "full_links": [
       "https://www.azdhs.gov/preparedness/epidemiology-disease-control/infectious-disease-epidemiology/index.php#novel-coronavirus-home"
-    ],
-    "state_name": "AZ",
-    "county": "Maricopa"
+    ]
   },
   {
     "confirmed_date": "3/27",
@@ -16127,11 +16125,11 @@
     "comments_en": "According to IDPH, one Iowan with COVID-19 passed away the night of 3/28 , an older adult (61-80 years) from Linn County. ",
     "die_count": 1,
     "age_range": "60+",
+    "state_name": "IA",
     "county": "Linn",
     "full_links": [
       "https://idph.iowa.gov/News/ArtMID/646/ArticleID/158318/Additional-COVID-19-Cases-in-Iowa-Additional-Death-Confirmed-32920"
-    ],
-    "state_name": "IA"
+    ]
   },
   {
     "confirmed_date": "3/28",
@@ -17529,22 +17527,22 @@
     "comments": "3/29 Linn County新增1例死亡，为61-80岁成人。",
     "comments_en": "an older adult (61-80 years) from Linn County.",
     "die_count": 1,
+    "state_name": "IA",
     "county": "Linn",
     "full_links": [
       "https://idph.iowa.gov/News/ArtMID/646/ArticleID/158318/Additional-COVID-19-Cases-in-Iowa-Additional-Death-Confirmed-32920"
-    ],
-    "state_name": "IA"
+    ]
   },
   {
     "confirmed_date": "3/29",
     "comments": "3/29 Washington County新增1例死亡，为80多岁成人。",
     "comments_en": "one elderly adult (81+) of Washington County",
     "die_count": 1,
+    "state_name": "IA",
     "county": "Washington",
     "full_links": [
       "https://www.kcci.com/article/idph-reports-2-additional-covid-19-deaths-88-more-positive-cases/31978575"
-    ],
-    "state_name": "IA"
+    ]
   },
   {
     "confirmed_date": "3/29",
@@ -18987,9 +18985,7 @@
     "county": "Unassigned",
     "full_links": [
       "https://wcti12.com/news/local/first-coronavirus-case-reported-in-pamlico-county"
-    ],
-    "state_name": "VA",
-    "county": "Unassigned"
+    ]
   },
   {
     "confirmed_date": "3/30",
@@ -20140,13 +20136,13 @@
   {
     "confirmed_date": "3/31",
     "comments_en": "By 3/31, New York reported 1714 total deaths, placeholder.",
+    "die_count": 154,
     "state_name": "NY",
     "county": "Unassigned",
     "full_links": [
       "https://twitter.com/ZackFinkNews/status/1245012377310986243",
       "https://www.nbcnewyork.com/news/local/how-many-in-tri-state-have-tested-positive-for-coronavirus-here-are-latest-cases-by-the-numbers/2317721/"
-    ],
-    "die_count": 154
+    ]
   },
   {
     "confirmed_date": "3/31",
@@ -20351,11 +20347,11 @@
     "confirmed_date": "3/31",
     "comments_en": "3/31 IA state total 7 deseased.",
     "die_count": 1,
+    "state_name": "IA",
     "county": "Unassigned",
     "full_links": [
       "https://coronavirus.iowa.gov/?fbclid=IwAR31EmnKafsX48tYZk8WwDGmicVtS3ylajho2yrR7TVjTYgmf0ZuYCnAkHI"
-    ],
-    "state_name": "IA"
+    ]
   },
   {
     "confirmed_date": "3/31",
@@ -25947,10 +25943,6 @@
     "age_range": "Unknown"
   },
   {
-    "confirmed_date": "4/1",
-    "full_links": [
-      "https://www.dph.illinois.gov/news/public-health-officials-announce-986-new-cases-coronavirus-disease"
-    ],
     "die_count": 1,
     "state_name": "MD",
     "county": "Carroll",
@@ -25961,12 +25953,6 @@
     "comments_en": "Carroll County reported 5 deaths by 4/2 morning."
   },
   {
-    "confirmed_date": "4/1",
-    "state_name": "IL",
-    "county": "Cook",
-    "full_links": [
-      "https://www.dph.illinois.gov/news/public-health-officials-announce-986-new-cases-coronavirus-disease"
-    ],
     "die_count": 1,
     "full_links": [
       "https://www.nytimes.com/interactive/2020/us/maryland-coronavirus-cases.html"
@@ -25989,12 +25975,6 @@
     "gender": "Unknown"
   },
   {
-    "confirmed_date": "4/1",
-    "state_name": "IL",
-    "county": "Cook",
-    "full_links": [
-      "https://www.dph.illinois.gov/news/public-health-officials-announce-986-new-cases-coronavirus-disease"
-    ],
     "die_count": 1,
     "state_name": "TN",
     "county": "Davidson",
@@ -26007,12 +25987,6 @@
     "comments_en": "Health officials have confirmed the death of a 73-year-old man as the fifth death in Davidson County. "
   },
   {
-    "confirmed_date": "4/1",
-    "state_name": "IL",
-    "county": "Cook",
-    "full_links": [
-      "https://www.dph.illinois.gov/news/public-health-officials-announce-986-new-cases-coronavirus-disease"
-    ],
     "die_count": 1,
     "state_name": "DC",
     "county": "District of Columbia",
@@ -26068,5 +26042,125 @@
     ],
     "confirmed_date": "4/2",
     "comments_en": "By 4/2 noon, NY reported 2,373 total deaths."
+  },
+  {
+    "die_count": 6,
+    "state_name": "VA",
+    "county": "Unknown",
+    "full_links": [
+      "http://www.vdh.virginia.gov/coronavirus/"
+    ],
+    "confirmed_date": "4/2"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.charlotteobserver.com/news/coronavirus/article241709636.html"
+    ],
+    "confirmed_date": "4/2",
+    "state_name": "NC",
+    "county": "Gaston",
+    "comments_en": "Gaston County reported first death in the county. 80s patient with underlying health issues.",
+    "age_range": "80+",
+    "gender": "Unknown"
+  },
+  {
+    "die_count": 3,
+    "state_name": "TX",
+    "county": "Tarrant",
+    "full_links": [
+      "https://www.nbcdfw.com/news/coronavirus/tarrant-county-reports-3-more-covid-19-deaths-total-now-at-6/2344160/"
+    ],
+    "confirmed_date": "4/2"
+  },
+  {
+    "die_count": 4,
+    "state_name": "FL",
+    "county": "Broward",
+    "full_links": [
+      "https://fdoh.maps.arcgis.com/apps/opsdashboard/index.html#/8d0de33f260d444c852a615dc7837c86"
+    ],
+    "confirmed_date": "4/2"
+  },
+  {
+    "die_count": 1,
+    "state_name": "FL",
+    "county": "Clay",
+    "full_links": [
+      "https://fdoh.maps.arcgis.com/apps/opsdashboard/index.html#/8d0de33f260d444c852a615dc7837c86"
+    ],
+    "confirmed_date": "4/2"
+  },
+  {
+    "die_count": 12,
+    "state_name": "FL",
+    "county": "Miami-Dade",
+    "full_links": [
+      "https://fdoh.maps.arcgis.com/apps/opsdashboard/index.html#/8d0de33f260d444c852a615dc7837c86"
+    ],
+    "confirmed_date": "4/2"
+  },
+  {
+    "die_count": 3,
+    "state_name": "FL",
+    "county": "Duval",
+    "full_links": [
+      "https://fdoh.maps.arcgis.com/apps/opsdashboard/index.html#/8d0de33f260d444c852a615dc7837c86"
+    ],
+    "confirmed_date": "4/2"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://fdoh.maps.arcgis.com/apps/opsdashboard/index.html#/8d0de33f260d444c852a615dc7837c86"
+    ],
+    "confirmed_date": "4/2",
+    "state_name": "FL",
+    "county": "Flagler"
+  },
+  {
+    "die_count": 2,
+    "state_name": "FL",
+    "county": "Hillsborough",
+    "full_links": [
+      "https://fdoh.maps.arcgis.com/apps/opsdashboard/index.html#/8d0de33f260d444c852a615dc7837c86"
+    ],
+    "confirmed_date": "4/2"
+  },
+  {
+    "confirmed_date": "4/2",
+    "die_count": 2,
+    "full_links": [
+      "https://fdoh.maps.arcgis.com/apps/opsdashboard/index.html#/8d0de33f260d444c852a615dc7837c86"
+    ],
+    "state_name": "FL",
+    "county": "Lake"
+  },
+  {
+    "die_count": 1,
+    "state_name": "FL",
+    "county": "Orange",
+    "full_links": [
+      "https://fdoh.maps.arcgis.com/apps/opsdashboard/index.html#/8d0de33f260d444c852a615dc7837c86"
+    ],
+    "confirmed_date": "4/2"
+  },
+  {
+    "die_count": 1,
+    "state_name": "FL",
+    "county": "Okaloosa",
+    "full_links": [
+      "https://fdoh.maps.arcgis.com/apps/opsdashboard/index.html#/8d0de33f260d444c852a615dc7837c86"
+    ],
+    "confirmed_date": "4/2"
+  },
+  {
+    "die_count": 2,
+    "state_name": "GA",
+    "county": "Fulton",
+    "full_links": [
+      "https://dph.georgia.gov/covid-19-daily-status-report"
+    ],
+    "confirmed_date": "4/2"
   }
 ]
