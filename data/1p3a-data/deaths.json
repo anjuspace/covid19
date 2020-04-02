@@ -26332,14 +26332,14 @@
     "county": "Richmond"
   },
   {
-    "die_count": 3,
+    "die_count": 5,
     "state_name": "TN",
     "county": "Shelby",
     "full_links": [
       "https://www.wmcactionnews5.com/2020/04/02/cases-coronavirus-confirmed-shelby-county-according-city-memphis/"
     ],
     "confirmed_date": "4/2",
-    "comments_en": "5 deaths, 638 cases of coronavirus confirmed in Shelby County"
+    "comments_en": "Speaking at a news conference Thursday afternoon, Shelby County Health Department director Alisa Haushalter announced two more deaths since their morning news release, bringing the county’s death toll to seven. Haushalter said one of the deaths was a person younger than 40."
   },
   {
     "die_count": 4,
@@ -27121,5 +27121,14 @@
     "confirmed_date": "4/2",
     "state_name": "IL",
     "county": "Whiteside"
+  },
+  {
+    "confirmed_date": "4/2",
+    "die_count": 2,
+    "state_name": "TN",
+    "county": "Hamilton",
+    "full_links": [
+      "http://health.hamiltontn.org/AllServices/Coronavirus(COVID-19).aspx"
+    ]
   }
 ]
