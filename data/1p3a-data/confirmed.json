@@ -27403,7 +27403,7 @@
   },
   {
     "confirmed_date": "3/22",
-    "people_count": 7,
+    "people_count": 17,
     "state_name": "RI",
     "county": "Providence"
   },
@@ -30715,7 +30715,7 @@
   },
   {
     "confirmed_date": "3/23",
-    "people_count": 7,
+    "people_count": 17,
     "state_name": "RI",
     "county": "Providence"
   },
@@ -34456,6 +34456,18 @@
     "people_count": 1,
     "state_name": "CA",
     "county": "Yolo"
+  },
+  {
+    "confirmed_date": "3/23",
+    "state_name": "RI",
+    "county": "Washington",
+    "people_count": 4
+  },
+  {
+    "confirmed_date": "3/23",
+    "people_count": 1,
+    "state_name": "RI",
+    "county": "Bristol"
   },
   {
     "confirmed_date": "3/24",
@@ -39846,10 +39858,16 @@
     "county": "Yolo"
   },
   {
-    "confirmed_date": "3/25",
-    "people_count": 2,
+    "confirmed_date": "3/24",
+    "people_count": 18,
     "state_name": "RI",
-    "county": "Bristol"
+    "county": "Providence"
+  },
+  {
+    "confirmed_date": "3/25",
+    "state_name": "RI",
+    "county": "Bristol",
+    "people_count": 1
   },
   {
     "confirmed_date": "3/25",
@@ -45325,9 +45343,9 @@
   },
   {
     "confirmed_date": "3/25",
-    "people_count": 5,
     "state_name": "RI",
-    "county": "Washington"
+    "county": "Washington",
+    "people_count": 1
   },
   {
     "confirmed_date": "3/25",
@@ -45337,9 +45355,9 @@
   },
   {
     "confirmed_date": "3/25",
-    "people_count": 39,
     "state_name": "RI",
-    "county": "Providence"
+    "county": "Providence",
+    "people_count": 1
   },
   {
     "confirmed_date": "3/25",
@@ -89280,7 +89298,7 @@
     "county": "Calhoun"
   },
   {
-    "people_count": 27,
+    "people_count": 12,
     "confirmed_date": "4/1",
     "state_name": "KY",
     "county": "Unassigned"
@@ -90586,5 +90604,17 @@
     "people_count": 1,
     "state_name": "KS",
     "county": "Riley"
+  },
+  {
+    "people_count": 5,
+    "confirmed_date": "4/1",
+    "state_name": "KY",
+    "county": "Kenton"
+  },
+  {
+    "people_count": 10,
+    "confirmed_date": "4/1",
+    "state_name": "KY",
+    "county": "Hopkins"
   }
 ]
