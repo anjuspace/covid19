@@ -22614,7 +22614,7 @@
   },
   {
     "confirmed_date": "3/31",
-    "gender": "Unknown",
+    "gender": "男",
     "comments": "Winnebago County首例死亡，受害者年龄为60多岁。",
     "comments_en": "The first death related to COVID-19 has been confirmed in Winnebago County. Health officials say the patient was in their 60s. ",
     "die_count": 1,
@@ -25668,18 +25668,6 @@
     "comments_en": "1 female 70s",
     "gender": "女",
     "age_range": "70+"
-  },
-  {
-    "confirmed_date": "4/1",
-    "full_links": [
-      "https://www.dph.illinois.gov/news/public-health-officials-announce-986-new-cases-coronavirus-disease"
-    ],
-    "die_count": 1,
-    "state_name": "IL",
-    "county": "Winnebago",
-    "comments_en": "1 male 60s",
-    "gender": "男",
-    "age_range": "60+"
   },
   {
     "confirmed_date": "4/1",

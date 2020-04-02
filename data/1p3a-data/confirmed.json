@@ -83533,12 +83533,6 @@
   },
   {
     "confirmed_date": "3/31",
-    "people_count": 79,
-    "state_name": "CA",
-    "county": "San Mateo"
-  },
-  {
-    "confirmed_date": "3/31",
     "people_count": 1,
     "state_name": "WA",
     "county": "Walla Walla"
@@ -84604,6 +84598,12 @@
     "people_count": 3,
     "state_name": "AZ",
     "county": "Yuma"
+  },
+  {
+    "people_count": 79,
+    "state_name": "CA",
+    "county": "San Mateo",
+    "confirmed_date": "4/1"
   },
   {
     "confirmed_date": "4/1",
@@ -90580,5 +90580,11 @@
     "confirmed_date": "4/1",
     "county": "Gates",
     "state_name": "NC"
+  },
+  {
+    "confirmed_date": "4/1",
+    "people_count": 1,
+    "state_name": "KS",
+    "county": "Riley"
   }
 ]
