@@ -19676,7 +19676,9 @@
     "die_count": 1,
     "state_name": "WA",
     "county": "Island",
-    "full_links": []
+    "full_links": [
+      "https://www.islandcountywa.gov/Health/Pages/COVID-19.aspx"
+    ]
   },
   {
     "confirmed_date": "3/30",
@@ -23168,7 +23170,7 @@
       "https://www.cnn.com/world/live-news/coronavirus-pandemic-04-01-20-intl/h_afa486a70c1ce30ccf225ea6ec80b7f9",
       "https://www.nbcnewyork.com/news/local/how-many-in-tri-state-have-tested-positive-for-coronavirus-here-are-latest-cases-by-the-numbers/2317721/"
     ],
-    "die_count": 192
+    "die_count": 189
   },
   {
     "confirmed_date": "4/1",
@@ -25592,6 +25594,42 @@
     ],
     "state_name": "GA",
     "county": "Bibb",
+    "confirmed_date": "4/1"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://dph.georgia.gov/covid-19-daily-status-report"
+    ],
+    "state_name": "GA",
+    "county": "Spalding",
+    "confirmed_date": "4/1"
+  },
+  {
+    "die_count": 3,
+    "state_name": "NY",
+    "county": "Sullivan",
+    "full_links": [
+      "http://sullivanny.us/Departments/Publichealth/Coronavirus"
+    ],
+    "confirmed_date": "4/1"
+  },
+  {
+    "die_count": 1,
+    "state_name": "WA",
+    "county": "Skagit",
+    "full_links": [
+      "https://www.skagitcounty.net/Departments/HealthDiseases/coronavirus.htm"
+    ],
+    "confirmed_date": "4/1"
+  },
+  {
+    "die_count": 1,
+    "state_name": "TX",
+    "county": "Webb",
+    "full_links": [
+      "https://www.cityoflaredo.com/coronavirus.html"
+    ],
     "confirmed_date": "4/1"
   }
 ]
