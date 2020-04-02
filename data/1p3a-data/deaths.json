@@ -21373,7 +21373,7 @@
   },
   {
     "confirmed_date": "3/31",
-    "die_count": 2,
+    "die_count": 1,
     "state_name": "CT",
     "county": "Unassigned",
     "full_links": [
@@ -27661,5 +27661,134 @@
       "https://www.cityoflaredo.com/coronavirus.html"
     ],
     "confirmed_date": "4/2"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://m.facebook.com/icpublichealth/posts/2789581377757650"
+    ],
+    "confirmed_date": "4/2",
+    "state_name": "CA",
+    "county": "Imperial"
+  },
+  {
+    "die_count": 2,
+    "state_name": "WA",
+    "county": "Benton",
+    "full_links": [
+      "https://www.bfhd.wa.gov/cms/One.aspx?portalId=10766056&pageId=16584954"
+    ],
+    "confirmed_date": "4/2"
+  },
+  {
+    "die_count": 19,
+    "full_links": [
+      "https://portal.ct.gov/-/media/Coronavirus/CTDPHCOVID19summary4022020.pdf?la=en"
+    ],
+    "confirmed_date": "4/2",
+    "state_name": "CT",
+    "county": "Fairfield"
+  },
+  {
+    "die_count": 2,
+    "full_links": [
+      "https://portal.ct.gov/-/media/Coronavirus/CTDPHCOVID19summary4022020.pdf?la=en"
+    ],
+    "confirmed_date": "4/2",
+    "state_name": "CT",
+    "county": "Hartford"
+  },
+  {
+    "confirmed_date": "4/2",
+    "comments_en": "Whatcom reported 9 total deaths by 4/2.",
+    "die_count": 1,
+    "state_name": "WA",
+    "county": "Whatcom",
+    "full_links": [
+      "https://www.whatcomcounty.us/3329/Novel-Coronavirus-COVID-19"
+    ]
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://portal.ct.gov/-/media/Coronavirus/CTDPHCOVID19summary4022020.pdf?la=en"
+    ],
+    "confirmed_date": "4/2",
+    "state_name": "CT",
+    "county": "Litchfield"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://portal.ct.gov/-/media/Coronavirus/CTDPHCOVID19summary4022020.pdf?la=en"
+    ],
+    "confirmed_date": "4/2",
+    "state_name": "CT",
+    "county": "Middlesex"
+  },
+  {
+    "die_count": 2,
+    "full_links": [
+      "https://portal.ct.gov/-/media/Coronavirus/CTDPHCOVID19summary4022020.pdf?la=en"
+    ],
+    "state_name": "CT",
+    "county": "New Haven",
+    "confirmed_date": "4/2"
+  },
+  {
+    "die_count": 11,
+    "state_name": "KY",
+    "county": "Unassigned",
+    "full_links": [
+      "https://www.wave3.com/2020/04/01/beshear-announces-new-coronavirus-cases-more-deaths-kentucky/"
+    ],
+    "confirmed_date": "4/2",
+    "comments_en": "The 11 new deaths marked the largest single-day increase, and grew the state total to 31 deaths."
+  },
+  {
+    "die_count": 3,
+    "full_links": [
+      "https://portal.ct.gov/-/media/Coronavirus/CTDPHCOVID19summary4022020.pdf?la=en"
+    ],
+    "state_name": "CT",
+    "county": "Tolland",
+    "confirmed_date": "4/2"
+  },
+  {
+    "die_count": 11,
+    "state_name": "WA",
+    "county": "King",
+    "full_links": [
+      "https://www.kingcounty.gov/depts/health/communicable-diseases/disease-control/novel-coronavirus.aspx"
+    ],
+    "confirmed_date": "4/2"
+  },
+  {
+    "die_count": 1,
+    "state_name": "CA",
+    "county": "Riverside",
+    "full_links": [
+      "https://www.rivcoph.org/coronavirus"
+    ],
+    "confirmed_date": "4/2"
+  },
+  {
+    "die_count": 1,
+    "state_name": "NC",
+    "county": "Mecklenburg",
+    "full_links": [
+      "https://www.wbtv.com/2020/04/01/mecklenburg-county-reports-third-covid-death-confirmed-cases-up/"
+    ],
+    "confirmed_date": "4/2",
+    "comments_en": "Health officials announced the third coronavirus-related death in Mecklenburg County Thursday."
+  },
+  {
+    "confirmed_date": "4/2",
+    "die_count": 1,
+    "state_name": "NH",
+    "county": "Unassigned",
+    "full_links": [
+      "https://www.nh.gov/covid19/"
+    ]
   }
 ]
