@@ -7301,17 +7301,6 @@
   },
   {
     "confirmed_date": "3/24",
-    "comments": "截止3/24, 新泽西州州 累计死亡44例, 新增17例。",
-    "comments_en": "NJ State  County has in total 44 death cases by 3/24, with 17 new cases added. ",
-    "die_count": 0,
-    "state_name": "NJ",
-    "county": "Unassigned",
-    "full_links": [
-      "https://www.nj.gov/health/"
-    ]
-  },
-  {
-    "confirmed_date": "3/24",
     "comments": "加州Santa Clara新增3例死亡, 其中一例。",
     "comments_en": "Three new deaths are reported in Santa Clara, placeholder.",
     "die_count": 1,
@@ -17437,16 +17426,6 @@
   },
   {
     "confirmed_date": "3/29",
-    "comments_en": "these 4 cases were reported by News Channel 5; no further details. ",
-    "die_count": 4,
-    "state_name": "TN",
-    "county": "Sumner",
-    "full_links": [
-      "https://www.newschannel5.com/news/covid-19-1-720-cases-7-deaths-confirmed-in-tennessee"
-    ]
-  },
-  {
-    "confirmed_date": "3/29",
     "die_count": 1,
     "state_name": "WA",
     "county": "Klickitat",
@@ -17711,15 +17690,6 @@
   },
   {
     "confirmed_date": "3/29",
-    "die_count": 0,
-    "state_name": "NJ",
-    "county": "Unassigned",
-    "full_links": [
-      "https://covid19.nj.gov/"
-    ]
-  },
-  {
-    "confirmed_date": "3/29",
     "gender": "女",
     "die_count": 1,
     "age_range": "60+",
@@ -17890,16 +17860,6 @@
     "county": "Yakima",
     "full_links": [
       "https://www.yakimacounty.us/2323/COVID-19"
-    ]
-  },
-  {
-    "confirmed_date": "3/30",
-    "comments_en": "One more death is reported in Madison county by 3/30.",
-    "die_count": 1,
-    "state_name": "MT",
-    "county": "Madison",
-    "full_links": [
-      "https://billingsgazette.com/news/state-and-regional/second-montanan-dies-from-covid--newspaper-reports-third-death/article_6ee3765f-a0d4-5290-9166-8068e411449e.html"
     ]
   },
   {
@@ -18109,7 +18069,7 @@
   {
     "confirmed_date": "3/30",
     "comments_en": "By 3/30, New York reported 1218 total deaths, placeholder.",
-    "die_count": 123,
+    "die_count": 118,
     "state_name": "NY",
     "county": "Unassigned",
     "full_links": [
@@ -18127,15 +18087,6 @@
     "county": "Dallas",
     "full_links": [
       "https://www.dallascounty.org/departments/dchhs/2019-novel-coronavirus.php"
-    ]
-  },
-  {
-    "confirmed_date": "3/30",
-    "die_count": 0,
-    "state_name": "NJ",
-    "county": "Unassigned",
-    "full_links": [
-      "https://covid19.nj.gov/"
     ]
   },
   {
@@ -19868,6 +19819,15 @@
     ]
   },
   {
+    "state_name": "NY",
+    "county": "Putnam",
+    "full_links": [
+      "https://www.putnamcountyny.com/category/healthsafety/coronavirus/"
+    ],
+    "confirmed_date": "3/30",
+    "die_count": 5
+  },
+  {
     "confirmed_date": "3/31",
     "gender": "男",
     "die_count": 1,
@@ -20663,15 +20623,6 @@
     "county": "Unassigned",
     "full_links": [
       "https://dph.georgia.gov/covid-19-daily-status-report"
-    ]
-  },
-  {
-    "confirmed_date": "3/31",
-    "die_count": 0,
-    "state_name": "NJ",
-    "county": "Unassigned",
-    "full_links": [
-      "https://www.nj.com/coronavirus/2020/03/nj-coronavirus-deaths-surge-to-267-with-18696-total-cases-more-than-2k-new-positive-tests-reported.html"
     ]
   },
   {
@@ -23170,7 +23121,7 @@
   {
     "confirmed_date": "4/1",
     "comments_en": "By 4/1, New York reported 2219 total deaths, placeholder.",
-    "die_count": 71,
+    "die_count": 65,
     "state_name": "NY",
     "county": "Unassigned",
     "full_links": [
@@ -23412,15 +23363,6 @@
     "die_count": 3,
     "state_name": "NJ",
     "county": "Sussex",
-    "full_links": [
-      "https://www.nj.gov/health/cd/topics/covid2019_dashboard.shtml"
-    ]
-  },
-  {
-    "confirmed_date": "4/1",
-    "die_count": 0,
-    "state_name": "NJ",
-    "county": "Unassigned",
     "full_links": [
       "https://www.nj.gov/health/cd/topics/covid2019_dashboard.shtml"
     ]
@@ -25885,7 +25827,7 @@
     "comments_en": "Shawnee reporte second death by 4/1 night."
   },
   {
-    "die_count": 2,
+    "die_count": 3,
     "full_links": [
       "https://www.livescience.com/tennessee-coronavirus-updates.html"
     ],
@@ -26032,6 +25974,15 @@
     ],
     "confirmed_date": "4/1",
     "comments_en": "Rockland's death toll from the coronavirus has jumped to 29, the county announced Wednesday."
+  },
+  {
+    "state_name": "NY",
+    "county": "Orange",
+    "full_links": [
+      "https://www.orangecountygov.com/1936/Coronavirus"
+    ],
+    "confirmed_date": "4/1",
+    "die_count": 6
   },
   {
     "confirmed_date": "4/2",
@@ -28287,5 +28238,298 @@
     ],
     "confirmed_date": "4/2",
     "comments_en": "Harris County reported one more death."
+  },
+  {
+    "confirmed_date": "4/2",
+    "die_count": 1,
+    "state_name": "TN",
+    "county": "Davidson",
+    "full_links": [
+      "https://www.newschannel5.com/news/mayor-john-cooper-metro-health-officials-to-give-covid-19-update-at-9-30-a-m-april-2",
+      "https://www.livescience.com/tennessee-coronavirus-updates.html"
+    ]
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "http://www.co.delaware.ny.us/alerts/20200402%20PR%20PHN.pdf"
+    ],
+    "confirmed_date": "4/2",
+    "state_name": "NY",
+    "county": "Delaware",
+    "comments_en": "Delaware County has had its first death from COVID-19 coronavirus. This person\nhad been hospitalized with the disease and died Wednesday April 1, 2020. ",
+    "age_range": "Unknown",
+    "gender": "Unknown"
+  },
+  {
+    "die_count": 1,
+    "state_name": "KS",
+    "county": "Johnson",
+    "full_links": [
+      "https://www.jocogov.org/coronavirus-covid-19-update"
+    ],
+    "confirmed_date": "4/2",
+    "gender": "Unknown"
+  },
+  {
+    "die_count": 7,
+    "state_name": "NY",
+    "county": "Erie",
+    "full_links": [
+      "http://erieny.maps.arcgis.com/apps/opsdashboard/index.html#/dd7f1c0c352e4192ab162a1dfadc58e1"
+    ],
+    "confirmed_date": "4/2"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.tn.gov/health/cedep/ncov.html"
+    ],
+    "confirmed_date": "4/2",
+    "state_name": "TN",
+    "county": "Sullivan"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.tn.gov/health/cedep/ncov.html"
+    ],
+    "confirmed_date": "4/2",
+    "state_name": "TN",
+    "county": "Obion"
+  },
+  {
+    "state_name": "NY",
+    "county": "Orange",
+    "full_links": [
+      "https://www.orangecountygov.com/1936/Coronavirus"
+    ],
+    "confirmed_date": "4/2",
+    "die_count": 5
+  },
+  {
+    "die_count": 2,
+    "full_links": [
+      "https://www.putnamcountyny.com/category/healthsafety/coronavirus/"
+    ],
+    "confirmed_date": "4/2",
+    "state_name": "NY",
+    "county": "Putnam"
+  },
+  {
+    "die_count": 1,
+    "state_name": "NY",
+    "county": "Sullivan",
+    "full_links": [
+      "http://sullivanny.us/Departments/Publichealth/Coronavirus"
+    ],
+    "confirmed_date": "4/2"
+  },
+  {
+    "die_count": 3,
+    "state_name": "NY",
+    "county": "Westchester",
+    "full_links": [
+      "https://www.westchestergov.com/home/all-press-releases/8360-april-2-westchester-county-executive-george-latimer-gives-covid-19-update"
+    ],
+    "confirmed_date": "4/2"
+  },
+  {
+    "die_count": 1,
+    "state_name": "NY",
+    "county": "Suffolk",
+    "full_links": [
+      "https://suffolkcountyny.gov/Departments/Health-Services/Health-Bulletins/Novel-Coronavirus/covid-19-case-update-april-2-2020-230-pm-1"
+    ],
+    "confirmed_date": "4/2",
+    "comments_en": "A male in his 70s with underlying health conditions who was in mandatory isolation at a local hospital"
+  },
+  {
+    "die_count": 1,
+    "state_name": "NY",
+    "county": "Suffolk",
+    "full_links": [
+      "https://suffolkcountyny.gov/Departments/Health-Services/Health-Bulletins/Novel-Coronavirus/covid-19-case-update-april-2-2020-230-pm-1"
+    ],
+    "confirmed_date": "4/2",
+    "comments_en": " A female in her 70s with underlying health conditions who was in mandatory isolation at a local hospital"
+  },
+  {
+    "die_count": 1,
+    "state_name": "NY",
+    "county": "Suffolk",
+    "full_links": [
+      "https://suffolkcountyny.gov/Departments/Health-Services/Health-Bulletins/Novel-Coronavirus/covid-19-case-update-april-2-2020-230-pm-1"
+    ],
+    "confirmed_date": "4/2",
+    "comments_en": "A female in her 70s with underlying health conditions who was in mandatory isolation at a local hospital"
+  },
+  {
+    "die_count": 1,
+    "state_name": "NY",
+    "county": "Suffolk",
+    "full_links": [
+      "https://suffolkcountyny.gov/Departments/Health-Services/Health-Bulletins/Novel-Coronavirus/covid-19-case-update-april-2-2020-230-pm-1"
+    ],
+    "confirmed_date": "4/2",
+    "comments_en": "A female in her 70s with underlying health conditions who was in mandatory isolation at a local hospital"
+  },
+  {
+    "die_count": 1,
+    "state_name": "NY",
+    "county": "Suffolk",
+    "full_links": [
+      "https://suffolkcountyny.gov/Departments/Health-Services/Health-Bulletins/Novel-Coronavirus/covid-19-case-update-april-2-2020-230-pm-1"
+    ],
+    "confirmed_date": "4/2",
+    "comments_en": "A male in his 80s with underlying health conditions who was in mandatory isolation at a local hospital"
+  },
+  {
+    "die_count": 1,
+    "state_name": "NY",
+    "county": "Suffolk",
+    "full_links": [
+      "https://suffolkcountyny.gov/Departments/Health-Services/Health-Bulletins/Novel-Coronavirus/covid-19-case-update-april-2-2020-230-pm-1"
+    ],
+    "confirmed_date": "4/2",
+    "comments_en": "A male in his 40s with underlying health conditions who was in mandatory isolation at a local hospital"
+  },
+  {
+    "die_count": 1,
+    "state_name": "NY",
+    "county": "Suffolk",
+    "full_links": [
+      "https://suffolkcountyny.gov/Departments/Health-Services/Health-Bulletins/Novel-Coronavirus/covid-19-case-update-april-2-2020-230-pm-1"
+    ],
+    "confirmed_date": "4/2",
+    "comments_en": "A male in his 80s with underlying health conditions who was in mandatory isolation at a local hospital"
+  },
+  {
+    "die_count": 1,
+    "state_name": "NY",
+    "county": "Suffolk",
+    "full_links": [
+      "https://suffolkcountyny.gov/Departments/Health-Services/Health-Bulletins/Novel-Coronavirus/covid-19-case-update-april-2-2020-230-pm-1"
+    ],
+    "confirmed_date": "4/2",
+    "comments_en": "A male in his 80s with underlying health conditions who was in mandatory isolation at a local hospital"
+  },
+  {
+    "die_count": 1,
+    "state_name": "NY",
+    "county": "Suffolk",
+    "full_links": [
+      "https://suffolkcountyny.gov/Departments/Health-Services/Health-Bulletins/Novel-Coronavirus/covid-19-case-update-april-2-2020-230-pm-1"
+    ],
+    "confirmed_date": "4/2",
+    "comments_en": "A male in his 60s with underlying health conditions who was in mandatory isolation at a local nursing home  and rehabilitation facility"
+  },
+  {
+    "die_count": 1,
+    "state_name": "NY",
+    "county": "Suffolk",
+    "full_links": [
+      "https://suffolkcountyny.gov/Departments/Health-Services/Health-Bulletins/Novel-Coronavirus/covid-19-case-update-april-2-2020-230-pm-1"
+    ],
+    "confirmed_date": "4/2",
+    "comments_en": "A female in her 80s with underlying health conditions who was in mandatory isolation at a local hospital"
+  },
+  {
+    "die_count": 1,
+    "state_name": "NY",
+    "county": "Suffolk",
+    "full_links": [
+      "https://suffolkcountyny.gov/Departments/Health-Services/Health-Bulletins/Novel-Coronavirus/covid-19-case-update-april-2-2020-230-pm-1"
+    ],
+    "confirmed_date": "4/2",
+    "comments_en": "A female in her 50s with underlying medical conditions who was in mandatory isolation at a local hospital"
+  },
+  {
+    "die_count": 1,
+    "state_name": "NY",
+    "county": "Suffolk",
+    "full_links": [
+      "https://suffolkcountyny.gov/Departments/Health-Services/Health-Bulletins/Novel-Coronavirus/covid-19-case-update-april-2-2020-230-pm-1"
+    ],
+    "confirmed_date": "4/2",
+    "comments_en": "A female in her 80s with underlying health conditions who was in mandatory isolation at a local hospital"
+  },
+  {
+    "die_count": 1,
+    "state_name": "NY",
+    "county": "Suffolk",
+    "full_links": [
+      "https://suffolkcountyny.gov/Departments/Health-Services/Health-Bulletins/Novel-Coronavirus/covid-19-case-update-april-2-2020-230-pm-1"
+    ],
+    "confirmed_date": "4/2",
+    "comments_en": "A male in his 80s with underlying medical conditions who was in mandatory isolation at a local hospital"
+  },
+  {
+    "die_count": 1,
+    "state_name": "NY",
+    "county": "Suffolk",
+    "full_links": [
+      "https://suffolkcountyny.gov/Departments/Health-Services/Health-Bulletins/Novel-Coronavirus/covid-19-case-update-april-2-2020-230-pm-1"
+    ],
+    "confirmed_date": "4/2",
+    "comments_en": "A male in his 80s with underlying health conditions who was in mandatory isolation at a local hospital"
+  },
+  {
+    "die_count": 1,
+    "state_name": "NY",
+    "county": "Suffolk",
+    "full_links": [
+      "https://suffolkcountyny.gov/Departments/Health-Services/Health-Bulletins/Novel-Coronavirus/covid-19-case-update-april-2-2020-230-pm-1"
+    ],
+    "confirmed_date": "4/2",
+    "comments_en": "A male in his age 80s with underlying health conditions who was in mandatory isolation at a local hospital"
+  },
+  {
+    "state_name": "IL",
+    "county": "Lake",
+    "full_links": [
+      "https://content.govdelivery.com/accounts/ILLAKE/bulletins/28493e6"
+    ],
+    "confirmed_date": "4/2",
+    "die_count": 1,
+    "gender": "男",
+    "age_range": "60+",
+    "comments_en": "One male and one female in their 60s"
+  },
+  {
+    "state_name": "IL",
+    "county": "Lake",
+    "full_links": [
+      "https://content.govdelivery.com/accounts/ILLAKE/bulletins/28493e6"
+    ],
+    "confirmed_date": "4/2",
+    "die_count": 1,
+    "gender": "女",
+    "age_range": "60+",
+    "comments_en": "One male and one female in their 60s"
+  },
+  {
+    "state_name": "IL",
+    "county": "Lake",
+    "full_links": [
+      "https://content.govdelivery.com/accounts/ILLAKE/bulletins/28493e6"
+    ],
+    "confirmed_date": "4/2",
+    "die_count": 2,
+    "gender": "男",
+    "age_range": "70+",
+    "comments_en": "Two males in their 70s."
+  },
+  {
+    "state_name": "IL",
+    "county": "Lake",
+    "full_links": [
+      "https://content.govdelivery.com/accounts/ILLAKE/bulletins/28493e6"
+    ],
+    "confirmed_date": "4/2",
+    "die_count": 1,
+    "gender": "男",
+    "age_range": "80+",
+    "comments_en": "A male in his 80s"
   }
 ]
