@@ -10944,7 +10944,8 @@
     "state_name": "MN",
     "county": "Ramsey",
     "full_links": [
-      "https://www.duluthnewstribune.com/lifestyle/health/5016724-Minnesota-records-second-death-in-state-from-coronavirus"
+      "https://www.duluthnewstribune.com/lifestyle/health/5016724-Minnesota-records-second-death-in-state-from-coronavirus",
+      "https://www.nytimes.com/interactive/2020/us/minnesota-coronavirus-cases.html"
     ]
   },
   {
@@ -13392,7 +13393,8 @@
     "state_name": "MN",
     "county": "Martin",
     "full_links": [
-      "https://www.twincities.com/2020/03/27/coronavirus-minnesota-update-cases-deaths-update/"
+      "https://www.twincities.com/2020/03/27/coronavirus-minnesota-update-cases-deaths-update/",
+      "https://www.nytimes.com/interactive/2020/us/minnesota-coronavirus-cases.html"
     ]
   },
   {
@@ -13405,7 +13407,8 @@
     "county": "Hennepin",
     "full_links": [
       "https://www.fox9.com/news/4-deaths-from-covid-19-reported-in-minnesota-number-of-cases-jumps-to-nearly-400",
-      "https://www.twincities.com/2020/03/27/coronavirus-minnesota-update-cases-deaths-update/"
+      "https://www.twincities.com/2020/03/27/coronavirus-minnesota-update-cases-deaths-update/",
+      "https://www.nytimes.com/interactive/2020/us/minnesota-coronavirus-cases.html"
     ]
   },
   {
@@ -14162,7 +14165,8 @@
     "state_name": "MN",
     "county": "Hennepin",
     "full_links": [
-      "https://www.health.state.mn.us/diseases/coronavirus/situation.html"
+      "https://www.health.state.mn.us/diseases/coronavirus/situation.html",
+      "https://www.nytimes.com/interactive/2020/us/minnesota-coronavirus-cases.html"
     ]
   },
   {
@@ -16385,7 +16389,8 @@
     "state_name": "MN",
     "county": "Hennepin",
     "full_links": [
-      "https://www.health.state.mn.us/diseases/coronavirus/situation.html"
+      "https://www.health.state.mn.us/diseases/coronavirus/situation.html",
+      "https://www.nytimes.com/interactive/2020/us/minnesota-coronavirus-cases.html"
     ]
   },
   {
@@ -16397,7 +16402,8 @@
     "state_name": "MN",
     "county": "Hennepin",
     "full_links": [
-      "https://www.health.state.mn.us/diseases/coronavirus/situation.html"
+      "https://www.health.state.mn.us/diseases/coronavirus/situation.html",
+      "https://www.nytimes.com/interactive/2020/us/minnesota-coronavirus-cases.html"
     ]
   },
   {
@@ -16422,7 +16428,8 @@
     "state_name": "MN",
     "county": "Martin",
     "full_links": [
-      "https://www.health.state.mn.us/diseases/coronavirus/situation.html"
+      "https://www.health.state.mn.us/diseases/coronavirus/situation.html",
+      "https://www.nytimes.com/interactive/2020/us/minnesota-coronavirus-cases.html"
     ]
   },
   {
@@ -18196,7 +18203,8 @@
     "state_name": "MN",
     "county": "Hennepin",
     "full_links": [
-      "https://www.health.state.mn.us/diseases/coronavirus/situation.html"
+      "https://www.health.state.mn.us/diseases/coronavirus/situation.html",
+      "https://www.nytimes.com/interactive/2020/us/minnesota-coronavirus-cases.html"
     ]
   },
   {
@@ -20049,7 +20057,8 @@
     "confirmed_date": "3/31",
     "die_count": 2,
     "full_links": [
-      "https://www.health.state.mn.us/diseases/coronavirus/situation.html"
+      "https://www.health.state.mn.us/diseases/coronavirus/situation.html",
+      "https://www.nytimes.com/interactive/2020/us/minnesota-coronavirus-cases.html"
     ],
     "state_name": "MN",
     "county": "Hennepin"
@@ -22670,6 +22679,19 @@
   },
   {
     "confirmed_date": "3/31",
+    "gender": "男",
+    "comments": "On 3/31/2020, St. Louis County Department of Public Health (DPH) received notification of the death of an 80-89 year old man with chronic medical conditions. This is the fourth death in St. Louis County.",
+    "comments_en": "On 3/31/2020, St. Louis County Department of Public Health (DPH) received notification of the death of an 80-89 year old man with chronic medical conditions. This is the fourth death in St. Louis County.",
+    "die_count": 1,
+    "age_range": "80+",
+    "state_name": "MO",
+    "county": "St. Louis",
+    "full_links": [
+      "https://www.stlouisco.com/Your-Government/County-Executive/COVID-19"
+    ]
+  },
+  {
+    "confirmed_date": "3/31",
     "die_count": 1,
     "state_name": "CA",
     "county": "San Joaquin",
@@ -23885,8 +23907,10 @@
     "state_name": "MN",
     "county": "Unassigned",
     "full_links": [
-      "https://www.health.state.mn.us/diseases/coronavirus/situation.html"
-    ]
+      "https://www.health.state.mn.us/diseases/coronavirus/situation.html",
+      "https://www.nytimes.com/interactive/2020/us/minnesota-coronavirus-cases.html"
+    ],
+    "comments_en": "Total deaths: 22"
   },
   {
     "confirmed_date": "4/1",
@@ -24829,19 +24853,6 @@
     "county": "Denver",
     "full_links": [
       "https://covid19.colorado.gov/case-data"
-    ]
-  },
-  {
-    "confirmed_date": "4/1",
-    "gender": "男",
-    "comments": "On 3/31/2020, St. Louis County Department of Public Health (DPH) received notification of the death of an 80-89 year old man with chronic medical conditions. This is the fourth death in St. Louis County.",
-    "comments_en": "On 3/31/2020, St. Louis County Department of Public Health (DPH) received notification of the death of an 80-89 year old man with chronic medical conditions. This is the fourth death in St. Louis County.",
-    "die_count": 1,
-    "age_range": "80+",
-    "state_name": "MO",
-    "county": "St. Louis",
-    "full_links": [
-      "https://www.stlouisco.com/Your-Government/County-Executive/COVID-19"
     ]
   },
   {
@@ -26041,7 +26052,8 @@
     "confirmed_date": "4/1",
     "die_count": 1,
     "full_links": [
-      "https://www.health.state.mn.us/diseases/coronavirus/situation.html"
+      "https://www.health.state.mn.us/diseases/coronavirus/situation.html",
+      "https://www.nytimes.com/interactive/2020/us/minnesota-coronavirus-cases.html"
     ],
     "state_name": "MN",
     "county": "Winona"
@@ -26055,6 +26067,19 @@
     ],
     "state_name": "MN",
     "county": "Chisago"
+  },
+  {
+    "die_count": 1,
+    "state_name": "MO",
+    "county": "St. Louis",
+    "full_links": [
+      "https://www.stlouisco.com/Your-Government/County-Executive/COVID-19"
+    ],
+    "confirmed_date": "4/1",
+    "comments": "On 4/1/2020, St. Louis County Department of Public Health (DPH) received notification of a COVID-19 involved death of a 50-59 year old male. This is the fifth death in St. Louis County.",
+    "gender": "男",
+    "age_range": "50+",
+    "comments_en": "On 4/1/2020, St. Louis County Department of Public Health (DPH) received notification of a COVID-19 involved death of a 50-59 year old male. This is the fifth death in St. Louis County."
   },
   {
     "confirmed_date": "4/2",
@@ -28595,11 +28620,11 @@
     "comments_en": "Solano reports its first death due to COVID-19: the afflicted person was at least 85 years old with multiple severe underlying health conditions.",
     "die_count": 1,
     "age_range": "80+",
-    "state_name": "CA",
-    "county": "Solano",
     "full_links": [
       "https://www.sfchronicle.com/bayarea/article/Coronavirus-live-updates-news-bay-area-15169654.php"
-    ]
+    ],
+    "state_name": "CA",
+    "county": "Solano"
   },
   {
     "confirmed_date": "4/2",
@@ -29032,6 +29057,19 @@
     ]
   },
   {
+    "die_count": 1,
+    "state_name": "MO",
+    "county": "St. Louis",
+    "full_links": [
+      "https://www.stlouisco.com/Your-Government/County-Executive/COVID-19"
+    ],
+    "confirmed_date": "4/2",
+    "comments": "On 4/2/2020, St. Louis County Department of Public Health (DPH) received notification of a COVID-19 involved death of a 70-79 year old male. The underlying medical conditions, if any, are unknown at this time. This is the sixth death in St. Louis County.\n\nNOTE: dashboard death detail reported 2 80-89 year old male but no 70-79 one, there must be a mistake here because both are from the same County official websites.",
+    "gender": "男",
+    "age_range": "70+",
+    "comments_en": "On 4/2/2020, St. Louis County Department of Public Health (DPH) received notification of a COVID-19 involved death of a 70-79 year old male. The underlying medical conditions, if any, are unknown at this time. This is the sixth death in St. Louis County.\n\nNOTE: dashboard death detail reported 2 80-89 year old male but no 70-79 one, there must be a mistake here because both are from the same County official websites."
+  },
+  {
     "state_name": "PR",
     "county": "Puerto Rico",
     "full_links": [
@@ -29325,7 +29363,7 @@
     "county": "Putnam"
   },
   {
-    "die_count": 439,
+    "die_count": 156,
     "state_name": "NY",
     "county": "Unassigned",
     "full_links": [
@@ -29356,10 +29394,10 @@
   {
     "die_count": 1,
     "full_links": [
-      "https://www.health.state.mn.us/diseases/coronavirus/situation.html"
+      "https://www.health.state.mn.us/diseases/coronavirus/situation.html",
+      "https://www.nytimes.com/interactive/2020/us/minnesota-coronavirus-cases.html"
     ],
     "confirmed_date": "4/3",
-    "comments_en": "Total deaths: 22",
     "state_name": "MN",
     "county": "Scott"
   },
@@ -29571,7 +29609,8 @@
   {
     "die_count": 1,
     "full_links": [
-      "https://txdshs.maps.arcgis.com/apps/opsdashboard/index.html#/ed483ecd702b4298ab01e8b9cafc8b83"
+      "https://txdshs.maps.arcgis.com/apps/opsdashboard/index.html#/ed483ecd702b4298ab01e8b9cafc8b83",
+      "https://www.kltv.com/2020/03/16/what-we-know-about-confirmed-cases-covid-east-texas/"
     ],
     "confirmed_date": "4/3",
     "state_name": "TX",
@@ -31610,7 +31649,8 @@
     "comments_en": "Total deaths: 22",
     "die_count": 1,
     "full_links": [
-      "https://www.health.state.mn.us/diseases/coronavirus/situation.html"
+      "https://www.health.state.mn.us/diseases/coronavirus/situation.html",
+      "https://www.nytimes.com/interactive/2020/us/minnesota-coronavirus-cases.html"
     ],
     "state_name": "MN",
     "county": "Hennepin"
@@ -31620,7 +31660,8 @@
     "comments_en": "Total deaths: 22",
     "die_count": 1,
     "full_links": [
-      "https://www.health.state.mn.us/diseases/coronavirus/situation.html"
+      "https://www.health.state.mn.us/diseases/coronavirus/situation.html",
+      "https://www.nytimes.com/interactive/2020/us/minnesota-coronavirus-cases.html"
     ],
     "state_name": "MN",
     "county": "Olmsted"
@@ -31661,5 +31702,88 @@
     "age_range": "50+",
     "comments_en": "4/3, four COVID-19 associated deaths were reported to the City of St. Louis Department of Health. Three of the deceased were females above the age of 70. The fourth death was a female in her 50’s. No additional information about these patients will be released due to privacy laws.",
     "comments": "4/3, four COVID-19 associated deaths were reported to the City of St. Louis Department of Health. Three of the deceased were females above the age of 70. The fourth death was a female in her 50’s. No additional information about these patients will be released due to privacy laws."
+  },
+  {
+    "die_count": 3,
+    "state_name": "KY",
+    "county": "Unassigned",
+    "full_links": [
+      "https://kygeonet.maps.arcgis.com/apps/opsdashboard/index.html#/55763d9941ee4408854c6c8db77c8e2d"
+    ],
+    "confirmed_date": "4/3"
+  },
+  {
+    "die_count": 1,
+    "state_name": "MO",
+    "county": "St. Louis",
+    "full_links": [
+      "https://stlcogis.maps.arcgis.com/apps/MapSeries/index.html?appid=6ae65dea4d804f2ea4f5d8ba79e96df1"
+    ],
+    "confirmed_date": "4/3",
+    "comments": "female, 80-89 years of age with underlying medical conditions.\n",
+    "gender": "女",
+    "age_range": "80+",
+    "comments_en": "female, 80-89 years of age with underlying medical conditions\n"
+  },
+  {
+    "die_count": 1,
+    "state_name": "TX",
+    "county": "Lubbock",
+    "full_links": [
+      "https://ci.lubbock.tx.us/departments/health-department/about-us/coronavirus-disease-2019-covid-19"
+    ],
+    "confirmed_date": "4/3"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.newschannel10.com/2020/04/03/confirmed-cases-covid-tx-panhandle-eastern-nm-okla-panhandle-april/"
+    ],
+    "confirmed_date": "4/3",
+    "state_name": "TX",
+    "county": "Castro"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.brunswickcountync.gov/alert-ticker/information-on-coronavirus/"
+    ],
+    "confirmed_date": "4/3",
+    "state_name": "NC",
+    "county": "Brunswick",
+    "comments_en": "The individual passed away the early morning of Friday, April 3. The patient was considered a person at high risk for severe illness as they were over the age of 65 and had some underlying medical conditions."
+  },
+  {
+    "confirmed_date": "4/3",
+    "die_count": 1,
+    "state_name": "TX",
+    "county": "Nacogdoches",
+    "full_links": [
+      "https://txdshs.maps.arcgis.com/apps/opsdashboard/index.html#/ed483ecd702b4298ab01e8b9cafc8b83",
+      "https://www.kltv.com/2020/03/16/what-we-know-about-confirmed-cases-covid-east-texas/"
+    ],
+    "comments_en": "the state reported a second death, a woman in her 80s who was hospitalized and had an unknown travel history.",
+    "gender": "女",
+    "age_range": "80+"
+  },
+  {
+    "die_count": 1,
+    "state_name": "CA",
+    "county": "San Joaquin",
+    "full_links": [
+      "http://www.sjcphs.org/coronavirus.aspx"
+    ],
+    "confirmed_date": "4/3",
+    "comments": "As of 4/3, total 10 death cases in San Joaquin.",
+    "comments_en": "As of 4/3, total 10 death cases in San Joaquin."
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://public.tableau.com/profile/idaho.division.of.public.health#!/vizhome/DPHIdahoCOVID-19Dashboard_V2/DPHCOVID19Dashboard2"
+    ],
+    "confirmed_date": "4/3",
+    "state_name": "ID",
+    "county": "Twin Falls"
   }
 ]
