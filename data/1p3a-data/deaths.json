@@ -30252,15 +30252,6 @@
   },
   {
     "confirmed_date": "4/3",
-    "die_count": 1,
-    "state_name": "OH",
-    "county": "Trumbull",
-    "full_links": [
-      "https://coronavirus.ohio.gov/wps/portal/gov/covid-19/home/dashboard"
-    ]
-  },
-  {
-    "confirmed_date": "4/3",
     "comments_en": "One of the new deaths happened at the Golden Crest Nursing Centre in North Providence, representing the fifth death related to COVID-19 at the nursing home.",
     "die_count": 1,
     "state_name": "RI",
@@ -32684,6 +32675,15 @@
     "age_range": "80+"
   },
   {
+    "confirmed_date": "4/4",
+    "die_count": 3,
+    "state_name": "KS",
+    "county": "Unknown",
+    "full_links": [
+      "https://public.tableau.com/profile/kdhe.epidemiology#!/vizhome/COVID-19Data_15851817634470/KSCOVID-19CaseData"
+    ]
+  },
+  {
     "die_count": 1,
     "state_name": "PR",
     "county": "Puerto Rico",
@@ -33600,5 +33600,68 @@
       "https://coronavirus.ohio.gov/wps/portal/gov/covid-19/home/dashboard"
     ],
     "confirmed_date": "4/4"
+  },
+  {
+    "state_name": "OH",
+    "county": "Franklin",
+    "full_links": [
+      "https://coronavirus.ohio.gov/wps/portal/gov/covid-19/home/dashboard"
+    ],
+    "confirmed_date": "4/4",
+    "die_count": 1
+  },
+  {
+    "state_name": "OH",
+    "county": "Lucas",
+    "full_links": [
+      "https://coronavirus.ohio.gov/wps/portal/gov/covid-19/home/dashboard"
+    ],
+    "confirmed_date": "4/4",
+    "die_count": 3
+  },
+  {
+    "state_name": "OH",
+    "county": "Mahoning",
+    "full_links": [
+      "https://coronavirus.ohio.gov/wps/portal/gov/covid-19/home/dashboard"
+    ],
+    "confirmed_date": "4/4",
+    "die_count": 1
+  },
+  {
+    "state_name": "OH",
+    "county": "Medina",
+    "full_links": [
+      "https://coronavirus.ohio.gov/wps/portal/gov/covid-19/home/dashboard"
+    ],
+    "confirmed_date": "4/4",
+    "die_count": 1
+  },
+  {
+    "full_links": [
+      "https://coronavirus.ohio.gov/wps/portal/gov/covid-19/home/dashboard"
+    ],
+    "confirmed_date": "4/4",
+    "die_count": 1,
+    "state_name": "OH",
+    "county": "Mercer"
+  },
+  {
+    "state_name": "OH",
+    "county": "Miami",
+    "full_links": [
+      "https://coronavirus.ohio.gov/wps/portal/gov/covid-19/home/dashboard"
+    ],
+    "confirmed_date": "4/4",
+    "die_count": 1
+  },
+  {
+    "state_name": "OH",
+    "county": "Stark",
+    "full_links": [
+      "https://coronavirus.ohio.gov/wps/portal/gov/covid-19/home/dashboard"
+    ],
+    "confirmed_date": "4/4",
+    "die_count": 1
   }
 ]
