@@ -277,6 +277,12 @@ INDIA_MAP:
 PERU_MAP:
   en: Peru
   zh: 秘鲁
+IRELAND_MAP:
+  en: Ireland
+  zh: 爱尔兰
+SOUTH_AFRICA_MAP:
+  en: South Africa
+  zh: 南非
 ASIA:
   en: Asia
   zh: 亚洲
@@ -292,6 +298,9 @@ EUROPE:
 OCEANIA:
   en: Oceania
   zh: 大洋洲
+AFRICA:
+  en: Africa
+  zh: 非洲
 TRANSMISSIONS:
   en: Transmissions
   zh: 传播路线
