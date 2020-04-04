@@ -33663,5 +33663,113 @@
     ],
     "confirmed_date": "4/4",
     "die_count": 1
+  },
+  {
+    "die_count": 1,
+    "state_name": "VT",
+    "county": "Unassigned",
+    "full_links": [
+      "https://www.healthvermont.gov/response/infectious-disease/2019-novel-coronavirus"
+    ],
+    "confirmed_date": "4/4"
+  },
+  {
+    "die_count": 1,
+    "state_name": "VT",
+    "county": "Unassigned",
+    "full_links": [
+      "https://www.healthvermont.gov/response/infectious-disease/2019-novel-coronavirus"
+    ],
+    "confirmed_date": "4/4"
+  },
+  {
+    "die_count": 1,
+    "state_name": "VT",
+    "county": "Unassigned",
+    "full_links": [
+      "https://www.healthvermont.gov/response/infectious-disease/2019-novel-coronavirus"
+    ],
+    "confirmed_date": "4/4",
+    "comments_en": "VT reported 20 total deaths by 4/4 afternoon."
+  },
+  {
+    "die_count": 1,
+    "state_name": "ME",
+    "county": "Unassigned",
+    "full_links": [
+      "https://www.maine.gov/dhhs/mecdc/infectious-disease/epi/airborne/coronavirus.shtml"
+    ],
+    "confirmed_date": "4/4",
+    "comments_en": "ME reported 10 total deaths by 4/4."
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://coronavirus-dashboard.utah.gov"
+    ],
+    "confirmed_date": "4/4",
+    "state_name": "UT",
+    "county": "unassigned",
+    "comments_en": "UT 4/4 state total 8 death."
+  },
+  {
+    "die_count": 1,
+    "state_name": "GA",
+    "county": "Bartow",
+    "full_links": [
+      "https://dph.georgia.gov/covid-19-daily-status-report"
+    ],
+    "confirmed_date": "4/4",
+    "comments_en": "One more death in Bartow."
+  },
+  {
+    "die_count": 1,
+    "state_name": "GA",
+    "county": "Clayton",
+    "full_links": [
+      "https://dph.georgia.gov/covid-19-daily-status-report"
+    ],
+    "confirmed_date": "4/4",
+    "comments_en": "One more death in Clayton by 4/4."
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://dph.georgia.gov/covid-19-daily-status-report"
+    ],
+    "confirmed_date": "4/4",
+    "state_name": "GA",
+    "county": "Dooly",
+    "comments_en": "Dooly reported one death by 4/4."
+  },
+  {
+    "die_count": 1,
+    "state_name": "AL",
+    "county": "Etowah",
+    "full_links": [
+      "https://alpublichealth.maps.arcgis.com/apps/opsdashboard/index.html#/6d2771faa9da4a2786a509d82c8cf0f7"
+    ],
+    "confirmed_date": "4/4",
+    "comments_en": "One more death in Etowah"
+  },
+  {
+    "die_count": 3,
+    "state_name": "AL",
+    "county": "Jefferson",
+    "full_links": [
+      "https://alpublichealth.maps.arcgis.com/apps/opsdashboard/index.html#/6d2771faa9da4a2786a509d82c8cf0f7"
+    ],
+    "confirmed_date": "4/4",
+    "comments_en": "Jefferson reported 9 total deaths by 4/4."
+  },
+  {
+    "die_count": 1,
+    "state_name": "AL",
+    "county": "Shelby",
+    "full_links": [
+      "https://alpublichealth.maps.arcgis.com/apps/opsdashboard/index.html#/6d2771faa9da4a2786a509d82c8cf0f7"
+    ],
+    "confirmed_date": "4/4",
+    "comments_en": "Shelby, AL reported one more death."
   }
 ]
