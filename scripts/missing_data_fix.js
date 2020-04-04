@@ -37,11 +37,7 @@ function fillMissingData(obj) {
             }
 
             const count = obj[metric][dateString]
-            // assert(!isNaN(count) && count != null, `${count} is not a valid count!`)
-            if (isNaN(count) || count == null) {
-                console.error(`count is not a valid count!`)
-                break
-            }
+            assert(!isNaN(count) && count != null, `${count} is not a valid count (${obj.ENGLISH})!`)
             if (count > 0) firstCaseOccurs = true
             if (firstCaseOccurs) newMetricObj[dateString] = obj[metric][dateString]
 

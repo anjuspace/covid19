@@ -49,7 +49,8 @@ const county_name_changes = {
     'Hillsborough-Manchester, NH': 'Hillsborough',
     'Hillsborough-Nashua, NH': 'Hillsborough',
     'Hillsborough-other, NH': 'Hillsborough',
-    'Obrien, IA': "O'Brien"
+    'Obrien, IA': "O'Brien",
+    'Petersburg, AK': 'Wrangell-Petersburg'
 }
 
 // confirmed
@@ -86,10 +87,10 @@ Object.keys(states_abbr_zh).forEach((stateAbbr) => {
             deadCount: {}
         }
 
-        output_us[state][county]['confirmedCount'] = Object.keys(record)
-            .filter((d) => !isNaN(new Date(convertDate(d))))
-            .reduce((s, d) => {
-                s[convertDate(d)] = record[d]
+        output_us[state][county]['confirmedCount'] = record.entries
+            .filter((x) => !isNaN(new Date(convertDate(x[0]))))
+            .reduce((s, x) => {
+                s[convertDate(x[0])] = x[1]
                 return s
             }, {})
     })

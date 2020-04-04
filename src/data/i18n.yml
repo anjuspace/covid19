@@ -283,6 +283,15 @@ IRELAND_MAP:
 SOUTH_AFRICA_MAP:
   en: South Africa
   zh: 南非
+PHILIPPINES_MAP:
+  en: Philippines
+  zh: 菲律宾
+ROMANIA_MAP:
+  en: Romania
+  zh: 罗马尼亚
+INDONESIA_MAP:
+  en: Indonesia
+  zh: 印度尼西亚
 ASIA:
   en: Asia
   zh: 亚洲
