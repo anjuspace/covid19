@@ -25030,18 +25030,6 @@
   {
     "confirmed_date": "4/1",
     "gender": "男",
-    "comments_en": "A Prince George's Co. man in his 60s",
-    "die_count": 1,
-    "age_range": "60+",
-    "state_name": "MD",
-    "county": "Prince George's",
-    "full_links": [
-      "https://twitter.com/MDHealthDept/status/1245443948375674889"
-    ]
-  },
-  {
-    "confirmed_date": "4/1",
-    "gender": "男",
     "comments_en": "A Frederick Co. man in his 70s",
     "die_count": 1,
     "age_range": "70+",
@@ -26000,6 +25988,15 @@
     "full_links": [
       "https://www.kcbd.com/2020/04/01/hockley-county-reports-first-covid-death/"
     ]
+  },
+  {
+    "die_count": 1,
+    "state_name": "MD",
+    "county": "Baltimore City",
+    "full_links": [
+      "https://coronavirus.maryland.gov/"
+    ],
+    "confirmed_date": "4/1"
   },
   {
     "die_count": 1,
@@ -29122,6 +29119,18 @@
     "comments_en": "The county website shows that up until 4/2, the death toll has risen to 8."
   },
   {
+    "confirmed_date": "4/3",
+    "gender": "男",
+    "comments_en": "A Prince George's Co. man in his 60s",
+    "die_count": 1,
+    "age_range": "60+",
+    "state_name": "MD",
+    "county": "Prince George's",
+    "full_links": [
+      "https://twitter.com/MDHealthDept/status/1245443948375674889"
+    ]
+  },
+  {
     "state_name": "PR",
     "county": "Puerto Rico",
     "full_links": [
@@ -29152,15 +29161,6 @@
     "comments_en": "An Anne Arundel Co. woman in her 70s",
     "age_range": "70+",
     "gender": "女"
-  },
-  {
-    "die_count": 1,
-    "state_name": "MD",
-    "county": "Baltimore City",
-    "full_links": [
-      "https://coronavirus.maryland.gov/"
-    ],
-    "confirmed_date": "4/3"
   },
   {
     "die_count": 1,
@@ -32130,5 +32130,65 @@
     "confirmed_date": "4/3",
     "state_name": "GA",
     "county": "Ware"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.doh.wa.gov/Emergencies/Coronavirus"
+    ],
+    "confirmed_date": "4/3",
+    "state_name": "WA",
+    "county": "Grant",
+    "comments_en": "4/3 WA DOH report 1st death in Grant."
+  },
+  {
+    "die_count": 2,
+    "state_name": "WA",
+    "county": "King",
+    "full_links": [
+      "https://www.doh.wa.gov/Emergencies/Coronavirus"
+    ],
+    "confirmed_date": "4/3",
+    "comments_en": "4/3 WA DOH reported total death in King county is 188."
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.co.fresno.ca.us/departments/public-health/covid-19"
+    ],
+    "confirmed_date": "4/3",
+    "state_name": "CA",
+    "county": "Fresno",
+    "comments_en": "Fresno reported first death on 4/3."
+  },
+  {
+    "die_count": 5,
+    "state_name": "CA",
+    "county": "San Bernardino",
+    "full_links": [
+      "http://wp.sbcounty.gov/dph/coronavirus/"
+    ],
+    "confirmed_date": "4/3",
+    "comments_en": "13 total deaths reported in San Bernardino on 4/3."
+  },
+  {
+    "die_count": 1,
+    "state_name": "CA",
+    "county": "San Benito",
+    "full_links": [
+      "https://hhsa.cosb.us/publichealth/communicable-disease/coronavirus/"
+    ],
+    "confirmed_date": "4/3",
+    "comments_en": "San Benito County reports its 2nd death on 4/3."
+  },
+  {
+    "die_count": 1,
+    "state_name": "CA",
+    "county": "Napa",
+    "full_links": [
+      "https://legacy.livestories.com/s/v2/coronavirus-report-for-napa-county-ca/9065d62d-f5a6-445f-b2a9-b7cf30b846dd/"
+    ],
+    "confirmed_date": "4/3",
+    "comments_en": "Napa reportd 2 total deaths by 4/3."
   }
 ]
