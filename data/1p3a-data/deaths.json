@@ -35821,5 +35821,14 @@
     "state_name": "NC",
     "county": "Harnett",
     "comments_en": "Public Health Officials with the Harnett County Health Department announced the County's second death resulting from COVID-19.  Reports indicate the individual was elderly and had underlying medical conditions.  "
+  },
+  {
+    "die_count": 1,
+    "state_name": "CA",
+    "county": "Madera",
+    "full_links": [
+      "https://www.maderacounty.com/government/public-health/corona-virus-covid-19/covid-revised"
+    ],
+    "confirmed_date": "4/4"
   }
 ]
