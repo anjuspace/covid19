@@ -35790,5 +35790,36 @@
     "confirmed_date": "4/4",
     "state_name": "WA",
     "county": "Yakima"
+  },
+  {
+    "die_count": 3,
+    "full_links": [
+      "https://covid19-bucksgis.hub.arcgis.com"
+    ],
+    "confirmed_date": "4/4",
+    "state_name": "PA",
+    "county": "Bucks"
+  },
+  {
+    "confirmed_date": "4/4",
+    "gender": "Unknown",
+    "die_count": 1,
+    "age_range": "Unknown",
+    "state_name": "IL",
+    "county": "Lake",
+    "full_links": [
+      "https://www.lakecountyil.gov/4377/Coronavirus-Disease-2019-COVID-19"
+    ],
+    "comments_en": "Lake County reported 14 deaths."
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://harnett.org/publicinfo/news-release.asp?b=5846"
+    ],
+    "confirmed_date": "4/4",
+    "state_name": "NC",
+    "county": "Harnett",
+    "comments_en": "Public Health Officials with the Harnett County Health Department announced the County's second death resulting from COVID-19.  Reports indicate the individual was elderly and had underlying medical conditions.  "
   }
 ]
