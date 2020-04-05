@@ -32794,6 +32794,18 @@
     ]
   },
   {
+    "die_count": 1,
+    "full_links": [
+      "http://bransontrilakesnews.com/news_free/article_42589176-7614-11ea-bda8-0fdbf54277f0.html"
+    ],
+    "state_name": "MO",
+    "county": "Taney",
+    "confirmed_date": "4/3",
+    "comments_en": "A Taney County resident has died from COVID-19, according to the Taney County Health Department.\n\n",
+    "gender": "男",
+    "age_range": "70+"
+  },
+  {
     "confirmed_date": "4/4",
     "die_count": 3,
     "state_name": "KS",
@@ -35899,6 +35911,70 @@
   {
     "die_count": 1,
     "full_links": [
+      "https://msdh.ms.gov/msdhsite/_static/14,0,420.html#Mississippi"
+    ],
+    "confirmed_date": "4/4",
+    "state_name": "MS",
+    "county": "Bolivar"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://msdh.ms.gov/msdhsite/_static/14,0,420.html#Mississippi"
+    ],
+    "state_name": "MS",
+    "county": "Choctaw",
+    "confirmed_date": "4/4"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://msdh.ms.gov/msdhsite/_static/14,0,420.html#Mississippi"
+    ],
+    "state_name": "MS",
+    "county": "Forrest",
+    "confirmed_date": "4/4"
+  },
+  {
+    "full_links": [
+      "https://msdh.ms.gov/msdhsite/_static/14,0,420.html#Mississippi"
+    ],
+    "die_count": 2,
+    "state_name": "MS",
+    "county": "Jackson",
+    "confirmed_date": "4/4"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://msdh.ms.gov/msdhsite/_static/14,0,420.html#Mississippi"
+    ],
+    "state_name": "MS",
+    "county": "Lauderdale",
+    "confirmed_date": "4/4"
+  },
+  {
+    "die_count": 2,
+    "full_links": [
+      "https://msdh.ms.gov/msdhsite/_static/14,0,420.html#Mississippi"
+    ],
+    "confirmed_date": "4/4",
+    "state_name": "MS",
+    "county": "Leflore"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://webcms.pima.gov/cms/One.aspx?portalId=169&pageId=527452"
+    ],
+    "state_name": "AZ",
+    "county": "Pima",
+    "confirmed_date": "4/4",
+    "comments_en": "Pima County confirmed 12 death in total on 4/4."
+  },
+  {
+    "die_count": 1,
+    "full_links": [
       "https://dhhr.wv.gov/News/2020/Pages/COVID-19-Daily-Update---4-5-2020.aspx"
     ],
     "confirmed_date": "4/5",
@@ -36035,7 +36111,7 @@
     "confirmed_date": "4/5",
     "state_name": "FL",
     "county": "Broward",
-    "age_range": "90+",
+    "age_range": "30+",
     "gender": "女"
   },
   {
@@ -36046,7 +36122,7 @@
     "confirmed_date": "4/5",
     "state_name": "FL",
     "county": "Broward",
-    "age_range": "60+",
+    "age_range": "70+",
     "gender": "男"
   },
   {
@@ -36191,5 +36267,245 @@
     "county": "Palm Beach",
     "age_range": "80+",
     "gender": "男"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-04-05-0945.pdf"
+    ],
+    "confirmed_date": "4/5",
+    "state_name": "FL",
+    "county": "Palm Beach",
+    "age_range": "70+",
+    "gender": "男"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-04-05-0945.pdf"
+    ],
+    "confirmed_date": "4/5",
+    "state_name": "FL",
+    "county": "Palm Beach",
+    "age_range": "90+",
+    "gender": "女"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-04-05-0945.pdf"
+    ],
+    "confirmed_date": "4/5",
+    "state_name": "FL",
+    "county": "Palm Beach",
+    "age_range": "80+",
+    "gender": "男"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-04-05-0945.pdf"
+    ],
+    "confirmed_date": "4/5",
+    "state_name": "FL",
+    "county": "Palm Beach",
+    "age_range": "80+",
+    "gender": "女"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-04-05-0945.pdf"
+    ],
+    "confirmed_date": "4/5",
+    "state_name": "FL",
+    "county": "Pinellas",
+    "age_range": "40+",
+    "gender": "女"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-04-05-0945.pdf"
+    ],
+    "confirmed_date": "4/5",
+    "state_name": "FL",
+    "county": "Broward",
+    "age_range": "90+",
+    "gender": "女"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-04-05-0945.pdf"
+    ],
+    "confirmed_date": "4/5",
+    "state_name": "FL",
+    "county": "Broward",
+    "age_range": "60+",
+    "gender": "男"
+  },
+  {
+    "state_name": "VT",
+    "county": "Unassigned",
+    "full_links": [
+      "https://www.healthvermont.gov/response/infectious-disease/2019-novel-coronavirus"
+    ],
+    "confirmed_date": "4/5",
+    "die_count": 2,
+    "comments_en": "VT reported 22 total deaths on 4/5."
+  },
+  {
+    "full_links": [
+      "http://www.virginislandsnewsonline.com/en/news/first-coronavirus-death-recorded-in-usvi",
+      "https://doh.vi.gov/covid19usvi"
+    ],
+    "state_name": "VI",
+    "county": "Unassigned",
+    "die_count": 1,
+    "confirmed_date": "4/5",
+    "comments_en": "US Virgin Islands reported its first death from COVID-19. The Department of Health has not provided information on which district the death occurred. "
+  },
+  {
+    "die_count": 3,
+    "full_links": [
+      "https://www.maricopa.gov/5460/Coronavirus-Disease-2019"
+    ],
+    "state_name": "AZ",
+    "county": "Maricopa",
+    "confirmed_date": "4/5",
+    "comments_en": "Maricopa County confirmed 31 death in total by 4/5."
+  },
+  {
+    "die_count": 8,
+    "full_links": [
+      "https://www.azdhs.gov/preparedness/epidemiology-disease-control/infectious-disease-epidemiology/index.php#novel-coronavirus-home"
+    ],
+    "state_name": "AZ",
+    "county": "Unassigned",
+    "confirmed_date": "4/5"
+  },
+  {
+    "confirmed_date": "4/5",
+    "die_count": 1,
+    "age_range": "80+",
+    "full_links": [
+      "https://www.health.state.mn.us/diseases/coronavirus/situation.html",
+      "https://www.sctimes.com/story/news/local/2020/04/04/new-cases-minnesota-2-new-deaths-reported-covid-19-coronavirus-st-cloud/2947126001/"
+    ],
+    "state_name": "MN",
+    "county": "Dakota",
+    "comments_en": "The latest deaths reported Sunday were an 83-year-old Dakota County resident, a 90-year-old Washington County resident, an 87-year-old Olmsted County resident, and an 88-year-old and 67-year-old who were Hennepin County residents."
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx"
+    ],
+    "confirmed_date": "4/5",
+    "state_name": "PA",
+    "county": "Allegheny"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx"
+    ],
+    "confirmed_date": "4/5",
+    "state_name": "PA",
+    "county": "Berks"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx"
+    ],
+    "confirmed_date": "4/5",
+    "state_name": "PA",
+    "county": "Delaware"
+  },
+  {
+    "die_count": 3,
+    "full_links": [
+      "https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx"
+    ],
+    "confirmed_date": "4/5",
+    "state_name": "PA",
+    "county": "Lancaster"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx"
+    ],
+    "confirmed_date": "4/5",
+    "state_name": "PA",
+    "county": "Lehigh"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx"
+    ],
+    "confirmed_date": "4/5",
+    "state_name": "PA",
+    "county": "Montgomery"
+  },
+  {
+    "die_count": 4,
+    "full_links": [
+      "https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx"
+    ],
+    "confirmed_date": "4/5",
+    "state_name": "PA",
+    "county": "Philadelphia"
+  },
+  {
+    "confirmed_date": "4/5",
+    "die_count": 1,
+    "age_range": "90+",
+    "full_links": [
+      "https://www.health.state.mn.us/diseases/coronavirus/situation.html",
+      "https://www.sctimes.com/story/news/local/2020/04/04/new-cases-minnesota-2-new-deaths-reported-covid-19-coronavirus-st-cloud/2947126001/"
+    ],
+    "comments_en": "The latest deaths reported Sunday were an 83-year-old Dakota County resident, a 90-year-old Washington County resident, an 87-year-old Olmsted County resident, and an 88-year-old and 67-year-old who were Hennepin County residents.",
+    "state_name": "MN",
+    "county": "Washington"
+  },
+  {
+    "confirmed_date": "4/5",
+    "die_count": 1,
+    "age_range": "80+",
+    "full_links": [
+      "https://www.health.state.mn.us/diseases/coronavirus/situation.html",
+      "https://www.sctimes.com/story/news/local/2020/04/04/new-cases-minnesota-2-new-deaths-reported-covid-19-coronavirus-st-cloud/2947126001/"
+    ],
+    "comments_en": "The latest deaths reported Sunday were an 83-year-old Dakota County resident, a 90-year-old Washington County resident, an 87-year-old Olmsted County resident, and an 88-year-old and 67-year-old who were Hennepin County residents.",
+    "state_name": "MN",
+    "county": "Olmsted"
+  },
+  {
+    "confirmed_date": "4/5",
+    "die_count": 1,
+    "age_range": "80+",
+    "full_links": [
+      "https://www.health.state.mn.us/diseases/coronavirus/situation.html",
+      "https://www.sctimes.com/story/news/local/2020/04/04/new-cases-minnesota-2-new-deaths-reported-covid-19-coronavirus-st-cloud/2947126001/"
+    ],
+    "comments_en": "The latest deaths reported Sunday were an 83-year-old Dakota County resident, a 90-year-old Washington County resident, an 87-year-old Olmsted County resident, and an 88-year-old and 67-year-old who were Hennepin County residents.",
+    "state_name": "MN",
+    "county": "Hennepin"
+  },
+  {
+    "confirmed_date": "4/5",
+    "die_count": 1,
+    "age_range": "70+",
+    "full_links": [
+      "https://www.health.state.mn.us/diseases/coronavirus/situation.html",
+      "https://www.sctimes.com/story/news/local/2020/04/04/new-cases-minnesota-2-new-deaths-reported-covid-19-coronavirus-st-cloud/2947126001/"
+    ],
+    "comments_en": "The latest deaths reported Sunday were an 83-year-old Dakota County resident, a 90-year-old Washington County resident, an 87-year-old Olmsted County resident, and an 88-year-old and 67-year-old who were Hennepin County residents.",
+    "state_name": "MN",
+    "county": "Hennepin"
   }
 ]
