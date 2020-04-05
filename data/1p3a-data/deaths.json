@@ -32991,16 +32991,20 @@
     ],
     "confirmed_date": "4/4",
     "state_name": "FL",
-    "county": "Bay"
+    "county": "Bay",
+    "age_range": "90+",
+    "gender": "男"
   },
   {
-    "die_count": 9,
+    "die_count": 1,
     "full_links": [
       "https://experience.arcgis.com/experience/96dd742462124fa0b38ddedb9b25e429"
     ],
     "confirmed_date": "4/4",
     "state_name": "FL",
-    "county": "Broward"
+    "county": "Broward",
+    "age_range": "70+",
+    "gender": "男"
   },
   {
     "die_count": 1,
@@ -35267,5 +35271,169 @@
     ],
     "confirmed_date": "4/4",
     "comments_en": "4/4 WI Milwaukee reported 29 death cases in total."
+  },
+  {
+    "die_count": 2,
+    "full_links": [
+      "https://covid19.colorado.gov/case-data"
+    ],
+    "confirmed_date": "4/4",
+    "state_name": "CO",
+    "county": "Jefferson"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://covid19.colorado.gov/case-data"
+    ],
+    "confirmed_date": "4/4",
+    "state_name": "CO",
+    "county": "Larimer"
+  },
+  {
+    "die_count": 1,
+    "state_name": "WI",
+    "county": "Ozaukee",
+    "full_links": [
+      "https://www.dhs.wisconsin.gov/covid-19/county.htm"
+    ],
+    "confirmed_date": "4/4",
+    "comments_en": "4/4 Ozaukee reported 6 death cases in total.\n"
+  },
+  {
+    "die_count": 6,
+    "full_links": [
+      "https://covid19.colorado.gov/case-data"
+    ],
+    "confirmed_date": "4/4",
+    "state_name": "CO",
+    "county": "Weld"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.dhs.wisconsin.gov/covid-19/county.htm"
+    ],
+    "confirmed_date": "4/4",
+    "state_name": "WI",
+    "county": "Racine",
+    "comments_en": "4/4 WI Racine county reported 1st death case."
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://covid19.colorado.gov/case-data"
+    ],
+    "confirmed_date": "4/4",
+    "state_name": "CO",
+    "county": "Elbert"
+  },
+  {
+    "die_count": 2,
+    "state_name": "WI",
+    "county": "Washington",
+    "full_links": [
+      "https://www.dhs.wisconsin.gov/covid-19/county.htm"
+    ],
+    "confirmed_date": "4/4",
+    "comments_en": "4/4 WI Washington reported total 3 death cases."
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-04-04-1653.pdf"
+    ],
+    "confirmed_date": "4/4",
+    "state_name": "FL",
+    "county": "Broward",
+    "age_range": "80+",
+    "gender": "女"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-04-04-1653.pdf"
+    ],
+    "confirmed_date": "4/4",
+    "state_name": "FL",
+    "county": "Broward",
+    "age_range": "90+",
+    "gender": "男"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.myhighplains.com/news/local-news/amarillo-phd-reports-first-death-related-to-covid-19-in-potter-county-26-new-cases-in-amarillo-area/?utm_medium=social&utm_source=facebook_KAMR_Local_4_News"
+    ],
+    "confirmed_date": "4/4",
+    "state_name": "TX",
+    "county": "Potter",
+    "comments_en": "First death in Potter County."
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-04-04-1653.pdf"
+    ],
+    "confirmed_date": "4/4",
+    "state_name": "FL",
+    "county": "Broward",
+    "age_range": "80+",
+    "gender": "男"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-04-04-1653.pdf"
+    ],
+    "confirmed_date": "4/4",
+    "state_name": "FL",
+    "county": "Broward",
+    "age_range": "80+",
+    "gender": "男"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-04-04-1653.pdf"
+    ],
+    "confirmed_date": "4/4",
+    "state_name": "FL",
+    "county": "Broward",
+    "age_range": "30+",
+    "gender": "男"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-04-04-1653.pdf"
+    ],
+    "confirmed_date": "4/4",
+    "state_name": "FL",
+    "county": "Broward",
+    "age_range": "30+",
+    "gender": "男"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-04-04-1653.pdf"
+    ],
+    "confirmed_date": "4/4",
+    "state_name": "FL",
+    "county": "Broward",
+    "age_range": "70+",
+    "gender": "男"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-04-04-1653.pdf"
+    ],
+    "confirmed_date": "4/4",
+    "state_name": "FL",
+    "county": "Broward",
+    "age_range": "70+",
+    "gender": "男"
   }
 ]
