@@ -35843,5 +35843,17 @@
     "full_links": [
       "https://www.slocounty.ca.gov/Departments/Health-Agency/Public-Health/Department-News/COVID-19-Updates/SLO-County-Health-Officials-Report-First-Death-Due.aspx"
     ]
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://dhhr.wv.gov/News/2020/Pages/COVID-19-Daily-Update---4-5-2020.aspx"
+    ],
+    "confirmed_date": "4/5",
+    "state_name": "WV",
+    "county": "Monongalia",
+    "comments_en": "The third COVID-19-associated death in West Virginia is a 76-year old male with underlying health conditions from Monongalia County, associated with Sundale Long Term Care. To protect the patient’s privacy, no additional details will be released.",
+    "age_range": "70+",
+    "gender": "男"
   }
 ]
