@@ -23926,8 +23926,11 @@
     "state_name": "MO",
     "county": "Cass",
     "full_links": [
-      "https://health.mo.gov/living/healthcondiseases/communicable/novel-coronavirus/results.php"
-    ]
+      "https://www.casscounty.com/DocumentCenter/View/2258/Press-Release---First-COVID-19-Death-in-Cass-County?bidId="
+    ],
+    "comments_en": "(April 1, 2020) - The Cass County Health Department is heartbroken to announce that it was informed on March 31, 2020, of the first death of a Cass County resident due to COVID-19.\nThe Belton resident was a female in her early 70s. She tested positive for COVID-19 on March 20, 2020.\nThe case was not travel-related and she had underlying health conditions. ",
+    "gender": "女",
+    "age_range": "70+"
   },
   {
     "confirmed_date": "4/1",
@@ -30834,15 +30837,15 @@
   {
     "confirmed_date": "4/3",
     "die_count": 2,
-    "state_name": "DE",
-    "county": "Unassigned",
     "full_links": [
       "https://coronavirus.delaware.gov/"
-    ]
+    ],
+    "state_name": "DE",
+    "county": "New Castle"
   },
   {
     "confirmed_date": "4/3",
-    "comments_en": "he Jackson County Health Department reported an additional death on Friday to bring the county's total to three.",
+    "comments_en": "The Jackson County Health Department reported an additional death on Friday to bring the county's total to three.",
     "die_count": 1,
     "state_name": "MO",
     "county": "Jackson",
@@ -36313,6 +36316,18 @@
     ]
   },
   {
+    "die_count": 1,
+    "full_links": [
+      "https://www.ky3.com/content/news/Carter-County-Mo-patient-who-tested-positive-for-COVID-19-dies-at-Springfield-hospital-569382181.html"
+    ],
+    "confirmed_date": "4/4",
+    "state_name": "MO",
+    "county": "Carter",
+    "comments_en": "The Carter County Health Center says a patient who tested positive for COVID-19 in Carter County died at a Springfield hospital 4/4 Saturday morning.\nThe patient, a 59-year-old man, had underlying health conditions, according to the Carter County Health Center.",
+    "gender": "男",
+    "age_range": "50+"
+  },
+  {
     "confirmed_date": "4/5",
     "die_count": 1,
     "full_links": [
@@ -36370,7 +36385,7 @@
     "county": "Mobile"
   },
   {
-    "die_count": 519,
+    "die_count": 303,
     "state_name": "NY",
     "county": "Unassigned",
     "full_links": [
@@ -36381,7 +36396,7 @@
     "comments_en": "By 4/5 noon, New York reported 4,159 total deaths, placeholder."
   },
   {
-    "die_count": 2,
+    "die_count": 218,
     "state_name": "NY",
     "county": "New York",
     "full_links": [
@@ -38703,5 +38718,37 @@
     "full_links": [
       "https://www.11alive.com/article/news/health/coronavirus/coronavirus-deaths-in-georgia/85-e9bb2324-2e27-43ca-a347-ced78cbb186b"
     ]
+  },
+  {
+    "die_count": 1,
+    "state_name": "TX",
+    "county": "Smith",
+    "full_links": [
+      "https://www.kltv.com/2020/03/16/what-we-know-about-confirmed-cases-covid-east-texas/"
+    ],
+    "confirmed_date": "4/5",
+    "comments_en": "a 56-year old man who was the only confirmed case in the city of Troup. The total for the county was at 62 cases.",
+    "gender": "男",
+    "age_range": "50+"
+  },
+  {
+    "die_count": 2,
+    "state_name": "MO",
+    "county": "St. Louis",
+    "full_links": [
+      "https://stlcogis.maps.arcgis.com/apps/MapSeries/index.html?appid=6ae65dea4d804f2ea4f5d8ba79e96df1"
+    ],
+    "confirmed_date": "4/5",
+    "comments_en": "County live lost 13 by 4/5 4:45pm."
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/status.html"
+    ],
+    "state_name": "CA",
+    "county": "San Diego",
+    "confirmed_date": "4/5",
+    "comments_en": "San Diego has 19 total deaths by 4/5."
   }
 ]
