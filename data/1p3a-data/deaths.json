@@ -23945,17 +23945,6 @@
   },
   {
     "confirmed_date": "4/1",
-    "comments_en": "Total deaths: 22",
-    "die_count": 3,
-    "state_name": "MN",
-    "county": "Unassigned",
-    "full_links": [
-      "https://www.health.state.mn.us/diseases/coronavirus/situation.html",
-      "https://www.nytimes.com/interactive/2020/us/minnesota-coronavirus-cases.html"
-    ]
-  },
-  {
-    "confirmed_date": "4/1",
     "die_count": 5,
     "state_name": "NV",
     "county": "Clark",
@@ -26157,6 +26146,15 @@
       "https://govstatus.egov.com/OR-OHA-COVID-19",
       "https://content.govdelivery.com/accounts/ORDHS/bulletins/2849c58"
     ]
+  },
+  {
+    "die_count": 3,
+    "full_links": [
+      "https://www.health.state.mn.us/diseases/coronavirus/situation.html"
+    ],
+    "confirmed_date": "4/1",
+    "state_name": "MN",
+    "county": "Hennepin"
   },
   {
     "confirmed_date": "4/2",
@@ -34331,7 +34329,7 @@
   {
     "confirmed_date": "4/4",
     "comments_en": "Unfortunately, the Health Department is no longer providing specific information about each death.",
-    "die_count": 5,
+    "die_count": 7,
     "state_name": "VA",
     "county": "Unassigned",
     "full_links": [
@@ -37064,7 +37062,7 @@
   },
   {
     "confirmed_date": "4/5",
-    "die_count": 4,
+    "die_count": 3,
     "state_name": "LA",
     "county": "Parish Under Investigation",
     "full_links": [
@@ -37100,7 +37098,7 @@
   },
   {
     "confirmed_date": "4/5",
-    "die_count": 3,
+    "die_count": 2,
     "state_name": "LA",
     "county": "Terrebonne",
     "full_links": [
@@ -39133,6 +39131,24 @@
   },
   {
     "die_count": 1,
+    "full_links": [
+      "https://txdshs.maps.arcgis.com/apps/opsdashboard/index.html#/ed483ecd702b4298ab01e8b9cafc8b83"
+    ],
+    "confirmed_date": "4/5",
+    "state_name": "TX",
+    "county": "Randall"
+  },
+  {
+    "die_count": 1,
+    "state_name": "TX",
+    "county": "Lubbock",
+    "full_links": [
+      "https://txdshs.maps.arcgis.com/apps/opsdashboard/index.html#/ed483ecd702b4298ab01e8b9cafc8b83"
+    ],
+    "confirmed_date": "4/5"
+  },
+  {
+    "die_count": 1,
     "state_name": "PR",
     "county": "Puerto Rico",
     "full_links": [
@@ -39385,5 +39401,170 @@
     "comments_en": "Pottawatomie County has recorded its first death from COVID-19, listed as a male older than age 65, as the state now has a total of 51 deaths. ",
     "gender": "男",
     "age_range": "60+"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://idph.iowa.gov/News/ArtMID/646/ArticleID/158327/Additional-COVID-19-cases-in-Iowa-Additional-Deaths-Confirmed-4620"
+    ],
+    "state_name": "IA",
+    "county": "Linn",
+    "confirmed_date": "4/6",
+    "age_range": "60+"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://idph.iowa.gov/News/ArtMID/646/ArticleID/158327/Additional-COVID-19-cases-in-Iowa-Additional-Deaths-Confirmed-4620"
+    ],
+    "state_name": "IA",
+    "county": "Tama",
+    "confirmed_date": "4/6",
+    "age_range": "80+"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://idph.iowa.gov/News/ArtMID/646/ArticleID/158327/Additional-COVID-19-cases-in-Iowa-Additional-Deaths-Confirmed-4620"
+    ],
+    "state_name": "IA",
+    "county": "Tama",
+    "confirmed_date": "4/6",
+    "age_range": "80+"
+  },
+  {
+    "die_count": 2,
+    "state_name": "LA",
+    "county": "Caddo",
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "confirmed_date": "4/6"
+  },
+  {
+    "die_count": 1,
+    "state_name": "LA",
+    "county": "De Soto",
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "confirmed_date": "4/6"
+  },
+  {
+    "die_count": 3,
+    "state_name": "LA",
+    "county": "East Baton Rouge",
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "confirmed_date": "4/6"
+  },
+  {
+    "die_count": 2,
+    "state_name": "LA",
+    "county": "Iberia",
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "confirmed_date": "4/6"
+  },
+  {
+    "die_count": 1,
+    "state_name": "LA",
+    "county": "Iberville",
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "confirmed_date": "4/6"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "confirmed_date": "4/6",
+    "state_name": "LA",
+    "county": "Jefferson Davis"
+  },
+  {
+    "die_count": 8,
+    "state_name": "LA",
+    "county": "Jefferson",
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "confirmed_date": "4/6"
+  },
+  {
+    "die_count": 1,
+    "state_name": "LA",
+    "county": "Lafayette",
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "confirmed_date": "4/6"
+  },
+  {
+    "die_count": 3,
+    "state_name": "LA",
+    "county": "Lafourche",
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "confirmed_date": "4/6"
+  },
+  {
+    "die_count": 10,
+    "state_name": "LA",
+    "county": "Orleans",
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "confirmed_date": "4/6"
+  },
+  {
+    "die_count": 2,
+    "state_name": "LA",
+    "county": "St. Charles",
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "confirmed_date": "4/6"
+  },
+  {
+    "die_count": 3,
+    "state_name": "LA",
+    "county": "St. Tammany",
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "confirmed_date": "4/6"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.healthvermont.gov/response/infectious-disease/2019-novel-coronavirus"
+    ],
+    "confirmed_date": "4/6",
+    "state_name": "VT",
+    "county": "Unassigned"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.health.state.mn.us/diseases/coronavirus/situation.html"
+    ],
+    "state_name": "MN",
+    "county": "Martin",
+    "confirmed_date": "4/6"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.health.state.mn.us/diseases/coronavirus/situation.html"
+    ],
+    "state_name": "MN",
+    "county": "Ramsey",
+    "confirmed_date": "4/6"
   }
 ]
