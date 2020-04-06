@@ -17800,7 +17800,7 @@
   },
   {
     "confirmed_date": "3/30",
-    "comments_en": "By 3/30 12:20 PM EST, NYC reported 790 deaths in total.",
+    "comments_en": "By 3/30 12:20 PM EST, NYC reported 914 deaths in total.",
     "die_count": 138,
     "state_name": "NY",
     "county": "New York",
@@ -20014,7 +20014,7 @@
   },
   {
     "confirmed_date": "3/31",
-    "comments_en": "By 3/31 19:20 PM EST, NYC reported 1096 deaths in total.",
+    "comments_en": "By 3/31 19:20 PM EST, NYC reported 1,096 deaths in total.",
     "die_count": 182,
     "state_name": "NY",
     "county": "New York",
@@ -23075,7 +23075,7 @@
   },
   {
     "confirmed_date": "4/1",
-    "comments_en": "By 4/1 18:20 PM EST, NYC reported 1374 deaths in total.",
+    "comments_en": "By 4/1 18:20 PM EST, NYC reported 1,374 deaths in total.",
     "die_count": 278,
     "state_name": "NY",
     "county": "New York",
@@ -27028,7 +27028,7 @@
   },
   {
     "confirmed_date": "4/2",
-    "comments_en": "By 4/2 night, NYC reported 1562 deaths in total.",
+    "comments_en": "By 4/2 night, NYC reported 1,762 deaths in total.",
     "die_count": 388,
     "state_name": "NY",
     "county": "New York",
@@ -30127,7 +30127,7 @@
   },
   {
     "confirmed_date": "4/3",
-    "comments_en": "By 4/3 5pm, NYC reported 1,867 deaths in total.",
+    "comments_en": "By 4/3 night, NYC reported 2,243 deaths in total.",
     "die_count": 481,
     "state_name": "NY",
     "county": "New York",
@@ -33739,12 +33739,12 @@
   },
   {
     "confirmed_date": "4/4",
-    "comments_en": "By 4/4, NYC reported 2,254 deaths in total.",
+    "comments_en": "By 4/4, NYC reported 2,630 deaths in total.",
     "die_count": 387,
     "state_name": "NY",
     "county": "New York",
     "full_links": [
-      "https://www1.nyc.gov/assets/doh/downloads/pdf/imm/covid-19-daily-data-summary-deaths-04042020-2.pdf"
+      "https://www.youtube.com/watch?v=HmVJTr1lik8"
     ]
   },
   {
@@ -35671,12 +35671,13 @@
   {
     "confirmed_date": "4/4",
     "comments_en": "Bexar has 11 total deaths by 4/4.",
-    "die_count": 2,
+    "die_count": 1,
     "state_name": "TX",
     "county": "Bexar",
     "full_links": [
       "https://www.sanantonio.gov/Health/News/Alerts/CoronaVirus"
-    ]
+    ],
+    "gender": "男"
   },
   {
     "confirmed_date": "4/4",
@@ -36324,6 +36325,17 @@
     ],
     "confirmed_date": "4/4",
     "die_count": 120
+  },
+  {
+    "confirmed_date": "4/4",
+    "gender": "男",
+    "comments_en": "Bexar has 11 total deaths by 4/4.",
+    "die_count": 1,
+    "state_name": "TX",
+    "county": "Bexar",
+    "full_links": [
+      "https://www.sanantonio.gov/Health/News/Alerts/CoronaVirus"
+    ]
   },
   {
     "confirmed_date": "4/5",
@@ -38875,6 +38887,46 @@
     "county": "Yakima",
     "full_links": [
       "https://www.doh.wa.gov/Emergencies/Coronavirus?from=singlemessage&isappinstalled=0"
+    ],
+    "confirmed_date": "4/5"
+  },
+  {
+    "die_count": 1,
+    "state_name": "TX",
+    "county": "Bexar",
+    "full_links": [
+      "https://www.sanantonio.gov/Health/News/Alerts/CoronaVirus"
+    ],
+    "confirmed_date": "4/5",
+    "gender": "男"
+  },
+  {
+    "die_count": 1,
+    "state_name": "WI",
+    "county": "Sheboygan",
+    "full_links": [
+      "https://www.sheboyganpress.com/story/news/2020/04/04/coronavirus-sheboygan-sunny-ridge-has-10-confirmed-cases/2949286001/"
+    ],
+    "confirmed_date": "4/5",
+    "comments_en": "4/5 A second person has died in the coronavirus outbreak at Sunny Ridge Nursing and Rehabilitation Center, the county health department announced Sunday.",
+    "gender": "Unknown",
+    "age_range": "Unknown"
+  },
+  {
+    "state_name": "WA",
+    "county": "Island",
+    "full_links": [
+      "https://www.islandcountywa.gov/Health/Pages/COVID-19.aspx"
+    ],
+    "confirmed_date": "4/5",
+    "die_count": 1
+  },
+  {
+    "die_count": 2,
+    "state_name": "NN",
+    "county": "Unassigned",
+    "full_links": [
+      "https://www.ndoh.navajo-nsn.gov/Portals/0/COVID-19/News/NDOH-4_5_2020.pdf?ver=J3XSwcBTZzhj25RbhpZSLw%3d%3d&timestamp=1586134319319"
     ],
     "confirmed_date": "4/5"
   }
