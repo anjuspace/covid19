@@ -39067,5 +39067,68 @@
     "comments_en": "The death of a 72-year-old man from the Ponce region raised the death toll from the COVID-19 coronavirus to 21 in Puerto Rico.",
     "age_range": "70+",
     "gender": "男"
+  },
+  {
+    "die_count": 2,
+    "state_name": "MD",
+    "county": "Anne Arundel",
+    "full_links": [
+      "https://coronavirus.maryland.gov/"
+    ],
+    "confirmed_date": "4/6"
+  },
+  {
+    "die_count": 5,
+    "state_name": "MD",
+    "county": "Baltimore",
+    "full_links": [
+      "https://coronavirus.maryland.gov/"
+    ],
+    "confirmed_date": "4/6"
+  },
+  {
+    "die_count": 1,
+    "state_name": "MD",
+    "county": "Baltimore City",
+    "full_links": [
+      "https://coronavirus.maryland.gov/"
+    ],
+    "confirmed_date": "4/6"
+  },
+  {
+    "state_name": "MD",
+    "county": "Carroll",
+    "full_links": [
+      "https://coronavirus.maryland.gov/"
+    ],
+    "confirmed_date": "4/6",
+    "die_count": 2
+  },
+  {
+    "die_count": 1,
+    "state_name": "MD",
+    "county": "Frederick",
+    "full_links": [
+      "https://coronavirus.maryland.gov/"
+    ],
+    "confirmed_date": "4/6"
+  },
+  {
+    "die_count": 6,
+    "state_name": "MD",
+    "county": "Montgomery",
+    "full_links": [
+      "https://coronavirus.maryland.gov/"
+    ],
+    "confirmed_date": "4/6"
+  },
+  {
+    "state_name": "MD",
+    "county": "Prince George's",
+    "full_links": [
+      "https://coronavirus.maryland.gov/"
+    ],
+    "confirmed_date": "4/6",
+    "die_count": 7
   }
 ]
