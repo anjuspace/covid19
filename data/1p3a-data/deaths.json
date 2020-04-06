@@ -38457,7 +38457,9 @@
     "full_links": [
       "https://experience.arcgis.com/experience/96dd742462124fa0b38ddedb9b25e429"
     ],
-    "confirmed_date": "4/5"
+    "confirmed_date": "4/5",
+    "age_range": "70+",
+    "gender": "男"
   },
   {
     "die_count": 1,
@@ -38484,7 +38486,9 @@
     ],
     "confirmed_date": "4/5",
     "state_name": "FL",
-    "county": "Marion"
+    "county": "Marion",
+    "age_range": "80+",
+    "gender": "男"
   },
   {
     "die_count": 1,
@@ -38502,7 +38506,9 @@
     ],
     "confirmed_date": "4/5",
     "state_name": "FL",
-    "county": "Marion"
+    "county": "Marion",
+    "age_range": "50+",
+    "gender": "男"
   },
   {
     "confirmed_date": "4/5",
