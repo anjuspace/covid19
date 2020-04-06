@@ -20216,12 +20216,12 @@
   },
   {
     "confirmed_date": "3/31",
-    "die_count": 2,
     "state_name": "PA",
     "county": "Philadelphia",
     "full_links": [
       "https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx"
-    ]
+    ],
+    "die_count": 3
   },
   {
     "confirmed_date": "3/31",
@@ -25749,7 +25749,7 @@
   },
   {
     "confirmed_date": "4/1",
-    "die_count": 3,
+    "die_count": 2,
     "state_name": "TN",
     "county": "Williamson",
     "full_links": [
@@ -26162,6 +26162,15 @@
     "confirmed_date": "4/1",
     "state_name": "MN",
     "county": "Hennepin"
+  },
+  {
+    "state_name": "PA",
+    "county": "Philadelphia",
+    "full_links": [
+      "https://6abc.com/septa-philadelphia-corona-virus-deaths-coronavirus-liocouras-center/6068291/"
+    ],
+    "confirmed_date": "4/1",
+    "die_count": 4
   },
   {
     "confirmed_date": "4/2",
@@ -27100,12 +27109,12 @@
   },
   {
     "confirmed_date": "4/2",
-    "die_count": 3,
     "state_name": "PA",
     "county": "Philadelphia",
     "full_links": [
       "https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx"
-    ]
+    ],
+    "die_count": 2
   },
   {
     "confirmed_date": "4/2",
@@ -29867,12 +29876,12 @@
   },
   {
     "confirmed_date": "4/3",
-    "die_count": 1,
     "state_name": "PA",
     "county": "Philadelphia",
     "full_links": [
       "https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx"
-    ]
+    ],
+    "die_count": 9
   },
   {
     "confirmed_date": "4/3",
@@ -33298,12 +33307,12 @@
   },
   {
     "confirmed_date": "4/4",
-    "die_count": 10,
     "state_name": "PA",
     "county": "Philadelphia",
     "full_links": [
       "https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx"
-    ]
+    ],
+    "die_count": 9
   },
   {
     "confirmed_date": "4/4",
@@ -36333,7 +36342,9 @@
   {
     "state_name": "IN",
     "county": "Allen",
-    "full_links": [],
+    "full_links": [
+      "https://www.allencountyhealth.com/get-informed/covid-19/"
+    ],
     "confirmed_date": "4/4",
     "die_count": 1,
     "comments_en": "A third Allen County resident has died from COVID-19 and ten have tested positive, bringing the total to 67 cases and three deaths Saturday, according to the Allen County Department of Health."
@@ -36850,12 +36861,13 @@
   },
   {
     "confirmed_date": "4/5",
-    "die_count": 4,
     "state_name": "PA",
     "county": "Philadelphia",
     "full_links": [
-      "https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx"
-    ]
+      "https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx",
+      "https://www.phila.gov/programs/coronavirus-disease-2019-covid-19/"
+    ],
+    "die_count": 8
   },
   {
     "confirmed_date": "4/5",
@@ -40463,7 +40475,9 @@
     ],
     "confirmed_date": "4/6",
     "state_name": "MA",
-    "county": "Middlesex"
+    "county": "Middlesex",
+    "age_range": "80+",
+    "gender": "男"
   },
   {
     "state_name": "WI",
@@ -40481,7 +40495,9 @@
     ],
     "confirmed_date": "4/6",
     "state_name": "MA",
-    "county": "Middlesex"
+    "county": "Middlesex",
+    "age_range": "80+",
+    "gender": "男"
   },
   {
     "die_count": 1,
@@ -40490,7 +40506,9 @@
     ],
     "confirmed_date": "4/6",
     "state_name": "MA",
-    "county": "Middlesex"
+    "county": "Middlesex",
+    "age_range": "80+",
+    "gender": "女"
   },
   {
     "state_name": "WA",
@@ -40508,7 +40526,9 @@
     ],
     "confirmed_date": "4/6",
     "state_name": "MA",
-    "county": "Norfolk"
+    "county": "Norfolk",
+    "age_range": "80+",
+    "gender": "男"
   },
   {
     "die_count": 437,
@@ -40527,7 +40547,9 @@
     ],
     "confirmed_date": "4/6",
     "state_name": "MA",
-    "county": "Norfolk"
+    "county": "Norfolk",
+    "age_range": "70+",
+    "gender": "女"
   },
   {
     "die_count": 1,
@@ -40536,7 +40558,9 @@
     ],
     "confirmed_date": "4/6",
     "state_name": "MA",
-    "county": "Norfolk"
+    "county": "Norfolk",
+    "age_range": "80+",
+    "gender": "女"
   },
   {
     "die_count": 1,
@@ -40545,7 +40569,9 @@
     ],
     "confirmed_date": "4/6",
     "state_name": "MA",
-    "county": "Plymouth"
+    "county": "Plymouth",
+    "age_range": "70+",
+    "gender": "男"
   },
   {
     "die_count": 1,
@@ -40554,7 +40580,9 @@
     ],
     "confirmed_date": "4/6",
     "state_name": "MA",
-    "county": "Essex"
+    "county": "Essex",
+    "age_range": "80+",
+    "gender": "女"
   },
   {
     "die_count": 1,
@@ -40563,7 +40591,9 @@
     ],
     "confirmed_date": "4/6",
     "state_name": "MA",
-    "county": "Unassigned"
+    "county": "Unassigned",
+    "age_range": "70+",
+    "gender": "男"
   },
   {
     "die_count": 1,
@@ -40572,7 +40602,9 @@
     ],
     "confirmed_date": "4/6",
     "state_name": "MA",
-    "county": "Suffolk"
+    "county": "Suffolk",
+    "age_range": "70+",
+    "gender": "男"
   },
   {
     "die_count": 1,
@@ -40581,7 +40613,9 @@
     ],
     "confirmed_date": "4/6",
     "state_name": "MA",
-    "county": "Barnstable"
+    "county": "Barnstable",
+    "age_range": "90+",
+    "gender": "男"
   },
   {
     "die_count": 1,
@@ -40590,7 +40624,9 @@
     ],
     "confirmed_date": "4/6",
     "state_name": "MA",
-    "county": "Hampden"
+    "county": "Hampden",
+    "age_range": "60+",
+    "gender": "女"
   },
   {
     "die_count": 1,
@@ -40599,7 +40635,9 @@
     ],
     "confirmed_date": "4/6",
     "state_name": "MA",
-    "county": "Essex"
+    "county": "Essex",
+    "age_range": "80+",
+    "gender": "女"
   },
   {
     "die_count": 1,
@@ -40608,7 +40646,9 @@
     ],
     "confirmed_date": "4/6",
     "state_name": "MA",
-    "county": "Plymouth"
+    "county": "Plymouth",
+    "age_range": "70+",
+    "gender": "女"
   },
   {
     "die_count": 1,
@@ -40617,7 +40657,9 @@
     ],
     "confirmed_date": "4/6",
     "state_name": "MA",
-    "county": "Plymouth"
+    "county": "Plymouth",
+    "age_range": "50+",
+    "gender": "男"
   },
   {
     "state_name": "WI",
@@ -40635,7 +40677,9 @@
     ],
     "confirmed_date": "4/6",
     "state_name": "MA",
-    "county": "Middlesex"
+    "county": "Middlesex",
+    "age_range": "80+",
+    "gender": "男"
   },
   {
     "die_count": 1,
@@ -40644,7 +40688,9 @@
     ],
     "confirmed_date": "4/6",
     "state_name": "MA",
-    "county": "Suffolk"
+    "county": "Suffolk",
+    "age_range": "50+",
+    "gender": "男"
   },
   {
     "die_count": 1,
@@ -40653,7 +40699,9 @@
     ],
     "confirmed_date": "4/6",
     "state_name": "MA",
-    "county": "Middlesex"
+    "county": "Middlesex",
+    "age_range": "80+",
+    "gender": "男"
   },
   {
     "die_count": 1,
@@ -40662,7 +40710,9 @@
     ],
     "confirmed_date": "4/6",
     "state_name": "MA",
-    "county": "Worcester"
+    "county": "Worcester",
+    "age_range": "70+",
+    "gender": "男"
   },
   {
     "die_count": 1,
@@ -40671,7 +40721,9 @@
     ],
     "confirmed_date": "4/6",
     "state_name": "MA",
-    "county": "Middlesex"
+    "county": "Middlesex",
+    "age_range": "90+",
+    "gender": "女"
   },
   {
     "die_count": 1,
@@ -40680,7 +40732,9 @@
     ],
     "confirmed_date": "4/6",
     "state_name": "MA",
-    "county": "Hampden"
+    "county": "Hampden",
+    "age_range": "70+",
+    "gender": "女"
   },
   {
     "die_count": 1,
@@ -40689,7 +40743,9 @@
     ],
     "confirmed_date": "4/6",
     "state_name": "MA",
-    "county": "Plymouth"
+    "county": "Plymouth",
+    "age_range": "90+",
+    "gender": "女"
   },
   {
     "die_count": 1,
@@ -40698,7 +40754,9 @@
     ],
     "confirmed_date": "4/6",
     "state_name": "MA",
-    "county": "Franklin"
+    "county": "Franklin",
+    "age_range": "80+",
+    "gender": "女"
   },
   {
     "die_count": 1,
@@ -40707,7 +40765,9 @@
     ],
     "confirmed_date": "4/6",
     "state_name": "MA",
-    "county": "Hampden"
+    "county": "Hampden",
+    "age_range": "70+",
+    "gender": "女"
   },
   {
     "die_count": 1,
@@ -40716,7 +40776,9 @@
     ],
     "confirmed_date": "4/6",
     "state_name": "MA",
-    "county": "Suffolk"
+    "county": "Suffolk",
+    "age_range": "90+",
+    "gender": "男"
   },
   {
     "full_links": [
@@ -40734,7 +40796,9 @@
     ],
     "confirmed_date": "4/6",
     "state_name": "MA",
-    "county": "Dukes and Nantucket"
+    "county": "Dukes and Nantucket",
+    "age_range": "80+",
+    "gender": "男"
   },
   {
     "die_count": 1,
@@ -40743,7 +40807,9 @@
     ],
     "confirmed_date": "4/6",
     "state_name": "MA",
-    "county": "Hampden"
+    "county": "Hampden",
+    "age_range": "70+",
+    "gender": "男"
   },
   {
     "die_count": 1,
@@ -40752,7 +40818,9 @@
     ],
     "confirmed_date": "4/6",
     "state_name": "MA",
-    "county": "Suffolk"
+    "county": "Suffolk",
+    "age_range": "90+",
+    "gender": "男"
   },
   {
     "die_count": 1,
@@ -40761,6 +40829,260 @@
     ],
     "confirmed_date": "4/6",
     "state_name": "MA",
-    "county": "Plymouth"
+    "county": "Plymouth",
+    "age_range": "70+",
+    "gender": "女"
+  },
+  {
+    "die_count": 2,
+    "state_name": "CA",
+    "county": "Sacramento",
+    "full_links": [
+      "https://www.saccounty.net/COVID-19/Pages/default.aspx"
+    ],
+    "confirmed_date": "4/6"
+  },
+  {
+    "die_count": 1,
+    "state_name": "CA",
+    "county": "Tulare",
+    "full_links": [
+      "https://tchhsa.org/eng/index.cfm/public-health/covid-19-updates-novel-coronavirus/"
+    ],
+    "confirmed_date": "4/6"
+  },
+  {
+    "die_count": 2,
+    "state_name": "IN",
+    "county": "Allen",
+    "full_links": [
+      "https://www.allencountyhealth.com/get-informed/covid-19/"
+    ],
+    "confirmed_date": "4/6",
+    "comments_en": "Another two Allen County residents have died from COVID-19. "
+  },
+  {
+    "state_name": "CO",
+    "county": "Montezuma",
+    "full_links": [
+      "https://durangoherald.com/articles/320179"
+    ],
+    "confirmed_date": "4/6",
+    "die_count": 1,
+    "comments_en": "The Montezuma County Public Health Department announced Thursday morning that the county has confirmed two new positive cases of COVID-19, one of which has resulted in a death."
+  },
+  {
+    "die_count": 10,
+    "state_name": "WA",
+    "county": "Snohomish",
+    "full_links": [
+      "https://www.snohd.org/499/COVID-19-Case-Count-Info"
+    ],
+    "confirmed_date": "4/6"
+  },
+  {
+    "die_count": 3,
+    "full_links": [
+      "https://www.sltrib.com/news/2020/04/06/live-coronavirus-updates/"
+    ],
+    "confirmed_date": "4/6",
+    "state_name": "UT",
+    "county": "Salt Lake"
+  },
+  {
+    "die_count": 2,
+    "full_links": [
+      "https://www.sltrib.com/news/2020/04/06/live-coronavirus-updates/"
+    ],
+    "confirmed_date": "4/6",
+    "state_name": "UT",
+    "county": "Utah"
+  },
+  {
+    "full_links": [
+      "https://www.whsv.com/content/news/4th-COVID-19-death-confirmed-in-West-Virginia-569415381.html",
+      "https://www.wsaz.com/content/news/WVa-COVID-19--21-new-positive-cases-569406911.html"
+    ],
+    "die_count": 1,
+    "confirmed_date": "4/6",
+    "state_name": "WV",
+    "county": "Harrison",
+    "comments_en": "West Virginia has reported its fourth death due to COVID-19. The Harrison County Health Department announced the death on Monday. \"Our condolences go out to the family,\" Harrison County Health Department officials said in a news release. \"The deceased is an elderly male who passed away while hospitalized at United Hospital Center. The individual had underlying health conditions and was critically ill.\" Information on the patient's age or location has not been released at this time.",
+    "gender": "男",
+    "age_range": "Unknown"
+  },
+  {
+    "full_links": [
+      "https://www.tdtnews.com/news/coronavirus/article_c6ae60be-7839-11ea-b525-4b81acf4bb35.html"
+    ],
+    "die_count": 1,
+    "confirmed_date": "4/6",
+    "state_name": "TX",
+    "county": "Bell",
+    "gender": "男",
+    "comments_en": "Bell County’s second death was a man. The health district did not release the man’s age nor residence."
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.mecknc.gov/news/Pages/Update-on-Novel-Coronavirus.aspx"
+    ],
+    "confirmed_date": "4/6",
+    "state_name": "NC",
+    "county": "Mecklenburg"
+  },
+  {
+    "full_links": [
+      "https://www.tpchd.org/healthy-people/diseases/covid-19-pierce-county-cases/"
+    ],
+    "confirmed_date": "4/6",
+    "die_count": 2,
+    "state_name": "WA",
+    "county": "Pierce",
+    "comments_en": "one death is a male in his 90s from Tacoma with underlying health conditions, \nanother one is a female in her 80s from Bonney Lake. "
+  },
+  {
+    "die_count": 1,
+    "state_name": "CA",
+    "county": "San Francisco",
+    "full_links": [
+      "https://www.latimes.com/projects/california-coronavirus-cases-tracking-outbreak/"
+    ],
+    "confirmed_date": "4/6"
+  },
+  {
+    "die_count": 23,
+    "state_name": "IL",
+    "county": "Cook",
+    "full_links": [
+      "https://coronavirus.illinois.gov/s/county-map"
+    ],
+    "confirmed_date": "4/6"
+  },
+  {
+    "die_count": 1,
+    "state_name": "CA",
+    "county": "Imperial",
+    "full_links": [
+      "https://www.latimes.com/projects/california-coronavirus-cases-tracking-outbreak/"
+    ],
+    "confirmed_date": "4/6"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.latimes.com/projects/california-coronavirus-cases-tracking-outbreak/"
+    ],
+    "confirmed_date": "4/6",
+    "state_name": "CA",
+    "county": "Merced"
+  },
+  {
+    "full_links": [
+      "https://coronavirus.illinois.gov/s/county-map"
+    ],
+    "confirmed_date": "4/6",
+    "die_count": 1,
+    "state_name": "IL",
+    "county": "DeKalb"
+  },
+  {
+    "state_name": "IL",
+    "county": "Lake",
+    "full_links": [
+      "https://coronavirus.illinois.gov/s/county-map"
+    ],
+    "confirmed_date": "4/6",
+    "die_count": 2
+  },
+  {
+    "state_name": "IL",
+    "county": "Will",
+    "full_links": [
+      "https://coronavirus.illinois.gov/s/county-map"
+    ],
+    "confirmed_date": "4/6",
+    "die_count": 4
+  },
+  {
+    "full_links": [
+      "https://coronavirus.illinois.gov/s/county-map"
+    ],
+    "confirmed_date": "4/6",
+    "die_count": 1,
+    "state_name": "IL",
+    "county": "Unassigned"
+  },
+  {
+    "state_name": "PA",
+    "county": "Philadelphia",
+    "full_links": [
+      "https://www.phila.gov/programs/coronavirus-disease-2019-covid-19/"
+    ],
+    "confirmed_date": "4/6",
+    "die_count": 2
+  },
+  {
+    "die_count": 2,
+    "full_links": [
+      "https://www.tn.gov/health/cedep/ncov.html"
+    ],
+    "confirmed_date": "4/6",
+    "state_name": "TN",
+    "county": "Blount"
+  },
+  {
+    "state_name": "TN",
+    "county": "Davidson",
+    "full_links": [
+      "https://www.tn.gov/health/cedep/ncov.html"
+    ],
+    "confirmed_date": "4/6",
+    "die_count": 1
+  },
+  {
+    "die_count": 1,
+    "state_name": "TN",
+    "county": "Hamilton",
+    "full_links": [
+      "https://www.tn.gov/health/cedep/ncov.html"
+    ],
+    "confirmed_date": "4/6"
+  },
+  {
+    "die_count": 2,
+    "state_name": "TN",
+    "county": "Knox",
+    "full_links": [
+      "https://www.tn.gov/health/cedep/ncov.html"
+    ],
+    "confirmed_date": "4/6"
+  },
+  {
+    "die_count": 2,
+    "state_name": "TN",
+    "county": "Shelby",
+    "full_links": [
+      "https://www.tn.gov/health/cedep/ncov.html"
+    ],
+    "confirmed_date": "4/6"
+  },
+  {
+    "die_count": 5,
+    "state_name": "TN",
+    "county": "Sumner",
+    "full_links": [
+      "https://www.tn.gov/health/cedep/ncov.html"
+    ],
+    "confirmed_date": "4/6"
+  },
+  {
+    "confirmed_date": "4/6",
+    "die_count": 2,
+    "state_name": "TX",
+    "county": "Harris--Non Houston",
+    "full_links": [
+      "http://publichealth.harriscountytx.gov/Resources/2019-Novel-Coronavirus"
+    ]
   }
 ]
