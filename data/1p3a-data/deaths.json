@@ -39058,6 +39058,60 @@
   },
   {
     "die_count": 1,
+    "full_links": [
+      "https://msdh.ms.gov/msdhsite/_static/14,0,420.html#Mississippi"
+    ],
+    "confirmed_date": "4/5",
+    "state_name": "MS",
+    "county": "Holmes"
+  },
+  {
+    "die_count": 2,
+    "full_links": [
+      "https://msdh.ms.gov/msdhsite/_static/14,0,420.html#Mississippi"
+    ],
+    "state_name": "MS",
+    "county": "Jackson",
+    "confirmed_date": "4/5"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://msdh.ms.gov/msdhsite/_static/14,0,420.html#Mississippi"
+    ],
+    "state_name": "MS",
+    "county": "Lee",
+    "confirmed_date": "4/5"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://msdh.ms.gov/msdhsite/_static/14,0,420.html#Mississippi"
+    ],
+    "state_name": "MS",
+    "county": "Leflore",
+    "confirmed_date": "4/5"
+  },
+  {
+    "die_count": 2,
+    "full_links": [
+      "https://msdh.ms.gov/msdhsite/_static/14,0,420.html#Mississippi"
+    ],
+    "state_name": "MS",
+    "county": "Madison",
+    "confirmed_date": "4/5"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://msdh.ms.gov/msdhsite/_static/14,0,420.html#Mississippi"
+    ],
+    "state_name": "MS",
+    "county": "Pearl River",
+    "confirmed_date": "4/5"
+  },
+  {
+    "die_count": 1,
     "state_name": "PR",
     "county": "Puerto Rico",
     "full_links": [
@@ -39162,6 +39216,16 @@
     "comments_en": "Jefferson reported 2 deaths by 4/6."
   },
   {
+    "full_links": [
+      "https://www.wnct.com/local-news/carteret-county-reports-its-first-covid-19-death/"
+    ],
+    "confirmed_date": "4/6",
+    "state_name": "NC",
+    "county": "Carteret",
+    "comments_en": " Carteret County Health Department reports the first confirmed COVID-19 death of a Carteret County resident.",
+    "die_count": 1
+  },
+  {
     "die_count": 12,
     "full_links": [
       "https://coronavirus.in.gov/"
@@ -39192,5 +39256,56 @@
     ],
     "confirmed_date": "4/6",
     "comments_en": "FL reported 236 total deaths by 4/6, placeholder, will breakdown by county later."
+  },
+  {
+    "die_count": 1,
+    "state_name": "KS",
+    "county": "Johnson",
+    "full_links": [
+      "https://www.kmbc.com/article/coronavirus-death-toll-in-johnson-county-kansas-climbs-to-9-with-more-than-200-cases-confirmed-covid-19/32051984"
+    ],
+    "confirmed_date": "4/6",
+    "comments_en": "The Johnson County Department of Health and Environment said Monday two more residents have died with coronavirus-related complications, bringing the total number of deaths in the county to nine.The county said both victims were in their 80s. ",
+    "age_range": "80+"
+  },
+  {
+    "confirmed_date": "4/6",
+    "comments_en": "The Johnson County Department of Health and Environment said Monday two more residents have died with coronavirus-related complications, bringing the total number of deaths in the county to nine.The county said both victims were in their 80s. ",
+    "die_count": 1,
+    "age_range": "80+",
+    "state_name": "KS",
+    "county": "Johnson",
+    "full_links": [
+      "https://www.kmbc.com/article/coronavirus-death-toll-in-johnson-county-kansas-climbs-to-9-with-more-than-200-cases-confirmed-covid-19/32051984"
+    ]
+  },
+  {
+    "die_count": 2,
+    "state_name": "DC",
+    "county": "District of Columbia",
+    "full_links": [
+      "https://coronavirus.dc.gov/page/coronavirus-data"
+    ],
+    "confirmed_date": "4/6",
+    "comments_en": "The District reported 24 total deaths on 4/6."
+  },
+  {
+    "die_count": 12,
+    "full_links": [
+      "http://www.vdh.virginia.gov/coronavirus/"
+    ],
+    "confirmed_date": "4/6",
+    "state_name": "NC",
+    "county": "Unassigned"
+  },
+  {
+    "die_count": 599,
+    "state_name": "NY",
+    "county": "Unassigned",
+    "full_links": [
+      "https://twitter.com/NYGovCuomo/status/1247191855407566848",
+      "https://www.nbcnewyork.com/news/local/how-many-in-tri-state-have-tested-positive-for-coronavirus-here-are-latest-cases-by-the-numbers/2317721/"
+    ],
+    "confirmed_date": "4/6"
   }
 ]
