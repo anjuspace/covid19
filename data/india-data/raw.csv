@@ -154,7 +154,7 @@ Patient Number,State Patient Number,Date Announced,Estimated Onset Date,Age Brac
 153,,18/03/2020,,44,M,Gurugram,Gurugram,Haryana,HR,Hospitalized,Travelled from UK,,India,Imported,18/03/2020,https://timesofindia.indiatimes.com/articleshow/74682966.cms?utm_source=contentofinterest&utm_medium=text&utm_campaign=cppst,https://epaper.hindustantimes.com/Home/ShareArticle?OrgId=d2d754a3,,Travel History to the UK
 154,TN-P2,18/03/2020,,20,M,Chennai,Chennai,Tamil Nadu,TN,Hospitalized,Reached Chennai MGR Central from Delhi via Train on 12.03.2020,,India,Local,18/03/2020,https://twitter.com/Vijayabaskarofl/status/1240250048639668224,,,Reached Chennai from Delhi via Train
 155,,18/03/2020,,68,F,Mumbai,Mumbai,Maharashtra,MH,Hospitalized,"Residing at N Ward,Close contact of P138",P138,India,Local,18/03/2020,https://twitter.com/PTI_News/status/1240259888917278725,https://twitter.com/THMumbai/status/1240262937576484864,,"Residing at N Ward,Close contact of another Covid Patient"
-156,KA-P14,18/03/2020,,35,M,Bengaluru ,Bengaluru,Karnataka,KA,Hospitalized,Travelled from the US,,India,Imported,18/03/2020,,https://twitter.com/sriramulubjp/status/1240259610486829056,,Travel History to the US
+156,KA-P14,18/03/2020,,35,M,Bengaluru ,Bengaluru,Karnataka,KA,Recovered,Travelled from the US,,India,Imported,18/03/2020,,https://twitter.com/sriramulubjp/status/1240259610486829056,,Travel History to the US
 157,,18/03/2020,,21,M,Pimpri-Chinchwad,Pune,Maharashtra,MH,Hospitalized,"Travelled from Philippines, Singapore and Sri Lanka",,India,Imported,18/03/2020,https://twitter.com/ANI/status/1240287855051599872?s=19,https://twitter.com/PTI_News/status/1240284806908235778?s=19,https://thepigeonexpress.com/maharashtra-records-44th-coronavirus-case/,"Travel History to Philippines, Singapore and Sri Lanka"
 158,MH-P45,18/03/2020,,50,,Shrungartali,Ratnagiri,Maharashtra,MH,Hospitalized,Travelled from Dubai.,,India,Imported,18/03/2020,https://twitter.com/ANI/status/1240304049422888960,https://twitter.com/THMumbai/status/1240304036143718407?s=19,,Travel history to Dubai.
 159,,18/03/2020,,67,F,Khanyar,Srinagar,Jammu and Kashmir,JK,Hospitalized,Travelled from Saudi Arabia,,India,Imported,18/03/2020,https://twitter.com/ANI/status/1240318300942266368?s=19,https://twitter.com/kansalrohit69/status/1240312429638070274,https://www.news18.com/news/india/restrictions-on-movement-public-gatherings-in-srinagar-after-1st-positive-coronavirus-case-in-khanyar-area-2542397.html,Foreign Travel
@@ -3041,7 +3041,7 @@ Patient Number,State Patient Number,Date Announced,Estimated Onset Date,Age Brac
 3040,,03/04/2020,,,,,Washim,Maharashtra,MH,Hospitalized,,,,,03/04/2020,https://twitter.com/PTI_News/status/1246097072761081856,https://experience.arcgis.com/experience/8167a61f882a4af4b9098e947dfd589f/,,
 3041,,04/04/2020,,,,,Jalgaon,Maharashtra,MH,Hospitalized,,,,,03/04/2020,https://twitter.com/PTI_News/status/1246097072761081856,https://experience.arcgis.com/experience/8167a61f882a4af4b9098e947dfd589f/,,
 3042,,04/04/2020,,,,,Hingoli,Maharashtra,MH,Hospitalized,,,,,03/04/2020,https://twitter.com/PTI_News/status/1246097072761081856,https://experience.arcgis.com/experience/8167a61f882a4af4b9098e947dfd589f/,,
-3043,,04/04/2020,,,,,,Maharashtra,MH,Hospitalized,,,,,03/04/2020,https://twitter.com/PTI_News/status/1246097072761081856,https://experience.arcgis.com/experience/8167a61f882a4af4b9098e947dfd589f/,,
+3043,,04/04/2020,,,,,Gujarat*,Maharashtra,MH,Hospitalized,,,,,03/04/2020,https://twitter.com/PTI_News/status/1246097072761081856,https://experience.arcgis.com/experience/8167a61f882a4af4b9098e947dfd589f/,,
 3044,,03/04/2020,,37,M,,Gaya,Bihar,BR,Hospitalized,Travelled from Dubai,,,Imported,03/04/2020,https://twitter.com/sanjayjavin/status/1246100321115357187,,,
 3045,,03/04/2020,,,,,,Delhi,DL,Hospitalized,,,,,03/04/2020,https://twitter.com/PTI_News/status/1246102107083534337,,,
 3046,,03/04/2020,,,,,,Delhi,DL,Hospitalized,,,,,03/04/2020,https://twitter.com/PTI_News/status/1246102107083534337,,,
@@ -3489,7 +3489,7 @@ Patient Number,State Patient Number,Date Announced,Estimated Onset Date,Age Brac
 3488,,04/04/2020,,,,,Jalandhar,Punjab,PB,Hospitalized,Contact of Positive case,,,,04/04/2020,https://twitter.com/kbssidhu1961/status/1246432643794612225,,,
 3489,,04/04/2020,,75,,,Pathankot,Punjab,PB,Hospitalized,,,,,04/04/2020,https://twitter.com/kbssidhu1961/status/1246432643794612225,,,
 3490,,04/04/2020,,35,M,,Faridkot,Punjab,PB,Hospitalized,,,,,04/04/2020,https://twitter.com/kbssidhu1961/status/1246432643794612225,,,
-3491,,04/04/2020,,65,,,Bhagalpur,Bihar,BR,Hospitalized,Travelled from UK on 18/3/2020,,,Imported,04/04/2020,https://twitter.com/sanjayjavin/status/1246444951174430720,,,
+3491,,04/04/2020,,65,,Naugachia,Bhagalpur,Bihar,BR,Hospitalized,Travelled from UK on 18/3/2020,,,Imported,04/04/2020,https://twitter.com/sanjayjavin/status/1246444951174430720,,,
 3492,,04/04/2020,,,,,Ahmadabad,Gujarat,GJ,Hospitalized,Domestic Travel,,,,04/04/2020,https://gujcovid19.gujarat.gov.in/,https://twitter.com/TOIAhmedabad/status/1246441778263158785,,
 3493,,04/04/2020,,,,,Ahmadabad,Gujarat,GJ,Hospitalized,Local Transmission,,,,04/04/2020,https://gujcovid19.gujarat.gov.in/,https://twitter.com/TOIAhmedabad/status/1246441778263158785,,
 3494,,04/04/2020,,61,F,,Surat,Gujarat,GJ,Hospitalized,No travel history,,,,04/04/2020,https://gujcovid19.gujarat.gov.in/,https://twitter.com/TOIAhmedabad/status/1246414103884652544,,
@@ -3778,7 +3778,7 @@ Patient Number,State Patient Number,Date Announced,Estimated Onset Date,Age Brac
 3777,,05/04/2020,,,,Pimpri-Chinchwad,Pune,Maharashtra,MH,Hospitalized,,,,,05/04/2020,https://twitter.com/ANI/status/1246738428370223104,,,
 3778,,05/04/2020,,,,Pimpri-Chinchwad,Pune,Maharashtra,MH,Hospitalized,,,,,05/04/2020,https://twitter.com/ANI/status/1246738428370223104,,,
 3779,,05/04/2020,,,,Pimpri-Chinchwad,Pune,Maharashtra,MH,Hospitalized,,,,,05/04/2020,https://twitter.com/ANI/status/1246738428370223104,,,
-3780,,05/04/2020,,,,,,Maharashtra,MH,Hospitalized,,,,,05/04/2020,https://twitter.com/ANI/status/1246738428370223104,,,
+3780,,05/04/2020,,,,,Osmanabad,Maharashtra,MH,Hospitalized,,,,,05/04/2020,https://twitter.com/ANI/status/1246738428370223104,,,
 3781,,05/04/2020,,,,,Aurangabad,Maharashtra,MH,Hospitalized,,,,,05/04/2020,https://twitter.com/ANI/status/1246738428370223104,,,
 3782,,05/04/2020,,,,,Aurangabad,Maharashtra,MH,Hospitalized,,,,,05/04/2020,https://twitter.com/ANI/status/1246738428370223104,,,
 3783,,05/04/2020,,,,,Ahmadnagar,Maharashtra,MH,Hospitalized,,,,,05/04/2020,https://twitter.com/ANI/status/1246738428370223104,,,
@@ -4346,3 +4346,18 @@ Patient Number,State Patient Number,Date Announced,Estimated Onset Date,Age Brac
 4345,,06/04/2020,,52,M,,Patan,Gujarat,GJ,Hospitalized,Local Transmission,,,,06/04/2020,https://twitter.com/ANI/status/1247034346101334016,,,
 4346,,06/04/2020,,27,M,,Mahesana,Gujarat,GJ,Hospitalized,Local Transmission,,,,06/04/2020,https://twitter.com/ANI/status/1247034346101334016,,,
 4347,,06/04/2020,,15,M,,Surat,Gujarat,GJ,Hospitalized,Local Transmission,,,,06/04/2020,https://twitter.com/ANI/status/1247034346101334016,,,
+4348,,06/04/2020,,,,,Anantapur,Andhra Pradesh,AP,Hospitalized,,,,,06/04/2020,https://twitter.com/ArogyaAndhra/status/1247036220556709896,,,
+4349,,06/04/2020,,,,,Anantapur,Andhra Pradesh,AP,Hospitalized,,,,,06/04/2020,https://twitter.com/ArogyaAndhra/status/1247036220556709896,,,
+4350,,06/04/2020,,,,,Anantapur,Andhra Pradesh,AP,Hospitalized,,,,,06/04/2020,https://twitter.com/ArogyaAndhra/status/1247036220556709896,,,
+4351,,06/04/2020,,,,,Guntur,Andhra Pradesh,AP,Hospitalized,,,,,06/04/2020,https://twitter.com/ArogyaAndhra/status/1247036220556709896,,,
+4352,,06/04/2020,,,,,Guntur,Andhra Pradesh,AP,Hospitalized,,,,,06/04/2020,https://twitter.com/ArogyaAndhra/status/1247036220556709896,,,
+4353,,06/04/2020,,,,,Kurnool,Andhra Pradesh,AP,Hospitalized,,,,,06/04/2020,https://twitter.com/ArogyaAndhra/status/1247036220556709896,,,
+4354,,06/04/2020,,,,,Kurnool,Andhra Pradesh,AP,Hospitalized,,,,,06/04/2020,https://twitter.com/ArogyaAndhra/status/1247036220556709896,,,
+4355,,06/04/2020,,,,,Kurnool,Andhra Pradesh,AP,Hospitalized,,,,,06/04/2020,https://twitter.com/ArogyaAndhra/status/1247036220556709896,,,
+4356,,06/04/2020,,,,,Visakhapatnam,Andhra Pradesh,AP,Hospitalized,,,,,06/04/2020,https://twitter.com/ArogyaAndhra/status/1247036220556709896,,,
+4357,,06/04/2020,,,,,Visakhapatnam,Andhra Pradesh,AP,Hospitalized,,,,,06/04/2020,https://twitter.com/ArogyaAndhra/status/1247036220556709896,,,
+4358,,06/04/2020,,,,,Visakhapatnam,Andhra Pradesh,AP,Hospitalized,,,,,06/04/2020,https://twitter.com/ArogyaAndhra/status/1247036220556709896,,,
+4359,,06/04/2020,,,,,Visakhapatnam,Andhra Pradesh,AP,Hospitalized,,,,,06/04/2020,https://twitter.com/ArogyaAndhra/status/1247036220556709896,,,
+4360,,06/04/2020,,,,,Visakhapatnam,Andhra Pradesh,AP,Hospitalized,,,,,06/04/2020,https://twitter.com/ArogyaAndhra/status/1247036220556709896,,,
+4361,,06/04/2020,,,,,West Godavari,Andhra Pradesh,AP,Hospitalized,,,,,06/04/2020,https://twitter.com/ArogyaAndhra/status/1247036220556709896,,,
+4362,,06/04/2020,,,,,Almora,Uttarakhand,UT,Hospitalized,Attended Delhi Religious Conference,E0,,,06/04/2020,https://twitter.com/ANI/status/1247044852472143872,,,
