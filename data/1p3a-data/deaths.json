@@ -26295,7 +26295,7 @@
   {
     "confirmed_date": "4/2",
     "comments_en": "By 4/2, NY reported 2,468 total deaths.",
-    "die_count": 99,
+    "die_count": 19,
     "state_name": "NY",
     "county": "Unassigned",
     "full_links": [
@@ -28125,7 +28125,7 @@
   },
   {
     "confirmed_date": "4/2",
-    "die_count": 19,
+    "die_count": 99,
     "state_name": "NY",
     "county": "Nassau",
     "full_links": [
@@ -29722,7 +29722,7 @@
   {
     "confirmed_date": "4/3",
     "comments_en": "By 4/3 , NY reported 2971 total deaths.",
-    "die_count": 54,
+    "die_count": 15,
     "state_name": "NY",
     "county": "Unassigned",
     "full_links": [
@@ -31911,14 +31911,15 @@
   },
   {
     "confirmed_date": "4/3",
-    "comments_en": "Total deaths: 22",
     "die_count": 1,
     "state_name": "MN",
     "county": "Olmsted",
     "full_links": [
       "https://www.health.state.mn.us/diseases/coronavirus/situation.html",
       "https://www.nytimes.com/interactive/2020/us/minnesota-coronavirus-cases.html"
-    ]
+    ],
+    "comments_en": "The latest deaths reported Sunday were an 83-year-old Dakota County resident, a 90-year-old Washington County resident, an 87-year-old Olmsted County resident, and an 88-year-old and 67-year-old who were Hennepin County residents.",
+    "age_range": "80+"
   },
   {
     "confirmed_date": "4/3",
@@ -32743,7 +32744,7 @@
   },
   {
     "confirmed_date": "4/3",
-    "die_count": 24,
+    "die_count": 63,
     "state_name": "NY",
     "county": "Nassau",
     "full_links": [
@@ -36409,7 +36410,7 @@
   {
     "confirmed_date": "4/5",
     "comments_en": "By 4/5 noon, New York reported 4,159 total deaths, placeholder.",
-    "die_count": 101,
+    "die_count": 27,
     "state_name": "NY",
     "county": "Unassigned",
     "full_links": [
@@ -38351,7 +38352,7 @@
   },
   {
     "confirmed_date": "4/5",
-    "die_count": 13,
+    "die_count": 53,
     "state_name": "NY",
     "county": "Nassau",
     "full_links": [
@@ -38546,7 +38547,7 @@
   },
   {
     "confirmed_date": "4/5",
-    "die_count": 2,
+    "die_count": 1,
     "state_name": "CO",
     "county": "Denver",
     "full_links": [
@@ -39099,6 +39100,24 @@
     "comments_en": "A fourth Allen County resident has died from COVID-19 and nine have tested positive, bringing the total to 76 cases and four deaths Sunday."
   },
   {
+    "die_count": 14,
+    "state_name": "NY",
+    "county": "Westchester",
+    "full_links": [
+      "https://www.westchestergov.com/home/all-press-releases/8368-april-6-westchester-county-executive-george-latimer-gives-covid-19-update"
+    ],
+    "confirmed_date": "4/5"
+  },
+  {
+    "die_count": 20,
+    "state_name": "NY",
+    "county": "Rockland",
+    "full_links": [
+      "https://covid19tracker.health.ny.gov/views/NYS-COVID19-Tracker/NYSDOHCOVID-19Tracker-Fatalities?%3Aembed=yes&%3Atoolbar=no"
+    ],
+    "confirmed_date": "4/5"
+  },
+  {
     "die_count": 1,
     "state_name": "PR",
     "county": "Puerto Rico",
@@ -39257,7 +39276,7 @@
     "county": "Unassigned"
   },
   {
-    "die_count": 126,
+    "die_count": 5,
     "state_name": "NY",
     "county": "Unassigned",
     "full_links": [
@@ -40467,7 +40486,7 @@
       "https://www.dhs.wisconsin.gov/covid-19/county.htm"
     ],
     "confirmed_date": "4/6",
-    "die_count": 1
+    "die_count": 5
   },
   {
     "die_count": 1,
@@ -41292,5 +41311,170 @@
     ],
     "state_name": "TX",
     "county": "Collin"
+  },
+  {
+    "die_count": 23,
+    "state_name": "NY",
+    "county": "Orange",
+    "full_links": [
+      "https://www.orangecountygov.com/1936/Coronavirus"
+    ],
+    "confirmed_date": "4/6"
+  },
+  {
+    "die_count": 1,
+    "state_name": "NY",
+    "county": "Rensselaer",
+    "full_links": [
+      "https://www.facebook.com/rensselaercounty/"
+    ],
+    "confirmed_date": "4/6",
+    "comments_en": "The second death attributed to COVID-19 (coronavirus) has been confirmed to the Rensselaer County Health Department, it was announced on Monday.\nAn 81-year-old Pittstown man with some pre-existing conditions died Monday at Samaritan Hospital in Troy from COVID-19.",
+    "age_range": "80+",
+    "gender": "男"
+  },
+  {
+    "die_count": 3,
+    "full_links": [
+      "https://covid19.colorado.gov/case-data"
+    ],
+    "state_name": "CO",
+    "county": "El Paso",
+    "confirmed_date": "4/6"
+  },
+  {
+    "state_name": "NY",
+    "county": "Saratoga",
+    "full_links": [
+      "https://www.saratogacountyny.gov/wp/wp-content/uploads/2020/04/Update-4.6-.pdf"
+    ],
+    "confirmed_date": "4/6",
+    "die_count": 1,
+    "comments_en": "Sadly, three\nSaratoga County residents who had tested positive for COVID-19 have passed\naway. This brings the total number of deaths of COVID-19 positive individuals in\nthe county to four. New York State has reported another death, and the\nSaratoga County Department of Public Health is continuing to investigate that\nreport.",
+    "age_range": "50+",
+    "gender": "男"
+  },
+  {
+    "die_count": 2,
+    "full_links": [
+      "https://covid19.colorado.gov/case-data"
+    ],
+    "state_name": "CO",
+    "county": "Weld",
+    "confirmed_date": "4/6"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://covid19.colorado.gov/case-data"
+    ],
+    "state_name": "CO",
+    "county": "Jefferson",
+    "confirmed_date": "4/6"
+  },
+  {
+    "die_count": 2,
+    "full_links": [
+      "https://covid19.colorado.gov/case-data"
+    ],
+    "state_name": "CO",
+    "county": "Arapahoe",
+    "confirmed_date": "4/6"
+  },
+  {
+    "die_count": 2,
+    "full_links": [
+      "https://covid19.colorado.gov/case-data"
+    ],
+    "state_name": "CO",
+    "county": "Adams",
+    "confirmed_date": "4/6"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://covid19.colorado.gov/case-data"
+    ],
+    "state_name": "CO",
+    "county": "Montrose",
+    "confirmed_date": "4/6"
+  },
+  {
+    "confirmed_date": "4/6",
+    "die_count": 1,
+    "state_name": "NY",
+    "county": "Saratoga",
+    "full_links": [
+      "https://www.saratogacountyny.gov/wp/wp-content/uploads/2020/04/Update-4.6-.pdf"
+    ],
+    "comments_en": "Sadly, three\nSaratoga County residents who had tested positive for COVID-19 have passed\naway. This brings the total number of deaths of COVID-19 positive individuals in\nthe county to four. New York State has reported another death, and the\nSaratoga County Department of Public Health is continuing to investigate that\nreport.",
+    "age_range": "80+",
+    "gender": "男"
+  },
+  {
+    "confirmed_date": "4/6",
+    "die_count": 1,
+    "state_name": "NY",
+    "county": "Saratoga",
+    "full_links": [
+      "https://www.saratogacountyny.gov/wp/wp-content/uploads/2020/04/Update-4.6-.pdf"
+    ],
+    "comments_en": "Sadly, three\nSaratoga County residents who had tested positive for COVID-19 have passed\naway. This brings the total number of deaths of COVID-19 positive individuals in\nthe county to four. New York State has reported another death, and the\nSaratoga County Department of Public Health is continuing to investigate that\nreport.",
+    "age_range": "80+",
+    "gender": "男"
+  },
+  {
+    "die_count": 3,
+    "state_name": "NY",
+    "county": "Steuben",
+    "full_links": [
+      "https://www.steubencony.org/"
+    ],
+    "confirmed_date": "4/6"
+  },
+  {
+    "die_count": 1,
+    "state_name": "NY",
+    "county": "Sullivan",
+    "full_links": [
+      "http://sullivanny.us/Departments/Publichealth/Coronavirus"
+    ],
+    "confirmed_date": "4/6"
+  },
+  {
+    "die_count": 1,
+    "state_name": "TX",
+    "county": "Lubbock",
+    "full_links": [
+      "https://ci.lubbock.tx.us/departments/health-department/about-us/coronavirus-disease-2019-covid-19"
+    ],
+    "confirmed_date": "4/6"
+  },
+  {
+    "die_count": 30,
+    "state_name": "NY",
+    "county": "Rockland",
+    "full_links": [
+      "https://www.lohud.com/story/news/coronavirus/2020/04/06/rockland-coronavirus-death-total-119/2953874001/"
+    ],
+    "confirmed_date": "4/6"
+  },
+  {
+    "die_count": 60,
+    "state_name": "NY",
+    "county": "Nassau",
+    "full_links": [
+      "https://www.nassaucountyny.gov/4974/COVID-19-By-The-Numbers"
+    ],
+    "confirmed_date": "4/6"
+  },
+  {
+    "confirmed_date": "4/6",
+    "die_count": 1,
+    "state_name": "TX",
+    "county": "Williamson",
+    "full_links": [
+      "https://www.wilco.org/coronavirus"
+    ]
   }
 ]
