@@ -39226,16 +39226,6 @@
   },
   {
     "die_count": 1,
-    "state_name": "FL",
-    "full_links": [
-      "https://experience.arcgis.com/experience/96dd742462124fa0b38ddedb9b25e429"
-    ],
-    "confirmed_date": "4/6",
-    "comments_en": "FL reported 236 total deaths by 4/6, placeholder, will breakdown by county later.",
-    "county": "Unknown"
-  },
-  {
-    "die_count": 1,
     "state_name": "KS",
     "county": "Johnson",
     "full_links": [
@@ -39970,7 +39960,7 @@
     "county": "Cuyahoga"
   },
   {
-    "die_count": 1,
+    "die_count": 2,
     "full_links": [
       "https://alpublichealth.maps.arcgis.com/apps/opsdashboard/index.html#/6d2771faa9da4a2786a509d82c8cf0f7"
     ],
@@ -40483,10 +40473,11 @@
     "state_name": "WI",
     "county": "Milwaukee",
     "full_links": [
-      "https://www.dhs.wisconsin.gov/covid-19/county.htm"
+      "https://www.dhs.wisconsin.gov/covid-19/county.htm",
+      "https://fox6now.com/2020/04/06/2407-positive-for-covid-19-in-wisconsin-25k-negative-75-deaths/"
     ],
     "confirmed_date": "4/6",
-    "die_count": 5
+    "die_count": 6
   },
   {
     "die_count": 1,
@@ -41476,5 +41467,609 @@
     "full_links": [
       "https://www.wilco.org/coronavirus"
     ]
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://govstatus.egov.com/OR-OHA-COVID-19"
+    ],
+    "state_name": "OR",
+    "county": "Marion",
+    "confirmed_date": "4/6"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://govstatus.egov.com/OR-OHA-COVID-19"
+    ],
+    "state_name": "OR",
+    "county": "Washington",
+    "confirmed_date": "4/6"
+  },
+  {
+    "die_count": 1,
+    "state_name": "WA",
+    "county": "Kitsap",
+    "full_links": [
+      "https://kitsappublichealth.org/CommunityHealth/CoronaVirus.php"
+    ],
+    "confirmed_date": "4/6"
+  },
+  {
+    "confirmed_date": "4/6",
+    "die_count": 2,
+    "state_name": "WI",
+    "county": "Dane",
+    "full_links": [
+      "https://cityofmadison.maps.arcgis.com/apps/opsdashboard/index.html#/c3ad3b83e1fe4893837364cbe10ce789",
+      "https://fox6now.com/2020/04/06/2407-positive-for-covid-19-in-wisconsin-25k-negative-75-deaths/"
+    ]
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://lewiscountywa.gov/departments/public-health/blog/first-death-covid-19-reported-lewis-county/"
+    ],
+    "confirmed_date": "4/6",
+    "state_name": "WA",
+    "county": "Lewis",
+    "comments_en": "First death from COVID-19 reported in Lewis County. The patient was a resident in their 80’s who had been hospitalized outside of the county for several weeks and had other underlying health conditions in addition to COVID-19 infection. The infection most likely occurred in Lewis County.",
+    "age_range": "80+"
+  },
+  {
+    "die_count": 1,
+    "state_name": "KY",
+    "county": "Jefferson",
+    "full_links": [
+      "https://www.kentucky.com/news/coronavirus/article241810336.html"
+    ],
+    "confirmed_date": "4/6",
+    "comments_en": "an 86-year-old man",
+    "gender": "男",
+    "age_range": "80+"
+  },
+  {
+    "confirmed_date": "4/6",
+    "gender": "女",
+    "comments_en": "a 56-year-old woman",
+    "die_count": 1,
+    "age_range": "50+",
+    "state_name": "KY",
+    "county": "Jefferson",
+    "full_links": [
+      "https://www.kentucky.com/news/coronavirus/article241810336.html"
+    ]
+  },
+  {
+    "confirmed_date": "4/6",
+    "gender": "女",
+    "comments_en": "an 85-year-old woman",
+    "die_count": 1,
+    "age_range": "80+",
+    "state_name": "KY",
+    "county": "Jefferson",
+    "full_links": [
+      "https://www.kentucky.com/news/coronavirus/article241810336.html"
+    ]
+  },
+  {
+    "confirmed_date": "4/6",
+    "gender": "女",
+    "comments_en": "an 89-year-old woman",
+    "die_count": 1,
+    "age_range": "80+",
+    "state_name": "KY",
+    "county": "Jefferson",
+    "full_links": [
+      "https://www.kentucky.com/news/coronavirus/article241810336.html"
+    ]
+  },
+  {
+    "confirmed_date": "4/6",
+    "gender": "男",
+    "comments_en": "a 74-year-old man",
+    "die_count": 1,
+    "age_range": "70+",
+    "state_name": "KY",
+    "county": "Jefferson",
+    "full_links": [
+      "https://www.kentucky.com/news/coronavirus/article241810336.html"
+    ]
+  },
+  {
+    "confirmed_date": "4/6",
+    "gender": "男",
+    "comments_en": "a 96-year-old man",
+    "die_count": 1,
+    "age_range": "90+",
+    "full_links": [
+      "https://www.kentucky.com/news/coronavirus/article241810336.html"
+    ],
+    "state_name": "KY",
+    "county": "Kenton"
+  },
+  {
+    "confirmed_date": "4/6",
+    "gender": "女",
+    "comments_en": "a 92-year-old woman",
+    "die_count": 1,
+    "age_range": "90+",
+    "state_name": "KY",
+    "county": "Kenton",
+    "full_links": [
+      "https://www.kentucky.com/news/coronavirus/article241810336.html"
+    ]
+  },
+  {
+    "confirmed_date": "4/6",
+    "gender": "女",
+    "comments_en": "an 89-year-old woman",
+    "die_count": 1,
+    "age_range": "80+",
+    "state_name": "KY",
+    "county": "Kenton",
+    "full_links": [
+      "https://www.kentucky.com/news/coronavirus/article241810336.html"
+    ]
+  },
+  {
+    "confirmed_date": "4/6",
+    "gender": "女",
+    "comments_en": "two 91-year-old women",
+    "die_count": 2,
+    "age_range": "90+",
+    "state_name": "KY",
+    "county": "Kenton",
+    "full_links": [
+      "https://www.kentucky.com/news/coronavirus/article241810336.html"
+    ]
+  },
+  {
+    "confirmed_date": "4/6",
+    "gender": "女",
+    "comments_en": "a 76-year-old woman",
+    "die_count": 1,
+    "age_range": "70+",
+    "full_links": [
+      "https://www.kentucky.com/news/coronavirus/article241810336.html"
+    ],
+    "state_name": "KY",
+    "county": "Fayette"
+  },
+  {
+    "confirmed_date": "4/6",
+    "gender": "男",
+    "comments_en": "81-year-old man",
+    "die_count": 1,
+    "age_range": "80+",
+    "full_links": [
+      "https://www.kentucky.com/news/coronavirus/article241810336.html"
+    ],
+    "state_name": "KY",
+    "county": "McCracken"
+  },
+  {
+    "confirmed_date": "4/6",
+    "gender": "女",
+    "comments_en": "an 81-year-old woman",
+    "die_count": 1,
+    "age_range": "80+",
+    "full_links": [
+      "https://www.kentucky.com/news/coronavirus/article241810336.html"
+    ],
+    "state_name": "KY",
+    "county": "Campbell"
+  },
+  {
+    "confirmed_date": "4/6",
+    "gender": "女",
+    "comments_en": "a 91-year-old woman",
+    "die_count": 1,
+    "age_range": "90+",
+    "state_name": "KY",
+    "county": "Campbell",
+    "full_links": [
+      "https://www.kentucky.com/news/coronavirus/article241810336.html"
+    ]
+  },
+  {
+    "confirmed_date": "4/6",
+    "gender": "男",
+    "comments_en": "a 96-year-old man",
+    "die_count": 1,
+    "age_range": "90+",
+    "full_links": [
+      "https://www.kentucky.com/news/coronavirus/article241810336.html"
+    ],
+    "state_name": "KY",
+    "county": "Boyd"
+  },
+  {
+    "full_links": [
+      "https://www.kansascity.com/news/coronavirus/article241762436.html"
+    ],
+    "die_count": 1,
+    "confirmed_date": "4/6",
+    "state_name": "MO",
+    "county": "Kansas City",
+    "gender": "男",
+    "comments_en": "Second coronavirus death reported in Kansas City: a man in his 90s",
+    "age_range": "90+"
+  },
+  {
+    "die_count": 1,
+    "state_name": "FL",
+    "county": "Broward",
+    "full_links": [
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-04-06-1657.pdf"
+    ],
+    "confirmed_date": "4/6"
+  },
+  {
+    "die_count": 1,
+    "state_name": "FL",
+    "county": "Collier",
+    "full_links": [
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-04-06-1657.pdf"
+    ],
+    "confirmed_date": "4/6"
+  },
+  {
+    "full_links": [
+      "https://www.kansascity.com/news/coronavirus/article241725376.html"
+    ],
+    "die_count": 1,
+    "confirmed_date": "4/6",
+    "state_name": "MO",
+    "county": "Kansas City",
+    "gender": "女",
+    "comments_en": "Kansas City’s first COVID-19 death is reported after a woman in her 70s died Thursday"
+  },
+  {
+    "die_count": 1,
+    "state_name": "FL",
+    "county": "Miami-Dade",
+    "full_links": [
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-04-06-1657.pdf"
+    ],
+    "confirmed_date": "4/6"
+  },
+  {
+    "confirmed_date": "4/6",
+    "die_count": 1,
+    "state_name": "FL",
+    "county": "Miami-Dade",
+    "full_links": [
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-04-06-1657.pdf"
+    ]
+  },
+  {
+    "confirmed_date": "4/6",
+    "die_count": 1,
+    "state_name": "FL",
+    "county": "Miami-Dade",
+    "full_links": [
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-04-06-1657.pdf"
+    ]
+  },
+  {
+    "confirmed_date": "4/6",
+    "die_count": 1,
+    "state_name": "FL",
+    "county": "Miami-Dade",
+    "full_links": [
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-04-06-1657.pdf"
+    ]
+  },
+  {
+    "die_count": 1,
+    "state_name": "FL",
+    "county": "Desoto",
+    "full_links": [
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-04-06-1657.pdf"
+    ],
+    "confirmed_date": "4/6"
+  },
+  {
+    "full_links": [
+      "https://www.kshb.com/news/coronavirus/covid-19-case-tracker-where-we-stand-in-mo-ks-nationwide"
+    ],
+    "die_count": 3,
+    "confirmed_date": "4/6",
+    "state_name": "MO",
+    "county": "Kansas City",
+    "comments_en": "Total 5 death from Kansa City as of 4/6/2020."
+  },
+  {
+    "die_count": 1,
+    "state_name": "FL",
+    "county": "Lee",
+    "full_links": [
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-04-06-1657.pdf"
+    ],
+    "confirmed_date": "4/6"
+  },
+  {
+    "confirmed_date": "4/6",
+    "die_count": 1,
+    "state_name": "FL",
+    "county": "Lee",
+    "full_links": [
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-04-06-1657.pdf"
+    ]
+  },
+  {
+    "die_count": 1,
+    "state_name": "FL",
+    "county": "Manatee",
+    "full_links": [
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-04-06-1657.pdf"
+    ],
+    "confirmed_date": "4/6"
+  },
+  {
+    "confirmed_date": "4/6",
+    "die_count": 1,
+    "state_name": "FL",
+    "county": "Manatee",
+    "full_links": [
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-04-06-1657.pdf"
+    ]
+  },
+  {
+    "die_count": 1,
+    "state_name": "FL",
+    "county": "Orange",
+    "full_links": [
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-04-06-1657.pdf"
+    ],
+    "confirmed_date": "4/6"
+  },
+  {
+    "die_count": 1,
+    "state_name": "FL",
+    "county": "Palm Beach",
+    "full_links": [
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-04-06-1657.pdf"
+    ],
+    "confirmed_date": "4/6"
+  },
+  {
+    "confirmed_date": "4/6",
+    "die_count": 1,
+    "state_name": "FL",
+    "county": "Palm Beach",
+    "full_links": [
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-04-06-1657.pdf"
+    ]
+  },
+  {
+    "die_count": 1,
+    "state_name": "FL",
+    "county": "Polk",
+    "full_links": [
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-04-06-1657.pdf"
+    ],
+    "confirmed_date": "4/6"
+  },
+  {
+    "die_count": 1,
+    "state_name": "FL",
+    "county": "St. Lucie",
+    "full_links": [
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-04-06-1657.pdf"
+    ],
+    "confirmed_date": "4/6"
+  },
+  {
+    "die_count": 1,
+    "state_name": "FL",
+    "county": "Sumter",
+    "full_links": [
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-04-06-1657.pdf"
+    ],
+    "confirmed_date": "4/6"
+  },
+  {
+    "confirmed_date": "4/6",
+    "die_count": 1,
+    "state_name": "FL",
+    "county": "Sumter",
+    "full_links": [
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-04-06-1657.pdf"
+    ]
+  },
+  {
+    "die_count": 1,
+    "state_name": "FL",
+    "county": "Volusia",
+    "full_links": [
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-04-06-1657.pdf"
+    ],
+    "confirmed_date": "4/6"
+  },
+  {
+    "full_links": [
+      "https://www.stlouis-mo.gov/government/departments/health/news/two-new-deaths-associated-with-covid19-announced-for-the-city-of-st-louis.cfm"
+    ],
+    "die_count": 1,
+    "confirmed_date": "4/6",
+    "state_name": "MO",
+    "county": "St. Louis City",
+    "gender": "女",
+    "comments_en": "a female in her 50’s",
+    "age_range": "50+"
+  },
+  {
+    "full_links": [
+      "https://www.stlouis-mo.gov/government/departments/health/news/two-new-deaths-associated-with-covid19-announced-for-the-city-of-st-louis.cfm"
+    ],
+    "die_count": 1,
+    "confirmed_date": "4/6",
+    "state_name": "MO",
+    "county": "St. Louis City",
+    "gender": "男",
+    "comments_en": "a male in his 80s",
+    "age_range": "80+"
+  },
+  {
+    "full_links": [
+      "https://www.stlouis-mo.gov/government/departments/health/news/two-new-deaths-associated-with-covid19-announced-for-the-city-of-st-louis.cfm"
+    ],
+    "die_count": 2,
+    "confirmed_date": "4/6",
+    "state_name": "MO",
+    "county": "St. Louis City",
+    "comments_en": "COVID-19 associated deaths in the City of St. Louis  increase to eight."
+  },
+  {
+    "full_links": [
+      "https://www.news-leader.com/story/news/local/ozarks/2020/04/03/first-taney-county-covid-19-death-cox-branson-staff-may-have-been-exposed/2946438001/"
+    ],
+    "die_count": 1,
+    "confirmed_date": "4/6",
+    "state_name": "MO",
+    "county": "Taney",
+    "gender": "男",
+    "comments_en": "Late Friday, the Taney County Health Department said that a man in his 70s with underlying health conditions died from COVID-19. In a separate incident, CoxHealth officials acknowledged late Friday that \"a group of employees\" at Cox Branson may have been exposed to COVID-19 due to \"a situation with a patient.\""
+  },
+  {
+    "full_links": [
+      "https://dailyjournalonline.com/news/local/sfchc-confirmed-covid-19-cases-up-to-15/article_b8cb94fa-7f13-56b8-878a-c7e824ebfd58.html#tracking-source=home-top-story"
+    ],
+    "die_count": 1,
+    "confirmed_date": "4/6",
+    "state_name": "MO",
+    "county": "St. Francois",
+    "gender": "男",
+    "comments_en": "The first COVID-19 related death in the county, a man in his 70s with underlying conditions, was announced on Friday.",
+    "age_range": "70+"
+  },
+  {
+    "full_links": [
+      "https://www.kshb.com/news/coronavirus/covid-19-case-tracker-where-we-stand-in-mo-ks-nationwide"
+    ],
+    "die_count": 2,
+    "confirmed_date": "4/6",
+    "state_name": "MO",
+    "county": "St. Charles",
+    "comments_en": "Total 7 death from St. Charles as of 4/6/2020."
+  },
+  {
+    "full_links": [
+      "https://www.somerset-kentucky.com/covid-19/first-coronavirus-related-death-reported-in-pulaski-county/article_3aabc77c-7533-11ea-b6ba-bb0018914991.html"
+    ],
+    "die_count": 1,
+    "confirmed_date": "4/6",
+    "state_name": "MO",
+    "county": "Pulaski",
+    "gender": "男",
+    "comments_en": "First coronavirus-related death reported in Pulaski County. The officials offered their condolences to the family of David Pitman, 62, of Somerset. Mayor Keck noted that Pitman had worked for the city, retiring just last year as he battled cancer. On Thursday, it was announced that he had passed away from pneumonia related to COVID-19. \"It was evident that he was a fighter, and a survivor,\" Mayor Keck said. ",
+    "age_range": "60+"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.c-uphd.org/champaign-urbana-illinois-coronavirus-information.html"
+    ],
+    "confirmed_date": "4/6",
+    "state_name": "IL",
+    "county": "Champaign",
+    "comments_en": " In addition, we are reporting\nChampaign County’s first death. This person was a man in his 80s with underlying health conditions.\nThese numbers are accurate as of the release time. ",
+    "age_range": "80+",
+    "gender": "男"
+  },
+  {
+    "full_links": [
+      "https://www.kctv5.com/coronavirus/clay-county-sees-first-covid-19-death-35-cases-overall/article_4c1fb31a-7853-11ea-a0bf-9f78aec838a5.html"
+    ],
+    "die_count": 1,
+    "confirmed_date": "4/6",
+    "state_name": "MO",
+    "county": "Clay",
+    "gender": "女",
+    "comments_en": "According to the Clay County Public Health Center, the patent was a 64-year-old woman who first tested positive on March 25. She died Monday, and doctors noted that the case was not travel-related.",
+    "age_range": "60+"
+  },
+  {
+    "die_count": 3,
+    "state_name": "CA",
+    "county": "San Bernardino",
+    "full_links": [
+      "http://wp.sbcounty.gov/dph/coronavirus/"
+    ],
+    "confirmed_date": "4/6"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.cbs7.com/content/news/FIRST-ON-CBS7-Family-member-tells-CBS7-69-year-old-male-dies-from-coronavirus-at-ORMC-569424541.html"
+    ],
+    "state_name": "TX",
+    "county": "Ector",
+    "confirmed_date": "4/6",
+    "gender": "男",
+    "age_range": "60+",
+    "comments_en": "It's Ector County's first death since the beginning of the pandemic."
+  },
+  {
+    "die_count": 3,
+    "state_name": "CA",
+    "county": "Santa Clara",
+    "full_links": [
+      "https://www.sccgov.org/sites/phd/DiseaseInformation/novel-coronavirus/Pages/dashboard.aspx#cases"
+    ],
+    "confirmed_date": "4/6",
+    "comments_en": "4/6 Santa Clara reported 42 deaths."
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://alpublichealth.maps.arcgis.com/apps/opsdashboard/index.html#/6d2771faa9da4a2786a509d82c8cf0f7"
+    ],
+    "confirmed_date": "4/6",
+    "state_name": "AL",
+    "county": "Autauga",
+    "comments_en": "There are one reported death by 4/6."
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://alpublichealth.maps.arcgis.com/apps/opsdashboard/index.html#/6d2771faa9da4a2786a509d82c8cf0f7"
+    ],
+    "confirmed_date": "4/6",
+    "state_name": "AL",
+    "county": "Colbert",
+    "comments_en": "There are on death in Colbert by 4/6."
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://alpublichealth.maps.arcgis.com/apps/opsdashboard/index.html#/6d2771faa9da4a2786a509d82c8cf0f7"
+    ],
+    "confirmed_date": "4/6",
+    "state_name": "AL",
+    "county": "Macon",
+    "comments_en": "Macon reported one death by 4/6."
+  },
+  {
+    "full_links": [
+      "https://public.tableau.com/profile/idaho.division.of.public.health#!/vizhome/DPHIdahoCOVID-19Dashboard_V2/DPHCOVID19Dashboard2"
+    ],
+    "confirmed_date": "4/6",
+    "state_name": "ID",
+    "county": "Payette",
+    "die_count": 1,
+    "comments_en": "Payette County reports 1 death from COVID-19."
+  },
+  {
+    "state_name": "ID",
+    "county": "Canyon",
+    "full_links": [
+      "https://public.tableau.com/profile/idaho.division.of.public.health#!/vizhome/DPHIdahoCOVID-19Dashboard_V2/DPHCOVID19Dashboard2"
+    ],
+    "confirmed_date": "4/6",
+    "die_count": 2,
+    "comments_en": "A total of 3 residents of Canyon County passed away from COVID-19 as of 4/6."
   }
 ]
