@@ -36083,8 +36083,11 @@
     "state_name": "IA",
     "county": "Appanoose",
     "full_links": [
-      "https://idph.iowa.gov/Emerging-Health-Issues/Novel-Coronavirus"
-    ]
+      "https://idph.iowa.gov/Emerging-Health-Issues/Novel-Coronavirus",
+      "https://www.facebook.com/appanoosephn/"
+    ],
+    "gender": "男",
+    "age_range": "80+"
   },
   {
     "confirmed_date": "4/4",
@@ -38656,16 +38659,6 @@
     "county": "Fort Bend",
     "full_links": [
       "https://covid-19-fort-bend-county-response-fbcgis.hub.arcgis.com/"
-    ]
-  },
-  {
-    "confirmed_date": "4/5",
-    "die_count": 1,
-    "age_range": "80+",
-    "state_name": "IA",
-    "county": "Appanoose",
-    "full_links": [
-      "https://whotv.com/news/coronavirus/8-deaths-83-new-cases-of-covid-19-confirmed-in-iowa/"
     ]
   },
   {
