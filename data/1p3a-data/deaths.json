@@ -43663,5 +43663,25 @@
     ],
     "confirmed_date": "4/7",
     "comments_en": "According to New York State Department of Health, NYC reached 4,009 deaths in total."
+  },
+  {
+    "full_links": [
+      "https://www.bfhd.wa.gov/cms/One.aspx?portalId=10766056&pageId=16584954"
+    ],
+    "confirmed_date": "4/7",
+    "die_count": 2,
+    "state_name": "WA",
+    "county": "Benton"
+  },
+  {
+    "die_count": 1,
+    "state_name": "NC",
+    "county": "Burke",
+    "full_links": [
+      "https://www.hickoryrecord.com/news/local/2-new-covid-19-cases-in-catawba-county-second-death-reported-in-burke/article_9372e7ec-78e8-11ea-8e43-8367516f2995.html"
+    ],
+    "confirmed_date": "4/7",
+    "age_range": "70+",
+    "comments_en": "Burke County has a second death due to the coronavirus, according to a press release from the county. The patient was hospitalized and later died on April 5, according to the release. The patient was in their late 70s and was no associated with a long term care facility."
   }
 ]
