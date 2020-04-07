@@ -42071,5 +42071,23 @@
     "confirmed_date": "4/6",
     "die_count": 2,
     "comments_en": "A total of 3 residents of Canyon County passed away from COVID-19 as of 4/6."
+  },
+  {
+    "die_count": 1,
+    "state_name": "GA",
+    "county": "Barrow",
+    "full_links": [
+      "https://dph.georgia.gov/covid-19-daily-status-report"
+    ],
+    "confirmed_date": "4/6"
+  },
+  {
+    "die_count": 4,
+    "state_name": "GA",
+    "county": "Bartow",
+    "full_links": [
+      "https://dph.georgia.gov/covid-19-daily-status-report"
+    ],
+    "confirmed_date": "4/6"
   }
 ]
