@@ -42351,5 +42351,70 @@
     "gender": "男",
     "age_range": "70+",
     "comments_en": "10th: 4/6, The City of St. Louis Department of Health announced that it has been notified of two new deaths associated with COVID-19, bring the City’s total to ten. The 10th case is a male in his 70s."
+  },
+  {
+    "die_count": 1,
+    "state_name": "MO",
+    "county": "St. Louis",
+    "full_links": [
+      "https://stlcogis.maps.arcgis.com/apps/MapSeries/index.html?appid=6ae65dea4d804f2ea4f5d8ba79e96df1"
+    ],
+    "confirmed_date": "4/6",
+    "comments_en": "male, 80-89 years of age, with underlying medical conditions",
+    "gender": "男",
+    "age_range": "80+"
+  },
+  {
+    "die_count": 1,
+    "state_name": "NC",
+    "county": "Gaston",
+    "full_links": [
+      "https://cms3.revize.com/revize/gastoncounty/coronavirus/index.php#CaseCount"
+    ],
+    "confirmed_date": "4/6"
+  },
+  {
+    "die_count": 1,
+    "state_name": "NC",
+    "county": "Henderson",
+    "full_links": [
+      "https://www.blueridgenow.com/news/20200406/coronavirus-by-numbers-three-deaths-in-henderson-county-nc-has-2870-cases"
+    ],
+    "confirmed_date": "4/6"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.wnct.com/local-news/pitt-county-reports-first-death-related-to-covid-19/"
+    ],
+    "confirmed_date": "4/6",
+    "state_name": "NC",
+    "county": "Pitt",
+    "comments_en": "4/6: The Pitt County Health Department is reporting the first COVID-19 associated death in Pitt County.\nPitt County health officials say, the individual died over the weekend from complications associated with the virus and the patient was in their seventies.",
+    "gender": "Unknown",
+    "age_range": "70+"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.wwaytv3.com/2020/04/06/columbus-county-reports-first-covid-19-related-death/",
+      "https://www.facebook.com/columbuscountyhealth"
+    ],
+    "confirmed_date": "4/6",
+    "state_name": "NC",
+    "county": "Columbus",
+    "comments_en": "April 6, 2020\nColumbus County is reporting the first COVID-19 associated death today. The individual passed away on April 5 and was receiving care in a nearby hospital. The individual had several underlying medical conditions and was one of the previously identified positive cases in Columbus County. To protect the families’ privacy, no further information about this individual will be released."
+  },
+  {
+    "die_count": 1,
+    "state_name": "NC",
+    "county": "Wilson",
+    "full_links": [
+      "https://www.wilsonnc.org/Home/Components/News/News/254/16"
+    ],
+    "confirmed_date": "4/6",
+    "comments_en": "As of 4/6, Wilson County Two are deceased. The latest deceased was a female in her late fifties with underlying health conditions.",
+    "gender": "女",
+    "age_range": "50+"
   }
 ]
