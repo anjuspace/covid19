@@ -33452,7 +33452,7 @@
   },
   {
     "confirmed_date": "4/4",
-    "die_count": 37,
+    "die_count": 43,
     "state_name": "NJ",
     "county": "Essex",
     "full_links": [
@@ -42770,14 +42770,14 @@
     "county": "Unknown"
   },
   {
-    "die_count": 731,
     "state_name": "NY",
     "county": "Unassigned",
     "full_links": [
       "https://www.cnn.com/world/live-news/coronavirus-pandemic-04-07-20/index.html"
     ],
     "confirmed_date": "4/7",
-    "comments_en": "By 4/7 noon, New York reported 5,489 total deaths, placeholder."
+    "comments_en": "By 4/7 noon, New York reported 5,489 total deaths, placeholder.",
+    "die_count": 207
   },
   {
     "die_count": 13,
@@ -43529,7 +43529,7 @@
     "confirmed_date": "4/7"
   },
   {
-    "die_count": 46,
+    "die_count": 40,
     "state_name": "NJ",
     "county": "Essex",
     "full_links": [
@@ -43644,5 +43644,24 @@
       "https://www.nj.gov/health/cd/topics/covid2019_dashboard.shtml"
     ],
     "confirmed_date": "4/7"
+  },
+  {
+    "full_links": [
+      "https://alpublichealth.maps.arcgis.com/apps/opsdashboard/index.html#/6d2771faa9da4a2786a509d82c8cf0f7"
+    ],
+    "confirmed_date": "4/7",
+    "die_count": 1,
+    "state_name": "AL",
+    "county": "Marengo"
+  },
+  {
+    "die_count": 524,
+    "state_name": "NY",
+    "county": "New York",
+    "full_links": [
+      "https://covid19tracker.health.ny.gov/views/NYS-COVID19-Tracker/NYSDOHCOVID-19Tracker-Fatalities?%3Aembed=yes&%3Atoolbar=no&%3Atabs=n"
+    ],
+    "confirmed_date": "4/7",
+    "comments_en": "According to New York State Department of Health, NYC reached 4,009 deaths in total."
   }
 ]
