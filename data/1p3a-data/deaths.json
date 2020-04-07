@@ -39315,16 +39315,6 @@
   },
   {
     "confirmed_date": "4/6",
-    "comments_en": "The District reported 24 total deaths on 4/6.",
-    "die_count": 2,
-    "state_name": "DC",
-    "county": "District of Columbia",
-    "full_links": [
-      "https://coronavirus.dc.gov/page/coronavirus-data"
-    ]
-  },
-  {
-    "confirmed_date": "4/6",
     "die_count": 12,
     "state_name": "VA",
     "county": "Unassigned",
@@ -42455,5 +42445,45 @@
     "gender": "女",
     "age_range": "70+",
     "comments_en": "The other person who died is a woman of 79 from the Mayagüez region."
+  },
+  {
+    "die_count": 1,
+    "state_name": "MD",
+    "county": "Baltimore City",
+    "full_links": [
+      "https://coronavirus.maryland.gov/"
+    ],
+    "confirmed_date": "4/7",
+    "comments_en": "Baltimore City reported 9 deaths by 4/7."
+  },
+  {
+    "die_count": 6,
+    "state_name": "MD",
+    "county": "Carroll",
+    "full_links": [
+      "https://coronavirus.maryland.gov/"
+    ],
+    "confirmed_date": "4/7",
+    "comments_en": "Carroll reported 16 total deaths by 4/7."
+  },
+  {
+    "die_count": 2,
+    "state_name": "MD",
+    "county": "Montgomery",
+    "full_links": [
+      "https://coronavirus.maryland.gov/"
+    ],
+    "confirmed_date": "4/7",
+    "comments_en": "Montgomery reported 21 total deaths by 4/7."
+  },
+  {
+    "die_count": 3,
+    "state_name": "MD",
+    "county": "Prince George's",
+    "full_links": [
+      "https://coronavirus.maryland.gov/"
+    ],
+    "confirmed_date": "4/7",
+    "comments_en": "Prince George's reported 26 total deaths by 4/7."
   }
 ]
