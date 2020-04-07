@@ -42411,5 +42411,29 @@
     "full_links": [
       "https://www.wilsonnc.org/Home/Components/News/News/254/16"
     ]
+  },
+  {
+    "die_count": 1,
+    "state_name": "PR",
+    "county": "Puerto Rico",
+    "full_links": [
+      "https://www.elnuevodia.com/noticias/locales/nota/unhombrede40anoseslavictimafatalmasjovendelcoronavirusenpuertorico-2559158/"
+    ],
+    "confirmed_date": "4/7",
+    "gender": "男",
+    "age_range": "40+",
+    "comments_en": "One of the fatal victims of the disease is a 40-year-old man, a resident of the metropolitan region. "
+  },
+  {
+    "die_count": 1,
+    "state_name": "PR",
+    "county": "Puerto Rico",
+    "full_links": [
+      "https://www.elnuevodia.com/noticias/locales/nota/unhombrede40anoseslavictimafatalmasjovendelcoronavirusenpuertorico-2559158/"
+    ],
+    "confirmed_date": "4/7",
+    "gender": "女",
+    "age_range": "70+",
+    "comments_en": "The other person who died is a woman of 79 from the Mayagüez region."
   }
 ]
