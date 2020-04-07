@@ -29963,11 +29963,11 @@
   {
     "confirmed_date": "4/3",
     "die_count": 2,
-    "state_name": "ME",
-    "county": "Unassigned",
     "full_links": [
       "https://www.maine.gov/dhhs/mecdc/infectious-disease/epi/airborne/coronavirus.shtml"
-    ]
+    ],
+    "state_name": "ME",
+    "county": "Cumberland"
   },
   {
     "confirmed_date": "4/3",
@@ -33780,7 +33780,7 @@
   },
   {
     "confirmed_date": "4/4",
-    "die_count": 3,
+    "die_count": 1,
     "state_name": "TX",
     "county": "Travis",
     "full_links": [
@@ -33900,11 +33900,11 @@
     "confirmed_date": "4/4",
     "comments_en": "ME reported 10 total deaths by 4/4.",
     "die_count": 1,
-    "state_name": "ME",
-    "county": "Unassigned",
     "full_links": [
       "https://www.maine.gov/dhhs/mecdc/infectious-disease/epi/airborne/coronavirus.shtml"
-    ]
+    ],
+    "state_name": "ME",
+    "county": "Cumberland"
   },
   {
     "confirmed_date": "4/4",
@@ -42423,6 +42423,15 @@
     "comments_en": "There are 25 total deaths by 4/6."
   },
   {
+    "die_count": 8,
+    "state_name": "CA",
+    "county": "San Mateo",
+    "full_links": [
+      "https://www.smchealth.org/coronavirus"
+    ],
+    "confirmed_date": "4/6"
+  },
+  {
     "die_count": 1,
     "state_name": "PR",
     "county": "Puerto Rico",
@@ -42779,5 +42788,96 @@
       "https://www.southernnevadahealthdistrict.org/coronavirus/"
     ],
     "confirmed_date": "4/7"
+  },
+  {
+    "die_count": 1,
+    "state_name": "TX",
+    "county": "Dallas",
+    "full_links": [
+      "https://www.nbcdfw.com/news/coronavirus/dallas-county-confirms-106-new-covid-19-cases-tuesday-19th-death/2346983/"
+    ],
+    "confirmed_date": "4/7",
+    "comments_en": "The latest victim of the virus was described only as a person in their 50s who lived in Garland and suffered from underlying health conditions.",
+    "age_range": "50+"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://alpublichealth.maps.arcgis.com/apps/opsdashboard/index.html#/6d2771faa9da4a2786a509d82c8cf0f7"
+    ],
+    "state_name": "AL",
+    "county": "Etowah",
+    "confirmed_date": "4/7",
+    "comments_en": "By 4/7, 4 death in total in Etowah County."
+  },
+  {
+    "confirmed_date": "4/7",
+    "die_count": 1,
+    "full_links": [
+      "http://chcc.gov.mp/coronavirusinformation.php"
+    ],
+    "state_name": "MP",
+    "county": "Unassigned"
+  },
+  {
+    "die_count": 5,
+    "state_name": "TX",
+    "county": "Tarrant",
+    "full_links": [
+      "https://www.nbcdfw.com/news/coronavirus/5-dead-from-covid-19-in-tarrant-county-tuesday/2346998/"
+    ],
+    "confirmed_date": "4/7",
+    "comments_en": "Five more people have died after contracting COVID-19 in Tarrant County, health officials say, bringing the county's total number of people killed by the virus to 18."
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.brownsvilleherald.com/news/local/101-cases-of-covid-19-now-confirmed-in-cameron-county/article_c8ed5bba-7874-11ea-9c33-ef38c8650c52.html?mode=jqm"
+    ],
+    "state_name": "TX",
+    "county": "Cameron",
+    "confirmed_date": "4/7",
+    "comments_en": "Earlier in the day, officials here confirmed the first death from COVID-19, which was an 81-year-old person connected to Veranda Healthcare & Rehabilitation, another nursing home.",
+    "age_range": "80+"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.maine.gov/dhhs/mecdc/infectious-disease/epi/airborne/coronavirus.shtml"
+    ],
+    "state_name": "ME",
+    "county": "Cumberland",
+    "confirmed_date": "4/7",
+    "comments_en": "By4/7, 9 death in total in Cumberland County."
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://bismarcktribune.com/news/local/health/fourth-covid-19-death-reported-in-north-dakota-rural-testing-project-deemed-a-success/article_870019e6-975a-5efd-b2cb-15ccd1d48d1c.html"
+    ],
+    "confirmed_date": "4/7",
+    "state_name": "ND",
+    "county": "Emmons",
+    "age_range": "70+",
+    "gender": "男"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.maine.gov/dhhs/mecdc/infectious-disease/epi/airborne/coronavirus.shtml"
+    ],
+    "state_name": "ME",
+    "county": "York",
+    "confirmed_date": "4/7",
+    "comments_en": "By 4/7, 2 death in total in York County."
+  },
+  {
+    "die_count": 2,
+    "full_links": [
+      "https://doh.sd.gov/news/Coronavirus.aspx"
+    ],
+    "confirmed_date": "4/7",
+    "state_name": "SD",
+    "county": "Unassigned"
   }
 ]
