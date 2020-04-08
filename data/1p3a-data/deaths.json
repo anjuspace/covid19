@@ -1338,12 +1338,13 @@
     "confirmed_date": "3/16",
     "comments_en": "AK daily cases reports csv file, showed first death 3/16.",
     "die_count": 1,
-    "state_name": "AK",
-    "county": "Unassigned",
     "full_links": [
-      "http://dhss.alaska.gov/dph/Epi/id/Pages/COVID-19/default.aspx",
-      "https://coronavirus-response-alaska-dhss.hub.arcgis.com/datasets/daily-cases-hospitalizations-and-deaths-04apr2020-1"
-    ]
+      "http://dhss.alaska.gov/News/Documents/press/2020/DHSS_PressRelease_20200327.pdf"
+    ],
+    "age_range": "60+",
+    "gender": "Unknown",
+    "state_name": "AK",
+    "county": "Anchorage"
   },
   {
     "confirmed_date": "3/17",
@@ -9655,13 +9656,15 @@
   },
   {
     "confirmed_date": "3/25",
-    "comments_en": "3/25 Cumulative death 3. AK daily cases reports csv file, showed three death on 3/25.",
+    "comments_en": "Interior Alaska has had its first COVID-19 death, a 73-year-old woman who died Friday at Fairbanks Memorial Hospital, according to an announcement Saturday afternoon by Foundation Health Partners.",
     "die_count": 1,
-    "state_name": "AK",
-    "county": "Unassigned",
     "full_links": [
-      "https://coronavirus-response-alaska-dhss.hub.arcgis.com/datasets/daily-cases-hospitalizations-and-deaths-04apr2020-1"
-    ]
+      "http://www.newsminer.com/alerts/covid-19-death-toll-rises-to-5-in-alaska-1st-death-reported-in-fairbanks/article_cb69de0c-76b4-11ea-b1f5-67f64640ffb9.html"
+    ],
+    "gender": "女",
+    "age_range": "70+",
+    "state_name": "AK",
+    "county": "Fairbanks North Star"
   },
   {
     "confirmed_date": "3/26",
@@ -16920,14 +16923,15 @@
   },
   {
     "confirmed_date": "3/29",
-    "comments_en": "3/29 9PM EST Cumulative number of deaths to date:  5. Updated:  4/4 AK daily cases reports csv file showed: total death cases still 5.",
+    "comments_en": "A 73-year-old man died in an Anchorage hospital Saturday after testing positive for COVID-19, marking the state’s third death from the virus, state health officials said.\n\n",
     "die_count": 1,
-    "state_name": "AK",
-    "county": "Unassigned",
     "full_links": [
-      "http://dhss.alaska.gov/dph/Epi/id/Pages/COVID-19/monitoring.aspx",
-      "https://coronavirus-response-alaska-dhss.hub.arcgis.com/datasets/daily-cases-hospitalizations-and-deaths-04apr2020-1"
-    ]
+      "https://www.adn.com/alaska-news/2020/03/30/third-alaskan-dies-of-covid-19-as-state-confirms-12-more-cases-sunday/"
+    ],
+    "gender": "男",
+    "age_range": "70+",
+    "state_name": "AK",
+    "county": "Anchorage"
   },
   {
     "confirmed_date": "3/29",
@@ -37067,13 +37071,15 @@
   },
   {
     "confirmed_date": "4/5",
-    "comments_en": "By 4/5, AK confirmed 6 death in total.",
+    "comments_en": "State confirms 6th COVID-19 death, A 71-year-old Anchorage resident has died of COVID-19 and the state health department confirmed an additional 14 cases Sunday,",
     "die_count": 1,
-    "state_name": "AK",
-    "county": "Unassigned",
     "full_links": [
-      "https://coronavirus-response-alaska-dhss.hub.arcgis.com"
-    ]
+      "https://www.adn.com/alaska-news/2020/04/06/anchorage-juvenile-justice-center-staff-member-among-14-new-covid-19-cases/"
+    ],
+    "state_name": "AK",
+    "county": "Anchorage",
+    "gender": "男",
+    "age_range": "70+"
   },
   {
     "confirmed_date": "4/5",
@@ -42189,40 +42195,48 @@
     "state_name": "MD",
     "county": "Baltimore City",
     "full_links": [
-      "https://coronavirus.maryland.gov/"
+      "https://twitter.com/MDHealthDept/status/1247526879940055042"
     ],
     "confirmed_date": "4/7",
-    "comments_en": "Baltimore City reported 9 deaths by 4/7."
+    "comments_en": "Baltimore City reported 9 deaths by 4/7.",
+    "gender": "男",
+    "age_range": "70+"
   },
   {
-    "die_count": 6,
+    "die_count": 1,
     "state_name": "MD",
     "county": "Carroll",
     "full_links": [
-      "https://coronavirus.maryland.gov/"
+      "https://twitter.com/MDHealthDept/status/1247526879940055042"
     ],
     "confirmed_date": "4/7",
-    "comments_en": "Carroll reported 16 total deaths by 4/7."
+    "comments_en": "Carroll reported 16 total deaths by 4/7.",
+    "gender": "女",
+    "age_range": "80+"
   },
   {
-    "die_count": 2,
+    "die_count": 1,
     "state_name": "MD",
     "county": "Montgomery",
     "full_links": [
-      "https://coronavirus.maryland.gov/"
+      "https://twitter.com/MDHealthDept/status/1247526879940055042"
     ],
     "confirmed_date": "4/7",
-    "comments_en": "Montgomery reported 21 total deaths by 4/7."
+    "comments_en": "Montgomery reported 21 total deaths by 4/7.",
+    "gender": "男",
+    "age_range": "80+"
   },
   {
-    "die_count": 3,
+    "die_count": 1,
     "state_name": "MD",
     "county": "Prince George's",
     "full_links": [
-      "https://coronavirus.maryland.gov/"
+      "https://twitter.com/MDHealthDept/status/1247526879940055042"
     ],
     "confirmed_date": "4/7",
-    "comments_en": "Prince George's reported 26 total deaths by 4/7."
+    "comments_en": "Prince George's reported 26 total deaths by 4/7.",
+    "gender": "男",
+    "age_range": "70+"
   },
   {
     "die_count": 4,
@@ -45300,6 +45314,435 @@
     "county": "Unassigned",
     "full_links": [
       "https://portal.ct.gov/-/media/Coronavirus/CTDPHCOVID19summary4072020.pdf?la=en"
+    ],
+    "confirmed_date": "4/7"
+  },
+  {
+    "die_count": 1,
+    "state_name": "NV",
+    "county": "Washoe",
+    "full_links": [
+      "https://www.washoecounty.us/outreach/2020/04/2020-04-07-jic-0407-update.php"
+    ],
+    "confirmed_date": "4/7",
+    "comments_en": "The Regional Information Center is reporting the 5th COVID-19-related death in Washoe County. The deceased was a woman in her 50s.",
+    "gender": "女",
+    "age_range": "50+"
+  },
+  {
+    "die_count": 5,
+    "full_links": [
+      "https://govstatus.egov.com/kycovid19"
+    ],
+    "confirmed_date": "4/7",
+    "state_name": "KY",
+    "county": "Unassigned",
+    "comments_en": " 5 new deaths for 65 total deaths."
+  },
+  {
+    "confirmed_date": "4/7",
+    "die_count": 1,
+    "full_links": [
+      "https://twitter.com/MDHealthDept/status/1247526879940055042"
+    ],
+    "state_name": "MD",
+    "county": "Carroll",
+    "gender": "女",
+    "age_range": "80+"
+  },
+  {
+    "confirmed_date": "4/7",
+    "die_count": 1,
+    "full_links": [
+      "https://twitter.com/MDHealthDept/status/1247526879940055042"
+    ],
+    "state_name": "MD",
+    "county": "Carroll",
+    "gender": "女",
+    "age_range": "80+"
+  },
+  {
+    "confirmed_date": "4/7",
+    "die_count": 1,
+    "full_links": [
+      "https://twitter.com/MDHealthDept/status/1247526879940055042"
+    ],
+    "state_name": "MD",
+    "county": "Carroll",
+    "gender": "女",
+    "age_range": "70+"
+  },
+  {
+    "confirmed_date": "4/7",
+    "die_count": 1,
+    "full_links": [
+      "https://twitter.com/MDHealthDept/status/1247526879940055042"
+    ],
+    "state_name": "MD",
+    "county": "Carroll",
+    "gender": "男",
+    "age_range": "80+"
+  },
+  {
+    "confirmed_date": "4/7",
+    "die_count": 1,
+    "full_links": [
+      "https://twitter.com/MDHealthDept/status/1247526879940055042"
+    ],
+    "state_name": "MD",
+    "county": "Carroll",
+    "gender": "男",
+    "age_range": "60+"
+  },
+  {
+    "confirmed_date": "4/7",
+    "die_count": 1,
+    "full_links": [
+      "https://twitter.com/MDHealthDept/status/1247526879940055042"
+    ],
+    "state_name": "MD",
+    "county": "Montgomery",
+    "gender": "男",
+    "age_range": "60+"
+  },
+  {
+    "confirmed_date": "4/7",
+    "die_count": 1,
+    "full_links": [
+      "https://twitter.com/MDHealthDept/status/1247526879940055042"
+    ],
+    "state_name": "MD",
+    "county": "Prince George's",
+    "gender": "男",
+    "age_range": "70+"
+  },
+  {
+    "confirmed_date": "4/7",
+    "die_count": 1,
+    "full_links": [
+      "https://twitter.com/MDHealthDept/status/1247526879940055042"
+    ],
+    "state_name": "MD",
+    "county": "Prince George's",
+    "gender": "男",
+    "age_range": "50+"
+  },
+  {
+    "die_count": 2,
+    "state_name": "AR",
+    "county": "Unassigned",
+    "full_links": [
+      "https://adem.maps.arcgis.com/apps/opsdashboard/index.html#/f533ac8a8b6040e5896b05b47b17a647"
+    ],
+    "confirmed_date": "4/7"
+  },
+  {
+    "die_count": 1,
+    "state_name": "NM",
+    "county": "Bernalillo",
+    "full_links": [
+      "https://cv.nmhealth.org/"
+    ],
+    "confirmed_date": "4/7"
+  },
+  {
+    "die_count": 29,
+    "full_links": [
+      "https://covid19.colorado.gov/case-data"
+    ],
+    "confirmed_date": "4/7",
+    "state_name": "CO",
+    "county": "Unassigned"
+  },
+  {
+    "die_count": 1,
+    "state_name": "MO",
+    "county": "St. Louis",
+    "full_links": [
+      "https://stlcogis.maps.arcgis.com/apps/MapSeries/index.html?appid=6ae65dea4d804f2ea4f5d8ba79e96df1"
+    ],
+    "confirmed_date": "4/7",
+    "gender": "女",
+    "age_range": "90+"
+  },
+  {
+    "die_count": 1,
+    "state_name": "MO",
+    "county": "St. Louis",
+    "full_links": [
+      "https://stlcogis.maps.arcgis.com/apps/MapSeries/index.html?appid=6ae65dea4d804f2ea4f5d8ba79e96df1"
+    ],
+    "confirmed_date": "4/7",
+    "gender": "男",
+    "age_range": "80+"
+  },
+  {
+    "die_count": 1,
+    "state_name": "MO",
+    "county": "St. Louis",
+    "full_links": [
+      "https://stlcogis.maps.arcgis.com/apps/MapSeries/index.html?appid=6ae65dea4d804f2ea4f5d8ba79e96df1"
+    ],
+    "confirmed_date": "4/7",
+    "gender": "女",
+    "age_range": "80+"
+  },
+  {
+    "die_count": 1,
+    "state_name": "MO",
+    "county": "St. Louis",
+    "full_links": [
+      "https://stlcogis.maps.arcgis.com/apps/MapSeries/index.html?appid=6ae65dea4d804f2ea4f5d8ba79e96df1"
+    ],
+    "confirmed_date": "4/7",
+    "gender": "男",
+    "age_range": "80+"
+  },
+  {
+    "die_count": 1,
+    "state_name": "MO",
+    "county": "St. Louis",
+    "full_links": [
+      "https://stlcogis.maps.arcgis.com/apps/MapSeries/index.html?appid=6ae65dea4d804f2ea4f5d8ba79e96df1"
+    ],
+    "confirmed_date": "4/7",
+    "gender": "男",
+    "age_range": "80+"
+  },
+  {
+    "die_count": 1,
+    "state_name": "MO",
+    "county": "St. Louis",
+    "full_links": [
+      "https://stlcogis.maps.arcgis.com/apps/MapSeries/index.html?appid=6ae65dea4d804f2ea4f5d8ba79e96df1"
+    ],
+    "confirmed_date": "4/7",
+    "gender": "女",
+    "age_range": "50+"
+  },
+  {
+    "die_count": 1,
+    "state_name": "MO",
+    "county": "St. Louis",
+    "full_links": [
+      "https://stlcogis.maps.arcgis.com/apps/MapSeries/index.html?appid=6ae65dea4d804f2ea4f5d8ba79e96df1"
+    ],
+    "confirmed_date": "4/7",
+    "gender": "男",
+    "age_range": "60+"
+  },
+  {
+    "die_count": 1,
+    "state_name": "MO",
+    "county": "St. Louis",
+    "full_links": [
+      "https://stlcogis.maps.arcgis.com/apps/MapSeries/index.html?appid=6ae65dea4d804f2ea4f5d8ba79e96df1"
+    ],
+    "confirmed_date": "4/7",
+    "gender": "男",
+    "age_range": "90+"
+  },
+  {
+    "die_count": 1,
+    "state_name": "MO",
+    "county": "St. Louis",
+    "full_links": [
+      "https://stlcogis.maps.arcgis.com/apps/MapSeries/index.html?appid=6ae65dea4d804f2ea4f5d8ba79e96df1"
+    ],
+    "confirmed_date": "4/7",
+    "gender": "男",
+    "age_range": "50+"
+  },
+  {
+    "die_count": 1,
+    "state_name": "MO",
+    "county": "St. Louis",
+    "full_links": [
+      "https://stlcogis.maps.arcgis.com/apps/MapSeries/index.html?appid=6ae65dea4d804f2ea4f5d8ba79e96df1"
+    ],
+    "confirmed_date": "4/7",
+    "gender": "男",
+    "age_range": "80+"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://fdoh.maps.arcgis.com/apps/opsdashboard/index.html#/8d0de33f260d444c852a615dc7837c86"
+    ],
+    "confirmed_date": "4/7",
+    "state_name": "FL",
+    "county": "Baker"
+  },
+  {
+    "die_count": 2,
+    "full_links": [
+      "https://fdoh.maps.arcgis.com/apps/opsdashboard/index.html#/8d0de33f260d444c852a615dc7837c86"
+    ],
+    "confirmed_date": "4/7",
+    "state_name": "FL",
+    "county": "Brevard"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.facebook.com/MaconPublicHealth/"
+    ],
+    "state_name": "NC",
+    "county": "Macon",
+    "confirmed_date": "4/7",
+    "comments_en": "Macon County Reports First Death Related to COVID-19 A Macon County resident diagnosed with COVID-19 has died. The person was over the age of 65 and had underlying medical conditions."
+  },
+  {
+    "die_count": 7,
+    "state_name": "FL",
+    "county": "Broward",
+    "full_links": [
+      "https://fdoh.maps.arcgis.com/apps/opsdashboard/index.html#/8d0de33f260d444c852a615dc7837c86"
+    ],
+    "confirmed_date": "4/7"
+  },
+  {
+    "die_count": 1,
+    "state_name": "FL",
+    "county": "Clay",
+    "full_links": [
+      "https://fdoh.maps.arcgis.com/apps/opsdashboard/index.html#/8d0de33f260d444c852a615dc7837c86"
+    ],
+    "confirmed_date": "4/7"
+  },
+  {
+    "die_count": 1,
+    "state_name": "FL",
+    "county": "Duval",
+    "full_links": [
+      "https://fdoh.maps.arcgis.com/apps/opsdashboard/index.html#/8d0de33f260d444c852a615dc7837c86"
+    ],
+    "confirmed_date": "4/7"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://idph.iowa.gov/News/ArtMID/646/ArticleID/158328/Additional-COVID-19-Cases-in-Iowa-Additional-Death-Confirmed-4720"
+    ],
+    "state_name": "IA",
+    "county": "Benton",
+    "confirmed_date": "4/7",
+    "comments_en": "Benton County, 1 elderly adult (81+)"
+  },
+  {
+    "die_count": 1,
+    "state_name": "FL",
+    "county": "Escambia",
+    "full_links": [
+      "https://fdoh.maps.arcgis.com/apps/opsdashboard/index.html#/8d0de33f260d444c852a615dc7837c86"
+    ],
+    "confirmed_date": "4/7"
+  },
+  {
+    "die_count": 2,
+    "state_name": "MO",
+    "county": "Kansas City",
+    "full_links": [
+      "https://www.kshb.com/news/coronavirus/covid-19-case-tracker-where-we-stand-in-mo-ks-nationwide"
+    ],
+    "confirmed_date": "4/7"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://fdoh.maps.arcgis.com/apps/opsdashboard/index.html#/8d0de33f260d444c852a615dc7837c86"
+    ],
+    "confirmed_date": "4/7",
+    "state_name": "FL",
+    "county": "Hernando"
+  },
+  {
+    "die_count": 2,
+    "state_name": "FL",
+    "county": "Hillsborough",
+    "full_links": [
+      "https://fdoh.maps.arcgis.com/apps/opsdashboard/index.html#/8d0de33f260d444c852a615dc7837c86"
+    ],
+    "confirmed_date": "4/7"
+  },
+  {
+    "die_count": 1,
+    "state_name": "FL",
+    "county": "Manatee",
+    "full_links": [
+      "https://fdoh.maps.arcgis.com/apps/opsdashboard/index.html#/8d0de33f260d444c852a615dc7837c86"
+    ],
+    "confirmed_date": "4/7"
+  },
+  {
+    "die_count": 1,
+    "state_name": "FL",
+    "county": "Manatee",
+    "full_links": [
+      "https://fdoh.maps.arcgis.com/apps/opsdashboard/index.html#/8d0de33f260d444c852a615dc7837c86"
+    ],
+    "confirmed_date": "4/7"
+  },
+  {
+    "die_count": 1,
+    "state_name": "FL",
+    "county": "Orange",
+    "full_links": [
+      "https://fdoh.maps.arcgis.com/apps/opsdashboard/index.html#/8d0de33f260d444c852a615dc7837c86"
+    ],
+    "confirmed_date": "4/7"
+  },
+  {
+    "die_count": 13,
+    "state_name": "FL",
+    "county": "Palm Beach",
+    "full_links": [
+      "https://fdoh.maps.arcgis.com/apps/opsdashboard/index.html#/8d0de33f260d444c852a615dc7837c86"
+    ],
+    "confirmed_date": "4/7"
+  },
+  {
+    "die_count": 1,
+    "state_name": "FL",
+    "county": "Pinellas",
+    "full_links": [
+      "https://fdoh.maps.arcgis.com/apps/opsdashboard/index.html#/8d0de33f260d444c852a615dc7837c86"
+    ],
+    "confirmed_date": "4/7"
+  },
+  {
+    "die_count": 1,
+    "state_name": "FL",
+    "county": "St. Lucie",
+    "full_links": [
+      "https://fdoh.maps.arcgis.com/apps/opsdashboard/index.html#/8d0de33f260d444c852a615dc7837c86"
+    ],
+    "confirmed_date": "4/7"
+  },
+  {
+    "die_count": 1,
+    "state_name": "FL",
+    "county": "Sumter",
+    "full_links": [
+      "https://fdoh.maps.arcgis.com/apps/opsdashboard/index.html#/8d0de33f260d444c852a615dc7837c86"
+    ],
+    "confirmed_date": "4/7"
+  },
+  {
+    "die_count": 1,
+    "state_name": "FL",
+    "county": "Sumter",
+    "full_links": [
+      "https://fdoh.maps.arcgis.com/apps/opsdashboard/index.html#/8d0de33f260d444c852a615dc7837c86"
+    ],
+    "confirmed_date": "4/7"
+  },
+  {
+    "die_count": 1,
+    "state_name": "IL",
+    "county": "Christian",
+    "full_links": [
+      "http://www.dph.illinois.gov/covid19/covid19-statistics"
     ],
     "confirmed_date": "4/7"
   }
