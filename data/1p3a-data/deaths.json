@@ -44036,9 +44036,13 @@
     "state_name": "TX",
     "county": "Harris--Houston",
     "full_links": [
-      "https://harriscounty.maps.arcgis.com/apps/opsdashboard/index.html#/cd54e50984b94690b1d6093e0df651c5"
+      "https://harriscounty.maps.arcgis.com/apps/opsdashboard/index.html#/cd54e50984b94690b1d6093e0df651c5",
+      "https://www.khou.com/article/news/health/coronavirus/coronavirus-updates-houston-live-blog-april-6/285-3fca5511-726f-4157-b3cf-da3a3ee0cfca"
     ],
-    "confirmed_date": "4/7"
+    "confirmed_date": "4/7",
+    "comments_en": "The individual who died was a young man in his 30s with underlying medical conditions.",
+    "gender": "男",
+    "age_range": "30+"
   },
   {
     "die_count": 1,
@@ -46347,13 +46351,17 @@
     "confirmed_date": "4/7"
   },
   {
-    "die_count": 4,
+    "die_count": 1,
     "state_name": "TX",
     "county": "Galveston",
     "full_links": [
-      "https://www.gchd.org/about-us/news-and-events/coronavirus-disease-2019-covid-19/galveston-county-confirmed-covid-19-cases"
+      "https://www.gchd.org/about-us/news-and-events/coronavirus-disease-2019-covid-19/galveston-county-confirmed-covid-19-cases",
+      "https://www.khou.com/article/news/health/coronavirus/coronavirus-updates-houston-live-blog-april-6/285-3fca5511-726f-4157-b3cf-da3a3ee0cfca"
     ],
-    "confirmed_date": "4/7"
+    "confirmed_date": "4/7",
+    "comments_en": "A female, age range 31-40, passed away April 6. She had a pre-existing medical condition.",
+    "gender": "女",
+    "age_range": "30+"
   },
   {
     "die_count": 12,
@@ -46429,6 +46437,92 @@
     "county": "Bucks",
     "full_links": [
       "https://covid19-bucksgis.hub.arcgis.com/"
+    ],
+    "confirmed_date": "4/7"
+  },
+  {
+    "confirmed_date": "4/7",
+    "gender": "男",
+    "comments_en": "A male, age range 81-90, passed away April 6. He had pre-existing medical conditions.",
+    "die_count": 1,
+    "age_range": "80+",
+    "state_name": "TX",
+    "county": "Galveston",
+    "full_links": [
+      "https://www.gchd.org/about-us/news-and-events/coronavirus-disease-2019-covid-19/galveston-county-confirmed-covid-19-cases",
+      "https://www.khou.com/article/news/health/coronavirus/coronavirus-updates-houston-live-blog-april-6/285-3fca5511-726f-4157-b3cf-da3a3ee0cfca"
+    ]
+  },
+  {
+    "confirmed_date": "4/7",
+    "gender": "女",
+    "comments_en": "A female, age range 91-plus, passed away April 6. She had pre-existing medical conditions.",
+    "die_count": 1,
+    "age_range": "90+",
+    "state_name": "TX",
+    "county": "Galveston",
+    "full_links": [
+      "https://www.gchd.org/about-us/news-and-events/coronavirus-disease-2019-covid-19/galveston-county-confirmed-covid-19-cases",
+      "https://www.khou.com/article/news/health/coronavirus/coronavirus-updates-houston-live-blog-april-6/285-3fca5511-726f-4157-b3cf-da3a3ee0cfca"
+    ]
+  },
+  {
+    "confirmed_date": "4/7",
+    "gender": "男",
+    "comments_en": "A male, age range 61-70, passed away April 7. He had pre-existing medical conditions.",
+    "die_count": 1,
+    "age_range": "60+",
+    "state_name": "TX",
+    "county": "Galveston",
+    "full_links": [
+      "https://www.gchd.org/about-us/news-and-events/coronavirus-disease-2019-covid-19/galveston-county-confirmed-covid-19-cases",
+      "https://www.khou.com/article/news/health/coronavirus/coronavirus-updates-houston-live-blog-april-6/285-3fca5511-726f-4157-b3cf-da3a3ee0cfca"
+    ]
+  },
+  {
+    "confirmed_date": "4/7",
+    "die_count": 1,
+    "full_links": [
+      "http://wp.sbcounty.gov/dph/coronavirus/"
+    ],
+    "state_name": "CA",
+    "county": "San Bernardino"
+  },
+  {
+    "die_count": 1,
+    "state_name": "NC",
+    "county": "Randolph",
+    "full_links": [
+      "https://myfox8.com/news/coronavirus/number-of-coronavirus-cases-in-north-carolina-surges-past-3300-heres-a-county-by-county-breakdown-of-cases-in-the-piedmont-triad/"
+    ],
+    "confirmed_date": "4/7",
+    "comments_en": "Randolph County on Tuesday reported the second COVID-19-associated death in that county. The person died on Saturday and was confirmed positive for COVID-19 on Tuesday. The patient was in their 80s and had underlying medical conditions.",
+    "age_range": "80+"
+  },
+  {
+    "die_count": 1,
+    "state_name": "CA",
+    "county": "Marin",
+    "full_links": [
+      "https://www.latimes.com/projects/california-coronavirus-cases-tracking-outbreak/"
+    ],
+    "confirmed_date": "4/7"
+  },
+  {
+    "die_count": 1,
+    "state_name": "CA",
+    "county": "Solano",
+    "full_links": [
+      "https://www.latimes.com/projects/california-coronavirus-cases-tracking-outbreak/"
+    ],
+    "confirmed_date": "4/7"
+  },
+  {
+    "die_count": 1,
+    "state_name": "CA",
+    "county": "Yolo",
+    "full_links": [
+      "https://www.latimes.com/projects/california-coronavirus-cases-tracking-outbreak/"
     ],
     "confirmed_date": "4/7"
   }
