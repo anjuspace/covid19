@@ -12547,7 +12547,7 @@
   {
     "confirmed_date": "3/27",
     "gender": "女",
-    "comments_en": "The patient was a woman over the age of 70 with significant underlying health conditions, APH officials said. To protect the family’s privacy, health officials said they would not release any further information about the patient.",
+    "comments_en": "The patient was a woman over the age of 70 with significant underlying health conditions, APH officials said. To protect the family’s privacy, health officials said they would not release any further information about the patient.\n",
     "die_count": 1,
     "age_range": "70+",
     "state_name": "TX",
@@ -18152,8 +18152,12 @@
     "state_name": "TX",
     "county": "Travis",
     "full_links": [
-      "http://www.austintexas.gov/COVID19"
-    ]
+      "http://www.austintexas.gov/COVID19",
+      "https://www.kvue.com/article/news/health/coronavirus/coronavirus-austin-cases-of-covid-19-confirmed/269-e7770e57-cf62-4571-a97c-b10216c50cd0"
+    ],
+    "comments_en": "On Monday, March 30, officials confirmed a second death, a woman in her 80s. ",
+    "gender": "女",
+    "age_range": "80+"
   },
   {
     "confirmed_date": "3/30",
@@ -24427,8 +24431,12 @@
     "state_name": "TX",
     "county": "Travis",
     "full_links": [
-      "http://www.austintexas.gov/COVID19"
-    ]
+      "http://www.austintexas.gov/COVID19",
+      "https://www.kvue.com/article/news/health/coronavirus/coronavirus-austin-cases-of-covid-19-confirmed/269-e7770e57-cf62-4571-a97c-b10216c50cd0"
+    ],
+    "comments_en": "On Wednesday, April 1, officials confirmed a third death, a man in his 60s.",
+    "gender": "男",
+    "age_range": "60+"
   },
   {
     "confirmed_date": "4/1",
@@ -32453,6 +32461,19 @@
   },
   {
     "confirmed_date": "4/3",
+    "die_count": 1,
+    "state_name": "TX",
+    "county": "Travis",
+    "full_links": [
+      "https://txdshs.maps.arcgis.com/apps/opsdashboard/index.html#/ed483ecd702b4298ab01e8b9cafc8b83",
+      "https://www.kvue.com/article/news/health/coronavirus/coronavirus-austin-cases-of-covid-19-confirmed/269-e7770e57-cf62-4571-a97c-b10216c50cd0"
+    ],
+    "comments_en": "On Friday, April 3, officials confirmed a fourth death, a woman in her 70s.",
+    "gender": "女",
+    "age_range": "70+"
+  },
+  {
+    "confirmed_date": "4/3",
     "gender": "男",
     "comments_en": "Oregon’s 24th COVID-19 death is a 59-year-old man in Multnomah County, who tested positive on March 24, 2020, and died on April 3, 2020, at his residence. He had underlying medical conditions.",
     "die_count": 1,
@@ -33496,15 +33517,6 @@
     "die_count": 1,
     "state_name": "TX",
     "county": "Ellis",
-    "full_links": [
-      "https://txdshs.maps.arcgis.com/apps/opsdashboard/index.html#/ed483ecd702b4298ab01e8b9cafc8b83"
-    ]
-  },
-  {
-    "confirmed_date": "4/4",
-    "die_count": 1,
-    "state_name": "TX",
-    "county": "Travis",
     "full_links": [
       "https://txdshs.maps.arcgis.com/apps/opsdashboard/index.html#/ed483ecd702b4298ab01e8b9cafc8b83"
     ]
@@ -36184,6 +36196,32 @@
     "comments_en": "A Prince George’s Co. woman in her 70s ",
     "gender": "女",
     "age_range": "70+"
+  },
+  {
+    "confirmed_date": "4/4",
+    "comments_en": "On Saturday April 4,  Health officials said the fifth death from COVID-19 was a man in his 30s.",
+    "die_count": 1,
+    "state_name": "TX",
+    "county": "Travis",
+    "full_links": [
+      "https://txdshs.maps.arcgis.com/apps/opsdashboard/index.html#/ed483ecd702b4298ab01e8b9cafc8b83",
+      "https://www.kvue.com/article/news/health/coronavirus/coronavirus-austin-cases-of-covid-19-confirmed/269-e7770e57-cf62-4571-a97c-b10216c50cd0"
+    ],
+    "gender": "男",
+    "age_range": "30+"
+  },
+  {
+    "confirmed_date": "4/4",
+    "gender": "女",
+    "comments_en": "On Saturday April 4,  Health officials said  the sixth death was a woman in her 50s.",
+    "die_count": 1,
+    "age_range": "50+",
+    "state_name": "TX",
+    "county": "Travis",
+    "full_links": [
+      "https://txdshs.maps.arcgis.com/apps/opsdashboard/index.html#/ed483ecd702b4298ab01e8b9cafc8b83",
+      "https://www.kvue.com/article/news/health/coronavirus/coronavirus-austin-cases-of-covid-19-confirmed/269-e7770e57-cf62-4571-a97c-b10216c50cd0"
+    ]
   },
   {
     "confirmed_date": "4/5",
@@ -40794,7 +40832,7 @@
   },
   {
     "confirmed_date": "4/6",
-    "die_count": 23,
+    "die_count": 22,
     "state_name": "IL",
     "county": "Cook",
     "full_links": [
@@ -42524,6 +42562,18 @@
     "comments_en": "A contractor affiliated with Robins AFB passed away from suspected medical complications related to COVID-19 April 3, 2020.",
     "state_name": "Military",
     "county": "Air Force"
+  },
+  {
+    "confirmed_date": "4/6",
+    "die_count": 1,
+    "state_name": "IL",
+    "county": "Cook",
+    "full_links": [
+      "http://www.dph.illinois.gov/news/public-health-officials-announce-1287-new-cases-coronavirus-disease"
+    ],
+    "gender": "女",
+    "age_range": "30+",
+    "comments_en": "40 new deaths in Cook County: 1 female 30s, 2 males 30s, 3 females 40s, 2 males 40s, 1 female 50s, 2 males 50s, 2 females 60s, 4 males 60s, 4 females 70s, 5 males 70s, 1 unknown, 8 females 80s, 5 males 80s, 1 male 90s."
   },
   {
     "die_count": 1,
@@ -46106,106 +46156,148 @@
     "full_links": [
       "http://www.dph.illinois.gov/covid19/covid19-statistics"
     ],
-    "confirmed_date": "4/7"
+    "confirmed_date": "4/7",
+    "gender": "女",
+    "age_range": "80+"
   },
   {
-    "die_count": 40,
+    "die_count": 1,
     "state_name": "IL",
     "county": "Cook",
     "full_links": [
-      "http://www.dph.illinois.gov/covid19/covid19-statistics"
+      "http://www.dph.illinois.gov/news/public-health-officials-announce-1287-new-cases-coronavirus-disease"
     ],
-    "confirmed_date": "4/7"
+    "confirmed_date": "4/7",
+    "gender": "Unknown",
+    "age_range": "Unknown",
+    "comments_en": "40 new deaths in Cook County: 1 female 30s, 2 males 30s, 3 females 40s, 2 males 40s, 1 female 50s, 2 males 50s, 2 females 60s, 4 males 60s, 4 females 70s, 5 males 70s, 1 unknown, 8 females 80s, 5 males 80s, 1 male 90s."
   },
   {
-    "die_count": 4,
+    "die_count": 1,
     "state_name": "IL",
     "county": "DuPage",
     "full_links": [
-      "http://www.dph.illinois.gov/covid19/covid19-statistics"
+      "http://www.dph.illinois.gov/news/public-health-officials-announce-1287-new-cases-coronavirus-disease"
     ],
-    "confirmed_date": "4/7"
+    "confirmed_date": "4/7",
+    "gender": "男",
+    "age_range": "40+",
+    "comments_en": "DuPage County: 1 male 40s, 1 female 80s, 2 males 80s"
   },
   {
-    "die_count": 3,
+    "die_count": 1,
     "state_name": "IL",
     "county": "Kane",
     "full_links": [
-      "http://www.dph.illinois.gov/covid19/covid19-statistics"
+      "http://www.dph.illinois.gov/news/public-health-officials-announce-1287-new-cases-coronavirus-disease"
     ],
-    "confirmed_date": "4/7"
+    "confirmed_date": "4/7",
+    "gender": "男",
+    "age_range": "70+",
+    "comments_en": "Kane County: 1 male 70s, 1 male 80s, 1 female 90s"
   },
   {
     "die_count": 1,
     "state_name": "IL",
     "county": "Kankakee",
     "full_links": [
-      "http://www.dph.illinois.gov/covid19/covid19-statistics"
+      "http://www.dph.illinois.gov/covid19/covid19-statistics",
+      "http://www.dph.illinois.gov/news/public-health-officials-announce-1287-new-cases-coronavirus-disease"
     ],
-    "confirmed_date": "4/7"
+    "confirmed_date": "4/7",
+    "gender": "女",
+    "age_range": "60+",
+    "comments_en": "Kankakee County: 1 female 60s"
   },
   {
-    "die_count": 5,
+    "die_count": 1,
     "state_name": "IL",
     "county": "Lake",
     "full_links": [
-      "http://www.dph.illinois.gov/covid19/covid19-statistics"
+      "http://www.dph.illinois.gov/news/public-health-officials-announce-1287-new-cases-coronavirus-disease"
     ],
-    "confirmed_date": "4/7"
+    "confirmed_date": "4/7",
+    "comments_en": "Lake County: 1 female 40s, 1 male 50s, 1 female 70s, 1 male 70s, 1 female 90s",
+    "gender": "女",
+    "age_range": "40+"
   },
   {
     "die_count": 1,
     "state_name": "IL",
     "county": "McHenry",
     "full_links": [
-      "http://www.dph.illinois.gov/covid19/covid19-statistics"
+      "http://www.dph.illinois.gov/covid19/covid19-statistics",
+      "http://www.dph.illinois.gov/news/public-health-officials-announce-1287-new-cases-coronavirus-disease"
     ],
-    "confirmed_date": "4/7"
+    "confirmed_date": "4/7",
+    "gender": "女",
+    "age_range": "70+",
+    "comments_en": "A female in 70s."
   },
   {
     "die_count": 1,
     "full_links": [
-      "http://www.dph.illinois.gov/covid19/covid19-statistics"
+      "http://www.dph.illinois.gov/covid19/covid19-statistics",
+      "http://www.dph.illinois.gov/news/public-health-officials-announce-1287-new-cases-coronavirus-disease"
     ],
     "state_name": "IL",
     "county": "Monroe",
-    "confirmed_date": "4/7"
+    "confirmed_date": "4/7",
+    "comments_en": "A male in 80s.",
+    "gender": "男",
+    "age_range": "80+"
   },
   {
     "die_count": 1,
     "full_links": [
-      "http://www.dph.illinois.gov/covid19/covid19-statistics"
+      "http://www.dph.illinois.gov/covid19/covid19-statistics",
+      "http://www.dph.illinois.gov/news/public-health-officials-announce-1287-new-cases-coronavirus-disease"
     ],
     "state_name": "IL",
     "county": "Madison",
-    "confirmed_date": "4/7"
+    "confirmed_date": "4/7",
+    "age_range": "80+",
+    "gender": "女",
+    "comments_en": "Madison County: 1 female 80s"
   },
   {
     "die_count": 1,
     "full_links": [
-      "http://www.dph.illinois.gov/covid19/covid19-statistics"
+      "http://www.dph.illinois.gov/covid19/covid19-statistics",
+      "http://www.dph.illinois.gov/news/public-health-officials-announce-1287-new-cases-coronavirus-disease"
     ],
     "state_name": "IL",
     "county": "Tazewell",
-    "confirmed_date": "4/7"
+    "confirmed_date": "4/7",
+    "comments_en": "A male in 80s.",
+    "gender": "男",
+    "age_range": "80+"
   },
   {
-    "die_count": 11,
+    "die_count": 1,
     "state_name": "IL",
     "county": "Will",
     "full_links": [
-      "http://www.dph.illinois.gov/covid19/covid19-statistics"
+      "http://www.dph.illinois.gov/covid19/covid19-statistics",
+      "http://www.dph.illinois.gov/news/public-health-officials-announce-1287-new-cases-coronavirus-disease"
     ],
-    "confirmed_date": "4/7"
+    "confirmed_date": "4/7",
+    "comments_en": "Will County: 1 female 50s, 2 females 60s, 1 male 60s, 3 females 70s, 1 female 80s, 2 males 80s.",
+    "gender": "Unknown",
+    "age_range": "Unknown"
   },
   {
     "die_count": 2,
     "state_name": "IL",
     "county": "Winnebago",
     "full_links": [
-      "http://www.dph.illinois.gov/covid19/covid19-statistics"
+      "http://www.dph.illinois.gov/covid19/covid19-statistics",
+      "http://www.dph.illinois.gov/news/public-health-officials-announce-1287-new-cases-coronavirus-disease"
     ],
-    "confirmed_date": "4/7"
+    "confirmed_date": "4/7",
+    "gender": "男",
+    "age_range": "80+",
+    "comments_en": "Winnebago County: 2 males 80s."
   },
   {
     "die_count": 3,
@@ -46232,7 +46324,10 @@
     ],
     "state_name": "IL",
     "county": "Ford",
-    "confirmed_date": "4/7"
+    "confirmed_date": "4/7",
+    "gender": "男",
+    "age_range": "80+",
+    "comments_en": "Ford County: 1 male 80s"
   },
   {
     "die_count": 1,
@@ -46363,13 +46458,17 @@
     "comments_en": "Yakima reported 17 deaths by 4/7."
   },
   {
-    "die_count": 3,
+    "die_count": 1,
     "state_name": "TX",
     "county": "Travis",
     "full_links": [
-      "http://www.austintexas.gov/COVID19"
+      "http://www.austintexas.gov/COVID19",
+      "https://www.kvue.com/article/news/health/coronavirus/coronavirus-austin-cases-of-covid-19-confirmed/269-e7770e57-cf62-4571-a97c-b10216c50cd0"
     ],
-    "confirmed_date": "4/7"
+    "confirmed_date": "4/7",
+    "comments_en": "On Tuesday, April 7, officials said a seventh person had died from COVID-19.",
+    "gender": "Unknown",
+    "age_range": "Unknown"
   },
   {
     "die_count": 3,
@@ -46650,5 +46749,323 @@
     "comments_en": "A 76-year-old Alamo man with underlying medical conditions became the first resident of Hidalgo County to die after testing positive for the COVID-19 virus, Hidalgo County Judge Richard F. Cortez said Tuesday.",
     "gender": "男",
     "age_range": "70+"
+  },
+  {
+    "confirmed_date": "4/7",
+    "die_count": 2,
+    "state_name": "IL",
+    "county": "Cook",
+    "full_links": [
+      "http://www.dph.illinois.gov/news/public-health-officials-announce-1287-new-cases-coronavirus-disease"
+    ],
+    "gender": "男",
+    "age_range": "30+",
+    "comments_en": "40 new deaths in Cook County: 1 female 30s, 2 males 30s, 3 females 40s, 2 males 40s, 1 female 50s, 2 males 50s, 2 females 60s, 4 males 60s, 4 females 70s, 5 males 70s, 1 unknown, 8 females 80s, 5 males 80s, 1 male 90s."
+  },
+  {
+    "confirmed_date": "4/7",
+    "die_count": 3,
+    "state_name": "IL",
+    "county": "Cook",
+    "full_links": [
+      "http://www.dph.illinois.gov/news/public-health-officials-announce-1287-new-cases-coronavirus-disease"
+    ],
+    "gender": "女",
+    "age_range": "40+",
+    "comments_en": "40 new deaths in Cook County: 1 female 30s, 2 males 30s, 3 females 40s, 2 males 40s, 1 female 50s, 2 males 50s, 2 females 60s, 4 males 60s, 4 females 70s, 5 males 70s, 1 unknown, 8 females 80s, 5 males 80s, 1 male 90s."
+  },
+  {
+    "confirmed_date": "4/7",
+    "die_count": 2,
+    "state_name": "IL",
+    "county": "Cook",
+    "full_links": [
+      "http://www.dph.illinois.gov/news/public-health-officials-announce-1287-new-cases-coronavirus-disease"
+    ],
+    "gender": "男",
+    "age_range": "40+",
+    "comments_en": "40 new deaths in Cook County: 1 female 30s, 2 males 30s, 3 females 40s, 2 males 40s, 1 female 50s, 2 males 50s, 2 females 60s, 4 males 60s, 4 females 70s, 5 males 70s, 1 unknown, 8 females 80s, 5 males 80s, 1 male 90s."
+  },
+  {
+    "confirmed_date": "4/7",
+    "die_count": 1,
+    "state_name": "IL",
+    "county": "Cook",
+    "full_links": [
+      "http://www.dph.illinois.gov/news/public-health-officials-announce-1287-new-cases-coronavirus-disease"
+    ],
+    "gender": "女",
+    "age_range": "50+",
+    "comments_en": "40 new deaths in Cook County: 1 female 30s, 2 males 30s, 3 females 40s, 2 males 40s, 1 female 50s, 2 males 50s, 2 females 60s, 4 males 60s, 4 females 70s, 5 males 70s, 1 unknown, 8 females 80s, 5 males 80s, 1 male 90s."
+  },
+  {
+    "confirmed_date": "4/7",
+    "die_count": 2,
+    "state_name": "IL",
+    "county": "Cook",
+    "full_links": [
+      "http://www.dph.illinois.gov/news/public-health-officials-announce-1287-new-cases-coronavirus-disease"
+    ],
+    "gender": "男",
+    "age_range": "50+",
+    "comments_en": "40 new deaths in Cook County: 1 female 30s, 2 males 30s, 3 females 40s, 2 males 40s, 1 female 50s, 2 males 50s, 2 females 60s, 4 males 60s, 4 females 70s, 5 males 70s, 1 unknown, 8 females 80s, 5 males 80s, 1 male 90s."
+  },
+  {
+    "confirmed_date": "4/7",
+    "die_count": 2,
+    "state_name": "IL",
+    "county": "Cook",
+    "full_links": [
+      "http://www.dph.illinois.gov/news/public-health-officials-announce-1287-new-cases-coronavirus-disease"
+    ],
+    "gender": "女",
+    "age_range": "60+",
+    "comments_en": "40 new deaths in Cook County: 1 female 30s, 2 males 30s, 3 females 40s, 2 males 40s, 1 female 50s, 2 males 50s, 2 females 60s, 4 males 60s, 4 females 70s, 5 males 70s, 1 unknown, 8 females 80s, 5 males 80s, 1 male 90s."
+  },
+  {
+    "confirmed_date": "4/7",
+    "die_count": 4,
+    "state_name": "IL",
+    "county": "Cook",
+    "full_links": [
+      "http://www.dph.illinois.gov/news/public-health-officials-announce-1287-new-cases-coronavirus-disease"
+    ],
+    "gender": "男",
+    "age_range": "60+",
+    "comments_en": "40 new deaths in Cook County: 1 female 30s, 2 males 30s, 3 females 40s, 2 males 40s, 1 female 50s, 2 males 50s, 2 females 60s, 4 males 60s, 4 females 70s, 5 males 70s, 1 unknown, 8 females 80s, 5 males 80s, 1 male 90s."
+  },
+  {
+    "confirmed_date": "4/7",
+    "die_count": 4,
+    "state_name": "IL",
+    "county": "Cook",
+    "full_links": [
+      "http://www.dph.illinois.gov/news/public-health-officials-announce-1287-new-cases-coronavirus-disease"
+    ],
+    "gender": "女",
+    "age_range": "70+",
+    "comments_en": "40 new deaths in Cook County: 1 female 30s, 2 males 30s, 3 females 40s, 2 males 40s, 1 female 50s, 2 males 50s, 2 females 60s, 4 males 60s, 4 females 70s, 5 males 70s, 1 unknown, 8 females 80s, 5 males 80s, 1 male 90s."
+  },
+  {
+    "confirmed_date": "4/7",
+    "die_count": 5,
+    "state_name": "IL",
+    "county": "Cook",
+    "full_links": [
+      "http://www.dph.illinois.gov/news/public-health-officials-announce-1287-new-cases-coronavirus-disease"
+    ],
+    "gender": "男",
+    "age_range": "70+",
+    "comments_en": "40 new deaths in Cook County: 1 female 30s, 2 males 30s, 3 females 40s, 2 males 40s, 1 female 50s, 2 males 50s, 2 females 60s, 4 males 60s, 4 females 70s, 5 males 70s, 1 unknown, 8 females 80s, 5 males 80s, 1 male 90s."
+  },
+  {
+    "confirmed_date": "4/7",
+    "die_count": 1,
+    "state_name": "IL",
+    "county": "Cook",
+    "full_links": [
+      "http://www.dph.illinois.gov/news/public-health-officials-announce-1287-new-cases-coronavirus-disease"
+    ],
+    "gender": "男",
+    "age_range": "90+",
+    "comments_en": "40 new deaths in Cook County: 1 female 30s, 2 males 30s, 3 females 40s, 2 males 40s, 1 female 50s, 2 males 50s, 2 females 60s, 4 males 60s, 4 females 70s, 5 males 70s, 1 unknown, 8 females 80s, 5 males 80s, 1 male 90s."
+  },
+  {
+    "confirmed_date": "4/7",
+    "state_name": "IL",
+    "county": "Cook",
+    "full_links": [
+      "http://www.dph.illinois.gov/news/public-health-officials-announce-1287-new-cases-coronavirus-disease"
+    ],
+    "die_count": 8,
+    "gender": "女",
+    "age_range": "80+",
+    "comments_en": "40 new deaths in Cook County: 1 female 30s, 2 males 30s, 3 females 40s, 2 males 40s, 1 female 50s, 2 males 50s, 2 females 60s, 4 males 60s, 4 females 70s, 5 males 70s, 1 unknown, 8 females 80s, 5 males 80s, 1 male 90s."
+  },
+  {
+    "confirmed_date": "4/7",
+    "die_count": 5,
+    "state_name": "IL",
+    "county": "Cook",
+    "full_links": [
+      "http://www.dph.illinois.gov/news/public-health-officials-announce-1287-new-cases-coronavirus-disease"
+    ],
+    "gender": "男",
+    "age_range": "80+",
+    "comments_en": "40 new deaths in Cook County: 1 female 30s, 2 males 30s, 3 females 40s, 2 males 40s, 1 female 50s, 2 males 50s, 2 females 60s, 4 males 60s, 4 females 70s, 5 males 70s, 1 unknown, 8 females 80s, 5 males 80s, 1 male 90s."
+  },
+  {
+    "confirmed_date": "4/7",
+    "die_count": 1,
+    "state_name": "IL",
+    "county": "DuPage",
+    "full_links": [
+      "http://www.dph.illinois.gov/news/public-health-officials-announce-1287-new-cases-coronavirus-disease"
+    ],
+    "gender": "女",
+    "age_range": "80+",
+    "comments_en": "DuPage County: 1 male 40s, 1 female 80s, 2 males 80s"
+  },
+  {
+    "confirmed_date": "4/7",
+    "die_count": 2,
+    "state_name": "IL",
+    "county": "DuPage",
+    "full_links": [
+      "http://www.dph.illinois.gov/news/public-health-officials-announce-1287-new-cases-coronavirus-disease"
+    ],
+    "gender": "男",
+    "age_range": "80+",
+    "comments_en": "DuPage County: 1 male 40s, 1 female 80s, 2 males 80s"
+  },
+  {
+    "confirmed_date": "4/7",
+    "die_count": 1,
+    "state_name": "IL",
+    "county": "Kane",
+    "full_links": [
+      "http://www.dph.illinois.gov/news/public-health-officials-announce-1287-new-cases-coronavirus-disease"
+    ],
+    "gender": "男",
+    "age_range": "80+",
+    "comments_en": "Kane County: 1 male 70s, 1 male 80s, 1 female 90s"
+  },
+  {
+    "confirmed_date": "4/7",
+    "die_count": 1,
+    "state_name": "IL",
+    "county": "Kane",
+    "full_links": [
+      "http://www.dph.illinois.gov/news/public-health-officials-announce-1287-new-cases-coronavirus-disease"
+    ],
+    "gender": "女",
+    "age_range": "90+",
+    "comments_en": "Kane County: 1 male 70s, 1 male 80s, 1 female 90s"
+  },
+  {
+    "confirmed_date": "4/7",
+    "comments_en": "Lake County: 1 female 40s, 1 male 50s, 1 female 70s, 1 male 70s, 1 female 90s",
+    "die_count": 1,
+    "state_name": "IL",
+    "county": "Lake",
+    "full_links": [
+      "http://www.dph.illinois.gov/news/public-health-officials-announce-1287-new-cases-coronavirus-disease"
+    ],
+    "gender": "男",
+    "age_range": "50+"
+  },
+  {
+    "confirmed_date": "4/7",
+    "comments_en": "Lake County: 1 female 40s, 1 male 50s, 1 female 70s, 1 male 70s, 1 female 90s",
+    "die_count": 1,
+    "state_name": "IL",
+    "county": "Lake",
+    "full_links": [
+      "http://www.dph.illinois.gov/news/public-health-officials-announce-1287-new-cases-coronavirus-disease"
+    ],
+    "gender": "女",
+    "age_range": "70+"
+  },
+  {
+    "confirmed_date": "4/7",
+    "comments_en": "Lake County: 1 female 40s, 1 male 50s, 1 female 70s, 1 male 70s, 1 female 90s",
+    "die_count": 1,
+    "state_name": "IL",
+    "county": "Lake",
+    "full_links": [
+      "http://www.dph.illinois.gov/news/public-health-officials-announce-1287-new-cases-coronavirus-disease"
+    ],
+    "gender": "女",
+    "age_range": "90+"
+  },
+  {
+    "confirmed_date": "4/7",
+    "comments_en": "Lake County: 1 female 40s, 1 male 50s, 1 female 70s, 1 male 70s, 1 female 90s",
+    "die_count": 1,
+    "state_name": "IL",
+    "county": "Lake",
+    "full_links": [
+      "http://www.dph.illinois.gov/news/public-health-officials-announce-1287-new-cases-coronavirus-disease"
+    ],
+    "gender": "男",
+    "age_range": "70+"
+  },
+  {
+    "confirmed_date": "4/7",
+    "comments_en": "Will County: 1 female 50s, 2 females 60s, 1 male 60s, 3 females 70s, 1 female 80s, 2 males 80s.",
+    "die_count": 2,
+    "state_name": "IL",
+    "county": "Will",
+    "full_links": [
+      "http://www.dph.illinois.gov/covid19/covid19-statistics",
+      "http://www.dph.illinois.gov/news/public-health-officials-announce-1287-new-cases-coronavirus-disease"
+    ],
+    "gender": "女",
+    "age_range": "60+"
+  },
+  {
+    "confirmed_date": "4/7",
+    "comments_en": "Will County: 1 female 50s, 2 females 60s, 1 male 60s, 3 females 70s, 1 female 80s, 2 males 80s.",
+    "die_count": 1,
+    "state_name": "IL",
+    "county": "Will",
+    "full_links": [
+      "http://www.dph.illinois.gov/covid19/covid19-statistics",
+      "http://www.dph.illinois.gov/news/public-health-officials-announce-1287-new-cases-coronavirus-disease"
+    ],
+    "gender": "女",
+    "age_range": "50+"
+  },
+  {
+    "confirmed_date": "4/7",
+    "comments_en": "Will County: 1 female 50s, 2 females 60s, 1 male 60s, 3 females 70s, 1 female 80s, 2 males 80s.",
+    "die_count": 1,
+    "state_name": "IL",
+    "county": "Will",
+    "full_links": [
+      "http://www.dph.illinois.gov/covid19/covid19-statistics",
+      "http://www.dph.illinois.gov/news/public-health-officials-announce-1287-new-cases-coronavirus-disease"
+    ],
+    "gender": "男",
+    "age_range": "60+"
+  },
+  {
+    "confirmed_date": "4/7",
+    "comments_en": "Will County: 1 female 50s, 2 females 60s, 1 male 60s, 3 females 70s, 1 female 80s, 2 males 80s.",
+    "die_count": 3,
+    "state_name": "IL",
+    "county": "Will",
+    "full_links": [
+      "http://www.dph.illinois.gov/covid19/covid19-statistics",
+      "http://www.dph.illinois.gov/news/public-health-officials-announce-1287-new-cases-coronavirus-disease"
+    ],
+    "gender": "女",
+    "age_range": "70+"
+  },
+  {
+    "confirmed_date": "4/7",
+    "comments_en": "Will County: 1 female 50s, 2 females 60s, 1 male 60s, 3 females 70s, 1 female 80s, 2 males 80s.",
+    "die_count": 1,
+    "state_name": "IL",
+    "county": "Will",
+    "full_links": [
+      "http://www.dph.illinois.gov/covid19/covid19-statistics",
+      "http://www.dph.illinois.gov/news/public-health-officials-announce-1287-new-cases-coronavirus-disease"
+    ],
+    "gender": "女",
+    "age_range": "80+"
+  },
+  {
+    "confirmed_date": "4/7",
+    "comments_en": "Will County: 1 female 50s, 2 females 60s, 1 male 60s, 3 females 70s, 1 female 80s, 2 males 80s.",
+    "die_count": 2,
+    "state_name": "IL",
+    "county": "Will",
+    "full_links": [
+      "http://www.dph.illinois.gov/covid19/covid19-statistics",
+      "http://www.dph.illinois.gov/news/public-health-officials-announce-1287-new-cases-coronavirus-disease"
+    ],
+    "gender": "男",
+    "age_range": "80+"
   }
 ]
