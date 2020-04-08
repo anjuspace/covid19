@@ -39200,6 +39200,16 @@
   },
   {
     "confirmed_date": "4/6",
+    "comments_en": "The District reported 24 total deaths on 4/6.",
+    "die_count": 2,
+    "state_name": "DC",
+    "county": "District of Columbia",
+    "full_links": [
+      "https://coronavirus.dc.gov/page/coronavirus-data"
+    ]
+  },
+  {
+    "confirmed_date": "4/6",
     "die_count": 7,
     "state_name": "VA",
     "county": "Unassigned",
@@ -42963,17 +42973,6 @@
     "confirmed_date": "4/7",
     "die_count": 1,
     "state_name": "MS",
-    "county": "Leflore",
-    "full_links": [
-      "420.html",
-      "0",
-      "https://msdh.ms.gov/msdhsite/_static/14"
-    ]
-  },
-  {
-    "confirmed_date": "4/7",
-    "die_count": 1,
-    "state_name": "MS",
     "county": "Pearl River",
     "full_links": [
       "420.html",
@@ -42986,17 +42985,6 @@
     "die_count": 1,
     "state_name": "MS",
     "county": "Oktibbeha",
-    "full_links": [
-      "420.html",
-      "0",
-      "https://msdh.ms.gov/msdhsite/_static/14"
-    ]
-  },
-  {
-    "confirmed_date": "4/7",
-    "die_count": 1,
-    "state_name": "MS",
-    "county": "Tunica",
     "full_links": [
       "420.html",
       "0",
@@ -47206,6 +47194,160 @@
   },
   {
     "die_count": 1,
+    "full_links": [
+      "https://coronavirus.in.gov/"
+    ],
+    "state_name": "IN",
+    "county": "Allen",
+    "confirmed_date": "4/7"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://coronavirus.in.gov/"
+    ],
+    "state_name": "IN",
+    "county": "Boone",
+    "confirmed_date": "4/7"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://coronavirus.in.gov/"
+    ],
+    "state_name": "IN",
+    "county": "Daviess",
+    "confirmed_date": "4/7"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://coronavirus.in.gov/"
+    ],
+    "state_name": "IN",
+    "county": "Dearborn",
+    "confirmed_date": "4/7"
+  },
+  {
+    "die_count": 2,
+    "full_links": [
+      "https://coronavirus.in.gov/"
+    ],
+    "state_name": "IN",
+    "county": "Floyd",
+    "confirmed_date": "4/7"
+  },
+  {
+    "die_count": 5,
+    "full_links": [
+      "https://coronavirus.in.gov/"
+    ],
+    "state_name": "IN",
+    "county": "Hamilton",
+    "confirmed_date": "4/7"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://coronavirus.in.gov/"
+    ],
+    "state_name": "IN",
+    "county": "Hendricks",
+    "confirmed_date": "4/7"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://coronavirus.in.gov/"
+    ],
+    "state_name": "IN",
+    "county": "Johnson",
+    "confirmed_date": "4/7"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://coronavirus.in.gov/"
+    ],
+    "state_name": "IN",
+    "county": "Lake",
+    "confirmed_date": "4/7"
+  },
+  {
+    "die_count": 2,
+    "full_links": [
+      "https://coronavirus.in.gov/"
+    ],
+    "state_name": "IN",
+    "county": "Lawrence",
+    "confirmed_date": "4/7"
+  },
+  {
+    "die_count": 10,
+    "full_links": [
+      "https://coronavirus.in.gov/"
+    ],
+    "state_name": "IN",
+    "county": "Marion",
+    "confirmed_date": "4/7"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://coronavirus.in.gov/"
+    ],
+    "state_name": "IN",
+    "county": "Ripley",
+    "confirmed_date": "4/7"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://coronavirus.in.gov/"
+    ],
+    "state_name": "IN",
+    "county": "Scott",
+    "confirmed_date": "4/7"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://coronavirus.in.gov/"
+    ],
+    "state_name": "IN",
+    "county": "Shelby",
+    "confirmed_date": "4/7"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://coronavirus.in.gov/"
+    ],
+    "state_name": "IN",
+    "county": "Steuben",
+    "confirmed_date": "4/7"
+  },
+  {
+    "die_count": 3,
+    "full_links": [
+      "https://coronavirus.dc.gov/page/coronavirus-data"
+    ],
+    "state_name": "DC",
+    "county": "District of Columbia",
+    "confirmed_date": "4/7",
+    "comments_en": "The District reported 27 total deaths on 4/7."
+  },
+  {
+    "confirmed_date": "4/8",
+    "die_count": 5,
+    "state_name": "MN",
+    "county": "Unassigned",
+    "full_links": [
+      "https://minnesota.cbslocal.com/2020/04/07/coronavirus-in-minnesota-4-more-deaths-reported-as-number-of-covid-19-cases-breaches-1000/"
+    ]
+  },
+  {
+    "die_count": 1,
     "state_name": "TX",
     "county": "Tarrant",
     "full_links": [
@@ -47305,5 +47447,234 @@
     "confirmed_date": "4/8",
     "state_name": "MD",
     "county": "Talbot"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-04-08-0954.pdf"
+    ],
+    "confirmed_date": "4/8",
+    "state_name": "FL",
+    "county": "Broward",
+    "age_range": "50+",
+    "gender": "男"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-04-08-0954.pdf"
+    ],
+    "confirmed_date": "4/8",
+    "state_name": "FL",
+    "county": "Broward",
+    "age_range": "80+",
+    "gender": "女"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-04-08-0954.pdf"
+    ],
+    "confirmed_date": "4/8",
+    "state_name": "FL",
+    "county": "Broward",
+    "age_range": "60+",
+    "gender": "男"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-04-08-0954.pdf"
+    ],
+    "confirmed_date": "4/8",
+    "state_name": "FL",
+    "county": "Broward",
+    "age_range": "60+",
+    "gender": "男"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-04-08-0954.pdf"
+    ],
+    "confirmed_date": "4/8",
+    "state_name": "FL",
+    "county": "Miami-Dade",
+    "age_range": "80+",
+    "gender": "男"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-04-08-0954.pdf"
+    ],
+    "confirmed_date": "4/8",
+    "state_name": "FL",
+    "county": "Miami-Dade",
+    "age_range": "70+",
+    "gender": "女"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-04-08-0954.pdf"
+    ],
+    "confirmed_date": "4/8",
+    "state_name": "FL",
+    "county": "Highlands",
+    "age_range": "80+",
+    "gender": "男"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-04-08-0954.pdf"
+    ],
+    "confirmed_date": "4/8",
+    "state_name": "FL",
+    "county": "Monroe",
+    "age_range": "70+",
+    "gender": "男"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-04-08-0954.pdf"
+    ],
+    "confirmed_date": "4/8",
+    "state_name": "FL",
+    "county": "Palm Beach",
+    "age_range": "30+",
+    "gender": "男"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-04-08-0954.pdf"
+    ],
+    "confirmed_date": "4/8",
+    "state_name": "FL",
+    "county": "Palm Beach",
+    "age_range": "80+",
+    "gender": "男"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-04-08-0954.pdf"
+    ],
+    "confirmed_date": "4/8",
+    "state_name": "FL",
+    "county": "Palm Beach",
+    "age_range": "80+",
+    "gender": "女"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-04-08-0954.pdf"
+    ],
+    "confirmed_date": "4/8",
+    "state_name": "FL",
+    "county": "Palm Beach",
+    "age_range": "60+",
+    "gender": "女"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-04-08-0954.pdf"
+    ],
+    "confirmed_date": "4/8",
+    "state_name": "FL",
+    "county": "Palm Beach",
+    "age_range": "60+",
+    "gender": "男"
+  },
+  {
+    "die_count": 11,
+    "full_links": [
+      "http://media.southernnevadahealthdistrict.org/download/COVID-19/updates/20200406-Daily-Aggregate-COVID19.pdf"
+    ],
+    "confirmed_date": "4/8",
+    "state_name": "NV",
+    "county": "Clark"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "420.html#Mississippi",
+      "0",
+      "https://msdh.ms.gov/msdhsite/_static/14"
+    ],
+    "confirmed_date": "4/8",
+    "state_name": "MS",
+    "county": "Clarke"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "420.html#Mississippi",
+      "0",
+      "https://msdh.ms.gov/msdhsite/_static/14"
+    ],
+    "confirmed_date": "4/8",
+    "state_name": "MS",
+    "county": "Hinds"
+  },
+  {
+    "die_count": 2,
+    "full_links": [
+      "420.html#Mississippi",
+      "0",
+      "https://msdh.ms.gov/msdhsite/_static/14"
+    ],
+    "confirmed_date": "4/8",
+    "state_name": "MS",
+    "county": "Lauderdale"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "420.html#Mississippi",
+      "0",
+      "https://msdh.ms.gov/msdhsite/_static/14"
+    ],
+    "confirmed_date": "4/8",
+    "state_name": "MS",
+    "county": "Pike"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "420.html#Mississippi",
+      "0",
+      "https://msdh.ms.gov/msdhsite/_static/14"
+    ],
+    "confirmed_date": "4/8",
+    "state_name": "MS",
+    "county": "Rankin"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "420.html#Mississippi",
+      "0",
+      "https://msdh.ms.gov/msdhsite/_static/14"
+    ],
+    "confirmed_date": "4/8",
+    "state_name": "MS",
+    "county": "Tippah"
+  },
+  {
+    "die_count": 2,
+    "full_links": [
+      "420.html#Mississippi",
+      "0",
+      "https://msdh.ms.gov/msdhsite/_static/14"
+    ],
+    "confirmed_date": "4/8",
+    "state_name": "MS",
+    "county": "Washington"
   }
 ]
