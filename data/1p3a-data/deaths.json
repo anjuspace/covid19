@@ -4167,14 +4167,14 @@
     "confirmed_date": "3/21",
     "gender": "男",
     "comments": "Lehigh County 一例确诊患者死亡，系61岁男子。该男子来自Warren County。",
-    "comments_en": "A 61-year-old  man who tested positive for COVID-19 died at a Lehigh Valley hospital. The primary cause of the man’s death was a head injury from a fall at home, but that the virus was listed as a contributing factor to his death.<Note: this man is from Warren County and we may adjust his county to Warren if Warren local reported> ",
     "die_count": 1,
     "age_range": "60+",
     "state_name": "PA",
     "county": "Lehigh",
     "full_links": [
       "https://www.lehighvalleylive.com/coronavirus/2020/03/2nd-coronavirus-patient-dies-in-lehigh-valley-he-was-61-and-from-warren-county.html"
-    ]
+    ],
+    "comments_en": "A 61-year-old  man who tested positive for COVID-19 died at a Lehigh Valley hospital. The primary cause of the man’s death was a head injury from a fall at home, but that the virus was listed as a contributing factor to his death.<Note: this man is from Warren County and we may adjust his county to Warren if Warren local reported> "
   },
   {
     "confirmed_date": "3/21",
@@ -11147,6 +11147,19 @@
   },
   {
     "confirmed_date": "3/26",
+    "die_count": 1,
+    "state_name": "PA",
+    "county": "Lehigh",
+    "full_links": [
+      "https://www.wfmz.com/health/coronavirus/lehigh-county-s-rd-coronavirus-death-confirmed-as-heidelberg-township/article_1be599ea-713b-11ea-856b-33be1df2d042.html"
+    ],
+    "comments_en": "An 80-year-old Allentown man and a 66-year-old Allentown woman were previously reported to have died at Lehigh Valley Hospital-Cedar Crest after contracting the virus, Minnich said.",
+    "gender": "男",
+    "age_range": "80+",
+    "comments": "Allentown "
+  },
+  {
+    "confirmed_date": "3/26",
     "comments": "一位80多岁老人，来自Poweshiek，于周四晚上去世。",
     "comments_en": "According to the IDPH, two Iowans with COVID-19 passed away Thursday night. One elderly adult (81+ years) from Poweshiek County and one older adult (61-80 years) from Allamakee County. Three people, in total, have died from coronavirus in Iowa to date.",
     "die_count": 1,
@@ -11573,15 +11586,6 @@
     "full_links": [
       "https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx",
       "https://patch.com/pennsylvania/media/2-more-coronavirus-deaths-reported-delaware-county"
-    ]
-  },
-  {
-    "confirmed_date": "3/27",
-    "die_count": 1,
-    "state_name": "PA",
-    "county": "Lehigh",
-    "full_links": [
-      "https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx"
     ]
   },
   {
@@ -13883,6 +13887,19 @@
     "comments_en": "94-year-old Berks woman on March 27"
   },
   {
+    "die_count": 1,
+    "state_name": "PA",
+    "county": "Lehigh",
+    "full_links": [
+      "https://www.newsbreak.com/pennsylvania/allentown/news/0OZg17gU/2nd-covid-19-death-in-lehigh-county-is-66-year-old-from-allentown"
+    ],
+    "confirmed_date": "3/27",
+    "gender": "女",
+    "age_range": "60+",
+    "comments_en": "A 66-year-old Allentown woman is the latest Lehigh Valley resident to die from the new coronavirus. Her death was reported Friday by state and local officials, one day after an 80-year-old man also from Allentown was Lehigh County’s first reported casualty of COVID-19.",
+    "comments": "Allentown "
+  },
+  {
     "confirmed_date": "3/28",
     "gender": "女",
     "comments_en": "A woman in 60s, deaded at hospital in Anchorage ",
@@ -14042,15 +14059,16 @@
   },
   {
     "confirmed_date": "3/28",
-    "gender": "Unknown",
-    "comments_en": "No specific information about this patient. ",
+    "gender": "男",
+    "comments_en": "A 63-year-old Heidelberg Township man is the third person reported from Lehigh County to have died from COVID-19, officials said.",
     "die_count": 1,
-    "age_range": "Unknown",
+    "age_range": "60+",
     "state_name": "PA",
     "county": "Lehigh",
     "full_links": [
-      "https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx"
-    ]
+      "https://www.wfmz.com/health/coronavirus/lehigh-county-s-rd-coronavirus-death-confirmed-as-heidelberg-township/article_1be599ea-713b-11ea-856b-33be1df2d042.html"
+    ],
+    "comments": "Heidelberg"
   },
   {
     "confirmed_date": "3/28",
@@ -25576,15 +25594,6 @@
   },
   {
     "confirmed_date": "4/1",
-    "die_count": 1,
-    "state_name": "TN",
-    "county": "Out-of-state",
-    "full_links": [
-      "https://www.livescience.com/tennessee-coronavirus-updates.html"
-    ]
-  },
-  {
-    "confirmed_date": "4/1",
     "comments_en": "Twenty-five deaths related to the coronavirus have been reported in the state by 4/2 morning.",
     "die_count": 1,
     "state_name": "TN",
@@ -34485,16 +34494,6 @@
     "county": "Pierce",
     "full_links": [
       "https://www.tpchd.org/healthy-people/diseases/covid-19-pierce-county-cases/"
-    ]
-  },
-  {
-    "confirmed_date": "4/4",
-    "comments_en": "4/4 Washington county reported total 2 death cases.\n",
-    "die_count": 2,
-    "state_name": "TN",
-    "county": "Washington",
-    "full_links": [
-      "https://www.tn.gov/health/cedep/ncov.html"
     ]
   },
   {
@@ -46222,7 +46221,7 @@
     "confirmed_date": "4/7",
     "die_count": 1,
     "state_name": "MI",
-    "county": "Unknown",
+    "county": "Unassigned",
     "full_links": [
       "https://www.michigan.gov/coronavirus/"
     ]
@@ -49850,5 +49849,524 @@
       "https://www.madisoncounty.ny.gov/2479/Coronavirus-COVID-19"
     ],
     "confirmed_date": "4/8"
+  },
+  {
+    "confirmed_date": "4/8",
+    "die_count": 1,
+    "full_links": [
+      "https://www.tn.gov/health/cedep/ncov.html"
+    ],
+    "state_name": "TN",
+    "county": "Anderson"
+  },
+  {
+    "confirmed_date": "4/8",
+    "die_count": 4,
+    "state_name": "TN",
+    "county": "Davidson",
+    "full_links": [
+      "https://www.tn.gov/health/cedep/ncov.html"
+    ]
+  },
+  {
+    "confirmed_date": "4/8",
+    "die_count": 2,
+    "state_name": "TN",
+    "county": "Shelby",
+    "full_links": [
+      "https://www.tn.gov/health/cedep/ncov.html"
+    ]
+  },
+  {
+    "confirmed_date": "4/8",
+    "die_count": 3,
+    "state_name": "TN",
+    "county": "Sumner",
+    "full_links": [
+      "https://www.tn.gov/health/cedep/ncov.html"
+    ]
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.michigan.gov/coronavirus"
+    ],
+    "confirmed_date": "4/8",
+    "state_name": "MI",
+    "county": "Eaton"
+  },
+  {
+    "die_count": 6,
+    "full_links": [
+      "https://www.michigan.gov/coronavirus"
+    ],
+    "confirmed_date": "4/8",
+    "state_name": "MI",
+    "county": "Genesee"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.michigan.gov/coronavirus"
+    ],
+    "confirmed_date": "4/8",
+    "state_name": "MI",
+    "county": "Ingham"
+  },
+  {
+    "die_count": 2,
+    "full_links": [
+      "https://www.michigan.gov/coronavirus"
+    ],
+    "confirmed_date": "4/8",
+    "state_name": "MI",
+    "county": "Kalamazoo"
+  },
+  {
+    "die_count": 2,
+    "full_links": [
+      "https://www.michigan.gov/coronavirus"
+    ],
+    "confirmed_date": "4/8",
+    "state_name": "MI",
+    "county": "Kent"
+  },
+  {
+    "die_count": 2,
+    "full_links": [
+      "https://www.michigan.gov/coronavirus"
+    ],
+    "confirmed_date": "4/8",
+    "state_name": "MI",
+    "county": "Lapeer"
+  },
+  {
+    "die_count": 20,
+    "full_links": [
+      "https://www.michigan.gov/coronavirus"
+    ],
+    "confirmed_date": "4/8",
+    "state_name": "MI",
+    "county": "Macomb"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.michigan.gov/coronavirus"
+    ],
+    "confirmed_date": "4/8",
+    "state_name": "MI",
+    "county": "Midland"
+  },
+  {
+    "die_count": 29,
+    "full_links": [
+      "https://www.michigan.gov/coronavirus"
+    ],
+    "confirmed_date": "4/8",
+    "state_name": "MI",
+    "county": "Oakland"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.michigan.gov/coronavirus"
+    ],
+    "confirmed_date": "4/8",
+    "state_name": "MI",
+    "county": "Oceana"
+  },
+  {
+    "die_count": 3,
+    "full_links": [
+      "https://www.michigan.gov/coronavirus"
+    ],
+    "confirmed_date": "4/8",
+    "state_name": "MI",
+    "county": "Saginaw"
+  },
+  {
+    "die_count": 2,
+    "full_links": [
+      "https://www.michigan.gov/coronavirus"
+    ],
+    "confirmed_date": "4/8",
+    "state_name": "MI",
+    "county": "Washtenaw"
+  },
+  {
+    "die_count": 15,
+    "full_links": [
+      "https://www.michigan.gov/coronavirus"
+    ],
+    "confirmed_date": "4/8",
+    "state_name": "MI",
+    "county": "Wayne"
+  },
+  {
+    "die_count": 29,
+    "full_links": [
+      "https://www.michigan.gov/coronavirus"
+    ],
+    "confirmed_date": "4/8",
+    "state_name": "MI",
+    "county": "Wayne--Detroit"
+  },
+  {
+    "die_count": 49,
+    "full_links": [
+      "https://abc7ny.com/health/live-%7C-gov-lamont-gives-covid-19-update/5991616/"
+    ],
+    "confirmed_date": "4/8",
+    "state_name": "CT",
+    "county": "Unassigned"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "http://www.dph.illinois.gov/news/202004"
+    ],
+    "confirmed_date": "4/8",
+    "state_name": "IL",
+    "county": "Boone",
+    "gender": "女",
+    "age_range": "80+",
+    "comments_en": "1 female 80s"
+  },
+  {
+    "confirmed_date": "4/8",
+    "gender": "男",
+    "comments_en": "1 male 30s",
+    "die_count": 1,
+    "age_range": "30+",
+    "full_links": [
+      "http://www.dph.illinois.gov/news/202004"
+    ],
+    "state_name": "IL",
+    "county": "Cook"
+  },
+  {
+    "confirmed_date": "4/8",
+    "gender": "女",
+    "comments_en": "4 males 40s",
+    "die_count": 4,
+    "age_range": "40+",
+    "state_name": "IL",
+    "county": "Cook",
+    "full_links": [
+      "http://www.dph.illinois.gov/news/202004"
+    ]
+  },
+  {
+    "confirmed_date": "4/8",
+    "gender": "女",
+    "comments_en": "2 females 50s",
+    "die_count": 2,
+    "age_range": "50+",
+    "state_name": "IL",
+    "county": "Cook",
+    "full_links": [
+      "http://www.dph.illinois.gov/news/202004"
+    ]
+  },
+  {
+    "confirmed_date": "4/8",
+    "gender": "男",
+    "comments_en": "8 males 50s",
+    "die_count": 8,
+    "age_range": "50+",
+    "state_name": "IL",
+    "county": "Cook",
+    "full_links": [
+      "http://www.dph.illinois.gov/news/202004"
+    ]
+  },
+  {
+    "confirmed_date": "4/8",
+    "gender": "女",
+    "comments_en": "2 females 60s",
+    "die_count": 2,
+    "age_range": "60+",
+    "state_name": "IL",
+    "county": "Cook",
+    "full_links": [
+      "http://www.dph.illinois.gov/news/202004"
+    ]
+  },
+  {
+    "confirmed_date": "4/8",
+    "gender": "男",
+    "comments_en": "7 males 60s",
+    "die_count": 7,
+    "age_range": "60+",
+    "state_name": "IL",
+    "county": "Cook",
+    "full_links": [
+      "http://www.dph.illinois.gov/news/202004"
+    ]
+  },
+  {
+    "confirmed_date": "4/8",
+    "gender": "女",
+    "comments_en": "12 females 70s",
+    "die_count": 12,
+    "age_range": "70+",
+    "state_name": "IL",
+    "county": "Cook",
+    "full_links": [
+      "http://www.dph.illinois.gov/news/202004"
+    ]
+  },
+  {
+    "confirmed_date": "4/8",
+    "gender": "男",
+    "comments_en": "7 males 70s",
+    "die_count": 7,
+    "age_range": "70+",
+    "state_name": "IL",
+    "county": "Cook",
+    "full_links": [
+      "http://www.dph.illinois.gov/news/202004"
+    ]
+  },
+  {
+    "confirmed_date": "4/8",
+    "gender": "女",
+    "comments_en": "4 females 80s",
+    "die_count": 4,
+    "age_range": "80+",
+    "state_name": "IL",
+    "county": "Cook",
+    "full_links": [
+      "http://www.dph.illinois.gov/news/202004"
+    ]
+  },
+  {
+    "confirmed_date": "4/8",
+    "gender": "男",
+    "comments_en": "10 males 80s",
+    "die_count": 10,
+    "age_range": "80+",
+    "state_name": "IL",
+    "county": "Cook",
+    "full_links": [
+      "http://www.dph.illinois.gov/news/202004"
+    ]
+  },
+  {
+    "confirmed_date": "4/8",
+    "gender": "女",
+    "comments_en": "2 females 90s",
+    "die_count": 2,
+    "age_range": "90+",
+    "state_name": "IL",
+    "county": "Cook",
+    "full_links": [
+      "http://www.dph.illinois.gov/news/202004"
+    ]
+  },
+  {
+    "confirmed_date": "4/8",
+    "gender": "男",
+    "comments_en": "2 males 90s",
+    "die_count": 2,
+    "age_range": "90+",
+    "state_name": "IL",
+    "county": "Cook",
+    "full_links": [
+      "http://www.dph.illinois.gov/news/202004"
+    ]
+  },
+  {
+    "confirmed_date": "4/8",
+    "gender": "男",
+    "comments_en": "1 male 60s",
+    "die_count": 1,
+    "age_range": "60+",
+    "full_links": [
+      "http://www.dph.illinois.gov/news/202004"
+    ],
+    "state_name": "IL",
+    "county": "DuPage"
+  },
+  {
+    "confirmed_date": "4/8",
+    "gender": "女",
+    "comments_en": "1 female 70s",
+    "die_count": 1,
+    "age_range": "70+",
+    "state_name": "IL",
+    "county": "DuPage",
+    "full_links": [
+      "http://www.dph.illinois.gov/news/202004"
+    ]
+  },
+  {
+    "confirmed_date": "4/8",
+    "gender": "女",
+    "comments_en": "1 female 80s",
+    "die_count": 1,
+    "age_range": "80+",
+    "state_name": "IL",
+    "county": "DuPage",
+    "full_links": [
+      "http://www.dph.illinois.gov/news/202004"
+    ]
+  },
+  {
+    "confirmed_date": "4/8",
+    "gender": "男",
+    "comments_en": "1 male 80s",
+    "die_count": 1,
+    "age_range": "80+",
+    "state_name": "IL",
+    "county": "DuPage",
+    "full_links": [
+      "http://www.dph.illinois.gov/news/202004"
+    ]
+  },
+  {
+    "confirmed_date": "4/8",
+    "gender": "男",
+    "comments_en": "1 male 60s",
+    "die_count": 1,
+    "age_range": "60+",
+    "full_links": [
+      "http://www.dph.illinois.gov/news/202004"
+    ],
+    "state_name": "IL",
+    "county": "Kane"
+  },
+  {
+    "confirmed_date": "4/8",
+    "gender": "女",
+    "comments_en": "2 females 80s",
+    "die_count": 2,
+    "age_range": "80+",
+    "full_links": [
+      "http://www.dph.illinois.gov/news/202004"
+    ],
+    "state_name": "IL",
+    "county": "Lake"
+  },
+  {
+    "confirmed_date": "4/8",
+    "gender": "女",
+    "comments_en": "1 female 90s",
+    "die_count": 1,
+    "age_range": "90+",
+    "state_name": "IL",
+    "county": "Lake",
+    "full_links": [
+      "http://www.dph.illinois.gov/news/202004"
+    ]
+  },
+  {
+    "confirmed_date": "4/8",
+    "gender": "男",
+    "comments_en": "1 male 80s",
+    "die_count": 1,
+    "age_range": "80+",
+    "full_links": [
+      "http://www.dph.illinois.gov/news/202004"
+    ],
+    "state_name": "IL",
+    "county": "Macon"
+  },
+  {
+    "confirmed_date": "4/8",
+    "gender": "女",
+    "comments_en": "1 female 60s",
+    "die_count": 1,
+    "age_range": "60+",
+    "full_links": [
+      "http://www.dph.illinois.gov/news/202004"
+    ],
+    "state_name": "IL",
+    "county": "Madison"
+  },
+  {
+    "confirmed_date": "4/8",
+    "gender": "男",
+    "comments_en": "1 male 70s",
+    "die_count": 1,
+    "age_range": "70+",
+    "full_links": [
+      "http://www.dph.illinois.gov/news/202004"
+    ],
+    "state_name": "IL",
+    "county": "McHenry"
+  },
+  {
+    "confirmed_date": "4/8",
+    "gender": "男",
+    "comments_en": "1 male 70s",
+    "die_count": 1,
+    "age_range": "70+",
+    "full_links": [
+      "http://www.dph.illinois.gov/news/202004"
+    ],
+    "state_name": "IL",
+    "county": "St. Clair"
+  },
+  {
+    "confirmed_date": "4/8",
+    "gender": "女",
+    "comments_en": "1 female 80s",
+    "die_count": 1,
+    "age_range": "80+",
+    "full_links": [
+      "http://www.dph.illinois.gov/news/202004"
+    ],
+    "state_name": "IL",
+    "county": "Tazewell"
+  },
+  {
+    "confirmed_date": "4/8",
+    "gender": "女",
+    "comments_en": "1 female 60s",
+    "die_count": 1,
+    "age_range": "60+",
+    "full_links": [
+      "http://www.dph.illinois.gov/news/202004"
+    ],
+    "state_name": "IL",
+    "county": "Will"
+  },
+  {
+    "confirmed_date": "4/8",
+    "gender": "男",
+    "comments_en": "2 males 60s",
+    "die_count": 2,
+    "age_range": "60+",
+    "state_name": "IL",
+    "county": "Will",
+    "full_links": [
+      "http://www.dph.illinois.gov/news/202004"
+    ]
+  },
+  {
+    "confirmed_date": "4/8",
+    "gender": "男",
+    "comments_en": "2 males 70s",
+    "die_count": 2,
+    "age_range": "70+",
+    "state_name": "IL",
+    "county": "Will",
+    "full_links": [
+      "http://www.dph.illinois.gov/news/202004"
+    ]
+  },
+  {
+    "confirmed_date": "4/8",
+    "gender": "女",
+    "comments_en": "2 females 80s",
+    "die_count": 2,
+    "age_range": "80+",
+    "state_name": "IL",
+    "county": "Will",
+    "full_links": [
+      "http://www.dph.illinois.gov/news/202004"
+    ]
   }
 ]
