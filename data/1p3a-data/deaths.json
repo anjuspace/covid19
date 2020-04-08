@@ -46545,15 +46545,6 @@
   },
   {
     "confirmed_date": "4/7",
-    "die_count": 29,
-    "state_name": "CO",
-    "county": "Unassigned",
-    "full_links": [
-      "https://covid19.colorado.gov/case-data"
-    ]
-  },
-  {
-    "confirmed_date": "4/7",
     "gender": "女",
     "die_count": 1,
     "age_range": "90+",
@@ -48302,6 +48293,69 @@
     "age_range": "60+"
   },
   {
+    "die_count": 16,
+    "state_name": "CO",
+    "county": "Denver",
+    "full_links": [
+      "https://covid19.colorado.gov/case-data"
+    ],
+    "confirmed_date": "4/7"
+  },
+  {
+    "die_count": 2,
+    "state_name": "CO",
+    "county": "Adams",
+    "full_links": [
+      "https://covid19.colorado.gov/case-data"
+    ],
+    "confirmed_date": "4/7"
+  },
+  {
+    "die_count": 1,
+    "state_name": "CO",
+    "county": "Arapahoe",
+    "full_links": [
+      "https://covid19.colorado.gov/case-data"
+    ],
+    "confirmed_date": "4/7"
+  },
+  {
+    "state_name": "CO",
+    "county": "Douglas",
+    "full_links": [
+      "https://covid19.colorado.gov/case-data"
+    ],
+    "die_count": 5,
+    "confirmed_date": "4/7"
+  },
+  {
+    "die_count": 3,
+    "state_name": "CO",
+    "county": "Jefferson",
+    "full_links": [
+      "https://covid19.colorado.gov/case-data"
+    ],
+    "confirmed_date": "4/7"
+  },
+  {
+    "die_count": 1,
+    "state_name": "CO",
+    "county": "Montrose",
+    "full_links": [
+      "https://covid19.colorado.gov/case-data"
+    ],
+    "confirmed_date": "4/7"
+  },
+  {
+    "die_count": 1,
+    "state_name": "CO",
+    "county": "Weld",
+    "full_links": [
+      "https://covid19.colorado.gov/case-data"
+    ],
+    "confirmed_date": "4/7"
+  },
+  {
     "confirmed_date": "4/8",
     "comments_en": "4/6: Cape May County: 85 with 3 deaths\n",
     "die_count": 1,
@@ -48788,7 +48842,7 @@
   {
     "confirmed_date": "4/8",
     "comments_en": "By 4/8 noon, New York reported 6,268 total deaths, placeholder.",
-    "die_count": 148,
+    "die_count": 109,
     "state_name": "NY",
     "county": "Unassigned",
     "full_links": [
@@ -51053,5 +51107,274 @@
       "https://www.wpri.com/health/coronavirus/april-8-ri-coronavirus-update/"
     ],
     "confirmed_date": "4/8"
+  },
+  {
+    "die_count": 1,
+    "state_name": "AK",
+    "county": "Unassigned",
+    "full_links": [
+      "https://coronavirus-response-alaska-dhss.hub.arcgis.com/datasets/daily-cases-hospitalizations-and-deaths-04apr2020-1"
+    ],
+    "confirmed_date": "4/8"
+  },
+  {
+    "die_count": 3,
+    "state_name": "NY",
+    "county": "Monroe",
+    "full_links": [
+      "https://mappingmonroe.maps.arcgis.com/apps/opsdashboard/index.html#/217749730f174776a3896b3e8950e03b"
+    ],
+    "confirmed_date": "4/8"
+  },
+  {
+    "die_count": 14,
+    "state_name": "NY",
+    "county": "Orange",
+    "full_links": [
+      "https://www.facebook.com/336752263752/posts/10157367196228753/?vh=e&d=n"
+    ],
+    "confirmed_date": "4/8"
+  },
+  {
+    "confirmed_date": "4/8",
+    "die_count": 2,
+    "state_name": "CO",
+    "county": "Denver",
+    "full_links": [
+      "https://covid19.colorado.gov/case-data"
+    ]
+  },
+  {
+    "confirmed_date": "4/8",
+    "die_count": 3,
+    "state_name": "CO",
+    "county": "Weld",
+    "full_links": [
+      "https://covid19.colorado.gov/case-data"
+    ]
+  },
+  {
+    "confirmed_date": "4/8",
+    "die_count": 2,
+    "state_name": "CO",
+    "county": "El Paso",
+    "full_links": [
+      "https://covid19.colorado.gov/case-data"
+    ]
+  },
+  {
+    "die_count": 19,
+    "state_name": "NY",
+    "county": "Rockland",
+    "full_links": [
+      "http://rockland.maps.arcgis.com/apps/opsdashboard/index.html#/d074e0336e81449393a76d1768ceb096"
+    ],
+    "confirmed_date": "4/8"
+  },
+  {
+    "confirmed_date": "4/8",
+    "die_count": 2,
+    "state_name": "CO",
+    "county": "Jefferson",
+    "full_links": [
+      "https://covid19.colorado.gov/case-data"
+    ]
+  },
+  {
+    "confirmed_date": "4/8",
+    "die_count": 3,
+    "state_name": "CO",
+    "county": "Arapahoe",
+    "full_links": [
+      "https://covid19.colorado.gov/case-data"
+    ]
+  },
+  {
+    "die_count": 1,
+    "state_name": "NY",
+    "county": "Steuben",
+    "full_links": [
+      "https://www.steubencony.org/"
+    ],
+    "confirmed_date": "4/8"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://covid19.colorado.gov/case-data"
+    ],
+    "confirmed_date": "4/8",
+    "state_name": "CO",
+    "county": "Unassigned"
+  },
+  {
+    "confirmed_date": "4/8",
+    "die_count": 1,
+    "full_links": [
+      "https://covid19.colorado.gov/case-data"
+    ],
+    "state_name": "CO",
+    "county": "Delta"
+  },
+  {
+    "die_count": 2,
+    "state_name": "NY",
+    "county": "Ulster",
+    "full_links": [
+      "https://ulstercounty.maps.arcgis.com/apps/opsdashboard/index.html#/5ed7eff6a8e3441fabd1cbcc05e4db37"
+    ],
+    "confirmed_date": "4/8"
+  },
+  {
+    "die_count": 14,
+    "state_name": "WA",
+    "county": "King",
+    "full_links": [
+      "https://www.kingcounty.gov/depts/health/communicable-diseases/disease-control/novel-coronavirus.aspx"
+    ],
+    "confirmed_date": "4/8"
+  },
+  {
+    "state_name": "NC",
+    "county": "Gaston",
+    "full_links": [
+      "https://www.gastongazette.com/news/20200408/gaston-county-reports-third-covid-19-death"
+    ],
+    "confirmed_date": "4/8",
+    "die_count": 1,
+    "comments_en": "Gaston County reports third COVID-19 death"
+  },
+  {
+    "die_count": 1,
+    "state_name": "CA",
+    "county": "Ventura",
+    "full_links": [
+      "https://www.vcemergency.com/"
+    ],
+    "confirmed_date": "4/8"
+  },
+  {
+    "die_count": 25,
+    "state_name": "CA",
+    "county": "Los Angeles",
+    "full_links": [
+      "http://publichealth.lacounty.gov/media/Coronavirus/"
+    ],
+    "confirmed_date": "4/8"
+  },
+  {
+    "die_count": 1,
+    "state_name": "CA",
+    "county": "Alameda",
+    "full_links": [
+      "http://acphd.org/2019-ncov.aspx"
+    ],
+    "confirmed_date": "4/8",
+    "comments_en": "4/8 16 total deaths."
+  },
+  {
+    "die_count": 2,
+    "state_name": "NC",
+    "county": "Mecklenburg",
+    "full_links": [
+      "https://www.wbtv.com/2020/04/07/mecklenburg-county-reports-total-covid-cases-with-virus-related-deaths/"
+    ],
+    "confirmed_date": "4/8",
+    "comments_en": "Mecklenburg County has reported 10 coronavirus-related deaths, as cases in the county climbed to 848 Wednesday afternoon on April 8."
+  },
+  {
+    "die_count": 2,
+    "state_name": "CA",
+    "county": "Unassigned",
+    "full_links": [
+      "https://www.latimes.com/projects/california-coronavirus-cases-tracking-outbreak/"
+    ],
+    "confirmed_date": "4/8"
+  },
+  {
+    "die_count": 3,
+    "state_name": "CA",
+    "county": "Santa Clara",
+    "full_links": [
+      "https://www.sccgov.org/sites/phd/DiseaseInformation/novel-coronavirus/Pages/dashboard.aspx#cases"
+    ],
+    "confirmed_date": "4/8"
+  },
+  {
+    "die_count": 1,
+    "state_name": "CA",
+    "county": "Placer",
+    "full_links": [
+      "https://www.placer.ca.gov/6448/Cases-in-Placer"
+    ],
+    "confirmed_date": "4/8",
+    "comments_en": "As of 4/5, 4 deaths have been reported in Placer County."
+  },
+  {
+    "die_count": 2,
+    "state_name": "CA",
+    "county": "Orange",
+    "full_links": [
+      "https://occovid19.ochealthinfo.com/coronavirus-in-oc"
+    ],
+    "confirmed_date": "4/8"
+  },
+  {
+    "die_count": 1,
+    "state_name": "TN",
+    "county": "Knox",
+    "full_links": [
+      "https://covid.knoxcountytn.gov/case-count.html"
+    ],
+    "confirmed_date": "4/8",
+    "gender": "男",
+    "comments_en": "As of 4/8: Knox, TN. Total 4 deaths, 2 females, 2 males, 3 of these 4 are above 75+ year old, 1 in 45-64 year old."
+  },
+  {
+    "die_count": 2,
+    "state_name": "WA",
+    "county": "Pierce",
+    "full_links": [
+      "https://www.tpchd.org/healthy-people/diseases/covid-19-pierce-county-cases/"
+    ],
+    "confirmed_date": "4/8",
+    "comments_en": "Pierce reported 16 total deaths by 4/8."
+  },
+  {
+    "die_count": 2,
+    "state_name": "WA",
+    "county": "Snohomish",
+    "full_links": [
+      "https://www.snohd.org/499/COVID-19-Case-Count-Info"
+    ],
+    "confirmed_date": "4/8",
+    "comments_en": "Snohomish county reported 63 total deaths by 4/8."
+  },
+  {
+    "die_count": 2,
+    "full_links": [
+      "https://www.co.merced.ca.us/3350/Coronavirus-Disease-2019"
+    ],
+    "confirmed_date": "4/8",
+    "state_name": "CA",
+    "county": "Merced"
+  },
+  {
+    "die_count": 4,
+    "full_links": [
+      "https://www.rivcoph.org/coronavirus"
+    ],
+    "confirmed_date": "4/8",
+    "state_name": "CA",
+    "county": "Riverside"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.saccounty.net/COVID-19/Pages/default.aspx"
+    ],
+    "confirmed_date": "4/8",
+    "state_name": "CA",
+    "county": "Sacramento"
   }
 ]
