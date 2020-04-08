@@ -42577,6 +42577,31 @@
   },
   {
     "die_count": 1,
+    "state_name": "NC",
+    "county": "Rowan",
+    "full_links": [
+      "https://www.rowancountync.gov/CivicAlerts.aspx?AID=578"
+    ],
+    "confirmed_date": "4/6",
+    "gender": "Unknown",
+    "age_range": "Unknown",
+    "comments_en": "The Rowan County Health Department has confirmed that a second patient who tested positive for COVID-19 has died. The patient was in the high risk category due to age and underlying medical conditions.  The patient was experiencing serious illness prior to death.  The patient’s passing, may not be related to the Corona virus."
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.co.columbia.wi.us/columbiacounty/Portals/7/images/PHealth/Press%20Release%20First%20COVID%2019%20Death%20Columbia%20County.docx.pdf?ver=2020-04-06-122825-817",
+      "https://www.dhs.wisconsin.gov/covid-19/county.htm"
+    ],
+    "confirmed_date": "4/6",
+    "state_name": "WI",
+    "county": "Columbia",
+    "comments_en": "Columbia County Health Department 4/6 confirmed the first death of one resident due to COVID-19. ",
+    "gender": "Unknown",
+    "age_range": "Unknown"
+  },
+  {
+    "die_count": 1,
     "state_name": "PR",
     "county": "Puerto Rico",
     "full_links": [
@@ -47067,5 +47092,15 @@
     ],
     "gender": "男",
     "age_range": "80+"
+  },
+  {
+    "die_count": 1,
+    "state_name": "NC",
+    "county": "Mecklenburg",
+    "full_links": [
+      "https://www.charlotteobserver.com/news/coronavirus/article241824191.html"
+    ],
+    "confirmed_date": "4/7",
+    "comments_en": "4/7: County officials also said an eighth person locally died from the novel coronavirus."
   }
 ]
