@@ -22808,12 +22808,12 @@
   },
   {
     "confirmed_date": "4/1",
-    "die_count": 7,
     "state_name": "VA",
     "county": "Unassigned",
     "full_links": [
       "http://www.vdh.virginia.gov/coronavirus/"
-    ]
+    ],
+    "die_count": 4
   },
   {
     "confirmed_date": "4/1",
@@ -25920,6 +25920,39 @@
     "full_links": [
       "https://taskandpurpose.com/news/covid-19-military"
     ]
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.fairfaxcounty.gov/health/additional-covid19-deaths"
+    ],
+    "confirmed_date": "4/1",
+    "state_name": "VA",
+    "county": "Fairfax",
+    "age_range": "60+",
+    "gender": "男"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.fairfaxcounty.gov/health/additional-covid19-deaths"
+    ],
+    "confirmed_date": "4/1",
+    "state_name": "VA",
+    "county": "Fairfax",
+    "age_range": "80+",
+    "gender": "男"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.fairfaxcounty.gov/health/additional-covid19-deaths"
+    ],
+    "confirmed_date": "4/1",
+    "state_name": "VA",
+    "county": "Fairfax",
+    "age_range": "90+",
+    "gender": "男"
   },
   {
     "confirmed_date": "4/2",
@@ -39167,7 +39200,7 @@
   },
   {
     "confirmed_date": "4/6",
-    "die_count": 12,
+    "die_count": 7,
     "state_name": "VA",
     "county": "Unassigned",
     "full_links": [
@@ -42613,6 +42646,24 @@
       "https://www.co.columbia.wi.us/columbiacounty/Portals/7/images/PHealth/Press%20Release%20First%20COVID%2019%20Death%20Columbia%20County.docx.pdf?ver=2020-04-06-122825-817",
       "https://www.dhs.wisconsin.gov/covid-19/county.htm"
     ]
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.alexandriava.gov/news_display.aspx?id=114582"
+    ],
+    "confirmed_date": "4/6",
+    "state_name": "VA",
+    "county": "Alexandria"
+  },
+  {
+    "die_count": 4,
+    "full_links": [
+      "https://www.fairfaxcounty.gov/covid19/case-information"
+    ],
+    "confirmed_date": "4/6",
+    "state_name": "VA",
+    "county": "Fairfax"
   },
   {
     "confirmed_date": "4/7",
