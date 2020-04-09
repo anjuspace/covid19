@@ -49248,15 +49248,6 @@
   },
   {
     "confirmed_date": "4/8",
-    "die_count": 2,
-    "state_name": "AZ",
-    "county": "Unassigned",
-    "full_links": [
-      "https://www.azdhs.gov"
-    ]
-  },
-  {
-    "confirmed_date": "4/8",
     "comments_en": "The Wyandotte County Health Department said Wednesday morning the county added two more coronavirus-related deaths.",
     "die_count": 3,
     "state_name": "KS",
@@ -52448,6 +52439,134 @@
   },
   {
     "die_count": 1,
+    "full_links": [
+      "https://coronavirus.in.gov/"
+    ],
+    "state_name": "IN",
+    "county": "Cass",
+    "confirmed_date": "4/8"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://coronavirus.in.gov/"
+    ],
+    "state_name": "IN",
+    "county": "Clinton",
+    "confirmed_date": "4/8"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://coronavirus.in.gov/"
+    ],
+    "state_name": "IN",
+    "county": "Hamilton",
+    "confirmed_date": "4/8"
+  },
+  {
+    "die_count": 2,
+    "full_links": [
+      "https://coronavirus.in.gov/"
+    ],
+    "state_name": "IN",
+    "county": "Hendricks",
+    "confirmed_date": "4/8"
+  },
+  {
+    "die_count": 3,
+    "full_links": [
+      "https://coronavirus.in.gov/"
+    ],
+    "state_name": "IN",
+    "county": "Johnson",
+    "confirmed_date": "4/8"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://coronavirus.in.gov/"
+    ],
+    "state_name": "IN",
+    "county": "Kosciusko",
+    "confirmed_date": "4/8"
+  },
+  {
+    "die_count": 7,
+    "full_links": [
+      "https://coronavirus.in.gov/"
+    ],
+    "state_name": "IN",
+    "county": "Lake",
+    "confirmed_date": "4/8"
+  },
+  {
+    "die_count": 23,
+    "full_links": [
+      "https://coronavirus.in.gov/"
+    ],
+    "state_name": "IN",
+    "county": "Marion",
+    "confirmed_date": "4/8"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://coronavirus.in.gov/"
+    ],
+    "state_name": "IN",
+    "county": "Morgan",
+    "confirmed_date": "4/8"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://coronavirus.in.gov/"
+    ],
+    "state_name": "IN",
+    "county": "Putnam",
+    "confirmed_date": "4/8"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://coronavirus.in.gov/"
+    ],
+    "state_name": "IN",
+    "county": "Shelby",
+    "confirmed_date": "4/8"
+  },
+  {
+    "die_count": 2,
+    "full_links": [
+      "https://www.maricopa.gov/5460/Coronavirus-Disease-2019"
+    ],
+    "state_name": "AZ",
+    "county": "Maricopa",
+    "confirmed_date": "4/8",
+    "comments_en": "Maricopa County confirmed 39 death in total by 4/8."
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.coconino.az.gov/2294/COVID-19-Information"
+    ],
+    "state_name": "AZ",
+    "county": "Coconino",
+    "confirmed_date": "4/8",
+    "comments_en": "Coconino County confirmed 15 death in total by 4/8."
+  },
+  {
+    "confirmed_date": "4/9",
+    "die_count": 8,
+    "state_name": "AZ",
+    "county": "Unassigned",
+    "full_links": [
+      "https://www.azdhs.gov"
+    ]
+  },
+  {
+    "die_count": 1,
     "state_name": "PR",
     "county": "Puerto Rico",
     "full_links": [
@@ -52675,5 +52794,553 @@
     ],
     "confirmed_date": "4/9",
     "comments_en": "Prince George's reported 35 total deaths  by 4/9."
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.wbtv.com/2020/04/09/union-county-reports-first-coronavirus-related-death/"
+    ],
+    "confirmed_date": "4/9",
+    "state_name": "NC",
+    "county": "Union",
+    "comments_en": "Union County health officials confirmed the county’s first coronavirus-related death Thursday morning.The man who died is in his 70’s and had been hospitalized, county officials say. The man also had other health complications.",
+    "gender": "男",
+    "age_range": "70+"
+  },
+  {
+    "die_count": 1,
+    "state_name": "ME",
+    "county": "Cumberland",
+    "full_links": [
+      "https://www.maine.gov/dhhs/mecdc/infectious-disease/epi/airborne/coronavirus.shtml"
+    ],
+    "confirmed_date": "4/9"
+  },
+  {
+    "die_count": 1,
+    "state_name": "ME",
+    "county": "Waldo",
+    "full_links": [
+      "https://www.maine.gov/dhhs/mecdc/infectious-disease/epi/airborne/coronavirus.shtml"
+    ],
+    "confirmed_date": "4/9",
+    "comments_en": "Waldo reported one more death on 4/9."
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx"
+    ],
+    "confirmed_date": "4/9",
+    "state_name": "PA",
+    "county": "Adams"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.health.nd.gov/diseases-conditions/coronavirus/north-dakota-coronavirus-cases"
+    ],
+    "confirmed_date": "4/9",
+    "state_name": "ND",
+    "county": "Unassigned"
+  },
+  {
+    "die_count": 2,
+    "state_name": "PA",
+    "county": "Allegheny",
+    "full_links": [
+      "https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx"
+    ],
+    "confirmed_date": "4/9"
+  },
+  {
+    "die_count": 1,
+    "state_name": "PA",
+    "county": "​Carbon",
+    "full_links": [
+      "https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx"
+    ],
+    "confirmed_date": "4/9"
+  },
+  {
+    "die_count": 1,
+    "state_name": "PA",
+    "county": "Chester",
+    "full_links": [
+      "https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx"
+    ],
+    "confirmed_date": "4/9"
+  },
+  {
+    "die_count": 1,
+    "state_name": "PA",
+    "county": "Columbia",
+    "full_links": [
+      "https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx"
+    ],
+    "confirmed_date": "4/9"
+  },
+  {
+    "die_count": 3,
+    "state_name": "PA",
+    "county": "Delaware",
+    "full_links": [
+      "https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx"
+    ],
+    "confirmed_date": "4/9"
+  },
+  {
+    "die_count": 4,
+    "state_name": "PA",
+    "county": "Lackawanna",
+    "full_links": [
+      "https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx"
+    ],
+    "confirmed_date": "4/9"
+  },
+  {
+    "die_count": 3,
+    "state_name": "PA",
+    "county": "Lancaster",
+    "full_links": [
+      "https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx"
+    ],
+    "confirmed_date": "4/9"
+  },
+  {
+    "die_count": 1,
+    "state_name": "PA",
+    "county": "Lehigh",
+    "full_links": [
+      "https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx"
+    ],
+    "confirmed_date": "4/9"
+  },
+  {
+    "die_count": 1,
+    "state_name": "PA",
+    "county": "Luzerne",
+    "full_links": [
+      "https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx"
+    ],
+    "confirmed_date": "4/9"
+  },
+  {
+    "die_count": 2,
+    "state_name": "PA",
+    "county": "Monroe",
+    "full_links": [
+      "https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx"
+    ],
+    "confirmed_date": "4/9"
+  },
+  {
+    "die_count": 3,
+    "state_name": "PA",
+    "county": "Northampton",
+    "full_links": [
+      "https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx"
+    ],
+    "confirmed_date": "4/9"
+  },
+  {
+    "die_count": 1,
+    "state_name": "PA",
+    "county": "York",
+    "full_links": [
+      "https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx"
+    ],
+    "confirmed_date": "4/9"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx"
+    ],
+    "state_name": "PA",
+    "county": "Schuylkill",
+    "confirmed_date": "4/9"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx"
+    ],
+    "confirmed_date": "4/9",
+    "state_name": "PA",
+    "county": "Susquehanna"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "420.html#Mississippi",
+      "0",
+      "https://msdh.ms.gov/msdhsite/_static/14"
+    ],
+    "confirmed_date": "4/9",
+    "state_name": "MS",
+    "county": "Adams"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "420.html#Mississippi",
+      "0",
+      "https://msdh.ms.gov/msdhsite/_static/14"
+    ],
+    "confirmed_date": "4/9",
+    "state_name": "MS",
+    "county": "Bolivar"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "420.html#Mississippi",
+      "0",
+      "https://msdh.ms.gov/msdhsite/_static/14"
+    ],
+    "confirmed_date": "4/9",
+    "state_name": "MS",
+    "county": "Forrest"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "420.html#Mississippi",
+      "0",
+      "https://msdh.ms.gov/msdhsite/_static/14"
+    ],
+    "confirmed_date": "4/9",
+    "state_name": "MS",
+    "county": "Hancock"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "420.html#Mississippi",
+      "0",
+      "https://msdh.ms.gov/msdhsite/_static/14"
+    ],
+    "confirmed_date": "4/9",
+    "state_name": "MS",
+    "county": "Hinds"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "420.html#Mississippi",
+      "0",
+      "https://msdh.ms.gov/msdhsite/_static/14"
+    ],
+    "confirmed_date": "4/9",
+    "state_name": "MS",
+    "county": "Lincoln"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "420.html#Mississippi",
+      "0",
+      "https://msdh.ms.gov/msdhsite/_static/14"
+    ],
+    "confirmed_date": "4/9",
+    "state_name": "MS",
+    "county": "Pearl River"
+  },
+  {
+    "die_count": 2,
+    "full_links": [
+      "420.html#Mississippi",
+      "0",
+      "https://msdh.ms.gov/msdhsite/_static/14"
+    ],
+    "confirmed_date": "4/9",
+    "state_name": "MS",
+    "county": "Tippah"
+  },
+  {
+    "die_count": 1,
+    "state_name": "MN",
+    "county": "Winona",
+    "full_links": [
+      "https://www.health.state.mn.us/diseases/coronavirus/situation.html"
+    ],
+    "confirmed_date": "4/9"
+  },
+  {
+    "die_count": 7,
+    "state_name": "MN",
+    "county": "Hennepin",
+    "full_links": [
+      "https://www.health.state.mn.us/diseases/coronavirus/situation.html"
+    ],
+    "confirmed_date": "4/9"
+  },
+  {
+    "die_count": 2,
+    "state_name": "MN",
+    "county": "Ramsey",
+    "full_links": [
+      "https://www.health.state.mn.us/diseases/coronavirus/situation.html"
+    ],
+    "confirmed_date": "4/9"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.health.state.mn.us/diseases/coronavirus/situation.html"
+    ],
+    "confirmed_date": "4/9",
+    "state_name": "MN",
+    "county": "St. Louis"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://floridadisaster.org/covid19/covid-19-data-reports"
+    ],
+    "confirmed_date": "4/9",
+    "state_name": "FL",
+    "county": "Baker",
+    "age_range": "60+",
+    "gender": "男"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://floridadisaster.org/covid19/covid-19-data-reports"
+    ],
+    "confirmed_date": "4/9",
+    "state_name": "FL",
+    "county": "Broward",
+    "age_range": "80+",
+    "gender": "男"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://floridadisaster.org/covid19/covid-19-data-reports"
+    ],
+    "confirmed_date": "4/9",
+    "state_name": "FL",
+    "county": "Broward",
+    "age_range": "50+",
+    "gender": "男"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://floridadisaster.org/covid19/covid-19-data-reports"
+    ],
+    "confirmed_date": "4/9",
+    "state_name": "FL",
+    "county": "Broward",
+    "age_range": "70+",
+    "gender": "男"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://floridadisaster.org/covid19/covid-19-data-reports"
+    ],
+    "confirmed_date": "4/9",
+    "state_name": "FL",
+    "county": "Broward",
+    "age_range": "80+",
+    "gender": "男"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://floridadisaster.org/covid19/covid-19-data-reports"
+    ],
+    "confirmed_date": "4/9",
+    "state_name": "FL",
+    "county": "Broward",
+    "age_range": "80+",
+    "gender": "女"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://floridadisaster.org/covid19/covid-19-data-reports"
+    ],
+    "confirmed_date": "4/9",
+    "state_name": "FL",
+    "county": "Broward",
+    "age_range": "50+",
+    "gender": "男"
+  },
+  {
+    "die_count": 1,
+    "state_name": "NC",
+    "county": "Forsyth",
+    "full_links": [
+      "https://www.wxii12.com/article/coronavirus-north-carolina-latest-information-news/32087941"
+    ],
+    "confirmed_date": "4/9"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://floridadisaster.org/covid19/covid-19-data-reports"
+    ],
+    "confirmed_date": "4/9",
+    "state_name": "FL",
+    "county": "Miami-Dade",
+    "age_range": "70+",
+    "gender": "女"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://floridadisaster.org/covid19/covid-19-data-reports"
+    ],
+    "confirmed_date": "4/9",
+    "state_name": "FL",
+    "county": "Miami-Dade",
+    "age_range": "80+",
+    "gender": "男"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://floridadisaster.org/covid19/covid-19-data-reports"
+    ],
+    "confirmed_date": "4/9",
+    "state_name": "FL",
+    "county": "Miami-Dade",
+    "age_range": "70+",
+    "gender": "男"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://floridadisaster.org/covid19/covid-19-data-reports"
+    ],
+    "confirmed_date": "4/9",
+    "state_name": "FL",
+    "county": "Miami-Dade",
+    "age_range": "90+",
+    "gender": "女"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://floridadisaster.org/covid19/covid-19-data-reports"
+    ],
+    "confirmed_date": "4/9",
+    "state_name": "FL",
+    "county": "Miami-Dade",
+    "age_range": "90+",
+    "gender": "女"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://floridadisaster.org/covid19/covid-19-data-reports"
+    ],
+    "confirmed_date": "4/9",
+    "state_name": "FL",
+    "county": "Miami-Dade",
+    "age_range": "40+",
+    "gender": "男"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://floridadisaster.org/covid19/covid-19-data-reports"
+    ],
+    "confirmed_date": "4/9",
+    "state_name": "FL",
+    "county": "Miami-Dade",
+    "age_range": "80+",
+    "gender": "男"
+  },
+  {
+    "die_count": 2,
+    "full_links": [
+      "https://idph.iowa.gov/Emerging-Health-Issues/Novel-Coronavirus"
+    ],
+    "state_name": "IA",
+    "county": "Unassigned",
+    "confirmed_date": "4/9"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://floridadisaster.org/covid19/covid-19-data-reports"
+    ],
+    "confirmed_date": "4/9",
+    "state_name": "FL",
+    "county": "Miami-Dade",
+    "age_range": "90+",
+    "gender": "男"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://floridadisaster.org/covid19/covid-19-data-reports"
+    ],
+    "confirmed_date": "4/9",
+    "state_name": "FL",
+    "county": "Miami-Dade",
+    "age_range": "90+",
+    "gender": "女"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://floridadisaster.org/covid19/covid-19-data-reports"
+    ],
+    "confirmed_date": "4/9",
+    "state_name": "FL",
+    "county": "Miami-Dade",
+    "gender": "男",
+    "age_range": "80+"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://floridadisaster.org/covid19/covid-19-data-reports"
+    ],
+    "confirmed_date": "4/9",
+    "state_name": "FL",
+    "county": "Miami-Dade",
+    "gender": "男",
+    "age_range": "80+"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://floridadisaster.org/covid19/covid-19-data-reports"
+    ],
+    "confirmed_date": "4/9",
+    "state_name": "FL",
+    "county": "Miami-Dade",
+    "gender": "男",
+    "age_range": "50+"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://floridadisaster.org/covid19/covid-19-data-reports"
+    ],
+    "confirmed_date": "4/9",
+    "state_name": "FL",
+    "county": "Miami-Dade",
+    "gender": "女",
+    "age_range": "60+"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://floridadisaster.org/covid19/covid-19-data-reports"
+    ],
+    "confirmed_date": "4/9",
+    "state_name": "FL",
+    "county": "Duval",
+    "age_range": "90+",
+    "gender": "女"
   }
 ]
