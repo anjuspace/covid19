@@ -49061,7 +49061,7 @@
   {
     "confirmed_date": "4/8",
     "comments_en": "By 4/8 noon, New York reported 6,268 total deaths, placeholder.",
-    "die_count": 108,
+    "die_count": 9,
     "state_name": "NY",
     "county": "Unassigned",
     "full_links": [
@@ -52408,6 +52408,46 @@
   },
   {
     "die_count": 1,
+    "full_links": [
+      "https://www.1011now.com/content/news/Confirmed-COVID-19-cases-in-Nebraska-pushes-past-500-569475691.html"
+    ],
+    "confirmed_date": "4/8",
+    "gender": "男",
+    "age_range": "50+",
+    "state_name": "NE",
+    "county": "Lancaster",
+    "comments_en": "The first confirmed death from COVID-19 was confirmed in Lancaster County on Wednesday. It was a man in his 50s with underlying health conditions ."
+  },
+  {
+    "die_count": 1,
+    "state_name": "NE",
+    "county": "Unassigned",
+    "full_links": [
+      "https://www.1011now.com/content/news/Confirmed-COVID-19-cases-in-Nebraska-pushes-past-500-569475691.html"
+    ],
+    "confirmed_date": "4/8",
+    "comments_en": "As of Wednesday evening, 14 deaths and 532 cases have been reported in Nebraska as a result of COVID-19."
+  },
+  {
+    "die_count": 66,
+    "state_name": "NY",
+    "county": "Nassau",
+    "full_links": [
+      "https://www.nassaucountyny.gov/4974/COVID-19-By-The-Numbers"
+    ],
+    "confirmed_date": "4/8"
+  },
+  {
+    "die_count": 32,
+    "state_name": "NY",
+    "county": "Westchester",
+    "full_links": [
+      "https://www.youtube.com/watch?v=UfjKefWRklQ&feature=youtu.be"
+    ],
+    "confirmed_date": "4/8"
+  },
+  {
+    "die_count": 1,
     "state_name": "PR",
     "county": "Puerto Rico",
     "full_links": [
@@ -52523,5 +52563,15 @@
     ],
     "confirmed_date": "4/9",
     "comments_en": "NV reported a total of 80 deaths by 4/9."
+  },
+  {
+    "die_count": 4,
+    "state_name": "KS",
+    "county": "Unassigned",
+    "full_links": [
+      "https://www.kshb.com/news/coronavirus/covid-19-case-tracker-where-we-stand-in-mo-ks-nationwide"
+    ],
+    "confirmed_date": "4/9",
+    "comments_en": "There are 1,056 confirmed COVID-19 patients in Kansas, including 38 deaths."
   }
 ]
