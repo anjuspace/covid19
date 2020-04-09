@@ -32953,8 +32953,9 @@
     "state_name": "FL",
     "county": "Bay",
     "full_links": [
-      "https://experience.arcgis.com/experience/96dd742462124fa0b38ddedb9b25e429"
-    ]
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-04-08-1702.pdf"
+    ],
+    "comments_en": "93 Male"
   },
   {
     "confirmed_date": "4/4",
@@ -32975,7 +32976,7 @@
     "state_name": "FL",
     "county": "Escambia",
     "full_links": [
-      "https://experience.arcgis.com/experience/96dd742462124fa0b38ddedb9b25e429"
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-04-08-1702.pdf"
     ]
   },
   {
@@ -41708,7 +41709,10 @@
     "county": "Collier",
     "full_links": [
       "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-04-06-1657.pdf"
-    ]
+    ],
+    "comments_en": "73 Male",
+    "gender": "男",
+    "age_range": "70+"
   },
   {
     "confirmed_date": "4/6",
@@ -41764,7 +41768,10 @@
     "county": "DeSoto",
     "full_links": [
       "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-04-06-1657.pdf"
-    ]
+    ],
+    "comments_en": "65 Male",
+    "gender": "男",
+    "age_range": "60+"
   },
   {
     "confirmed_date": "4/6",
@@ -45136,15 +45143,6 @@
   },
   {
     "confirmed_date": "4/7",
-    "die_count": 1,
-    "state_name": "WI",
-    "county": "Buffalo",
-    "full_links": [
-      "https://www.dhs.wisconsin.gov/covid-19/county.htm"
-    ]
-  },
-  {
-    "confirmed_date": "4/7",
     "comments_en": "4/7 Santa Clara reported 43 deaths.",
     "die_count": 1,
     "state_name": "CA",
@@ -45541,15 +45539,6 @@
     "county": "Riverside",
     "full_links": [
       "https://www.rivcoph.org/coronavirus"
-    ]
-  },
-  {
-    "confirmed_date": "4/7",
-    "die_count": 1,
-    "state_name": "WI",
-    "county": "Waukesha",
-    "full_links": [
-      "https://www.dhs.wisconsin.gov/covid-19/county.htm"
     ]
   },
   {
@@ -46659,17 +46648,23 @@
     "state_name": "FL",
     "county": "Baker",
     "full_links": [
-      "https://fdoh.maps.arcgis.com/apps/opsdashboard/index.html#/8d0de33f260d444c852a615dc7837c86"
-    ]
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-04-08-1702.pdf"
+    ],
+    "comments_en": "71 Female",
+    "gender": "女",
+    "age_range": "70+"
   },
   {
     "confirmed_date": "4/7",
-    "die_count": 2,
+    "comments_en": "79 Male",
+    "die_count": 1,
     "state_name": "FL",
     "county": "Brevard",
     "full_links": [
-      "https://fdoh.maps.arcgis.com/apps/opsdashboard/index.html#/8d0de33f260d444c852a615dc7837c86"
-    ]
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-04-08-1702.pdf"
+    ],
+    "gender": "男",
+    "age_range": "70+"
   },
   {
     "confirmed_date": "4/7",
@@ -46706,7 +46701,10 @@
     "county": "Duval",
     "full_links": [
       "https://fdoh.maps.arcgis.com/apps/opsdashboard/index.html#/8d0de33f260d444c852a615dc7837c86"
-    ]
+    ],
+    "gender": "女",
+    "age_range": "80+",
+    "comments_en": "87 Female"
   },
   {
     "confirmed_date": "4/7",
@@ -46724,8 +46722,11 @@
     "state_name": "FL",
     "county": "Escambia",
     "full_links": [
-      "https://fdoh.maps.arcgis.com/apps/opsdashboard/index.html#/8d0de33f260d444c852a615dc7837c86"
-    ]
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-04-08-1702.pdf"
+    ],
+    "comments_en": "78 Male",
+    "gender": "男",
+    "age_range": "70+"
   },
   {
     "confirmed_date": "4/7",
@@ -46747,12 +46748,15 @@
   },
   {
     "confirmed_date": "4/7",
-    "die_count": 2,
+    "die_count": 1,
     "state_name": "FL",
     "county": "Hillsborough",
     "full_links": [
-      "https://fdoh.maps.arcgis.com/apps/opsdashboard/index.html#/8d0de33f260d444c852a615dc7837c86"
-    ]
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-04-07-1643.pdf"
+    ],
+    "comments_en": "77 Male",
+    "gender": "男",
+    "age_range": "70+"
   },
   {
     "confirmed_date": "4/7",
@@ -46761,7 +46765,10 @@
     "county": "Manatee",
     "full_links": [
       "https://fdoh.maps.arcgis.com/apps/opsdashboard/index.html#/8d0de33f260d444c852a615dc7837c86"
-    ]
+    ],
+    "comments_en": "51 Male",
+    "gender": "男",
+    "age_range": "50+"
   },
   {
     "confirmed_date": "4/7",
@@ -46770,7 +46777,10 @@
     "county": "Manatee",
     "full_links": [
       "https://fdoh.maps.arcgis.com/apps/opsdashboard/index.html#/8d0de33f260d444c852a615dc7837c86"
-    ]
+    ],
+    "comments_en": "71 Male",
+    "gender": "男",
+    "age_range": "70+"
   },
   {
     "confirmed_date": "4/7",
@@ -46778,8 +46788,11 @@
     "state_name": "FL",
     "county": "Orange",
     "full_links": [
-      "https://fdoh.maps.arcgis.com/apps/opsdashboard/index.html#/8d0de33f260d444c852a615dc7837c86"
-    ]
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-04-07-1643.pdf"
+    ],
+    "comments_en": "88 Female",
+    "gender": "女",
+    "age_range": "80+"
   },
   {
     "confirmed_date": "4/7",
@@ -47426,15 +47439,6 @@
     "full_links": [
       "https://www.kshb.com/news/coronavirus/covid-19-case-tracker-where-we-stand-in-mo-ks-nationwide",
       "https://www.stlouis-mo.gov/government/departments/health/communicable-disease/covid-19/"
-    ]
-  },
-  {
-    "confirmed_date": "4/7",
-    "die_count": 2,
-    "state_name": "MO",
-    "county": "Unassigned",
-    "full_links": [
-      "https://www.kshb.com/news/coronavirus/covid-19-case-tracker-where-we-stand-in-mo-ks-nationwide"
     ]
   },
   {
@@ -48356,6 +48360,60 @@
     "confirmed_date": "4/7"
   },
   {
+    "confirmed_date": "4/7",
+    "gender": "女",
+    "comments_en": "76 Female",
+    "die_count": 1,
+    "age_range": "70+",
+    "state_name": "FL",
+    "county": "Brevard",
+    "full_links": [
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-04-08-1702.pdf"
+    ]
+  },
+  {
+    "die_count": 1,
+    "state_name": "FL",
+    "county": "Lee",
+    "full_links": [
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-04-07-1643.pdf"
+    ],
+    "confirmed_date": "4/7",
+    "comments_en": "71 Male",
+    "gender": "男",
+    "age_range": "70+"
+  },
+  {
+    "confirmed_date": "4/7",
+    "die_count": 1,
+    "state_name": "FL",
+    "county": "Hillsborough",
+    "full_links": [
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-04-07-1643.pdf"
+    ],
+    "comments_en": "55 Male",
+    "gender": "男",
+    "age_range": "50+"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.dhs.wisconsin.gov/covid-19/county.htm"
+    ],
+    "state_name": "WI",
+    "county": "Outagamie",
+    "confirmed_date": "4/7"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.dhs.wisconsin.gov/covid-19/county.htm"
+    ],
+    "state_name": "WI",
+    "county": "Ozaukee",
+    "confirmed_date": "4/7"
+  },
+  {
     "confirmed_date": "4/8",
     "comments_en": "4/6: Cape May County: 85 with 3 deaths\n",
     "die_count": 1,
@@ -49039,11 +49097,12 @@
   {
     "confirmed_date": "4/8",
     "comments_en": "The Wyandotte County Health Department said Wednesday morning the county added two more coronavirus-related deaths.",
-    "die_count": 2,
+    "die_count": 3,
     "state_name": "KS",
     "county": "Wyandotte",
     "full_links": [
-      "https://www.kmbc.com/article/coronavirus-live-updates-confirmed-cases-of-covid-19-climb-in-missouri-kansas/32072238"
+      "https://www.kmbc.com/article/coronavirus-live-updates-confirmed-cases-of-covid-19-climb-in-missouri-kansas/32072238",
+      "https://www.kshb.com/news/coronavirus/covid-19-case-tracker-where-we-stand-in-mo-ks-nationwide"
     ]
   },
   {
@@ -49206,12 +49265,13 @@
   {
     "confirmed_date": "4/8",
     "gender": "Unknown",
-    "comments_en": "4/8 Milwaukee County has a total of 100 death cases. ",
-    "die_count": 7,
+    "comments_en": "4/8 Milwaukee County has a total of 59 death cases. ",
+    "die_count": 10,
     "state_name": "WI",
     "county": "Milwaukee",
     "full_links": [
-      "https://fox6now.com/2020/04/08/2710-positive-for-covid-19-in-wisconsin-28k-negative-100-deaths/"
+      "https://fox6now.com/2020/04/08/2710-positive-for-covid-19-in-wisconsin-28k-negative-100-deaths/",
+      "https://mcoem.maps.arcgis.com/apps/opsdashboard/index.html#/018eedbe075046779b8062b5fe1055bf"
     ]
   },
   {
@@ -51376,5 +51436,428 @@
     "confirmed_date": "4/8",
     "state_name": "CA",
     "county": "Sacramento"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.kshb.com/news/coronavirus/covid-19-case-tracker-where-we-stand-in-mo-ks-nationwide"
+    ],
+    "confirmed_date": "4/8",
+    "state_name": "KS",
+    "county": "Sedgwick"
+  },
+  {
+    "state_name": "OR",
+    "county": "Multnomah",
+    "full_links": [
+      "https://twitter.com/OHAOregon/status/1248001636615643137?s=20"
+    ],
+    "confirmed_date": "4/8",
+    "die_count": 1,
+    "age_range": "80+",
+    "gender": "女"
+  },
+  {
+    "state_name": "OR",
+    "county": "Multnomah",
+    "full_links": [
+      "https://twitter.com/OHAOregon/status/1248001636615643137?s=20"
+    ],
+    "confirmed_date": "4/8",
+    "die_count": 1,
+    "age_range": "70+",
+    "gender": "男"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://cv.nmhealth.org/2020/04/08/updated-new-mexico-covid-19-cases-now-at-865/"
+    ],
+    "confirmed_date": "4/8",
+    "state_name": "NM",
+    "county": "Bernalillo",
+    "gender": "男",
+    "age_range": "90+",
+    "comments_en": "A male in his 90s from Bernalillo County. The individual had underlying medical conditions."
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://cv.nmhealth.org/2020/04/08/updated-new-mexico-covid-19-cases-now-at-865/"
+    ],
+    "confirmed_date": "4/8",
+    "state_name": "NM",
+    "county": "Bernalillo",
+    "gender": "女",
+    "age_range": "80+",
+    "comments_en": "A female in her 80s from Bernalillo County. The individual had underlying medical conditions."
+  },
+  {
+    "state_name": "OR",
+    "county": "Multnomah",
+    "full_links": [
+      "https://twitter.com/OHAOregon/status/1248001636615643137?s=20"
+    ],
+    "confirmed_date": "4/8",
+    "die_count": 1,
+    "gender": "女",
+    "age_range": "70+"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://cv.nmhealth.org/2020/04/08/updated-new-mexico-covid-19-cases-now-at-865/"
+    ],
+    "confirmed_date": "4/8",
+    "state_name": "NM",
+    "county": "Bernalillo",
+    "gender": "女",
+    "age_range": "80+",
+    "comments_en": "A second female in her 80s from Bernalillo County. The individual had underlying medical conditions."
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.kshb.com/news/coronavirus/covid-19-case-tracker-where-we-stand-in-mo-ks-nationwide"
+    ],
+    "confirmed_date": "4/8",
+    "state_name": "MO",
+    "county": "Jackson"
+  },
+  {
+    "full_links": [
+      "https://twitter.com/OHAOregon/status/1248001636615643137?s=20"
+    ],
+    "confirmed_date": "4/8",
+    "die_count": 1,
+    "state_name": "OR",
+    "county": "Yamhill",
+    "gender": "男",
+    "age_range": "90+"
+  },
+  {
+    "die_count": 2,
+    "full_links": [
+      "https://www.kshb.com/news/coronavirus/covid-19-case-tracker-where-we-stand-in-mo-ks-nationwide"
+    ],
+    "state_name": "MO",
+    "county": "St. Louis",
+    "confirmed_date": "4/8"
+  },
+  {
+    "die_count": 5,
+    "full_links": [
+      "https://www.kshb.com/news/coronavirus/covid-19-case-tracker-where-we-stand-in-mo-ks-nationwide"
+    ],
+    "state_name": "MO",
+    "county": "St. Louis City",
+    "confirmed_date": "4/8"
+  },
+  {
+    "die_count": 1,
+    "state_name": "FL",
+    "county": "Citrus",
+    "full_links": [
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-04-08-1702.pdf"
+    ],
+    "confirmed_date": "4/8",
+    "comments_en": "Citrus 74 Female\n\n",
+    "gender": "女",
+    "age_range": "70+"
+  },
+  {
+    "die_count": 1,
+    "state_name": "FL",
+    "county": "Citrus",
+    "full_links": [
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-04-08-1702.pdf"
+    ],
+    "confirmed_date": "4/8",
+    "gender": "男",
+    "age_range": "80+",
+    "comments_en": "Citrus 84 Male\n"
+  },
+  {
+    "confirmed_date": "4/8",
+    "gender": "男",
+    "comments_en": "Citrus 88 Male",
+    "die_count": 1,
+    "age_range": "80+",
+    "state_name": "FL",
+    "county": "Citrus",
+    "full_links": [
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-04-08-1702.pdf"
+    ]
+  },
+  {
+    "die_count": 1,
+    "state_name": "FL",
+    "county": "Broward",
+    "full_links": [
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-04-08-1702.pdf"
+    ],
+    "confirmed_date": "4/8",
+    "gender": "女",
+    "age_range": "30+",
+    "comments_en": "30 Female"
+  },
+  {
+    "die_count": 1,
+    "state_name": "FL",
+    "county": "Broward",
+    "full_links": [
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-04-08-1702.pdf"
+    ],
+    "confirmed_date": "4/8",
+    "gender": "男",
+    "age_range": "80+",
+    "comments_en": "88 Male"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.sccmo.org/2105/COVID-19"
+    ],
+    "state_name": "MO",
+    "county": "St. Charles",
+    "confirmed_date": "4/8"
+  },
+  {
+    "state_name": "AL",
+    "county": "Jefferson",
+    "full_links": [
+      "https://alpublichealth.maps.arcgis.com/apps/opsdashboard/index.html#/6d2771faa9da4a2786a509d82c8cf0f7"
+    ],
+    "die_count": 1,
+    "confirmed_date": "4/8"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.whatcomcounty.us/3329/Novel-Coronavirus-COVID-19"
+    ],
+    "state_name": "WA",
+    "county": "Whatcom",
+    "confirmed_date": "4/8",
+    "comments_en": "Whatcom county reported a total 20 death as of 4/8. "
+  },
+  {
+    "die_count": 1,
+    "state_name": "FL",
+    "county": "Escambia",
+    "full_links": [
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-04-08-1702.pdf"
+    ],
+    "confirmed_date": "4/8",
+    "comments_en": "91 Female",
+    "gender": "女",
+    "age_range": "90+"
+  },
+  {
+    "die_count": 1,
+    "state_name": "KY",
+    "county": "Jefferson",
+    "full_links": [
+      "https://www.lex18.com/news/coronavirus/kentucky-up-to-1-346-cases-of-covid-19"
+    ],
+    "confirmed_date": "4/8",
+    "gender": "男",
+    "age_range": "60+",
+    "comments_en": "63-year-old male in Jefferson County"
+  },
+  {
+    "die_count": 1,
+    "state_name": "KY",
+    "county": "Jefferson",
+    "full_links": [
+      "https://www.lex18.com/news/coronavirus/kentucky-up-to-1-346-cases-of-covid-19"
+    ],
+    "confirmed_date": "4/8",
+    "gender": "女",
+    "age_range": "90+",
+    "comments_en": "90-year-old female in Jefferson County"
+  },
+  {
+    "die_count": 1,
+    "state_name": "FL",
+    "county": "Highlands",
+    "full_links": [
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-04-08-1702.pdf"
+    ],
+    "confirmed_date": "4/8",
+    "comments_en": "61 Male",
+    "gender": "男",
+    "age_range": "60+"
+  },
+  {
+    "die_count": 1,
+    "state_name": "KY",
+    "county": "Jefferson",
+    "full_links": [
+      "https://www.lex18.com/news/coronavirus/kentucky-up-to-1-346-cases-of-covid-19"
+    ],
+    "confirmed_date": "4/8",
+    "gender": "女",
+    "age_range": "90+",
+    "comments_en": "91-year-old female in Jefferson County"
+  },
+  {
+    "die_count": 1,
+    "state_name": "KY",
+    "county": "Jefferson",
+    "full_links": [
+      "https://www.lex18.com/news/coronavirus/kentucky-up-to-1-346-cases-of-covid-19"
+    ],
+    "confirmed_date": "4/8",
+    "gender": "女",
+    "age_range": "90+",
+    "comments_en": "93-year-old female in Jefferson County"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.lex18.com/news/coronavirus/kentucky-up-to-1-346-cases-of-covid-19"
+    ],
+    "state_name": "KY",
+    "county": "Calloway",
+    "confirmed_date": "4/8",
+    "gender": "女",
+    "age_range": "70+",
+    "comments_en": "78-year-old male in Calloway County"
+  },
+  {
+    "full_links": [
+      "https://www.lex18.com/news/coronavirus/kentucky-up-to-1-346-cases-of-covid-19"
+    ],
+    "confirmed_date": "4/8",
+    "state_name": "KY",
+    "county": "Christian",
+    "die_count": 1,
+    "gender": "男",
+    "age_range": "70+",
+    "comments_en": "76-year-old male in Christian County"
+  },
+  {
+    "full_links": [
+      "https://www.lex18.com/news/coronavirus/kentucky-up-to-1-346-cases-of-covid-19"
+    ],
+    "confirmed_date": "4/8",
+    "state_name": "KY",
+    "county": "Christian",
+    "die_count": 1,
+    "gender": "女",
+    "age_range": "80+",
+    "comments_en": "86-year-old female in Christian County"
+  },
+  {
+    "full_links": [
+      "https://www.lex18.com/news/coronavirus/kentucky-up-to-1-346-cases-of-covid-19"
+    ],
+    "confirmed_date": "4/8",
+    "state_name": "KY",
+    "county": "Christian",
+    "die_count": 1,
+    "gender": "男",
+    "age_range": "80+",
+    "comments_en": "86-year-old male in Christian County"
+  },
+  {
+    "die_count": 1,
+    "state_name": "FL",
+    "county": "Manatee",
+    "full_links": [
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-04-08-1702.pdf"
+    ],
+    "confirmed_date": "4/8",
+    "comments_en": "81 Male",
+    "gender": "男",
+    "age_range": "80+"
+  },
+  {
+    "die_count": 1,
+    "state_name": "FL",
+    "county": "Orange",
+    "full_links": [
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-04-08-1702.pdf"
+    ],
+    "confirmed_date": "4/8",
+    "comments_en": "88 Male",
+    "gender": "男",
+    "age_range": "80+"
+  },
+  {
+    "die_count": 1,
+    "state_name": "FL",
+    "county": "Pinellas",
+    "full_links": [
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-04-07-1643.pdf"
+    ],
+    "confirmed_date": "4/8",
+    "comments_en": "56 Female",
+    "gender": "女",
+    "age_range": "50+"
+  },
+  {
+    "die_count": 1,
+    "state_name": "FL",
+    "county": "Polk",
+    "full_links": [
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-04-07-1643.pdf"
+    ],
+    "confirmed_date": "4/8",
+    "comments_en": "77 female",
+    "gender": "女",
+    "age_range": "70+"
+  },
+  {
+    "confirmed_date": "4/8",
+    "die_count": 1,
+    "state_name": "TX",
+    "county": "Lubbock",
+    "full_links": [
+      "https://ci.lubbock.tx.us/departments/health-department/about-us/coronavirus-disease-2019-covid-19"
+    ]
+  },
+  {
+    "die_count": 1,
+    "state_name": "FL",
+    "county": "Sarasota",
+    "full_links": [
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-04-08-1702.pdf"
+    ],
+    "confirmed_date": "4/8",
+    "comments_en": "88 Female",
+    "gender": "女",
+    "age_range": "80+"
+  },
+  {
+    "die_count": 1,
+    "state_name": "TX",
+    "county": "Fort Bend",
+    "full_links": [
+      "https://www.fbchealth.org/ncov/"
+    ],
+    "confirmed_date": "4/8"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-04-08-1702.pdf"
+    ],
+    "confirmed_date": "4/8",
+    "state_name": "FL",
+    "county": "Martin",
+    "comments_en": "77 male",
+    "gender": "男",
+    "age_range": "70+"
+  },
+  {
+    "die_count": 1,
+    "state_name": "WA",
+    "county": "Benton",
+    "full_links": [
+      "https://www.bfhd.wa.gov/cms/One.aspx?portalId=10766056&pageId=16584954"
+    ],
+    "confirmed_date": "4/8"
   }
 ]
