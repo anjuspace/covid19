@@ -50081,8 +50081,11 @@
     "state_name": "NV",
     "county": "Washoe",
     "full_links": [
-      "https://covid19washoe.com/"
-    ]
+      "https://www.washoecounty.us/outreach/2020/04/2020-04-08-jic-0408-update.php"
+    ],
+    "gender": "女",
+    "comments_en": "4/8 6th death case: Female in her 60s with underlying health conditions",
+    "age_range": "60+"
   },
   {
     "confirmed_date": "4/8",
@@ -52327,5 +52330,29 @@
     "comments_en": "4/8: A second person has died from COVID-19, according to the Rockingham County Public Health Department.\nHealth leaders said the person was in their early 70’s and had several underlying medical condition",
     "gender": "Unknown",
     "age_range": "70+"
+  },
+  {
+    "confirmed_date": "4/8",
+    "gender": "女",
+    "comments_en": "4/8 7th death case: Female in her 80s; it is being determined if there were underlying health conditions",
+    "die_count": 1,
+    "state_name": "NV",
+    "county": "Washoe",
+    "full_links": [
+      "https://www.washoecounty.us/outreach/2020/04/2020-04-08-jic-0408-update.php"
+    ],
+    "age_range": "80+"
+  },
+  {
+    "confirmed_date": "4/8",
+    "gender": "男",
+    "comments_en": "4/8 8th death case: Male in his 70s with underlying health conditions",
+    "die_count": 1,
+    "age_range": "70+",
+    "state_name": "NV",
+    "county": "Washoe",
+    "full_links": [
+      "https://www.washoecounty.us/outreach/2020/04/2020-04-08-jic-0408-update.php"
+    ]
   }
 ]
