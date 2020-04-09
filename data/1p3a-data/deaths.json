@@ -52448,6 +52448,105 @@
   },
   {
     "die_count": 1,
+    "full_links": [
+      "https://coronavirus.in.gov/"
+    ],
+    "state_name": "IN",
+    "county": "Cass",
+    "confirmed_date": "4/8"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://coronavirus.in.gov/"
+    ],
+    "state_name": "IN",
+    "county": "Clinton",
+    "confirmed_date": "4/8"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://coronavirus.in.gov/"
+    ],
+    "state_name": "IN",
+    "county": "Hamilton",
+    "confirmed_date": "4/8"
+  },
+  {
+    "die_count": 2,
+    "full_links": [
+      "https://coronavirus.in.gov/"
+    ],
+    "state_name": "IN",
+    "county": "Hendricks",
+    "confirmed_date": "4/8"
+  },
+  {
+    "die_count": 3,
+    "full_links": [
+      "https://coronavirus.in.gov/"
+    ],
+    "state_name": "IN",
+    "county": "Johnson",
+    "confirmed_date": "4/8"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://coronavirus.in.gov/"
+    ],
+    "state_name": "IN",
+    "county": "Kosciusko",
+    "confirmed_date": "4/8"
+  },
+  {
+    "die_count": 7,
+    "full_links": [
+      "https://coronavirus.in.gov/"
+    ],
+    "state_name": "IN",
+    "county": "Lake",
+    "confirmed_date": "4/8"
+  },
+  {
+    "die_count": 23,
+    "full_links": [
+      "https://coronavirus.in.gov/"
+    ],
+    "state_name": "IN",
+    "county": "Marion",
+    "confirmed_date": "4/8"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://coronavirus.in.gov/"
+    ],
+    "state_name": "IN",
+    "county": "Morgan",
+    "confirmed_date": "4/8"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://coronavirus.in.gov/"
+    ],
+    "state_name": "IN",
+    "county": "Putnam",
+    "confirmed_date": "4/8"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://coronavirus.in.gov/"
+    ],
+    "state_name": "IN",
+    "county": "Shelby",
+    "confirmed_date": "4/8"
+  },
+  {
+    "die_count": 1,
     "state_name": "PR",
     "county": "Puerto Rico",
     "full_links": [
@@ -52675,5 +52774,63 @@
     ],
     "confirmed_date": "4/9",
     "comments_en": "Prince George's reported 35 total deaths  by 4/9."
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.wbtv.com/2020/04/09/union-county-reports-first-coronavirus-related-death/"
+    ],
+    "confirmed_date": "4/9",
+    "state_name": "NC",
+    "county": "Union",
+    "comments_en": "Union County health officials confirmed the county’s first coronavirus-related death Thursday morning.The man who died is in his 70’s and had been hospitalized, county officials say. The man also had other health complications.",
+    "gender": "男",
+    "age_range": "70+"
+  },
+  {
+    "die_count": 1,
+    "state_name": "ME",
+    "county": "Cumberland",
+    "full_links": [
+      "https://www.maine.gov/dhhs/mecdc/infectious-disease/epi/airborne/coronavirus.shtml"
+    ],
+    "confirmed_date": "4/9"
+  },
+  {
+    "die_count": 1,
+    "state_name": "ME",
+    "county": "Waldo",
+    "full_links": [
+      "https://www.maine.gov/dhhs/mecdc/infectious-disease/epi/airborne/coronavirus.shtml"
+    ],
+    "confirmed_date": "4/9",
+    "comments_en": "Waldo reported one more death on 4/9."
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx"
+    ],
+    "confirmed_date": "4/9",
+    "state_name": "PA",
+    "county": "Adams"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.health.nd.gov/diseases-conditions/coronavirus/north-dakota-coronavirus-cases"
+    ],
+    "confirmed_date": "4/9",
+    "state_name": "ND",
+    "county": "Unassigned"
+  },
+  {
+    "die_count": 2,
+    "state_name": "PA",
+    "county": "Allegheny",
+    "full_links": [
+      "https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx"
+    ],
+    "confirmed_date": "4/9"
   }
 ]
