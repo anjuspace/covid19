@@ -52573,5 +52573,15 @@
     ],
     "confirmed_date": "4/9",
     "comments_en": "There are 1,056 confirmed COVID-19 patients in Kansas, including 38 deaths."
+  },
+  {
+    "die_count": 1,
+    "state_name": "NC",
+    "county": "Wilson",
+    "full_links": [
+      "https://www.witn.com/content/news/CORONAVIRUS-Nash-County-reports-first-COVID-19-death-569469761.html"
+    ],
+    "confirmed_date": "4/9",
+    "comments_en": "Wilson County is reporting its third case related to the coronavirus on 4/9."
   }
 ]
