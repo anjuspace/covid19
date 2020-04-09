@@ -49014,7 +49014,7 @@
   {
     "confirmed_date": "4/8",
     "comments_en": "By 4/8 noon, New York reported 6,268 total deaths, placeholder.",
-    "die_count": 9,
+    "die_count": 7,
     "state_name": "NY",
     "county": "Unassigned",
     "full_links": [
@@ -52646,6 +52646,15 @@
     "county": "Rutherford"
   },
   {
+    "die_count": 2,
+    "state_name": "NY",
+    "county": "Rensselaer",
+    "full_links": [
+      "https://www.facebook.com/rensselaercounty/"
+    ],
+    "confirmed_date": "4/8"
+  },
+  {
     "confirmed_date": "4/9",
     "die_count": 8,
     "state_name": "AZ",
@@ -52813,7 +52822,7 @@
     ],
     "confirmed_date": "4/9",
     "comments_en": "By 4/9 noon, New York reported 7,067 total deaths, placeholder.",
-    "die_count": 174
+    "die_count": 76
   },
   {
     "die_count": 5,
@@ -54850,6 +54859,224 @@
     "county": "Suffolk",
     "full_links": [
       "https://suffolkcountyny.gov/Departments/Health-Services/Health-Bulletins/Novel-Coronavirus/covid-19-case-update-april-9-2020-230-pm"
+    ],
+    "confirmed_date": "4/9"
+  },
+  {
+    "full_links": [
+      "https://www.scdhec.gov/news-releases/south-carolina-announces-latest-covid-19-update-april-9-2020"
+    ],
+    "die_count": 1,
+    "confirmed_date": "4/9",
+    "state_name": "SC",
+    "county": "Anderson",
+    "comments_en": "An elderly patient with underlying health conditions"
+  },
+  {
+    "full_links": [
+      "https://www.scdhec.gov/news-releases/south-carolina-announces-latest-covid-19-update-april-9-2020"
+    ],
+    "die_count": 1,
+    "confirmed_date": "4/9",
+    "state_name": "SC",
+    "county": "Beaufort",
+    "comments_en": "An elderly patient with underlying health conditions"
+  },
+  {
+    "full_links": [
+      "https://www.scdhec.gov/news-releases/south-carolina-announces-latest-covid-19-update-april-9-2020"
+    ],
+    "die_count": 1,
+    "confirmed_date": "4/9",
+    "state_name": "SC",
+    "county": "Lexington",
+    "comments_en": "An elderly patient with underlying health conditions"
+  },
+  {
+    "full_links": [
+      "https://www.scdhec.gov/news-releases/south-carolina-announces-latest-covid-19-update-april-9-2020"
+    ],
+    "die_count": 1,
+    "confirmed_date": "4/9",
+    "state_name": "SC",
+    "county": "Lee",
+    "comments_en": "An elderly patient with underlying health conditions"
+  },
+  {
+    "confirmed_date": "4/9",
+    "die_count": 1,
+    "state_name": "TX",
+    "county": "Harris--Non Houston",
+    "full_links": [
+      "http://publichealth.harriscountytx.gov/Resources/2019-Novel-Coronavirus"
+    ]
+  },
+  {
+    "die_count": 1,
+    "state_name": "TX",
+    "county": "Harris--Houston",
+    "full_links": [
+      "https://houstonemergency.org/covid19/"
+    ],
+    "confirmed_date": "4/9",
+    "comments_en": "Male | Age 80-90 | White, Non-Hispanic | Underlying Health Conditions | Death: 03/27/20",
+    "gender": "男",
+    "age_range": "80+"
+  },
+  {
+    "confirmed_date": "4/9",
+    "gender": "女",
+    "comments_en": "Female | Age 70-80 |  White, Hispanic | Underlying Health Conditions |  Death: 04/02/20",
+    "die_count": 1,
+    "age_range": "70+",
+    "state_name": "TX",
+    "county": "Harris--Houston",
+    "full_links": [
+      "https://houstonemergency.org/covid19/"
+    ]
+  },
+  {
+    "die_count": 1,
+    "state_name": "NY",
+    "county": "Columbia",
+    "full_links": [
+      "https://www.columbiacountynyhealth.com/home/coronavirus-covid-19/"
+    ],
+    "confirmed_date": "4/9"
+  },
+  {
+    "die_count": 1,
+    "state_name": "NY",
+    "county": "Delaware",
+    "full_links": [
+      "http://www.co.delaware.ny.us/alerts/20200409%20PR%20BOS.pdf"
+    ],
+    "confirmed_date": "4/9"
+  },
+  {
+    "die_count": 6,
+    "state_name": "NY",
+    "county": "Monroe",
+    "full_links": [
+      "https://mappingmonroe.maps.arcgis.com/apps/opsdashboard/index.html#/217749730f174776a3896b3e8950e03b"
+    ],
+    "confirmed_date": "4/9"
+  },
+  {
+    "die_count": 1,
+    "state_name": "WA",
+    "county": "Spokane",
+    "full_links": [
+      "https://srhd.org/covid19"
+    ],
+    "confirmed_date": "4/9",
+    "comments_en": "Spokance reported 14 total deaths by 4/9."
+  },
+  {
+    "die_count": 67,
+    "state_name": "NY",
+    "county": "Nassau",
+    "full_links": [
+      "https://covid19tracker.health.ny.gov/views/NYS-COVID19-Tracker/NYSDOHCOVID-19Tracker-Fatalities?%3Aembed=yes&%3Atoolbar=no"
+    ],
+    "confirmed_date": "4/9",
+    "comments_en": "Nassau County death number is consistent with NY.gov's residence of individual fatalities."
+  },
+  {
+    "die_count": 14,
+    "state_name": "WA",
+    "county": "King",
+    "full_links": [
+      "https://www.kingcounty.gov/depts/health/communicable-diseases/disease-control/novel-coronavirus.aspx"
+    ],
+    "confirmed_date": "4/9",
+    "comments_en": "Kings reported 258 deaths by 4/9."
+  },
+  {
+    "die_count": 1,
+    "state_name": "WA",
+    "county": "Pierce",
+    "full_links": [
+      "https://www.tpchd.org/healthy-people/diseases/covid-19-pierce-county-cases/"
+    ],
+    "confirmed_date": "4/9"
+  },
+  {
+    "die_count": 1,
+    "state_name": "WA",
+    "county": "Snohomish",
+    "full_links": [
+      "https://www.snohd.org/499/COVID-19-Case-Count-Info"
+    ],
+    "confirmed_date": "4/9"
+  },
+  {
+    "die_count": 1,
+    "state_name": "NY",
+    "county": "Niagara",
+    "full_links": [
+      "https://www.niagaracounty.com/health/Press-Releases/april-9-covid-19-update-1"
+    ],
+    "confirmed_date": "4/9",
+    "age_range": "20+",
+    "gender": "女"
+  },
+  {
+    "die_count": 1,
+    "state_name": "NY",
+    "county": "Niagara",
+    "full_links": [
+      "https://www.niagaracounty.com/health/Press-Releases/april-9-covid-19-update-1"
+    ],
+    "confirmed_date": "4/9",
+    "age_range": "90+",
+    "gender": "女"
+  },
+  {
+    "die_count": 1,
+    "state_name": "NY",
+    "county": "Niagara",
+    "full_links": [
+      "https://www.niagaracounty.com/health/Press-Releases/april-9-covid-19-update-1"
+    ],
+    "confirmed_date": "4/9",
+    "age_range": "60+",
+    "gender": "男"
+  },
+  {
+    "state_name": "NY",
+    "county": "Oneida",
+    "full_links": [
+      "https://hoccpp.maps.arcgis.com/apps/opsdashboard/index.html#/d88f4e10d59d4553b24c3add5abcbb0b"
+    ],
+    "confirmed_date": "4/9",
+    "die_count": 1
+  },
+  {
+    "die_count": 1,
+    "state_name": "NY",
+    "county": "Onondaga",
+    "full_links": [
+      "https://socpa.maps.arcgis.com/apps/opsdashboard/index.html#/7bd218bc8be04b209c0b80a83fc2eba5"
+    ],
+    "confirmed_date": "4/9"
+  },
+  {
+    "die_count": 70,
+    "state_name": "MA",
+    "county": "Unassigned",
+    "full_links": [
+      "https://www.mass.gov/doc/covid-19-cases-in-massachusetts-as-of-april-9-2020/download"
+    ],
+    "confirmed_date": "4/9",
+    "comments_en": "MA reported 503 total deaths by 4/9, placeholder"
+  },
+  {
+    "die_count": 18,
+    "state_name": "NY",
+    "county": "Rockland",
+    "full_links": [
+      "http://rockland.maps.arcgis.com/apps/opsdashboard/index.html#/d074e0336e81449393a76d1768ceb096"
     ],
     "confirmed_date": "4/9"
   }
