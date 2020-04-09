@@ -49581,7 +49581,7 @@
   },
   {
     "confirmed_date": "4/8",
-    "die_count": 3,
+    "die_count": 2,
     "state_name": "LA",
     "county": "Terrebonne",
     "full_links": [
@@ -52675,13 +52675,13 @@
   },
   {
     "die_count": 6,
-    "state_name": "NV",
-    "county": "Unassigned",
     "full_links": [
       "https://thenevadaindependent.com/article/live-blog-no-more-coronavirus-cases-in-washoe-reported-as-health-officials-identify-test-close-contacts"
     ],
     "confirmed_date": "4/9",
-    "comments_en": "NV reported a total of 80 deaths by 4/9."
+    "comments_en": "NV reported a total of 80 deaths by 4/9.",
+    "state_name": "NV",
+    "county": "Clark"
   },
   {
     "die_count": 4,
@@ -52716,14 +52716,15 @@
     "age_range": "60+"
   },
   {
-    "die_count": 799,
     "state_name": "NY",
     "county": "Unassigned",
     "full_links": [
-      "https://twitter.com/NYGovCuomo/status/1248273348485771264"
+      "https://twitter.com/NYGovCuomo/status/1248273348485771264",
+      "https://www.cnn.com/world/live-news/coronavirus-pandemic-04-09-20/index.html"
     ],
     "confirmed_date": "4/9",
-    "comments_en": "By 4/9 noon, New York reported 7,067 total deaths, placeholder."
+    "comments_en": "By 4/9 noon, New York reported 7,067 total deaths, placeholder.",
+    "die_count": 220
   },
   {
     "die_count": 5,
@@ -52838,11 +52839,13 @@
   {
     "die_count": 1,
     "full_links": [
-      "https://www.health.nd.gov/diseases-conditions/coronavirus/north-dakota-coronavirus-cases"
+      "https://www.valleynewslive.com/content/news/North-Dakota-reports-18-new-Covid-19-cases-One-new-death-569508341.html"
     ],
     "confirmed_date": "4/9",
     "state_name": "ND",
-    "county": "Unassigned"
+    "county": "Stark",
+    "age_range": "60+",
+    "gender": "男"
   },
   {
     "die_count": 2,
@@ -53342,5 +53345,415 @@
     "county": "Duval",
     "age_range": "90+",
     "gender": "女"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://floridadisaster.org/covid19/covid-19-data-reports"
+    ],
+    "confirmed_date": "4/9",
+    "state_name": "FL",
+    "county": "Hillsborough",
+    "gender": "男",
+    "age_range": "70+"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://floridadisaster.org/covid19/covid-19-data-reports"
+    ],
+    "confirmed_date": "4/9",
+    "state_name": "FL",
+    "county": "Hillsborough",
+    "gender": "男",
+    "age_range": "70+"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://floridadisaster.org/covid19/covid-19-data-reports"
+    ],
+    "confirmed_date": "4/9",
+    "state_name": "FL",
+    "county": "Manatee",
+    "gender": "女",
+    "age_range": "70+"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://floridadisaster.org/covid19/covid-19-data-reports"
+    ],
+    "confirmed_date": "4/9",
+    "state_name": "FL",
+    "county": "Manatee",
+    "gender": "女",
+    "age_range": "80+"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://floridadisaster.org/covid19/covid-19-data-reports"
+    ],
+    "confirmed_date": "4/9",
+    "state_name": "FL",
+    "county": "Palm Beach",
+    "age_range": "70+",
+    "gender": "男"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://floridadisaster.org/covid19/covid-19-data-reports"
+    ],
+    "confirmed_date": "4/9",
+    "state_name": "FL",
+    "county": "Palm Beach",
+    "age_range": "90+",
+    "gender": "女"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://floridadisaster.org/covid19/covid-19-data-reports"
+    ],
+    "confirmed_date": "4/9",
+    "state_name": "FL",
+    "county": "Palm Beach",
+    "age_range": "90+",
+    "gender": "女"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://floridadisaster.org/covid19/covid-19-data-reports"
+    ],
+    "confirmed_date": "4/9",
+    "state_name": "FL",
+    "county": "Palm Beach",
+    "age_range": "60+",
+    "gender": "女"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://floridadisaster.org/covid19/covid-19-data-reports"
+    ],
+    "confirmed_date": "4/9",
+    "state_name": "FL",
+    "county": "Volusia",
+    "gender": "男",
+    "age_range": "70+"
+  },
+  {
+    "die_count": 579,
+    "state_name": "NY",
+    "county": "New York",
+    "full_links": [
+      "https://covid19tracker.health.ny.gov/views/NYS-COVID19-Tracker/NYSDOHCOVID-19Tracker-Fatalities?%3Aembed=yes&%3Atoolbar=no&%3Atabs=n"
+    ],
+    "confirmed_date": "4/9",
+    "comments_en": "According to New York State Department of Health, NYC reached 5,150 deaths in total."
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://floridadisaster.org/covid19/covid-19-data-reports"
+    ],
+    "confirmed_date": "4/9",
+    "state_name": "FL",
+    "county": "Volusia",
+    "gender": "男",
+    "age_range": "80+"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://coronavirus.health.ok.gov/"
+    ],
+    "confirmed_date": "4/9",
+    "state_name": "OK",
+    "county": "Sequoyah"
+  },
+  {
+    "confirmed_date": "4/9",
+    "die_count": 1,
+    "full_links": [
+      "https://txdshs.maps.arcgis.com/apps/opsdashboard/index.html#/ed483ecd702b4298ab01e8b9cafc8b83"
+    ],
+    "state_name": "TX",
+    "county": "Hale"
+  },
+  {
+    "confirmed_date": "4/9",
+    "die_count": 1,
+    "full_links": [
+      "https://txdshs.maps.arcgis.com/apps/opsdashboard/index.html#/ed483ecd702b4298ab01e8b9cafc8b83"
+    ],
+    "state_name": "TX",
+    "county": "Dawson"
+  },
+  {
+    "die_count": 8,
+    "state_name": "RI",
+    "county": "Unassigned",
+    "full_links": [
+      "https://www.wpri.com/health/coronavirus/april-9-ri-coronavirus-update/"
+    ],
+    "confirmed_date": "4/9",
+    "comments_en": "RI reported 43 total deaths by 4/9."
+  },
+  {
+    "confirmed_date": "4/9",
+    "die_count": 1,
+    "state_name": "TX",
+    "county": "Navarro",
+    "full_links": [
+      "https://txdshs.maps.arcgis.com/apps/opsdashboard/index.html#/ed483ecd702b4298ab01e8b9cafc8b83"
+    ]
+  },
+  {
+    "die_count": 1,
+    "state_name": "NV",
+    "county": "Unassigned",
+    "full_links": [
+      "https://thenevadaindependent.com/article/coronavirus-live-blog-week-five"
+    ],
+    "confirmed_date": "4/9",
+    "comments_en": "NV reported 81 total deaths by 4/9."
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://txdshs.maps.arcgis.com/apps/opsdashboard/index.html#/ed483ecd702b4298ab01e8b9cafc8b83"
+    ],
+    "confirmed_date": "4/9",
+    "state_name": "TX",
+    "county": "Medina"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "confirmed_date": "4/9",
+    "state_name": "LA",
+    "county": "Acadia"
+  },
+  {
+    "die_count": 2,
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "confirmed_date": "4/9",
+    "state_name": "LA",
+    "county": "Ascension"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "confirmed_date": "4/9",
+    "state_name": "LA",
+    "county": "Bossier"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "confirmed_date": "4/9",
+    "state_name": "LA",
+    "county": "Caddo"
+  },
+  {
+    "die_count": 3,
+    "state_name": "TX",
+    "county": "Jefferson",
+    "full_links": [
+      "https://txdshs.maps.arcgis.com/apps/opsdashboard/index.html#/ed483ecd702b4298ab01e8b9cafc8b83"
+    ],
+    "confirmed_date": "4/9"
+  },
+  {
+    "die_count": 3,
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "confirmed_date": "4/9",
+    "state_name": "LA",
+    "county": "East Baton Rouge"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "confirmed_date": "4/9",
+    "state_name": "LA",
+    "county": "East Feliciana"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "confirmed_date": "4/9",
+    "state_name": "LA",
+    "county": "Iberia"
+  },
+  {
+    "die_count": 9,
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "confirmed_date": "4/9",
+    "state_name": "LA",
+    "county": "Jefferson"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "confirmed_date": "4/9",
+    "state_name": "LA",
+    "county": "Jefferson Davis"
+  },
+  {
+    "die_count": 16,
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "confirmed_date": "4/9",
+    "state_name": "LA",
+    "county": "Orleans"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "confirmed_date": "4/9",
+    "state_name": "LA",
+    "county": "Ouachita"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "confirmed_date": "4/9",
+    "state_name": "LA",
+    "county": "Plaquemines"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "confirmed_date": "4/9",
+    "state_name": "LA",
+    "county": "Pointe Coupee"
+  },
+  {
+    "die_count": 3,
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "confirmed_date": "4/9",
+    "state_name": "LA",
+    "county": "St. Charles"
+  },
+  {
+    "die_count": 2,
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "confirmed_date": "4/9",
+    "state_name": "LA",
+    "county": "St. Martin"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "confirmed_date": "4/9",
+    "state_name": "LA",
+    "county": "St. Mary"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "confirmed_date": "4/9",
+    "state_name": "LA",
+    "county": "St. Tammany"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "confirmed_date": "4/9",
+    "state_name": "LA",
+    "county": "Tangipahoa"
+  },
+  {
+    "die_count": 3,
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "confirmed_date": "4/9",
+    "state_name": "LA",
+    "county": "Washington"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "confirmed_date": "4/9",
+    "state_name": "LA",
+    "county": "Lafayette"
+  },
+  {
+    "die_count": 31,
+    "state_name": "NJ",
+    "county": "Bergen",
+    "full_links": [
+      "https://covid19.nj.gov/index.html#live-updates"
+    ],
+    "confirmed_date": "4/9"
+  },
+  {
+    "die_count": 45,
+    "state_name": "NJ",
+    "county": "Essex",
+    "full_links": [
+      "https://covid19.nj.gov/index.html#live-updates"
+    ],
+    "confirmed_date": "4/9"
+  },
+  {
+    "die_count": 1,
+    "state_name": "GA",
+    "county": "Calhoun",
+    "full_links": [
+      "https://dph.georgia.gov/covid-19-daily-status-report"
+    ],
+    "confirmed_date": "4/9"
+  },
+  {
+    "die_count": 10,
+    "state_name": "NJ",
+    "county": "Hudson",
+    "full_links": [
+      "https://covid19.nj.gov/index.html#live-updates"
+    ],
+    "confirmed_date": "4/9"
   }
 ]

@@ -8,8 +8,14 @@ let data = JSON.parse(fs.readFileSync(world_file))
 
 // combine detailed province/state level data from countries
 const china_file = 'public/data/china.json'
+const hong_kong_file = 'public/data/hong_kong.json'
 let chinaData = JSON.parse(fs.readFileSync(china_file))
+const hongKongData = JSON.parse(fs.readFileSync(hong_kong_file))
 data[en2zh['China']] = chinaData
+data[en2zh['China']][en2zh['Hong Kong']] = {
+    ...hongKongData,
+    ...data[en2zh['China']][en2zh['Hong Kong']]
+}
 
 const korea_file = 'public/data/korea.json'
 let koreaData = JSON.parse(fs.readFileSync(korea_file))
@@ -40,12 +46,12 @@ let data_france = {
     curedCount: data[en2zh['France']].curedCount,
     deadCount: data[en2zh['France']].deadCount
 }
-// data_france[en2zh['Metropolitan France']] = {
-//     ...data_france[en2zh['Metropolitan France']],
-//     confirmedCount: data[en2zh['France']][en2zh['Metropolitan France']].confirmedCount,
-//     curedCount: data[en2zh['France']][en2zh['Metropolitan France']].curedCount,
-//     deadCount: data[en2zh['France']][en2zh['Metropolitan France']].deadCount
-// }
+data_france[en2zh['Metropolitan France']] = {
+    ...data_france[en2zh['Metropolitan France']],
+    confirmedCount: data[en2zh['France']][en2zh['Metropolitan France']].confirmedCount,
+    curedCount: data[en2zh['France']][en2zh['Metropolitan France']].curedCount,
+    deadCount: data[en2zh['France']][en2zh['Metropolitan France']].deadCount
+}
 ;[ 'French Polynesia' ].forEach((region) => {
     data_france[en2zh['Overseas France']][en2zh[region]] = data[en2zh['France']][en2zh[region]]
     ;[ 'confirmedCount', 'deadCount', 'curedCount' ].forEach((metric) => {
@@ -61,13 +67,13 @@ let data_france = {
         )
     })
 })
-;[ 'confirmedCount', 'deadCount', 'cureCount' ].forEach((metric) => {
-    data_france[metric] = _.mergeWith(
-        data_france[en2zh['Metropolitan France']][metric],
-        data_france[en2zh['Overseas France']][metric],
-        _.add
-    )
-})
+//;[ 'confirmedCount', 'deadCount', 'cureCount' ].forEach((metric) => {
+//    data_france[metric] = _.mergeWith(
+//        data_france[en2zh['Metropolitan France']][metric],
+//        data_france[en2zh['Overseas France']][metric],
+//        _.add
+//    )
+//})
 data[en2zh['France']] = data_france
 
 const germany_file = 'public/data/germany.json'
