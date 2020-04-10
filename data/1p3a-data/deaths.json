@@ -42074,16 +42074,6 @@
   },
   {
     "confirmed_date": "4/6",
-    "comments_en": "Payette County reports 1 death from COVID-19.",
-    "die_count": 1,
-    "state_name": "ID",
-    "county": "Payette",
-    "full_links": [
-      "https://public.tableau.com/profile/idaho.division.of.public.health#!/vizhome/DPHIdahoCOVID-19Dashboard_V2/DPHCOVID19Dashboard2"
-    ]
-  },
-  {
-    "confirmed_date": "4/6",
     "comments_en": "A total of 3 residents of Canyon County passed away from COVID-19 as of 4/6.",
     "die_count": 2,
     "state_name": "ID",
@@ -52669,6 +52659,15 @@
   },
   {
     "confirmed_date": "4/9",
+    "die_count": 1,
+    "state_name": "GA",
+    "county": "Sumter",
+    "full_links": [
+      "https://dph.georgia.gov/covid-19-daily-status-report"
+    ]
+  },
+  {
+    "confirmed_date": "4/9",
     "die_count": 8,
     "state_name": "AZ",
     "county": "Unassigned",
@@ -53232,7 +53231,7 @@
     "gender": "男"
   },
   {
-    "die_count": 1,
+    "die_count": 2,
     "full_links": [
       "https://floridadisaster.org/covid19/covid-19-data-reports"
     ],
@@ -53307,7 +53306,7 @@
     "confirmed_date": "4/9"
   },
   {
-    "die_count": 1,
+    "die_count": 2,
     "full_links": [
       "https://floridadisaster.org/covid19/covid-19-data-reports"
     ],
@@ -53351,18 +53350,7 @@
     "gender": "女"
   },
   {
-    "die_count": 1,
-    "full_links": [
-      "https://floridadisaster.org/covid19/covid-19-data-reports"
-    ],
-    "confirmed_date": "4/9",
-    "state_name": "FL",
-    "county": "Miami-Dade",
-    "age_range": "90+",
-    "gender": "女"
-  },
-  {
-    "die_count": 1,
+    "die_count": 2,
     "full_links": [
       "https://floridadisaster.org/covid19/covid-19-data-reports"
     ],
@@ -53437,7 +53425,7 @@
     "age_range": "80+"
   },
   {
-    "die_count": 1,
+    "die_count": 3,
     "full_links": [
       "https://floridadisaster.org/covid19/covid-19-data-reports"
     ],
@@ -54120,7 +54108,7 @@
     "comments_en": "A man in his 70s who was a resident of DeSoto who had been hospitalized after being infected."
   },
   {
-    "die_count": 27,
+    "die_count": 23,
     "full_links": [
       "http://www.vdh.virginia.gov/coronavirus/"
     ],
@@ -55805,16 +55793,6 @@
     "die_count": 1
   },
   {
-    "die_count": 17,
-    "full_links": [
-      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-04-09-1654.pdf"
-    ],
-    "confirmed_date": "4/9",
-    "state_name": "FL",
-    "county": "Unassigned",
-    "comments_en": "Will break down by county soon"
-  },
-  {
     "die_count": 1,
     "state_name": "GA",
     "county": "Bartow",
@@ -56038,5 +56016,287 @@
       "https://dph.georgia.gov/covid-19-daily-status-report"
     ],
     "confirmed_date": "4/9"
+  },
+  {
+    "die_count": 1,
+    "state_name": "GA",
+    "county": "Paulding",
+    "full_links": [
+      "https://dph.georgia.gov/covid-19-daily-status-report"
+    ],
+    "confirmed_date": "4/9"
+  },
+  {
+    "die_count": 1,
+    "state_name": "GA",
+    "county": "Sumter",
+    "full_links": [
+      "https://dph.georgia.gov/covid-19-daily-status-report"
+    ],
+    "confirmed_date": "4/9"
+  },
+  {
+    "die_count": 1,
+    "state_name": "GA",
+    "county": "Sumter",
+    "full_links": [
+      "https://dph.georgia.gov/covid-19-daily-status-report"
+    ],
+    "confirmed_date": "4/9"
+  },
+  {
+    "die_count": 1,
+    "state_name": "GA",
+    "county": "Sumter",
+    "full_links": [
+      "https://dph.georgia.gov/covid-19-daily-status-report"
+    ],
+    "confirmed_date": "4/9"
+  },
+  {
+    "die_count": 1,
+    "state_name": "GA",
+    "county": "Terrell",
+    "full_links": [
+      "https://dph.georgia.gov/covid-19-daily-status-report"
+    ],
+    "confirmed_date": "4/9"
+  },
+  {
+    "die_count": 1,
+    "state_name": "GA",
+    "county": "Thomas",
+    "full_links": [
+      "https://dph.georgia.gov/covid-19-daily-status-report"
+    ],
+    "confirmed_date": "4/9"
+  },
+  {
+    "die_count": 1,
+    "state_name": "GA",
+    "county": "Worth",
+    "full_links": [
+      "https://dph.georgia.gov/covid-19-daily-status-report"
+    ],
+    "confirmed_date": "4/9"
+  },
+  {
+    "die_count": 4,
+    "state_name": "CA",
+    "county": "San Diego",
+    "full_links": [
+      "https://dph.georgia.gov/covid-19-daily-status-report"
+    ],
+    "confirmed_date": "4/9"
+  },
+  {
+    "die_count": 1,
+    "state_name": "ID",
+    "county": "Ada",
+    "full_links": [
+      "https://public.tableau.com/profile/idaho.division.of.public.health#!/vizhome/DPHIdahoCOVID-19Dashboard_V2/DPHCOVID19Dashboard2"
+    ],
+    "confirmed_date": "4/9"
+  },
+  {
+    "die_count": 1,
+    "state_name": "ID",
+    "county": "Canyon",
+    "full_links": [
+      "https://public.tableau.com/profile/idaho.division.of.public.health#!/vizhome/DPHIdahoCOVID-19Dashboard_V2/DPHCOVID19Dashboard2"
+    ],
+    "confirmed_date": "4/9"
+  },
+  {
+    "die_count": 3,
+    "state_name": "ID",
+    "county": "Nez Perce",
+    "full_links": [
+      "https://public.tableau.com/profile/idaho.division.of.public.health#!/vizhome/DPHIdahoCOVID-19Dashboard_V2/DPHCOVID19Dashboard2"
+    ],
+    "confirmed_date": "4/9"
+  },
+  {
+    "die_count": 2,
+    "full_links": [
+      "https://public.tableau.com/profile/idaho.division.of.public.health#!/vizhome/DPHIdahoCOVID-19Dashboard_V2/DPHCOVID19Dashboard2"
+    ],
+    "state_name": "ID",
+    "county": "Jerome",
+    "confirmed_date": "4/9"
+  },
+  {
+    "die_count": 17,
+    "state_name": "PA",
+    "county": "Philadelphia",
+    "full_links": [
+      "https://www.phila.gov/programs/coronavirus-disease-2019-covid-19/"
+    ],
+    "confirmed_date": "4/9"
+  },
+  {
+    "confirmed_date": "4/9",
+    "full_links": [
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-04-09-1654.pdf"
+    ],
+    "die_count": 2,
+    "state_name": "FL",
+    "county": "Charlotte",
+    "age_range": "70+",
+    "gender": "女"
+  },
+  {
+    "confirmed_date": "4/9",
+    "die_count": 1,
+    "full_links": [
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-04-09-1654.pdf"
+    ],
+    "state_name": "FL",
+    "county": "Charlotte",
+    "age_range": "90+",
+    "gender": "男"
+  },
+  {
+    "confirmed_date": "4/9",
+    "die_count": 1,
+    "full_links": [
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-04-09-1654.pdf"
+    ],
+    "state_name": "FL",
+    "county": "Citrus",
+    "age_range": "70+",
+    "gender": "女"
+  },
+  {
+    "confirmed_date": "4/9",
+    "die_count": 1,
+    "full_links": [
+      "https://floridadisaster.org/covid19/covid-19-data-reports"
+    ],
+    "state_name": "FL",
+    "county": "Manatee",
+    "age_range": "70+",
+    "gender": "男"
+  },
+  {
+    "confirmed_date": "4/9",
+    "die_count": 1,
+    "full_links": [
+      "https://floridadisaster.org/covid19/covid-19-data-reports"
+    ],
+    "state_name": "FL",
+    "county": "Orange",
+    "age_range": "70+",
+    "gender": "男"
+  },
+  {
+    "confirmed_date": "4/9",
+    "die_count": 1,
+    "full_links": [
+      "https://floridadisaster.org/covid19/covid-19-data-reports"
+    ],
+    "state_name": "FL",
+    "county": "Orange",
+    "age_range": "80+",
+    "gender": "女"
+  },
+  {
+    "confirmed_date": "4/9",
+    "die_count": 1,
+    "full_links": [
+      "https://floridadisaster.org/covid19/covid-19-data-reports"
+    ],
+    "state_name": "FL",
+    "county": "Osceola",
+    "age_range": "60+",
+    "gender": "男"
+  },
+  {
+    "confirmed_date": "4/9",
+    "die_count": 1,
+    "full_links": [
+      "https://floridadisaster.org/covid19/covid-19-data-reports"
+    ],
+    "state_name": "FL",
+    "county": "Palm Beach",
+    "age_range": "80+",
+    "gender": "男"
+  },
+  {
+    "confirmed_date": "4/9",
+    "die_count": 1,
+    "full_links": [
+      "https://floridadisaster.org/covid19/covid-19-data-reports"
+    ],
+    "state_name": "FL",
+    "county": "Palm Beach",
+    "age_range": "Unknown",
+    "gender": "Unknown"
+  },
+  {
+    "confirmed_date": "4/9",
+    "die_count": 1,
+    "full_links": [
+      "https://floridadisaster.org/covid19/covid-19-data-reports"
+    ],
+    "state_name": "FL",
+    "county": "Polk",
+    "age_range": "40+",
+    "gender": "女"
+  },
+  {
+    "confirmed_date": "4/9",
+    "die_count": 1,
+    "full_links": [
+      "https://floridadisaster.org/covid19/covid-19-data-reports"
+    ],
+    "state_name": "FL",
+    "county": "Sarasota",
+    "age_range": "80+",
+    "gender": "男"
+  },
+  {
+    "confirmed_date": "4/9",
+    "die_count": 1,
+    "full_links": [
+      "https://floridadisaster.org/covid19/covid-19-data-reports"
+    ],
+    "state_name": "FL",
+    "county": "Sarasota",
+    "age_range": "80+",
+    "gender": "女"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.brownsvilleherald.com/news/local/two-more-covid-19-deaths-reported-in-cameron-county/article_00f54bfc-7a92-11ea-9f47-5f408d98dd95.html?mode=jqm"
+    ],
+    "state_name": "TX",
+    "county": "Cameron",
+    "confirmed_date": "4/9",
+    "gender": "女",
+    "age_range": "90+",
+    "comments_en": "Cameron County Judge Eddie Trevino Jr. has announced two additional COVID-19 deaths in the county.\n\nThe victims are 91 year-old and 93-year-old females who were patients at Veranda and Atrium nursing homes in Harlingen."
+  },
+  {
+    "die_count": 1,
+    "state_name": "TX",
+    "county": "Cameron",
+    "full_links": [
+      "https://www.brownsvilleherald.com/news/local/two-more-covid-19-deaths-reported-in-cameron-county/article_00f54bfc-7a92-11ea-9f47-5f408d98dd95.html?mode=jqm"
+    ],
+    "confirmed_date": "4/9",
+    "gender": "女",
+    "age_range": "90+",
+    "comments_en": "Cameron County Judge Eddie Trevino Jr. has announced two additional COVID-19 deaths in the county.\n\nThe victims are 91 year-old and 93-year-old females who were patients at Veranda and Atrium nursing homes in Harlingen."
+  },
+  {
+    "die_count": 4,
+    "full_links": [
+      "https://www.loudoun.gov/Blog.aspx?IID=151"
+    ],
+    "confirmed_date": "4/9",
+    "state_name": "VA",
+    "county": "Loudoun"
   }
 ]
