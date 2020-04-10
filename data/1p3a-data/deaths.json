@@ -57242,16 +57242,6 @@
   },
   {
     "confirmed_date": "4/10",
-    "comments_en": "WI reported 121 total deaths by 4/10.",
-    "die_count": 10,
-    "state_name": "WI",
-    "county": "Unassigned",
-    "full_links": [
-      "https://fox6now.com/2020/04/10/121-deaths-in-wisconsin-due-to-covid-19-3k-positive-cases-31k-negative/"
-    ]
-  },
-  {
-    "confirmed_date": "4/10",
     "die_count": 1,
     "state_name": "ME",
     "county": "Sagadahoc",
@@ -58145,5 +58135,452 @@
     "confirmed_date": "4/10",
     "die_count": 28,
     "comments_en": "Reported by Rockland County Coronavirus COVID-19 Dashboard, may not include in NY total death right now."
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "http://www.dph.illinois.gov/news/202004"
+    ],
+    "confirmed_date": "4/10",
+    "state_name": "IL",
+    "county": "Cook",
+    "age_range": "20+",
+    "gender": "男",
+    "comments_en": "1 male 20s"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "http://www.dph.illinois.gov/news/202004"
+    ],
+    "confirmed_date": "4/10",
+    "state_name": "IL",
+    "county": "Cook",
+    "comments_en": "1 female 30s",
+    "age_range": "30+",
+    "gender": "女"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "http://www.dph.illinois.gov/news/202004"
+    ],
+    "confirmed_date": "4/10",
+    "state_name": "IL",
+    "county": "Cook",
+    "comments_en": "1 female 50s",
+    "age_range": "50+",
+    "gender": "女"
+  },
+  {
+    "die_count": 7,
+    "full_links": [
+      "http://www.dph.illinois.gov/news/202004"
+    ],
+    "confirmed_date": "4/10",
+    "state_name": "IL",
+    "county": "Cook",
+    "comments_en": "7 males 50s",
+    "age_range": "50+",
+    "gender": "男"
+  },
+  {
+    "die_count": 3,
+    "full_links": [
+      "http://www.dph.illinois.gov/news/202004"
+    ],
+    "confirmed_date": "4/10",
+    "state_name": "IL",
+    "county": "Cook",
+    "comments_en": "3 females 60s",
+    "age_range": "60+",
+    "gender": "女"
+  },
+  {
+    "die_count": 5,
+    "full_links": [
+      "http://www.dph.illinois.gov/news/202004"
+    ],
+    "confirmed_date": "4/10",
+    "state_name": "IL",
+    "county": "Cook",
+    "comments_en": "5 males 60s",
+    "age_range": "60+",
+    "gender": "男"
+  },
+  {
+    "die_count": 4,
+    "full_links": [
+      "http://www.dph.illinois.gov/news/202004"
+    ],
+    "confirmed_date": "4/10",
+    "state_name": "IL",
+    "county": "Cook",
+    "comments_en": "4 females 70s",
+    "age_range": "70+",
+    "gender": "女"
+  },
+  {
+    "die_count": 10,
+    "full_links": [
+      "http://www.dph.illinois.gov/news/202004"
+    ],
+    "confirmed_date": "4/10",
+    "state_name": "IL",
+    "county": "Cook",
+    "comments_en": "10 males 70s",
+    "age_range": "70+",
+    "gender": "男"
+  },
+  {
+    "die_count": 3,
+    "full_links": [
+      "http://www.dph.illinois.gov/news/202004"
+    ],
+    "confirmed_date": "4/10",
+    "state_name": "IL",
+    "county": "Cook",
+    "comments_en": "3 females 80s",
+    "age_range": "80+",
+    "gender": "女"
+  },
+  {
+    "die_count": 6,
+    "full_links": [
+      "http://www.dph.illinois.gov/news/202004"
+    ],
+    "confirmed_date": "4/10",
+    "state_name": "IL",
+    "county": "Cook",
+    "comments_en": "6 males 80s",
+    "age_range": "80+",
+    "gender": "男"
+  },
+  {
+    "die_count": 4,
+    "full_links": [
+      "http://www.dph.illinois.gov/news/202004"
+    ],
+    "confirmed_date": "4/10",
+    "state_name": "IL",
+    "county": "Cook",
+    "comments_en": "4 females 90s",
+    "age_range": "90+",
+    "gender": "女"
+  },
+  {
+    "die_count": 2,
+    "full_links": [
+      "http://www.dph.illinois.gov/news/202004"
+    ],
+    "confirmed_date": "4/10",
+    "state_name": "IL",
+    "county": "Cook",
+    "comments_en": "2 males 90s",
+    "age_range": "90+",
+    "gender": "男"
+  },
+  {
+    "die_count": 2,
+    "full_links": [
+      "https://www.whatcomcounty.us/3329/Novel-Coronavirus-COVID-19"
+    ],
+    "state_name": "WA",
+    "county": "Whatcom",
+    "confirmed_date": "4/10"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "http://www.dph.illinois.gov/news/202004"
+    ],
+    "confirmed_date": "4/10",
+    "state_name": "IL",
+    "county": "DuPage",
+    "comments_en": "1 male 60s",
+    "age_range": "60+",
+    "gender": "男"
+  },
+  {
+    "die_count": 3,
+    "full_links": [
+      "http://www.dph.illinois.gov/news/202004"
+    ],
+    "confirmed_date": "4/10",
+    "state_name": "IL",
+    "county": "DuPage",
+    "comments_en": "3 males 70s",
+    "age_range": "70+",
+    "gender": "男"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "http://www.dph.illinois.gov/news/202004"
+    ],
+    "confirmed_date": "4/10",
+    "state_name": "IL",
+    "county": "DuPage",
+    "comments_en": "1 female 80s",
+    "age_range": "80+",
+    "gender": "女"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "http://www.dph.illinois.gov/news/202004"
+    ],
+    "confirmed_date": "4/10",
+    "state_name": "IL",
+    "county": "DuPage",
+    "comments_en": "1 male 80s",
+    "age_range": "80+",
+    "gender": "男"
+  },
+  {
+    "die_count": 2,
+    "full_links": [
+      "http://www.dph.illinois.gov/news/202004"
+    ],
+    "confirmed_date": "4/10",
+    "state_name": "IL",
+    "county": "Kane",
+    "comments_en": "2 males 70s",
+    "age_range": "70+",
+    "gender": "男"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "http://www.dph.illinois.gov/news/202004"
+    ],
+    "confirmed_date": "4/10",
+    "state_name": "IL",
+    "county": "Kankakee",
+    "comments_en": "1 male 50s",
+    "gender": "男",
+    "age_range": "50+"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "http://www.dph.illinois.gov/news/202004"
+    ],
+    "confirmed_date": "4/10",
+    "state_name": "IL",
+    "county": "Lake",
+    "comments_en": "1 male 50s",
+    "age_range": "50+",
+    "gender": "男"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "http://www.dph.illinois.gov/news/202004"
+    ],
+    "confirmed_date": "4/10",
+    "state_name": "IL",
+    "county": "Lake",
+    "comments_en": "1 male 70s",
+    "age_range": "70+",
+    "gender": "男"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "http://www.dph.illinois.gov/news/202004"
+    ],
+    "confirmed_date": "4/10",
+    "state_name": "IL",
+    "county": "Lake",
+    "comments_en": "1 female 90s",
+    "age_range": "90+",
+    "gender": "女"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "http://www.dph.illinois.gov/news/202004"
+    ],
+    "confirmed_date": "4/10",
+    "state_name": "IL",
+    "county": "Lake",
+    "comments_en": "1 male 90s",
+    "age_range": "90+",
+    "gender": "男"
+  },
+  {
+    "full_links": [
+      "https://www.tn.gov/health/cedep/ncov.html"
+    ],
+    "die_count": 1,
+    "confirmed_date": "4/10",
+    "state_name": "TN",
+    "county": "Bedford"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "http://www.dph.illinois.gov/news/202004"
+    ],
+    "confirmed_date": "4/10",
+    "state_name": "IL",
+    "county": "Rock Island",
+    "comments_en": "1 female 60s",
+    "age_range": "60+",
+    "gender": "女"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "http://www.dph.illinois.gov/news/202004"
+    ],
+    "confirmed_date": "4/10",
+    "state_name": "IL",
+    "county": "St. Clair",
+    "comments_en": "1 male 50s",
+    "age_range": "50+",
+    "gender": "男"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "http://www.dph.illinois.gov/news/202004"
+    ],
+    "confirmed_date": "4/10",
+    "state_name": "IL",
+    "county": "Will",
+    "comments_en": " 1 female 60s",
+    "age_range": "60+",
+    "gender": "女"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "http://www.dph.illinois.gov/news/202004"
+    ],
+    "confirmed_date": "4/10",
+    "state_name": "IL",
+    "county": "Will",
+    "comments_en": "1 male 60s",
+    "age_range": "60+",
+    "gender": "男"
+  },
+  {
+    "full_links": [
+      "https://www.tn.gov/health/cedep/ncov.html"
+    ],
+    "die_count": 1,
+    "confirmed_date": "4/10",
+    "state_name": "TN",
+    "county": "Macon"
+  },
+  {
+    "die_count": 2,
+    "full_links": [
+      "http://www.dph.illinois.gov/news/202004"
+    ],
+    "confirmed_date": "4/10",
+    "state_name": "IL",
+    "county": "Will",
+    "comments_en": "2 males 70s",
+    "age_range": "70+",
+    "gender": "男"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "http://www.dph.illinois.gov/news/202004"
+    ],
+    "confirmed_date": "4/10",
+    "state_name": "IL",
+    "county": "Will",
+    "comments_en": "1 female 90s",
+    "age_range": "90+",
+    "gender": "女"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "http://www.dph.illinois.gov/news/202004"
+    ],
+    "confirmed_date": "4/10",
+    "state_name": "IL",
+    "county": "Will",
+    "comments_en": "1 male 90s",
+    "age_range": "90+",
+    "gender": "男"
+  },
+  {
+    "full_links": [
+      "https://www.tn.gov/health/cedep/ncov.html"
+    ],
+    "die_count": 1,
+    "confirmed_date": "4/10",
+    "state_name": "TN",
+    "county": "Sumner"
+  },
+  {
+    "full_links": [
+      "https://www.tn.gov/health/cedep/ncov.html"
+    ],
+    "die_count": 1,
+    "confirmed_date": "4/10",
+    "state_name": "TN",
+    "county": "Williamson"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.dhs.wisconsin.gov/covid-19/county.htm"
+    ],
+    "confirmed_date": "4/10",
+    "state_name": "WI",
+    "county": "Brown"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.dhs.wisconsin.gov/covid-19/county.htm"
+    ],
+    "confirmed_date": "4/10",
+    "state_name": "WI",
+    "county": "Dane"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.dhs.wisconsin.gov/covid-19/county.htm"
+    ],
+    "confirmed_date": "4/10",
+    "state_name": "WI",
+    "county": "Grant"
+  },
+  {
+    "die_count": 12,
+    "full_links": [
+      "https://www.dhs.wisconsin.gov/covid-19/county.htm"
+    ],
+    "confirmed_date": "4/10",
+    "state_name": "WI",
+    "county": "Milwaukee"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.dhs.wisconsin.gov/covid-19/county.htm"
+    ],
+    "confirmed_date": "4/10",
+    "state_name": "WI",
+    "county": "Ozaukee"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.dhs.wisconsin.gov/covid-19/county.htm"
+    ],
+    "confirmed_date": "4/10",
+    "state_name": "WI",
+    "county": "Racine"
   }
 ]
