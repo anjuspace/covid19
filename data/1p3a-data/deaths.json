@@ -55060,7 +55060,10 @@
     "full_links": [
       "https://socpa.maps.arcgis.com/apps/opsdashboard/index.html#/7bd218bc8be04b209c0b80a83fc2eba5"
     ],
-    "confirmed_date": "4/9"
+    "confirmed_date": "4/9",
+    "age_range": "50+",
+    "gender": "男",
+    "comments_en": "The county saw its seventh coronavirus death earlier Thursday, a hospitalized man in his late 50s with underlying medical conditions, the county announced."
   },
   {
     "die_count": 70,
@@ -55265,5 +55268,38 @@
     "comments_en": "A 53-year-old Dallas man died Wednesday after testing positive for COVID-19, officials with Collin County Health Care Services say.",
     "age_range": "50+",
     "gender": "男"
+  },
+  {
+    "die_count": 1,
+    "state_name": "TX",
+    "county": "Denton",
+    "full_links": [
+      "https://www.nbcdfw.com/news/coronavirus/denton-county-records-2-more-covid-19-deaths-28-new-cases-thursday/2348700/"
+    ],
+    "confirmed_date": "4/9",
+    "comments_en": "Denton County health officials say another 28 people have tested positive for COVID-19 and that two others have died after becoming infected with the virus.\n\nThe number of people infected in Denton County has now reached 426 with nine dead.",
+    "age_range": "70+",
+    "gender": "男"
+  },
+  {
+    "die_count": 1,
+    "state_name": "TX",
+    "county": "Denton",
+    "full_links": [
+      "https://www.nbcdfw.com/news/coronavirus/denton-county-records-2-more-covid-19-deaths-28-new-cases-thursday/2348700/"
+    ],
+    "confirmed_date": "4/9",
+    "comments_en": "Denton County health officials say another 28 people have tested positive for COVID-19 and that two others have died after becoming infected with the virus.\n\nThe number of people infected in Denton County has now reached 426 with nine dead.",
+    "age_range": "50+",
+    "gender": "女"
+  },
+  {
+    "die_count": 33,
+    "state_name": "CO",
+    "county": "Unassigned",
+    "full_links": [
+      "https://covid19.colorado.gov/case-data"
+    ],
+    "confirmed_date": "4/9"
   }
 ]
