@@ -57832,7 +57832,7 @@
   },
   {
     "confirmed_date": "4/10",
-    "die_count": 2,
+    "die_count": 19,
     "state_name": "CA",
     "county": "Los Angeles",
     "full_links": [
@@ -58816,6 +58816,52 @@
     ],
     "state_name": "CT",
     "county": "Tolland",
+    "confirmed_date": "4/10"
+  },
+  {
+    "die_count": 3,
+    "full_links": [
+      "https://www.vcemergency.com/"
+    ],
+    "state_name": "CA",
+    "county": "Ventura",
+    "confirmed_date": "4/10",
+    "comments_en": "Ventura reported 10 total deaths by 4/10."
+  },
+  {
+    "die_count": 6,
+    "full_links": [
+      "https://www.rivcoph.org/coronavirus"
+    ],
+    "state_name": "CA",
+    "county": "Riverside",
+    "confirmed_date": "4/10"
+  },
+  {
+    "die_count": 10,
+    "state_name": "KY",
+    "county": "Unassigned",
+    "full_links": [
+      "https://govstatus.egov.com/kycovid19"
+    ],
+    "confirmed_date": "4/10"
+  },
+  {
+    "die_count": 19,
+    "state_name": "WA",
+    "county": "King",
+    "full_links": [
+      "https://www.kingcounty.gov/depts/health/communicable-diseases/disease-control/novel-coronavirus.aspx"
+    ],
+    "confirmed_date": "4/10"
+  },
+  {
+    "die_count": 9,
+    "full_links": [
+      "https://coronavirus.delaware.gov/latest-data/"
+    ],
+    "state_name": "DE",
+    "county": "Unassigned",
     "confirmed_date": "4/10"
   }
 ]
