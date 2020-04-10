@@ -56659,5 +56659,114 @@
     ],
     "confirmed_date": "4/10",
     "comments_en": "NV reported 86 deaths by 4/10 morning."
+  },
+  {
+    "die_count": 4,
+    "state_name": "MD",
+    "county": "Anne Arundel",
+    "full_links": [
+      "https://coronavirus.maryland.gov/"
+    ],
+    "confirmed_date": "4/10"
+  },
+  {
+    "die_count": 5,
+    "state_name": "MD",
+    "county": "Baltimore",
+    "full_links": [
+      "https://coronavirus.maryland.gov/"
+    ],
+    "confirmed_date": "4/10"
+  },
+  {
+    "die_count": 5,
+    "state_name": "MD",
+    "county": "Baltimore City",
+    "full_links": [
+      "https://coronavirus.maryland.gov/"
+    ],
+    "confirmed_date": "4/10"
+  },
+  {
+    "die_count": 1,
+    "state_name": "MD",
+    "county": "Carroll",
+    "full_links": [
+      "https://coronavirus.maryland.gov/"
+    ],
+    "confirmed_date": "4/10"
+  },
+  {
+    "die_count": 1,
+    "state_name": "MD",
+    "county": "Charles",
+    "full_links": [
+      "https://coronavirus.maryland.gov/"
+    ],
+    "confirmed_date": "4/10"
+  },
+  {
+    "die_count": 5,
+    "state_name": "MD",
+    "county": "Frederick",
+    "full_links": [
+      "https://coronavirus.maryland.gov/"
+    ],
+    "confirmed_date": "4/10"
+  },
+  {
+    "die_count": 4,
+    "state_name": "MD",
+    "county": "Montgomery",
+    "full_links": [
+      "https://coronavirus.maryland.gov/"
+    ],
+    "confirmed_date": "4/10"
+  },
+  {
+    "die_count": 8,
+    "state_name": "MD",
+    "county": "Prince George's",
+    "full_links": [
+      "https://coronavirus.maryland.gov/"
+    ],
+    "confirmed_date": "4/10"
+  },
+  {
+    "state_name": "DC",
+    "county": "District of Columbia",
+    "full_links": [
+      "https://coronavirus.dc.gov/page/coronavirus-data"
+    ],
+    "die_count": 6,
+    "confirmed_date": "4/10",
+    "comments_en": "The District reported 38 total deaths by 4/10."
+  },
+  {
+    "die_count": 1,
+    "state_name": "AL",
+    "county": "Montgomery",
+    "full_links": [
+      "https://alpublichealth.maps.arcgis.com/apps/opsdashboard/index.html#/6d2771faa9da4a2786a509d82c8cf0f7"
+    ],
+    "confirmed_date": "4/10"
+  },
+  {
+    "die_count": 3,
+    "full_links": [
+      "https://www.fairfaxcounty.gov/covid19/case-information"
+    ],
+    "confirmed_date": "4/10",
+    "state_name": "VA",
+    "county": "Fairfax"
+  },
+  {
+    "die_count": 9,
+    "full_links": [
+      "http://www.vdh.virginia.gov/coronavirus/"
+    ],
+    "confirmed_date": "4/10",
+    "state_name": "VA",
+    "county": "Unassigned"
   }
 ]
