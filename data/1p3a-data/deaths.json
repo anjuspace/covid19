@@ -56558,5 +56558,14 @@
     "full_links": [
       "https://www.ncdhhs.gov/divisions/public-health/covid19/covid-19-nc-case-count"
     ]
+  },
+  {
+    "die_count": 1,
+    "state_name": "CA",
+    "county": "Tulare",
+    "full_links": [
+      "https://tchhsa.org/eng/index.cfm/public-health/covid-19-updates-novel-coronavirus/"
+    ],
+    "confirmed_date": "4/9"
   }
 ]
