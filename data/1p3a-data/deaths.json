@@ -53641,7 +53641,7 @@
   {
     "confirmed_date": "4/9",
     "comments_en": "NV reported 81 total deaths by 4/9.",
-    "die_count": 1,
+    "die_count": 5,
     "state_name": "NV",
     "county": "Unassigned",
     "full_links": [
@@ -56569,6 +56569,16 @@
     ]
   },
   {
+    "state_name": "KY",
+    "county": "Unassigned",
+    "full_links": [
+      "https://govstatus.egov.com/kycovid19"
+    ],
+    "die_count": 6,
+    "confirmed_date": "4/9",
+    "comments_en": "KY reported 79 total deaths by 4/9."
+  },
+  {
     "die_count": 1,
     "state_name": "PR",
     "county": "Puerto Rico",
@@ -56639,5 +56649,15 @@
     ],
     "gender": "女",
     "age_range": "70+"
+  },
+  {
+    "die_count": 1,
+    "state_name": "NV",
+    "county": "Unassigned",
+    "full_links": [
+      "https://app.powerbigov.us/view?r=eyJrIjoiMjA2ZThiOWUtM2FlNS00MGY5LWFmYjUtNmQwNTQ3Nzg5N2I2IiwidCI6ImU0YTM0MGU2LWI4OWUtNGU2OC04ZWFhLTE1NDRkMjcwMzk4MCJ9"
+    ],
+    "confirmed_date": "4/10",
+    "comments_en": "NV reported 86 deaths by 4/10 morning."
   }
 ]
