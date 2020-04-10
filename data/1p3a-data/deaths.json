@@ -58718,5 +58718,104 @@
       "https://www.mass.gov/doc/covid-19-cases-in-massachusetts-as-of-april-10-2020/download"
     ],
     "confirmed_date": "4/10"
+  },
+  {
+    "full_links": [
+      "https://www.kshb.com/news/coronavirus/covid-19-case-tracker-where-we-stand-in-mo-ks-nationwide"
+    ],
+    "die_count": 1,
+    "confirmed_date": "4/10",
+    "state_name": "MO",
+    "county": "Greene"
+  },
+  {
+    "full_links": [
+      "https://www.kshb.com/news/coronavirus/covid-19-case-tracker-where-we-stand-in-mo-ks-nationwide"
+    ],
+    "die_count": 1,
+    "confirmed_date": "4/10",
+    "state_name": "MO",
+    "county": "St. Charles"
+  },
+  {
+    "full_links": [
+      "https://www.kshb.com/news/coronavirus/covid-19-case-tracker-where-we-stand-in-mo-ks-nationwide"
+    ],
+    "die_count": 5,
+    "confirmed_date": "4/10",
+    "state_name": "MO",
+    "county": "St. Louis"
+  },
+  {
+    "die_count": 25,
+    "full_links": [
+      "https://portal.ct.gov/-/media/Coronavirus/CTDPHCOVID19summary4102020.pdf?la=en"
+    ],
+    "state_name": "CT",
+    "county": "Fairfield",
+    "confirmed_date": "4/10"
+  },
+  {
+    "die_count": 20,
+    "full_links": [
+      "https://portal.ct.gov/-/media/Coronavirus/CTDPHCOVID19summary4102020.pdf?la=en"
+    ],
+    "state_name": "CT",
+    "county": "New Haven",
+    "confirmed_date": "4/10"
+  },
+  {
+    "die_count": 13,
+    "full_links": [
+      "https://portal.ct.gov/-/media/Coronavirus/CTDPHCOVID19summary4102020.pdf?la=en"
+    ],
+    "state_name": "CT",
+    "county": "Hartford",
+    "confirmed_date": "4/10"
+  },
+  {
+    "die_count": 2,
+    "full_links": [
+      "https://portal.ct.gov/-/media/Coronavirus/CTDPHCOVID19summary4102020.pdf?la=en"
+    ],
+    "state_name": "CT",
+    "county": "Unassigned",
+    "confirmed_date": "4/10"
+  },
+  {
+    "die_count": 3,
+    "full_links": [
+      "https://portal.ct.gov/-/media/Coronavirus/CTDPHCOVID19summary4102020.pdf?la=en"
+    ],
+    "state_name": "CT",
+    "county": "Litchfield",
+    "confirmed_date": "4/10"
+  },
+  {
+    "die_count": 3,
+    "full_links": [
+      "https://portal.ct.gov/-/media/Coronavirus/CTDPHCOVID19summary4102020.pdf?la=en"
+    ],
+    "state_name": "CT",
+    "county": "Middlesex",
+    "confirmed_date": "4/10"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://portal.ct.gov/-/media/Coronavirus/CTDPHCOVID19summary4102020.pdf?la=en"
+    ],
+    "state_name": "CT",
+    "county": "New London",
+    "confirmed_date": "4/10"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://portal.ct.gov/-/media/Coronavirus/CTDPHCOVID19summary4102020.pdf?la=en"
+    ],
+    "state_name": "CT",
+    "county": "Tolland",
+    "confirmed_date": "4/10"
   }
 ]
