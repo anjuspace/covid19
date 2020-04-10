@@ -57789,5 +57789,32 @@
     "full_links": [
       "https://taskandpurpose.com/news/covid-19-military"
     ]
+  },
+  {
+    "die_count": 1,
+    "state_name": "TX",
+    "county": "Tarrant",
+    "full_links": [
+      "http://www.tarrantcounty.com/en/public-health/disease-control---prevention/coronaviruas.html?linklocation=homecarousel&linkname=COVID-19"
+    ],
+    "confirmed_date": "4/10"
+  },
+  {
+    "die_count": 18,
+    "full_links": [
+      "https://coronavirus.ohio.gov/wps/portal/gov/covid-19/home"
+    ],
+    "confirmed_date": "4/10",
+    "state_name": "OH",
+    "county": "Unassigned"
+  },
+  {
+    "die_count": 1,
+    "state_name": "AL",
+    "county": "Mobile",
+    "full_links": [
+      "https://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html"
+    ],
+    "confirmed_date": "4/10"
   }
 ]
