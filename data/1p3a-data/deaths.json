@@ -56560,12 +56560,84 @@
     ]
   },
   {
+    "confirmed_date": "4/9",
     "die_count": 1,
     "state_name": "CA",
     "county": "Tulare",
     "full_links": [
       "https://tchhsa.org/eng/index.cfm/public-health/covid-19-updates-novel-coronavirus/"
+    ]
+  },
+  {
+    "die_count": 1,
+    "state_name": "PR",
+    "county": "Puerto Rico",
+    "full_links": [
+      "https://www.elnuevodia.com/noticias/locales/nota/seelevana39lasmuertesya725loscontagiosporcoronavirusenlaisla-2560059/"
     ],
-    "confirmed_date": "4/9"
+    "confirmed_date": "4/10",
+    "comments_en": "One more death was reported by 4/10 in PR.",
+    "gender": "男",
+    "age_range": "80+"
+  },
+  {
+    "confirmed_date": "4/10",
+    "comments_en": "One more death was reported by 4/10 in PR.",
+    "die_count": 1,
+    "state_name": "PR",
+    "county": "Puerto Rico",
+    "full_links": [
+      "https://www.elnuevodia.com/noticias/locales/nota/seelevana39lasmuertesya725loscontagiosporcoronavirusenlaisla-2560059/"
+    ],
+    "gender": "男",
+    "age_range": "80+"
+  },
+  {
+    "confirmed_date": "4/10",
+    "comments_en": "One more death was reported by 4/10 in PR.",
+    "die_count": 1,
+    "state_name": "PR",
+    "county": "Puerto Rico",
+    "full_links": [
+      "https://www.elnuevodia.com/noticias/locales/nota/seelevana39lasmuertesya725loscontagiosporcoronavirusenlaisla-2560059/"
+    ],
+    "gender": "男",
+    "age_range": "40+"
+  },
+  {
+    "confirmed_date": "4/10",
+    "comments_en": "One more death was reported by 4/10 in PR.",
+    "die_count": 1,
+    "state_name": "PR",
+    "county": "Puerto Rico",
+    "full_links": [
+      "https://www.elnuevodia.com/noticias/locales/nota/seelevana39lasmuertesya725loscontagiosporcoronavirusenlaisla-2560059/"
+    ],
+    "gender": "男",
+    "age_range": "80+"
+  },
+  {
+    "confirmed_date": "4/10",
+    "comments_en": "One more death was reported by 4/10 in PR.",
+    "die_count": 1,
+    "state_name": "PR",
+    "county": "Puerto Rico",
+    "full_links": [
+      "https://www.elnuevodia.com/noticias/locales/nota/seelevana39lasmuertesya725loscontagiosporcoronavirusenlaisla-2560059/"
+    ],
+    "gender": "男",
+    "age_range": "90+"
+  },
+  {
+    "confirmed_date": "4/10",
+    "comments_en": "One more death was reported by 4/10 in PR.",
+    "die_count": 1,
+    "state_name": "PR",
+    "county": "Puerto Rico",
+    "full_links": [
+      "https://www.elnuevodia.com/noticias/locales/nota/seelevana39lasmuertesya725loscontagiosporcoronavirusenlaisla-2560059/"
+    ],
+    "gender": "女",
+    "age_range": "70+"
   }
 ]
