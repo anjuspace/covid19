@@ -59751,5 +59751,41 @@
     "state_name": "MO",
     "county": "Cass",
     "confirmed_date": "4/10"
+  },
+  {
+    "die_count": 1,
+    "state_name": "CA",
+    "county": "Sutter",
+    "full_links": [
+      "https://www.latimes.com/projects/california-coronavirus-cases-tracking-outbreak/"
+    ],
+    "confirmed_date": "4/10"
+  },
+  {
+    "die_count": 1,
+    "state_name": "CA",
+    "county": "Sonoma",
+    "full_links": [
+      "https://www.latimes.com/projects/california-coronavirus-cases-tracking-outbreak/"
+    ],
+    "confirmed_date": "4/10"
+  },
+  {
+    "confirmed_date": "4/10",
+    "die_count": 4,
+    "state_name": "CA",
+    "county": "San Diego",
+    "full_links": [
+      "https://dph.georgia.gov/covid-19-daily-status-report"
+    ]
+  },
+  {
+    "die_count": 2,
+    "state_name": "CA",
+    "county": "Los Angeles",
+    "full_links": [
+      "https://www.latimes.com/projects/california-coronavirus-cases-tracking-outbreak/"
+    ],
+    "confirmed_date": "4/10"
   }
 ]
