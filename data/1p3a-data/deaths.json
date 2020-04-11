@@ -59843,5 +59843,38 @@
       "https://www.nytimes.com/interactive/2020/us/missouri-coronavirus-cases.html",
       "https://www.stlouis-mo.gov/government/departments/health/news/four-new-covid-19-associated-deaths-april-10.cfm"
     ]
+  },
+  {
+    "state_name": "PR",
+    "county": "Puerto Rico",
+    "full_links": [
+      "https://www.elnuevodia.com/noticias/locales/nota/subea42eltotaldevictimasmortalesporcoronavirusenpuertorico-2560281/"
+    ],
+    "die_count": 1,
+    "confirmed_date": "4/11",
+    "gender": "男",
+    "age_range": "60+"
+  },
+  {
+    "die_count": 1,
+    "state_name": "PR",
+    "county": "Puerto Rico",
+    "full_links": [
+      "https://www.elnuevodia.com/noticias/locales/nota/subea42eltotaldevictimasmortalesporcoronavirusenpuertorico-2560281/"
+    ],
+    "confirmed_date": "4/11",
+    "gender": "女",
+    "age_range": "80+"
+  },
+  {
+    "die_count": 1,
+    "state_name": "PR",
+    "county": "Puerto Rico",
+    "full_links": [
+      "https://www.elnuevodia.com/noticias/locales/nota/subea42eltotaldevictimasmortalesporcoronavirusenpuertorico-2560281/"
+    ],
+    "confirmed_date": "4/11",
+    "gender": "女",
+    "age_range": "80+"
   }
 ]
