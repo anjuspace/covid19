@@ -49651,15 +49651,6 @@
   },
   {
     "confirmed_date": "4/8",
-    "die_count": 1,
-    "state_name": "NC",
-    "county": "Franklin",
-    "full_links": [
-      "https://www.ncdhhs.gov/divisions/public-health/covid19/covid-19-nc-case-count#by-counties"
-    ]
-  },
-  {
-    "confirmed_date": "4/8",
     "comments_en": "Iredell County reported its first COVID-19 related death on Wednesday(4/8). The individual had underlying health conditions, according to a statement released by the county health department.",
     "die_count": 1,
     "state_name": "NC",
@@ -52926,15 +52917,6 @@
     "die_count": 1,
     "state_name": "PA",
     "county": "Luzerne",
-    "full_links": [
-      "https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx"
-    ]
-  },
-  {
-    "confirmed_date": "4/9",
-    "die_count": 2,
-    "state_name": "PA",
-    "county": "Monroe",
     "full_links": [
       "https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx"
     ]
@@ -56659,6 +56641,15 @@
     ]
   },
   {
+    "confirmed_date": "4/9",
+    "die_count": 3,
+    "state_name": "PA",
+    "county": "Monroe",
+    "full_links": [
+      "https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx"
+    ]
+  },
+  {
     "confirmed_date": "4/10",
     "die_count": 1,
     "state_name": "CA",
@@ -60007,6 +59998,24 @@
     "confirmed_date": "4/10"
   },
   {
+    "die_count": 3,
+    "full_links": [
+      "https://idph.iowa.gov/Emerging-Health-Issues/Novel-Coronavirus"
+    ],
+    "state_name": "IA",
+    "county": "Unassigned",
+    "confirmed_date": "4/10"
+  },
+  {
+    "confirmed_date": "4/11",
+    "die_count": 2,
+    "state_name": "PA",
+    "county": "Monroe",
+    "full_links": [
+      "https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx"
+    ]
+  },
+  {
     "state_name": "PR",
     "county": "Puerto Rico",
     "full_links": [
@@ -60350,7 +60359,8 @@
     "state_name": "NY",
     "county": "Unassigned",
     "full_links": [
-      "https://twitter.com/NYGovCuomo/status/1248997823917375488"
+      "https://twitter.com/NYGovCuomo/status/1248997823917375488",
+      "https://www.cnn.com/world/live-news/coronavirus-pandemic-04-11-20/index.html"
     ],
     "confirmed_date": "4/11",
     "comments_en": "By 4/11 noon, New York reported 8,627 total deaths, placeholder."
@@ -60426,5 +60436,240 @@
       "http://www.floridahealth.gov/diseases-and-conditions/COVID-19/"
     ],
     "confirmed_date": "4/11"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.health.nd.gov/diseases-conditions/coronavirus/north-dakota-coronavirus-cases"
+    ],
+    "confirmed_date": "4/11",
+    "state_name": "ND",
+    "county": "Unassigned",
+    "comments_en": "Will add details later"
+  },
+  {
+    "die_count": 1,
+    "state_name": "NC",
+    "county": "Forsyth",
+    "full_links": [
+      "https://www.ncdhhs.gov/divisions/public-health/covid19/covid-19-nc-case-count#by-counties"
+    ],
+    "confirmed_date": "4/11"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.ncdhhs.gov/divisions/public-health/covid19/covid-19-nc-case-count#by-counties"
+    ],
+    "confirmed_date": "4/11",
+    "state_name": "NC",
+    "county": "Jones"
+  },
+  {
+    "die_count": 1,
+    "state_name": "NC",
+    "county": "Orange",
+    "full_links": [
+      "https://www.ncdhhs.gov/divisions/public-health/covid19/covid-19-nc-case-count#by-counties"
+    ],
+    "confirmed_date": "4/11"
+  },
+  {
+    "die_count": 1,
+    "state_name": "PA",
+    "county": "Allegheny",
+    "full_links": [
+      "https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx"
+    ],
+    "confirmed_date": "4/11"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx"
+    ],
+    "confirmed_date": "4/11",
+    "state_name": "PA",
+    "county": "​Armstrong"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx"
+    ],
+    "confirmed_date": "4/11",
+    "state_name": "PA",
+    "county": "Bedford"
+  },
+  {
+    "die_count": 7,
+    "state_name": "PA",
+    "county": "Berks",
+    "full_links": [
+      "https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx"
+    ],
+    "confirmed_date": "4/11"
+  },
+  {
+    "die_count": 6,
+    "state_name": "PA",
+    "county": "Chester",
+    "full_links": [
+      "https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx"
+    ],
+    "confirmed_date": "4/11"
+  },
+  {
+    "die_count": 1,
+    "state_name": "PA",
+    "county": "Cumberland",
+    "full_links": [
+      "https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx"
+    ],
+    "confirmed_date": "4/11"
+  },
+  {
+    "die_count": 1,
+    "state_name": "PA",
+    "county": "Dauphin",
+    "full_links": [
+      "https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx"
+    ],
+    "confirmed_date": "4/11"
+  },
+  {
+    "confirmed_date": "4/11",
+    "die_count": 9,
+    "state_name": "PA",
+    "county": "Delaware",
+    "full_links": [
+      "https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx"
+    ]
+  },
+  {
+    "confirmed_date": "4/11",
+    "die_count": 2,
+    "state_name": "PA",
+    "county": "Fayette",
+    "full_links": [
+      "https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx"
+    ]
+  },
+  {
+    "confirmed_date": "4/11",
+    "die_count": 2,
+    "state_name": "PA",
+    "county": "Lackawanna",
+    "full_links": [
+      "https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx"
+    ]
+  },
+  {
+    "confirmed_date": "4/11",
+    "die_count": 2,
+    "state_name": "PA",
+    "county": "Lancaster",
+    "full_links": [
+      "https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx"
+    ]
+  },
+  {
+    "confirmed_date": "4/11",
+    "die_count": 1,
+    "state_name": "PA",
+    "county": "Lawrence",
+    "full_links": [
+      "https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx"
+    ]
+  },
+  {
+    "confirmed_date": "4/11",
+    "die_count": 2,
+    "state_name": "PA",
+    "county": "Luzerne",
+    "full_links": [
+      "https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx"
+    ]
+  },
+  {
+    "confirmed_date": "4/11",
+    "die_count": 10,
+    "state_name": "PA",
+    "county": "Montgomery",
+    "full_links": [
+      "https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx"
+    ]
+  },
+  {
+    "confirmed_date": "4/11",
+    "die_count": 2,
+    "state_name": "PA",
+    "county": "Northampton",
+    "full_links": [
+      "https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx"
+    ]
+  },
+  {
+    "confirmed_date": "4/11",
+    "die_count": 1,
+    "state_name": "PA",
+    "county": "Schuylkill",
+    "full_links": [
+      "https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx"
+    ]
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx"
+    ],
+    "confirmed_date": "4/11",
+    "state_name": "PA",
+    "county": "Tioga"
+  },
+  {
+    "confirmed_date": "4/11",
+    "die_count": 1,
+    "state_name": "PA",
+    "county": "Westmoreland",
+    "full_links": [
+      "https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx"
+    ]
+  },
+  {
+    "confirmed_date": "4/11",
+    "die_count": 3,
+    "state_name": "OK",
+    "county": "Cleveland",
+    "full_links": [
+      "https://coronavirus.health.ok.gov/"
+    ]
+  },
+  {
+    "confirmed_date": "4/11",
+    "die_count": 2,
+    "state_name": "OK",
+    "county": "Oklahoma",
+    "full_links": [
+      "https://coronavirus.health.ok.gov/"
+    ]
+  },
+  {
+    "confirmed_date": "4/11",
+    "die_count": 1,
+    "state_name": "OK",
+    "county": "Pottawatomie",
+    "full_links": [
+      "https://coronavirus.health.ok.gov/"
+    ]
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://alpublichealth.maps.arcgis.com/apps/opsdashboard/index.html#/6d2771faa9da4a2786a509d82c8cf0f7"
+    ],
+    "confirmed_date": "4/11",
+    "state_name": "AL",
+    "county": "Etowah"
   }
 ]
