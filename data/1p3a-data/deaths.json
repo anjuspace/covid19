@@ -49676,7 +49676,7 @@
   },
   {
     "confirmed_date": "4/8",
-    "die_count": 4,
+    "die_count": 3,
     "state_name": "OH",
     "county": "Cuyahoga",
     "full_links": [
@@ -54103,15 +54103,6 @@
     "confirmed_date": "4/9",
     "die_count": 1,
     "state_name": "OH",
-    "county": "Williams",
-    "full_links": [
-      "https://coronavirus.ohio.gov/wps/portal/gov/covid-19/dashboards"
-    ]
-  },
-  {
-    "confirmed_date": "4/9",
-    "die_count": 1,
-    "state_name": "OH",
     "county": "Wyandot",
     "full_links": [
       "https://coronavirus.ohio.gov/wps/portal/gov/covid-19/dashboards"
@@ -56626,6 +56617,17 @@
     ]
   },
   {
+    "full_links": [
+      "https://www.health.state.mn.us/diseases/coronavirus/situation.html#cases1",
+      "https://www.keyc.com/2020/04/09/mdh-confirms-first-covid-related-death-nicollet-county/"
+    ],
+    "confirmed_date": "4/9",
+    "die_count": 1,
+    "state_name": "MN",
+    "county": "Nicollet",
+    "age_range": "90+"
+  },
+  {
     "confirmed_date": "4/10",
     "die_count": 1,
     "state_name": "CA",
@@ -57346,7 +57348,7 @@
   },
   {
     "confirmed_date": "4/10",
-    "die_count": 8,
+    "die_count": 6,
     "state_name": "AZ",
     "county": "Unassigned",
     "full_links": [
@@ -57960,15 +57962,6 @@
     "county": "Tarrant",
     "full_links": [
       "http://www.tarrantcounty.com/en/public-health/disease-control---prevention/coronaviruas.html?linklocation=homecarousel&linkname=COVID-19"
-    ]
-  },
-  {
-    "confirmed_date": "4/10",
-    "die_count": 18,
-    "state_name": "OH",
-    "county": "Unassigned",
-    "full_links": [
-      "https://coronavirus.ohio.gov/wps/portal/gov/covid-19/home"
     ]
   },
   {
@@ -59481,8 +59474,11 @@
     "state_name": "TX",
     "county": "Collin",
     "full_links": [
-      "https://experience.arcgis.com/experience/c00baf45f12a4899aae1c812e29d6cde"
-    ]
+      "https://experience.arcgis.com/experience/c00baf45f12a4899aae1c812e29d6cde",
+      "https://www.star-telegram.com/news/coronavirus/article241921581.html"
+    ],
+    "age_range": "90+",
+    "gender": "男"
   },
   {
     "confirmed_date": "4/10",
@@ -59895,11 +59891,113 @@
   {
     "die_count": 2,
     "full_links": [
-      "https://www.azdhs.gov/preparedness/epidemiology-disease-control/infectious-disease-epidemiology/index.php#novel-coronavirus-home"
+      "https://www.maricopa.gov/5460/Coronavirus-Disease-2019"
     ],
     "state_name": "AZ",
     "county": "Maricopa",
     "confirmed_date": "4/10"
+  },
+  {
+    "die_count": 1,
+    "state_name": "NY",
+    "county": "Clinton",
+    "full_links": [
+      "http://www.clintonhealth.org/BulletinsPress/PR04112020.pdf"
+    ],
+    "confirmed_date": "4/10",
+    "comments_en": "On Friday, CVPH Medical Center reported the first COVID-19 death in Clinton County as that of an 80-year-old woman, who entered the hospital on April 2nd. On Saturday, a second COVID-19 patient passed away. ",
+    "age_range": "80+",
+    "gender": "女"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://coronavirus.ohio.gov/wps/portal/gov/covid-19/dashboards"
+    ],
+    "confirmed_date": "4/10",
+    "state_name": "OH",
+    "county": "Auglaize"
+  },
+  {
+    "confirmed_date": "4/10",
+    "die_count": 1,
+    "full_links": [
+      "https://coronavirus.ohio.gov/wps/portal/gov/covid-19/dashboards"
+    ],
+    "state_name": "OH",
+    "county": "Hancock"
+  },
+  {
+    "confirmed_date": "4/10",
+    "die_count": 1,
+    "state_name": "OH",
+    "county": "Lake",
+    "full_links": [
+      "https://coronavirus.ohio.gov/wps/portal/gov/covid-19/dashboards"
+    ]
+  },
+  {
+    "confirmed_date": "4/10",
+    "die_count": 4,
+    "state_name": "OH",
+    "county": "Lucas",
+    "full_links": [
+      "https://coronavirus.ohio.gov/wps/portal/gov/covid-19/dashboards"
+    ]
+  },
+  {
+    "confirmed_date": "4/10",
+    "die_count": 3,
+    "state_name": "OH",
+    "county": "Mahoning",
+    "full_links": [
+      "https://coronavirus.ohio.gov/wps/portal/gov/covid-19/dashboards/overview/"
+    ]
+  },
+  {
+    "confirmed_date": "4/10",
+    "die_count": 3,
+    "state_name": "OH",
+    "county": "Stark",
+    "full_links": [
+      "https://coronavirus.ohio.gov/wps/portal/gov/covid-19/dashboards"
+    ]
+  },
+  {
+    "confirmed_date": "4/10",
+    "die_count": 5,
+    "full_links": [
+      "https://coronavirus.ohio.gov/wps/portal/gov/covid-19/dashboards"
+    ],
+    "state_name": "OH",
+    "county": "Wayne"
+  },
+  {
+    "confirmed_date": "4/10",
+    "die_count": 1,
+    "state_name": "OH",
+    "county": "Wood",
+    "full_links": [
+      "https://coronavirus.ohio.gov/wps/portal/gov/covid-19/dashboards/overview/"
+    ]
+  },
+  {
+    "confirmed_date": "4/10",
+    "die_count": 1,
+    "state_name": "OH",
+    "county": "Summit",
+    "full_links": [
+      "https://coronavirus.ohio.gov/wps/portal/gov/covid-19/dashboards"
+    ]
+  },
+  {
+    "confirmed_date": "4/11",
+    "state_name": "MN",
+    "county": "Unassigned",
+    "full_links": [
+      "https://www.health.state.mn.us/diseases/coronavirus/situation.html"
+    ],
+    "die_count": 1
   },
   {
     "confirmed_date": "4/11",
@@ -60250,7 +60348,7 @@
     "county": "Tallapoosa"
   },
   {
-    "die_count": 52,
+    "die_count": 50,
     "state_name": "NY",
     "county": "Unassigned",
     "full_links": [
@@ -60760,15 +60858,6 @@
     "county": "Upson"
   },
   {
-    "die_count": 95,
-    "state_name": "FL",
-    "county": "Unknown",
-    "full_links": [
-      "https://floridahealthcovid19.gov/"
-    ],
-    "confirmed_date": "4/11"
-  },
-  {
     "confirmed_date": "4/11",
     "die_count": 1,
     "state_name": "TX",
@@ -61040,7 +61129,7 @@
   },
   {
     "full_links": [
-      "https://www.azdhs.gov/preparedness/epidemiology-disease-control/infectious-disease-epidemiology/index.php#novel-coronavirus-home"
+      "https://www.maricopa.gov/5460/Coronavirus-Disease-2019"
     ],
     "state_name": "AZ",
     "county": "Maricopa",
@@ -61076,5 +61165,398 @@
     ],
     "confirmed_date": "4/11",
     "comments_en": "Westchester County death number is consistent with NY.gov's residence of individual fatalities."
+  },
+  {
+    "die_count": 5,
+    "full_links": [
+      "https://www.azdhs.gov/preparedness/epidemiology-disease-control/infectious-disease-epidemiology/index.php#novel-coronavirus-home"
+    ],
+    "state_name": "AZ",
+    "county": "Unassigned",
+    "confirmed_date": "4/11"
+  },
+  {
+    "confirmed_date": "4/11",
+    "die_count": 45,
+    "state_name": "NJ",
+    "county": "Bergen",
+    "full_links": [
+      "https://www.nj.gov/health/cd/topics/covid2019_dashboard.shtml"
+    ]
+  },
+  {
+    "confirmed_date": "4/11",
+    "die_count": 60,
+    "state_name": "NJ",
+    "county": "Essex",
+    "full_links": [
+      "https://covid19.nj.gov/index.html#live-updates"
+    ]
+  },
+  {
+    "confirmed_date": "4/11",
+    "die_count": 20,
+    "state_name": "NJ",
+    "county": "Hudson",
+    "full_links": [
+      "https://www.nj.gov/health/cd/topics/covid2019_dashboard.shtml"
+    ]
+  },
+  {
+    "confirmed_date": "4/11",
+    "die_count": 34,
+    "state_name": "NJ",
+    "county": "Union",
+    "full_links": [
+      "https://www.nj.gov/health/cd/topics/covid2019_dashboard.shtml"
+    ]
+  },
+  {
+    "confirmed_date": "4/11",
+    "die_count": 9,
+    "state_name": "NJ",
+    "county": "Middlesex",
+    "full_links": [
+      "https://www.nj.gov/health/cd/topics/covid2019_dashboard.shtml"
+    ]
+  },
+  {
+    "confirmed_date": "4/11",
+    "die_count": 18,
+    "state_name": "NJ",
+    "county": "Passaic",
+    "full_links": [
+      "https://www.nj.gov/health/cd/topics/covid2019_dashboard.shtml"
+    ]
+  },
+  {
+    "confirmed_date": "4/11",
+    "die_count": 8,
+    "state_name": "NJ",
+    "county": "Monmouth",
+    "full_links": [
+      "https://www.nj.gov/health/cd/topics/covid2019_dashboard.shtml"
+    ]
+  },
+  {
+    "confirmed_date": "4/11",
+    "die_count": 11,
+    "state_name": "NJ",
+    "county": "Ocean",
+    "full_links": [
+      "https://www.nj.gov/health/cd/topics/covid2019_dashboard.shtml"
+    ]
+  },
+  {
+    "confirmed_date": "4/11",
+    "die_count": 17,
+    "state_name": "NJ",
+    "county": "Morris",
+    "full_links": [
+      "https://www.nj.gov/health/cd/topics/covid2019_dashboard.shtml"
+    ]
+  },
+  {
+    "confirmed_date": "4/11",
+    "die_count": 9,
+    "state_name": "NJ",
+    "county": "Somerset",
+    "full_links": [
+      "https://www.nj.gov/health/cd/topics/covid2019_dashboard.shtml"
+    ]
+  },
+  {
+    "confirmed_date": "4/11",
+    "die_count": 10,
+    "state_name": "NJ",
+    "county": "Mercer",
+    "full_links": [
+      "https://www.nj.gov/health/cd/topics/covid2019_dashboard.shtml"
+    ]
+  },
+  {
+    "confirmed_date": "4/11",
+    "die_count": 1,
+    "state_name": "NJ",
+    "county": "Gloucester",
+    "full_links": [
+      "https://covid19.nj.gov/index.html#live-updates"
+    ]
+  },
+  {
+    "confirmed_date": "4/11",
+    "die_count": 1,
+    "state_name": "NJ",
+    "county": "Sussex",
+    "full_links": [
+      "https://www.nj.gov/health/cd/topics/covid2019_dashboard.shtml"
+    ]
+  },
+  {
+    "confirmed_date": "4/11",
+    "die_count": 3,
+    "state_name": "NJ",
+    "county": "Warren",
+    "full_links": [
+      "https://www.nj.gov/health/cd/topics/covid2019_dashboard.shtml"
+    ]
+  },
+  {
+    "confirmed_date": "4/11",
+    "die_count": 4,
+    "state_name": "NJ",
+    "county": "Hunterdon",
+    "full_links": [
+      "https://www.nj.gov/health/cd/topics/covid2019_dashboard.shtml"
+    ]
+  },
+  {
+    "confirmed_date": "4/11",
+    "die_count": 1,
+    "state_name": "NJ",
+    "county": "Atlantic",
+    "full_links": [
+      "https://www.nj.gov/health/cd/topics/covid2019_dashboard.shtml"
+    ]
+  },
+  {
+    "die_count": 1,
+    "state_name": "TX",
+    "county": "Tarrant",
+    "full_links": [
+      "https://www.nbcdfw.com/news/coronavirus/tarrant-county-confirms-4-additional-covid-19-deaths/2349713/"
+    ],
+    "confirmed_date": "4/11",
+    "comments_en": "Four more Tarrant County residents have died of COVID-19, county health officials confirmed Saturday.\n\nThe patients include three people from Fort Worth — a man in his 60s, a man in his 70s and a woman in her late 40s — and a man in his 80s from Sansom Park.",
+    "gender": "男",
+    "age_range": "60+"
+  },
+  {
+    "confirmed_date": "4/11",
+    "gender": "男",
+    "comments_en": "Four more Tarrant County residents have died of COVID-19, county health officials confirmed Saturday.\n\nThe patients include three people from Fort Worth — a man in his 60s, a man in his 70s and a woman in her late 40s — and a man in his 80s from Sansom Park.",
+    "die_count": 1,
+    "age_range": "70+",
+    "state_name": "TX",
+    "county": "Tarrant",
+    "full_links": [
+      "https://www.nbcdfw.com/news/coronavirus/tarrant-county-confirms-4-additional-covid-19-deaths/2349713/"
+    ]
+  },
+  {
+    "confirmed_date": "4/11",
+    "gender": "男",
+    "comments_en": "Four more Tarrant County residents have died of COVID-19, county health officials confirmed Saturday.\n\nThe patients include three people from Fort Worth — a man in his 60s, a man in his 70s and a woman in her late 40s — and a man in his 80s from Sansom Park.",
+    "die_count": 1,
+    "age_range": "80+",
+    "state_name": "TX",
+    "county": "Tarrant",
+    "full_links": [
+      "https://www.nbcdfw.com/news/coronavirus/tarrant-county-confirms-4-additional-covid-19-deaths/2349713/"
+    ]
+  },
+  {
+    "confirmed_date": "4/11",
+    "gender": "女",
+    "comments_en": "Four more Tarrant County residents have died of COVID-19, county health officials confirmed Saturday.\n\nThe patients include three people from Fort Worth — a man in his 60s, a man in his 70s and a woman in her late 40s — and a man in his 80s from Sansom Park.",
+    "die_count": 1,
+    "age_range": "50+",
+    "state_name": "TX",
+    "county": "Tarrant",
+    "full_links": [
+      "https://www.nbcdfw.com/news/coronavirus/tarrant-county-confirms-4-additional-covid-19-deaths/2349713/"
+    ]
+  },
+  {
+    "die_count": 1,
+    "state_name": "TX",
+    "county": "Dallas",
+    "full_links": [
+      "https://www.nbcdfw.com/news/coronavirus/dallas-county-reports-2-additional-deaths-107-new-covid-19-cases/2349722/"
+    ],
+    "confirmed_date": "4/11",
+    "comments_en": "The two residents included a Garland man in his 60s and a Grand Prairie man in his 70s. Both men had underlying health conditions. ",
+    "gender": "男",
+    "age_range": "60+"
+  },
+  {
+    "confirmed_date": "4/11",
+    "gender": "男",
+    "comments_en": "The two residents included a Garland man in his 60s and a Grand Prairie man in his 70s. Both men had underlying health conditions. ",
+    "die_count": 1,
+    "age_range": "70+",
+    "state_name": "TX",
+    "county": "Dallas",
+    "full_links": [
+      "https://www.nbcdfw.com/news/coronavirus/dallas-county-reports-2-additional-deaths-107-new-covid-19-cases/2349722/"
+    ]
+  },
+  {
+    "die_count": 3,
+    "state_name": "MN",
+    "county": "Hennepin",
+    "full_links": [
+      "https://www.health.state.mn.us/diseases/coronavirus/situation.html#cases1"
+    ],
+    "confirmed_date": "4/11"
+  },
+  {
+    "die_count": 1,
+    "state_name": "MN",
+    "county": "Ramsey",
+    "full_links": [
+      "https://www.health.state.mn.us/diseases/coronavirus/situation.html#cases1"
+    ],
+    "confirmed_date": "4/11"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "http://www.clintonhealth.org/BulletinsPress/PR04112020.pdf"
+    ],
+    "confirmed_date": "4/11",
+    "state_name": "NY",
+    "county": "Clinton",
+    "comments_en": "On Friday, CVPH Medical Center reported the first COVID-19 death in Clinton County as that of an 80-year-old woman, who entered the hospital on April 2nd. On Saturday, a second COVID-19 patient passed away. "
+  },
+  {
+    "full_links": [
+      "https://www.health.state.mn.us/diseases/coronavirus/situation.html#cases1",
+      "https://www.hometownsource.com/monticello_times/coronavirus/first-wright-county-death-from-covid-19-reported/article_e9cf93d2-7c13-11ea-845d-e7603d0f25ce.html"
+    ],
+    "confirmed_date": "4/11",
+    "die_count": 1,
+    "state_name": "MN",
+    "county": "Wright",
+    "age_range": "80+"
+  },
+  {
+    "die_count": 1,
+    "state_name": "TX",
+    "county": "Brazos",
+    "full_links": [
+      "https://www.kbtx.com/content/news/Brazos-County-reports-10th-death-18-new-cases-569567261.html"
+    ],
+    "confirmed_date": "4/11",
+    "comments_en": "The Brazos County Health District is reporting the 10th death from COVID-19 and 18 new cases.\n\nThe woman who died was in her 70s and was in the hospital.",
+    "gender": "女",
+    "age_range": "70+"
+  },
+  {
+    "confirmed_date": "4/11",
+    "die_count": 1,
+    "state_name": "OH",
+    "county": "Belmont",
+    "full_links": [
+      "https://coronavirus.ohio.gov/wps/portal/gov/covid-19/dashboards"
+    ]
+  },
+  {
+    "confirmed_date": "4/11",
+    "die_count": 1,
+    "full_links": [
+      "https://coronavirus.ohio.gov/wps/portal/gov/covid-19/dashboards"
+    ],
+    "state_name": "OH",
+    "county": "Champaign"
+  },
+  {
+    "confirmed_date": "4/11",
+    "die_count": 1,
+    "state_name": "OH",
+    "county": "Darke",
+    "full_links": [
+      "https://coronavirus.ohio.gov/wps/portal/gov/covid-19/dashboards/overview/"
+    ]
+  },
+  {
+    "confirmed_date": "4/11",
+    "die_count": 1,
+    "state_name": "OH",
+    "county": "Geauga",
+    "full_links": [
+      "https://coronavirus.ohio.gov/wps/portal/gov/covid-19/dashboards/overview/"
+    ]
+  },
+  {
+    "confirmed_date": "4/11",
+    "die_count": 3,
+    "state_name": "OH",
+    "county": "Hamilton",
+    "full_links": [
+      "https://coronavirus.ohio.gov/wps/portal/gov/covid-19/dashboards"
+    ]
+  },
+  {
+    "die_count": 1,
+    "state_name": "OH",
+    "county": "Madison",
+    "full_links": [
+      "https://coronavirus.ohio.gov/wps/portal/gov/covid-19/dashboards"
+    ],
+    "confirmed_date": "4/11"
+  },
+  {
+    "confirmed_date": "4/11",
+    "die_count": 2,
+    "state_name": "OH",
+    "county": "Medina",
+    "full_links": [
+      "https://coronavirus.ohio.gov/wps/portal/gov/covid-19/dashboards"
+    ]
+  },
+  {
+    "confirmed_date": "4/11",
+    "die_count": 1,
+    "state_name": "OH",
+    "county": "Miami",
+    "full_links": [
+      "https://coronavirus.ohio.gov/wps/portal/gov/covid-19/dashboards/overview/"
+    ]
+  },
+  {
+    "confirmed_date": "4/11",
+    "die_count": 1,
+    "state_name": "OH",
+    "county": "Montgomery",
+    "full_links": [
+      "https://coronavirus.ohio.gov/wps/portal/gov/covid-19/dashboards"
+    ]
+  },
+  {
+    "confirmed_date": "4/11",
+    "die_count": 1,
+    "state_name": "OH",
+    "county": "Sandusky",
+    "full_links": [
+      "https://coronavirus.ohio.gov/wps/portal/gov/covid-19/dashboards/overview/"
+    ]
+  },
+  {
+    "confirmed_date": "4/11",
+    "die_count": 1,
+    "state_name": "OH",
+    "county": "Summit",
+    "full_links": [
+      "https://coronavirus.ohio.gov/wps/portal/gov/covid-19/dashboards"
+    ]
+  },
+  {
+    "confirmed_date": "4/11",
+    "die_count": 1,
+    "full_links": [
+      "https://coronavirus.ohio.gov/wps/portal/gov/covid-19/dashboards"
+    ],
+    "state_name": "OH",
+    "county": "Wyandot"
+  },
+  {
+    "confirmed_date": "4/11",
+    "die_count": 1,
+    "state_name": "OH",
+    "county": "Lucas",
+    "full_links": [
+      "https://coronavirus.ohio.gov/wps/portal/gov/covid-19/dashboards"
+    ]
   }
 ]
