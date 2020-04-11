@@ -35,6 +35,7 @@ data.forEach((line, index) => {
 
     const regionEnglish = lineSplit[8]
     const region = en2zh[regionEnglish]
+    if(region == null) return
     assert(region != null, `${regionEnglish} does not exist!`)
 
     if (!(region in output_india)) {

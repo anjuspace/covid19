@@ -41,6 +41,7 @@ data.forEach((record) => {
     if (regionEnglish in name_changes) regionEnglish = name_changes[regionEnglish]
     if (regionEnglish === 'Total') return
     const region = en2zh[regionEnglish]
+    if(region == null) return
     assert(region != null, `${regionEnglish} does not exist!`)
     const city = record.fields.city
 
