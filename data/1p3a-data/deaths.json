@@ -52811,15 +52811,6 @@
   },
   {
     "confirmed_date": "4/9",
-    "die_count": 1,
-    "state_name": "IN",
-    "county": "Putnam",
-    "full_links": [
-      "https://coronavirus.in.gov/"
-    ]
-  },
-  {
-    "confirmed_date": "4/9",
     "comments_en": "Waldo reported one more death on 4/9.",
     "die_count": 1,
     "state_name": "ME",
@@ -57657,15 +57648,6 @@
   },
   {
     "confirmed_date": "4/10",
-    "die_count": 1,
-    "state_name": "VT",
-    "county": "Unassigned",
-    "full_links": [
-      "https://www.healthvermont.gov/response/coronavirus-covid-19/current-activity-vermont"
-    ]
-  },
-  {
-    "confirmed_date": "4/10",
     "die_count": 4,
     "state_name": "NV",
     "county": "Clark",
@@ -58831,12 +58813,12 @@
   },
   {
     "confirmed_date": "4/10",
-    "die_count": 96,
-    "state_name": "MA",
-    "county": "Unassigned",
+    "die_count": 1,
     "full_links": [
       "https://www.mass.gov/doc/covid-19-cases-in-massachusetts-as-of-april-10-2020/download"
-    ]
+    ],
+    "state_name": "MA",
+    "county": "Barnstable"
   },
   {
     "confirmed_date": "4/10",
@@ -59845,6 +59827,105 @@
     ]
   },
   {
+    "die_count": 1,
+    "full_links": [
+      "https://www.mass.gov/doc/covid-19-cases-in-massachusetts-as-of-april-10-2020/download"
+    ],
+    "confirmed_date": "4/10",
+    "state_name": "MA",
+    "county": "Berkshire"
+  },
+  {
+    "confirmed_date": "4/10",
+    "die_count": 5,
+    "full_links": [
+      "https://www.mass.gov/doc/covid-19-cases-in-massachusetts-as-of-april-10-2020/download"
+    ],
+    "state_name": "MA",
+    "county": "Bristol"
+  },
+  {
+    "confirmed_date": "4/10",
+    "die_count": 19,
+    "full_links": [
+      "https://www.mass.gov/doc/covid-19-cases-in-massachusetts-as-of-april-10-2020/download"
+    ],
+    "state_name": "MA",
+    "county": "Essex"
+  },
+  {
+    "confirmed_date": "4/10",
+    "die_count": 7,
+    "full_links": [
+      "https://www.mass.gov/doc/covid-19-cases-in-massachusetts-as-of-april-10-2020/download"
+    ],
+    "state_name": "MA",
+    "county": "Hampden"
+  },
+  {
+    "confirmed_date": "4/10",
+    "die_count": 17,
+    "full_links": [
+      "https://www.mass.gov/doc/covid-19-cases-in-massachusetts-as-of-april-10-2020/download"
+    ],
+    "state_name": "MA",
+    "county": "Suffolk"
+  },
+  {
+    "confirmed_date": "4/10",
+    "die_count": 1,
+    "full_links": [
+      "https://www.mass.gov/doc/covid-19-cases-in-massachusetts-as-of-april-10-2020/download"
+    ],
+    "state_name": "MA",
+    "county": "Hampshire"
+  },
+  {
+    "confirmed_date": "4/10",
+    "die_count": 16,
+    "full_links": [
+      "https://www.mass.gov/doc/covid-19-cases-in-massachusetts-as-of-april-10-2020/download"
+    ],
+    "state_name": "MA",
+    "county": "Middlesex"
+  },
+  {
+    "confirmed_date": "4/10",
+    "full_links": [
+      "https://www.mass.gov/doc/covid-19-cases-in-massachusetts-as-of-april-10-2020/download"
+    ],
+    "die_count": 8,
+    "state_name": "MA",
+    "county": "Plymouth"
+  },
+  {
+    "confirmed_date": "4/10",
+    "die_count": 14,
+    "full_links": [
+      "https://www.mass.gov/doc/covid-19-cases-in-massachusetts-as-of-april-10-2020/download"
+    ],
+    "state_name": "MA",
+    "county": "Norfolk"
+  },
+  {
+    "confirmed_date": "4/10",
+    "die_count": 7,
+    "full_links": [
+      "https://www.mass.gov/doc/covid-19-cases-in-massachusetts-as-of-april-10-2020/download"
+    ],
+    "state_name": "MA",
+    "county": "Worcester"
+  },
+  {
+    "die_count": 1,
+    "state_name": "VT",
+    "county": "Lamoille",
+    "full_links": [
+      "https://www.healthvermont.gov/response/coronavirus-covid-19"
+    ],
+    "confirmed_date": "4/10"
+  },
+  {
     "state_name": "PR",
     "county": "Puerto Rico",
     "full_links": [
@@ -59876,5 +59957,149 @@
     "confirmed_date": "4/11",
     "gender": "女",
     "age_range": "80+"
+  },
+  {
+    "die_count": 1,
+    "state_name": "WA",
+    "county": "Skagit",
+    "full_links": [
+      "https://www.skagitcounty.net/Departments/HealthDiseases/coronavirus.htm"
+    ],
+    "confirmed_date": "4/11"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://coronavirus.in.gov/2393.htm"
+    ],
+    "confirmed_date": "4/11",
+    "state_name": "IN",
+    "county": "Allen"
+  },
+  {
+    "die_count": 2,
+    "full_links": [
+      "https://coronavirus.in.gov/2393.htm"
+    ],
+    "confirmed_date": "4/11",
+    "state_name": "IN",
+    "county": "Decatur"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://coronavirus.in.gov/2393.htm"
+    ],
+    "confirmed_date": "4/11",
+    "state_name": "IN",
+    "county": "Delaware"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://coronavirus.in.gov/2393.htm"
+    ],
+    "confirmed_date": "4/11",
+    "state_name": "IN",
+    "county": "Floyd"
+  },
+  {
+    "die_count": 3,
+    "full_links": [
+      "https://coronavirus.in.gov/2393.htm"
+    ],
+    "confirmed_date": "4/11",
+    "state_name": "IN",
+    "county": "Hamilton"
+  },
+  {
+    "die_count": 2,
+    "full_links": [
+      "https://coronavirus.in.gov/2393.htm"
+    ],
+    "confirmed_date": "4/11",
+    "state_name": "IN",
+    "county": "Hancock"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://coronavirus.in.gov/2393.htm"
+    ],
+    "confirmed_date": "4/11",
+    "state_name": "IN",
+    "county": "Harrison"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://coronavirus.in.gov/2393.htm"
+    ],
+    "confirmed_date": "4/11",
+    "state_name": "IN",
+    "county": "Hendricks"
+  },
+  {
+    "die_count": 3,
+    "full_links": [
+      "https://coronavirus.in.gov/2393.htm"
+    ],
+    "confirmed_date": "4/11",
+    "state_name": "IN",
+    "county": "Johnson"
+  },
+  {
+    "die_count": 2,
+    "full_links": [
+      "https://coronavirus.in.gov/2393.htm"
+    ],
+    "confirmed_date": "4/11",
+    "state_name": "IN",
+    "county": "Lake"
+  },
+  {
+    "die_count": 11,
+    "full_links": [
+      "https://coronavirus.in.gov/2393.htm"
+    ],
+    "confirmed_date": "4/11",
+    "state_name": "IN",
+    "county": "Marion"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://coronavirus.in.gov/2393.htm"
+    ],
+    "confirmed_date": "4/11",
+    "state_name": "IN",
+    "county": "Orange"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://coronavirus.in.gov/2393.htm"
+    ],
+    "confirmed_date": "4/11",
+    "state_name": "IN",
+    "county": "Porter"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://coronavirus.in.gov/2393.htm"
+    ],
+    "confirmed_date": "4/11",
+    "state_name": "IN",
+    "county": "St. Joseph"
+  },
+  {
+    "die_count": 1,
+    "state_name": "VT",
+    "county": "Chittenden",
+    "full_links": [
+      "https://www.healthvermont.gov/response/coronavirus-covid-19"
+    ],
+    "confirmed_date": "4/11"
   }
 ]
