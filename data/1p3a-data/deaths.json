@@ -51279,15 +51279,6 @@
     "confirmed_date": "4/8",
     "die_count": 1,
     "state_name": "CO",
-    "county": "Unassigned",
-    "full_links": [
-      "https://covid19.colorado.gov/case-data"
-    ]
-  },
-  {
-    "confirmed_date": "4/8",
-    "die_count": 1,
-    "state_name": "CO",
     "county": "Delta",
     "full_links": [
       "https://covid19.colorado.gov/case-data"
@@ -55082,15 +55073,6 @@
   {
     "confirmed_date": "4/9",
     "die_count": 1,
-    "state_name": "HI",
-    "county": "Unassigned",
-    "full_links": [
-      "https://health.hawaii.gov/coronavirusdisease2019/"
-    ]
-  },
-  {
-    "confirmed_date": "4/9",
-    "die_count": 1,
     "state_name": "CA",
     "county": "Riverside",
     "full_links": [
@@ -55158,15 +55140,6 @@
     "county": "Denton",
     "full_links": [
       "https://www.nbcdfw.com/news/coronavirus/denton-county-records-2-more-covid-19-deaths-28-new-cases-thursday/2348700/"
-    ]
-  },
-  {
-    "confirmed_date": "4/9",
-    "die_count": 33,
-    "state_name": "CO",
-    "county": "Unassigned",
-    "full_links": [
-      "https://covid19.colorado.gov/case-data"
     ]
   },
   {
@@ -56743,12 +56716,30 @@
     ]
   },
   {
+    "die_count": 1,
+    "full_links": [
+      "https://health.hawaii.gov/coronavirusdisease2019/what-you-should-know/current-situation-in-hawaii/"
+    ],
+    "state_name": "HI",
+    "county": "Honolulu",
+    "confirmed_date": "4/9"
+  },
+  {
     "confirmed_date": "4/10",
     "die_count": 2,
     "state_name": "IA",
     "county": "Unassigned",
     "full_links": [
       "https://idph.iowa.gov/Emerging-Health-Issues/Novel-Coronavirus"
+    ]
+  },
+  {
+    "confirmed_date": "4/10",
+    "die_count": 1,
+    "state_name": "CO",
+    "county": "Unassigned",
+    "full_links": [
+      "https://covid19.colorado.gov/case-data"
     ]
   },
   {
@@ -58862,6 +58853,160 @@
     ],
     "state_name": "DE",
     "county": "Unassigned",
+    "confirmed_date": "4/10"
+  },
+  {
+    "full_links": [
+      "https://covid19.colorado.gov/case-data"
+    ],
+    "state_name": "CO",
+    "county": "Denver",
+    "die_count": 9,
+    "confirmed_date": "4/10"
+  },
+  {
+    "die_count": 3,
+    "full_links": [
+      "https://covid19.colorado.gov/case-data"
+    ],
+    "state_name": "CO",
+    "county": "El Paso",
+    "confirmed_date": "4/10"
+  },
+  {
+    "die_count": 10,
+    "full_links": [
+      "https://covid19.colorado.gov/case-data"
+    ],
+    "state_name": "CO",
+    "county": "Weld",
+    "confirmed_date": "4/10"
+  },
+  {
+    "die_count": 2,
+    "full_links": [
+      "https://covid19.colorado.gov/case-data"
+    ],
+    "state_name": "CO",
+    "county": "Jefferson",
+    "confirmed_date": "4/10"
+  },
+  {
+    "die_count": 11,
+    "full_links": [
+      "https://covid19.colorado.gov/case-data"
+    ],
+    "state_name": "CO",
+    "county": "Arapahoe",
+    "confirmed_date": "4/10"
+  },
+  {
+    "die_count": 9,
+    "full_links": [
+      "https://covid19.colorado.gov/case-data"
+    ],
+    "state_name": "CO",
+    "county": "Adams",
+    "confirmed_date": "4/10"
+  },
+  {
+    "die_count": 2,
+    "full_links": [
+      "https://covid19.colorado.gov/case-data"
+    ],
+    "state_name": "CO",
+    "county": "Douglas",
+    "confirmed_date": "4/10"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://covid19.colorado.gov/case-data"
+    ],
+    "state_name": "CO",
+    "county": "Larimer",
+    "confirmed_date": "4/10"
+  },
+  {
+    "die_count": 4,
+    "full_links": [
+      "https://covid19.colorado.gov/case-data"
+    ],
+    "state_name": "CO",
+    "county": "Boulder",
+    "confirmed_date": "4/10"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://covid19.colorado.gov/case-data"
+    ],
+    "state_name": "CO",
+    "county": "Chaffee",
+    "confirmed_date": "4/10"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://covid19.colorado.gov/case-data"
+    ],
+    "state_name": "CO",
+    "county": "Garfield",
+    "confirmed_date": "4/10"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://covid19.colorado.gov/case-data"
+    ],
+    "state_name": "CO",
+    "county": "Teller",
+    "confirmed_date": "4/10"
+  },
+  {
+    "die_count": 2,
+    "full_links": [
+      "https://covid19.colorado.gov/case-data"
+    ],
+    "state_name": "CO",
+    "county": "Alamosa",
+    "confirmed_date": "4/10"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://covid19.colorado.gov/case-data"
+    ],
+    "state_name": "CO",
+    "county": "Ouray",
+    "confirmed_date": "4/10"
+  },
+  {
+    "die_count": 17,
+    "state_name": "NY",
+    "county": "Orange",
+    "full_links": [
+      "https://www.orangecountygov.com/1936/Coronavirus"
+    ],
+    "confirmed_date": "4/10",
+    "comments_en": "Reported by Orange County Health Department, may not include in NY total death right now."
+  },
+  {
+    "die_count": 2,
+    "full_links": [
+      "https://health.hawaii.gov/coronavirusdisease2019/what-you-should-know/current-situation-in-hawaii/"
+    ],
+    "state_name": "HI",
+    "county": "Maui",
+    "confirmed_date": "4/10"
+  },
+  {
+    "die_count": 3,
+    "state_name": "WA",
+    "county": "Snohomish",
+    "full_links": [
+      "https://www.snohd.org/499/COVID-19-Case-Count-Info"
+    ],
     "confirmed_date": "4/10"
   }
 ]
