@@ -59926,6 +59926,87 @@
     "confirmed_date": "4/10"
   },
   {
+    "die_count": 1,
+    "full_links": [
+      "https://msdh.ms.gov/msdhsite/_static/14,0,420.html#Mississippi"
+    ],
+    "confirmed_date": "4/10",
+    "state_name": "MS",
+    "county": "DeSoto"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://msdh.ms.gov/msdhsite/_static/14,0,420.html#Mississippi"
+    ],
+    "state_name": "MS",
+    "county": "Harrison",
+    "confirmed_date": "4/10"
+  },
+  {
+    "die_count": 2,
+    "full_links": [
+      "https://msdh.ms.gov/msdhsite/_static/14,0,420.html#Mississippi"
+    ],
+    "state_name": "MS",
+    "county": "Lauderdale",
+    "confirmed_date": "4/10"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://msdh.ms.gov/msdhsite/_static/14,0,420.html#Mississippi"
+    ],
+    "state_name": "MS",
+    "county": "Lee",
+    "confirmed_date": "4/10"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://msdh.ms.gov/msdhsite/_static/14,0,420.html#Mississippi"
+    ],
+    "state_name": "MS",
+    "county": "Marshall",
+    "confirmed_date": "4/10"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://msdh.ms.gov/msdhsite/_static/14,0,420.html#Mississippi"
+    ],
+    "state_name": "MS",
+    "county": "Monroe",
+    "confirmed_date": "4/10"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://msdh.ms.gov/msdhsite/_static/14,0,420.html#Mississippi"
+    ],
+    "state_name": "MS",
+    "county": "Panola",
+    "confirmed_date": "4/10"
+  },
+  {
+    "die_count": 2,
+    "full_links": [
+      "https://msdh.ms.gov/msdhsite/_static/14,0,420.html#Mississippi"
+    ],
+    "state_name": "MS",
+    "county": "Pearl River",
+    "confirmed_date": "4/10"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://msdh.ms.gov/msdhsite/_static/14,0,420.html#Mississippi"
+    ],
+    "state_name": "MS",
+    "county": "Union",
+    "confirmed_date": "4/10"
+  },
+  {
     "state_name": "PR",
     "county": "Puerto Rico",
     "full_links": [
@@ -60099,6 +60180,250 @@
     "county": "Chittenden",
     "full_links": [
       "https://www.healthvermont.gov/response/coronavirus-covid-19"
+    ],
+    "confirmed_date": "4/11"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.fairfaxcounty.gov/covid19/case-information"
+    ],
+    "confirmed_date": "4/11",
+    "state_name": "VA",
+    "county": "Fairfax"
+  },
+  {
+    "die_count": 8,
+    "full_links": [
+      "http://www.vdh.virginia.gov/coronavirus/"
+    ],
+    "confirmed_date": "4/11",
+    "state_name": "VA",
+    "county": "Unassigned"
+  },
+  {
+    "die_count": 3,
+    "state_name": "MD",
+    "county": "Anne Arundel",
+    "full_links": [
+      "https://coronavirus.maryland.gov/"
+    ],
+    "confirmed_date": "4/11"
+  },
+  {
+    "die_count": 4,
+    "state_name": "MD",
+    "county": "Baltimore",
+    "full_links": [
+      "https://coronavirus.maryland.gov/"
+    ],
+    "confirmed_date": "4/11"
+  },
+  {
+    "die_count": 7,
+    "state_name": "MD",
+    "county": "Baltimore City",
+    "full_links": [
+      "https://coronavirus.maryland.gov/"
+    ],
+    "confirmed_date": "4/11"
+  },
+  {
+    "die_count": 6,
+    "state_name": "MD",
+    "county": "Carroll",
+    "full_links": [
+      "https://coronavirus.maryland.gov/"
+    ],
+    "confirmed_date": "4/11"
+  },
+  {
+    "die_count": 1,
+    "state_name": "MD",
+    "county": "Charles",
+    "full_links": [
+      "https://coronavirus.maryland.gov/"
+    ],
+    "confirmed_date": "4/11"
+  },
+  {
+    "die_count": 2,
+    "state_name": "MD",
+    "county": "Frederick",
+    "full_links": [
+      "https://coronavirus.maryland.gov/"
+    ],
+    "confirmed_date": "4/11"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://coronavirus.maryland.gov/"
+    ],
+    "confirmed_date": "4/11",
+    "state_name": "MD",
+    "county": "Harford"
+  },
+  {
+    "die_count": 1,
+    "state_name": "MD",
+    "county": "Montgomery",
+    "full_links": [
+      "https://coronavirus.maryland.gov/"
+    ],
+    "confirmed_date": "4/11"
+  },
+  {
+    "die_count": 9,
+    "state_name": "MD",
+    "county": "Prince George's",
+    "full_links": [
+      "https://coronavirus.maryland.gov/"
+    ],
+    "confirmed_date": "4/11"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://coronavirus.maryland.gov/"
+    ],
+    "confirmed_date": "4/11",
+    "state_name": "MD",
+    "county": "Washington"
+  },
+  {
+    "die_count": 2,
+    "state_name": "WA",
+    "county": "Chelan",
+    "full_links": [
+      "https://cdhd.wa.gov/covid-19/"
+    ],
+    "confirmed_date": "4/11"
+  },
+  {
+    "die_count": 1,
+    "state_name": "ME",
+    "county": "Cumberland",
+    "full_links": [
+      "https://www.maine.gov/dhhs/mecdc/infectious-disease/epi/airborne/coronavirus.shtml"
+    ],
+    "confirmed_date": "4/11"
+  },
+  {
+    "die_count": 1,
+    "state_name": "ME",
+    "county": "York",
+    "full_links": [
+      "https://www.maine.gov/dhhs/mecdc/infectious-disease/epi/airborne/coronavirus.shtml"
+    ],
+    "confirmed_date": "4/11"
+  },
+  {
+    "die_count": 9,
+    "state_name": "DC",
+    "county": "District of Columbia",
+    "full_links": [
+      "https://coronavirus.dc.gov/page/coronavirus-data"
+    ],
+    "confirmed_date": "4/11"
+  },
+  {
+    "die_count": 1,
+    "state_name": "GU",
+    "county": "Guam",
+    "full_links": [
+      "http://dphss.guam.gov/covid-19/"
+    ],
+    "confirmed_date": "4/11"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://alpublichealth.maps.arcgis.com/apps/opsdashboard/index.html#/6d2771faa9da4a2786a509d82c8cf0f7"
+    ],
+    "confirmed_date": "4/11",
+    "state_name": "AL",
+    "county": "Tallapoosa"
+  },
+  {
+    "die_count": 740,
+    "state_name": "NY",
+    "county": "Unassigned",
+    "full_links": [
+      "https://twitter.com/NYGovCuomo/status/1248997823917375488"
+    ],
+    "confirmed_date": "4/11",
+    "comments_en": "By 4/11 noon, New York reported 8,627 total deaths, placeholder."
+  },
+  {
+    "die_count": 4,
+    "state_name": "FL",
+    "county": "Broward",
+    "full_links": [
+      "http://www.floridahealth.gov/diseases-and-conditions/COVID-19/"
+    ],
+    "confirmed_date": "4/11"
+  },
+  {
+    "die_count": 1,
+    "state_name": "FL",
+    "county": "Collier",
+    "full_links": [
+      "http://www.floridahealth.gov/diseases-and-conditions/COVID-19/"
+    ],
+    "confirmed_date": "4/11"
+  },
+  {
+    "die_count": 2,
+    "state_name": "FL",
+    "county": "Hillsborough",
+    "full_links": [
+      "http://www.floridahealth.gov/diseases-and-conditions/COVID-19/"
+    ],
+    "confirmed_date": "4/11"
+  },
+  {
+    "die_count": 1,
+    "state_name": "FL",
+    "county": "Lake",
+    "full_links": [
+      "http://www.floridahealth.gov/diseases-and-conditions/COVID-19/"
+    ],
+    "confirmed_date": "4/11"
+  },
+  {
+    "die_count": 7,
+    "state_name": "FL",
+    "county": "Miami-Dade",
+    "full_links": [
+      "http://www.floridahealth.gov/diseases-and-conditions/COVID-19/"
+    ],
+    "confirmed_date": "4/11"
+  },
+  {
+    "die_count": 1,
+    "state_name": "FL",
+    "county": "Orange",
+    "full_links": [
+      "http://www.floridahealth.gov/diseases-and-conditions/COVID-19/"
+    ],
+    "confirmed_date": "4/11"
+  },
+  {
+    "die_count": 1,
+    "state_name": "FL",
+    "county": "Palm Beach",
+    "full_links": [
+      "http://www.floridahealth.gov/diseases-and-conditions/COVID-19/"
+    ],
+    "confirmed_date": "4/11"
+  },
+  {
+    "die_count": 2,
+    "state_name": "FL",
+    "county": "Sarasota",
+    "full_links": [
+      "http://www.floridahealth.gov/diseases-and-conditions/COVID-19/"
     ],
     "confirmed_date": "4/11"
   }
