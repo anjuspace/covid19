@@ -27983,7 +27983,7 @@
     "die_count": 1,
     "age_range": "60+",
     "state_name": "GA",
-    "county": "Unassigned",
+    "county": "Unknown",
     "full_links": [
       "https://dph.georgia.gov/covid-19-daily-status-report",
       "https://www.11alive.com/article/news/health/coronavirus/coronavirus-deaths-in-georgia/85-e9bb2324-2e27-43ca-a347-ced78cbb186b"
@@ -28692,7 +28692,7 @@
     "die_count": 1,
     "age_range": "90+",
     "state_name": "GA",
-    "county": "Unassigned",
+    "county": "Unknown",
     "full_links": [
       "https://dph.georgia.gov/covid-19-daily-status-report",
       "https://www.11alive.com/article/news/health/coronavirus/coronavirus-deaths-in-georgia/85-e9bb2324-2e27-43ca-a347-ced78cbb186b"
@@ -28704,7 +28704,7 @@
     "die_count": 1,
     "age_range": "60+",
     "state_name": "GA",
-    "county": "Unassigned",
+    "county": "Unknown",
     "full_links": [
       "https://dph.georgia.gov/covid-19-daily-status-report",
       "https://www.11alive.com/article/news/health/coronavirus/coronavirus-deaths-in-georgia/85-e9bb2324-2e27-43ca-a347-ced78cbb186b"
@@ -28716,7 +28716,7 @@
     "die_count": 1,
     "age_range": "80+",
     "state_name": "GA",
-    "county": "Unassigned",
+    "county": "Unknown",
     "full_links": [
       "https://dph.georgia.gov/covid-19-daily-status-report",
       "https://www.11alive.com/article/news/health/coronavirus/coronavirus-deaths-in-georgia/85-e9bb2324-2e27-43ca-a347-ced78cbb186b"
@@ -37007,17 +37007,6 @@
   },
   {
     "confirmed_date": "4/5",
-    "gender": "男",
-    "die_count": 1,
-    "age_range": "50+",
-    "state_name": "GA",
-    "county": "Unassigned",
-    "full_links": [
-      "https://dph.georgia.gov/covid-19-daily-status-report"
-    ]
-  },
-  {
-    "confirmed_date": "4/5",
     "die_count": 1,
     "state_name": "TX",
     "county": "Jefferson",
@@ -39658,17 +39647,6 @@
     "county": "Lee",
     "full_links": [
       "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-04-06-0943.pdf"
-    ]
-  },
-  {
-    "confirmed_date": "4/6",
-    "gender": "男",
-    "die_count": 1,
-    "age_range": "60+",
-    "state_name": "GA",
-    "county": "Bryan",
-    "full_links": [
-      "https://dph.georgia.gov/covid-19-daily-status-report"
     ]
   },
   {
@@ -53894,17 +53872,6 @@
   },
   {
     "confirmed_date": "4/9",
-    "gender": "女",
-    "die_count": 1,
-    "age_range": "70+",
-    "state_name": "GA",
-    "county": "Richmond",
-    "full_links": [
-      "https://dph.georgia.gov/covid-19-daily-status-report"
-    ]
-  },
-  {
-    "confirmed_date": "4/9",
     "gender": "男",
     "die_count": 1,
     "age_range": "70+",
@@ -55607,6 +55574,15 @@
     "full_links": [
       "https://dph.georgia.gov/covid-19-daily-status-report",
       "https://www.11alive.com/article/news/health/coronavirus/coronavirus-deaths-in-georgia/85-e9bb2324-2e27-43ca-a347-ced78cbb186b"
+    ]
+  },
+  {
+    "confirmed_date": "4/9",
+    "die_count": 1,
+    "state_name": "GA",
+    "county": "Burke",
+    "full_links": [
+      "https://dph.georgia.gov/covid-19-daily-status-report"
     ]
   },
   {
@@ -59354,15 +59330,6 @@
   },
   {
     "confirmed_date": "4/10",
-    "die_count": 1,
-    "state_name": "GA",
-    "county": "Unassigned",
-    "full_links": [
-      "https://dph.georgia.gov/covid-19-daily-status-report"
-    ]
-  },
-  {
-    "confirmed_date": "4/10",
     "die_count": 3,
     "state_name": "CA",
     "county": "Santa Clara",
@@ -59917,93 +59884,21 @@
     "confirmed_date": "4/10"
   },
   {
-    "die_count": 1,
-    "full_links": [
-      "https://msdh.ms.gov/msdhsite/_static/14,0,420.html#Mississippi"
-    ],
-    "confirmed_date": "4/10",
-    "state_name": "MS",
-    "county": "DeSoto"
-  },
-  {
-    "die_count": 1,
-    "full_links": [
-      "https://msdh.ms.gov/msdhsite/_static/14,0,420.html#Mississippi"
-    ],
-    "state_name": "MS",
-    "county": "Harrison",
-    "confirmed_date": "4/10"
-  },
-  {
-    "die_count": 2,
-    "full_links": [
-      "https://msdh.ms.gov/msdhsite/_static/14,0,420.html#Mississippi"
-    ],
-    "state_name": "MS",
-    "county": "Lauderdale",
-    "confirmed_date": "4/10"
-  },
-  {
-    "die_count": 1,
-    "full_links": [
-      "https://msdh.ms.gov/msdhsite/_static/14,0,420.html#Mississippi"
-    ],
-    "state_name": "MS",
-    "county": "Lee",
-    "confirmed_date": "4/10"
-  },
-  {
-    "die_count": 1,
-    "full_links": [
-      "https://msdh.ms.gov/msdhsite/_static/14,0,420.html#Mississippi"
-    ],
-    "state_name": "MS",
-    "county": "Marshall",
-    "confirmed_date": "4/10"
-  },
-  {
-    "die_count": 1,
-    "full_links": [
-      "https://msdh.ms.gov/msdhsite/_static/14,0,420.html#Mississippi"
-    ],
-    "state_name": "MS",
-    "county": "Monroe",
-    "confirmed_date": "4/10"
-  },
-  {
-    "die_count": 1,
-    "full_links": [
-      "https://msdh.ms.gov/msdhsite/_static/14,0,420.html#Mississippi"
-    ],
-    "state_name": "MS",
-    "county": "Panola",
-    "confirmed_date": "4/10"
-  },
-  {
-    "die_count": 2,
-    "full_links": [
-      "https://msdh.ms.gov/msdhsite/_static/14,0,420.html#Mississippi"
-    ],
-    "state_name": "MS",
-    "county": "Pearl River",
-    "confirmed_date": "4/10"
-  },
-  {
-    "die_count": 1,
-    "full_links": [
-      "https://msdh.ms.gov/msdhsite/_static/14,0,420.html#Mississippi"
-    ],
-    "state_name": "MS",
-    "county": "Union",
-    "confirmed_date": "4/10"
-  },
-  {
     "die_count": 3,
     "full_links": [
       "https://idph.iowa.gov/Emerging-Health-Issues/Novel-Coronavirus"
     ],
     "state_name": "IA",
     "county": "Unassigned",
+    "confirmed_date": "4/10"
+  },
+  {
+    "die_count": 2,
+    "full_links": [
+      "https://www.azdhs.gov/preparedness/epidemiology-disease-control/infectious-disease-epidemiology/index.php#novel-coronavirus-home"
+    ],
+    "state_name": "AZ",
+    "county": "Maricopa",
     "confirmed_date": "4/10"
   },
   {
@@ -60355,7 +60250,7 @@
     "county": "Tallapoosa"
   },
   {
-    "die_count": 740,
+    "die_count": 52,
     "state_name": "NY",
     "county": "Unassigned",
     "full_links": [
@@ -60440,12 +60335,95 @@
   {
     "die_count": 1,
     "full_links": [
-      "https://www.health.nd.gov/diseases-conditions/coronavirus/north-dakota-coronavirus-cases"
+      "https://msdh.ms.gov/msdhsite/_static/14,0,420.html#Mississippi"
     ],
     "confirmed_date": "4/11",
+    "state_name": "MS",
+    "county": "DeSoto"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://msdh.ms.gov/msdhsite/_static/14,0,420.html#Mississippi"
+    ],
+    "state_name": "MS",
+    "county": "Harrison",
+    "confirmed_date": "4/11"
+  },
+  {
+    "die_count": 2,
+    "full_links": [
+      "https://msdh.ms.gov/msdhsite/_static/14,0,420.html#Mississippi"
+    ],
+    "state_name": "MS",
+    "county": "Lauderdale",
+    "confirmed_date": "4/11"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://msdh.ms.gov/msdhsite/_static/14,0,420.html#Mississippi"
+    ],
+    "state_name": "MS",
+    "county": "Lee",
+    "confirmed_date": "4/11"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://msdh.ms.gov/msdhsite/_static/14,0,420.html#Mississippi"
+    ],
+    "state_name": "MS",
+    "county": "Marshall",
+    "confirmed_date": "4/11"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://msdh.ms.gov/msdhsite/_static/14,0,420.html#Mississippi"
+    ],
+    "state_name": "MS",
+    "county": "Monroe",
+    "confirmed_date": "4/11"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://msdh.ms.gov/msdhsite/_static/14,0,420.html#Mississippi"
+    ],
+    "state_name": "MS",
+    "county": "Panola",
+    "confirmed_date": "4/11"
+  },
+  {
+    "die_count": 2,
+    "full_links": [
+      "https://msdh.ms.gov/msdhsite/_static/14,0,420.html#Mississippi"
+    ],
+    "state_name": "MS",
+    "county": "Pearl River",
+    "confirmed_date": "4/11"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://msdh.ms.gov/msdhsite/_static/14,0,420.html#Mississippi"
+    ],
+    "state_name": "MS",
+    "county": "Union",
+    "confirmed_date": "4/11"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.kvrr.com/2020/04/11/north-dakota-reports-7-covid-19-deaths/"
+    ],
+    "confirmed_date": "4/11",
+    "comments_en": "Will add details later",
     "state_name": "ND",
-    "county": "Unassigned",
-    "comments_en": "Will add details later"
+    "county": "Cass",
+    "age_range": "70+",
+    "gender": "女"
   },
   {
     "die_count": 1,
@@ -60671,5 +60649,432 @@
     "confirmed_date": "4/11",
     "state_name": "AL",
     "county": "Etowah"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://alpublichealth.maps.arcgis.com/apps/opsdashboard/index.html#/6d2771faa9da4a2786a509d82c8cf0f7"
+    ],
+    "confirmed_date": "4/11",
+    "state_name": "AL",
+    "county": "Jefferson"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://alpublichealth.maps.arcgis.com/apps/opsdashboard/index.html#/6d2771faa9da4a2786a509d82c8cf0f7"
+    ],
+    "confirmed_date": "4/11",
+    "state_name": "AL",
+    "county": "Lauderdale"
+  },
+  {
+    "die_count": 2,
+    "full_links": [
+      "https://alpublichealth.maps.arcgis.com/apps/opsdashboard/index.html#/6d2771faa9da4a2786a509d82c8cf0f7"
+    ],
+    "confirmed_date": "4/11",
+    "state_name": "AL",
+    "county": "Lee"
+  },
+  {
+    "die_count": 2,
+    "full_links": [
+      "https://alpublichealth.maps.arcgis.com/apps/opsdashboard/index.html#/6d2771faa9da4a2786a509d82c8cf0f7"
+    ],
+    "confirmed_date": "4/11",
+    "state_name": "AL",
+    "county": "Mobile"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://alpublichealth.maps.arcgis.com/apps/opsdashboard/index.html#/6d2771faa9da4a2786a509d82c8cf0f7"
+    ],
+    "confirmed_date": "4/11",
+    "state_name": "AL",
+    "county": "Randolph"
+  },
+  {
+    "confirmed_date": "4/11",
+    "die_count": 1,
+    "full_links": [
+      "https://dph.georgia.gov/covid-19-daily-status-report",
+      "https://www.11alive.com/article/news/health/coronavirus/coronavirus-deaths-in-georgia/85-e9bb2324-2e27-43ca-a347-ced78cbb186b"
+    ],
+    "state_name": "GA",
+    "county": "Bulloch"
+  },
+  {
+    "die_count": 1,
+    "state_name": "GA",
+    "county": "Clarke",
+    "full_links": [
+      "https://dph.georgia.gov/covid-19-daily-status-report"
+    ],
+    "confirmed_date": "4/11"
+  },
+  {
+    "confirmed_date": "4/11",
+    "die_count": 1,
+    "state_name": "GA",
+    "county": "Dougherty",
+    "full_links": [
+      "https://dph.georgia.gov/covid-19-daily-status-report"
+    ]
+  },
+  {
+    "die_count": 1,
+    "state_name": "GA",
+    "county": "Gwinnett",
+    "full_links": [
+      "https://dph.georgia.gov/covid-19-daily-status-report"
+    ],
+    "confirmed_date": "4/11"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://dph.georgia.gov/covid-19-daily-status-report"
+    ],
+    "confirmed_date": "4/11",
+    "state_name": "GA",
+    "county": "Habersham"
+  },
+  {
+    "die_count": 1,
+    "state_name": "GA",
+    "county": "Muscogee",
+    "full_links": [
+      "https://dph.georgia.gov/covid-19-daily-status-report"
+    ],
+    "confirmed_date": "4/11"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://dph.georgia.gov/covid-19-daily-status-report"
+    ],
+    "confirmed_date": "4/11",
+    "state_name": "GA",
+    "county": "Upson"
+  },
+  {
+    "die_count": 95,
+    "state_name": "FL",
+    "county": "Unknown",
+    "full_links": [
+      "https://floridahealthcovid19.gov/"
+    ],
+    "confirmed_date": "4/11"
+  },
+  {
+    "confirmed_date": "4/11",
+    "die_count": 1,
+    "state_name": "TX",
+    "county": "Denton",
+    "full_links": [
+      "https://gis-covid19-dentoncounty.hub.arcgis.com/pages/covid-19cases"
+    ]
+  },
+  {
+    "confirmed_date": "4/11",
+    "die_count": 1,
+    "state_name": "TX",
+    "county": "El Paso",
+    "full_links": [
+      "https://txdshs.maps.arcgis.com/apps/opsdashboard/index.html#/ed483ecd702b4298ab01e8b9cafc8b83"
+    ]
+  },
+  {
+    "confirmed_date": "4/11",
+    "die_count": 1,
+    "state_name": "TX",
+    "county": "Fort Bend",
+    "full_links": [
+      "https://txdshs.maps.arcgis.com/apps/opsdashboard/index.html#/ed483ecd702b4298ab01e8b9cafc8b83"
+    ]
+  },
+  {
+    "confirmed_date": "4/11",
+    "die_count": 1,
+    "state_name": "TX",
+    "county": "Hale",
+    "full_links": [
+      "https://txdshs.maps.arcgis.com/apps/opsdashboard/index.html#/ed483ecd702b4298ab01e8b9cafc8b83"
+    ]
+  },
+  {
+    "confirmed_date": "4/11",
+    "die_count": 1,
+    "state_name": "TX",
+    "county": "Hardin",
+    "full_links": [
+      "https://txdshs.maps.arcgis.com/apps/opsdashboard/index.html#/ed483ecd702b4298ab01e8b9cafc8b83"
+    ]
+  },
+  {
+    "die_count": 2,
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "confirmed_date": "4/11",
+    "state_name": "LA",
+    "county": "Allen"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "confirmed_date": "4/11",
+    "state_name": "LA",
+    "county": "Ascension"
+  },
+  {
+    "die_count": 2,
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "confirmed_date": "4/11",
+    "state_name": "LA",
+    "county": "Bossier"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://txdshs.maps.arcgis.com/apps/opsdashboard/index.html#/ed483ecd702b4298ab01e8b9cafc8b83"
+    ],
+    "confirmed_date": "4/11",
+    "state_name": "TX",
+    "county": "Howard"
+  },
+  {
+    "die_count": 3,
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "confirmed_date": "4/11",
+    "state_name": "LA",
+    "county": "Calcasieu"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "confirmed_date": "4/11",
+    "state_name": "LA",
+    "county": "Claiborne"
+  },
+  {
+    "die_count": 6,
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "confirmed_date": "4/11",
+    "state_name": "LA",
+    "county": "East Baton Rouge"
+  },
+  {
+    "die_count": 2,
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "confirmed_date": "4/11",
+    "state_name": "LA",
+    "county": "Iberville"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://txdshs.maps.arcgis.com/apps/opsdashboard/index.html#/ed483ecd702b4298ab01e8b9cafc8b83"
+    ],
+    "confirmed_date": "4/11",
+    "state_name": "TX",
+    "county": "Palo Pinto"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "confirmed_date": "4/11",
+    "state_name": "LA",
+    "county": "Jefferson"
+  },
+  {
+    "die_count": 5,
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "confirmed_date": "4/11",
+    "state_name": "LA",
+    "county": "Jefferson Davis"
+  },
+  {
+    "die_count": 1,
+    "state_name": "TX",
+    "county": "Potter",
+    "full_links": [
+      "https://txdshs.maps.arcgis.com/apps/opsdashboard/index.html#/ed483ecd702b4298ab01e8b9cafc8b83"
+    ],
+    "confirmed_date": "4/11"
+  },
+  {
+    "die_count": 7,
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "confirmed_date": "4/11",
+    "state_name": "LA",
+    "county": "Orleans"
+  },
+  {
+    "die_count": 1,
+    "state_name": "TX",
+    "county": "Randall",
+    "full_links": [
+      "https://txdshs.maps.arcgis.com/apps/opsdashboard/index.html#/ed483ecd702b4298ab01e8b9cafc8b83"
+    ],
+    "confirmed_date": "4/11"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "confirmed_date": "4/11",
+    "state_name": "LA",
+    "county": "Unassigned"
+  },
+  {
+    "die_count": 3,
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "confirmed_date": "4/11",
+    "state_name": "LA",
+    "county": "Plaquemines"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "confirmed_date": "4/11",
+    "state_name": "LA",
+    "county": "Rapides"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "confirmed_date": "4/11",
+    "state_name": "LA",
+    "county": "St. Charles"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "confirmed_date": "4/11",
+    "state_name": "LA",
+    "county": "St. John the Baptist"
+  },
+  {
+    "die_count": 5,
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "confirmed_date": "4/11",
+    "state_name": "LA",
+    "county": "St. Landry"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "confirmed_date": "4/11",
+    "state_name": "LA",
+    "county": "St. Martin"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "confirmed_date": "4/11",
+    "state_name": "LA",
+    "county": "St. Mary"
+  },
+  {
+    "die_count": 5,
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "confirmed_date": "4/11",
+    "state_name": "LA",
+    "county": "St. Tammany"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "confirmed_date": "4/11",
+    "state_name": "LA",
+    "county": "Tangipahoa"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "confirmed_date": "4/11",
+    "state_name": "LA",
+    "county": "Terrebonne"
+  },
+  {
+    "full_links": [
+      "https://www.azdhs.gov/preparedness/epidemiology-disease-control/infectious-disease-epidemiology/index.php#novel-coronavirus-home"
+    ],
+    "state_name": "AZ",
+    "county": "Maricopa",
+    "confirmed_date": "4/11",
+    "die_count": 6
+  },
+  {
+    "die_count": 547,
+    "state_name": "NY",
+    "county": "New York",
+    "full_links": [
+      "https://covid19tracker.health.ny.gov/views/NYS-COVID19-Tracker/NYSDOHCOVID-19Tracker-Fatalities?%3Aembed=yes&%3Atoolbar=no"
+    ],
+    "confirmed_date": "4/11",
+    "comments_en": "According to New York State Department of Health, NYC reached 6,367 deaths in total."
+  },
+  {
+    "die_count": 69,
+    "state_name": "NY",
+    "county": "Nassau",
+    "full_links": [
+      "https://covid19tracker.health.ny.gov/views/NYS-COVID19-Tracker/NYSDOHCOVID-19Tracker-Fatalities?%3Aembed=yes&%3Atoolbar=no"
+    ],
+    "confirmed_date": "4/11",
+    "comments_en": "Nassau County death number is consistent with NY.gov's residence of individual fatalities."
+  },
+  {
+    "die_count": 72,
+    "state_name": "NY",
+    "county": "Westchester",
+    "full_links": [
+      "https://covid19tracker.health.ny.gov/views/NYS-COVID19-Tracker/NYSDOHCOVID-19Tracker-Fatalities?%3Aembed=yes&%3Atoolbar=no"
+    ],
+    "confirmed_date": "4/11",
+    "comments_en": "Westchester County death number is consistent with NY.gov's residence of individual fatalities."
   }
 ]
