@@ -57986,15 +57986,6 @@
     "confirmed_date": "4/10",
     "die_count": 1,
     "state_name": "MI",
-    "county": "Chippewa",
-    "full_links": [
-      "https://www.michigan.gov/coronavirus/0,9753,7-406-98163_98173---,00.html"
-    ]
-  },
-  {
-    "confirmed_date": "4/10",
-    "die_count": 1,
-    "state_name": "MI",
     "county": "Clare",
     "full_links": [
       "https://www.michigan.gov/coronavirus/0,9753,7-406-98163_98173---,00.html"
@@ -58179,7 +58170,7 @@
   },
   {
     "confirmed_date": "4/10",
-    "comments_en": "414 individuals have died, up 52 from 362 on April 9",
+    "comments_en": "414 individuals have died, up 52 from 362 on April 9.",
     "die_count": 52,
     "state_name": "NY",
     "county": "Suffolk",
@@ -60348,7 +60339,7 @@
     "county": "Tallapoosa"
   },
   {
-    "die_count": 50,
+    "die_count": 6,
     "state_name": "NY",
     "county": "Unassigned",
     "full_links": [
@@ -61558,5 +61549,186 @@
     "full_links": [
       "https://coronavirus.ohio.gov/wps/portal/gov/covid-19/dashboards"
     ]
+  },
+  {
+    "die_count": 44,
+    "state_name": "NY",
+    "county": "Suffolk",
+    "full_links": [
+      "https://suffolkcountyny.gov/Departments/Health-Services/Health-Bulletins/Novel-Coronavirus/covid-19-case-update-april-11-2020-230-pm"
+    ],
+    "confirmed_date": "4/11",
+    "comments_en": "458 individuals have died, up 44 from 414 on April 10."
+  },
+  {
+    "confirmed_date": "4/11",
+    "die_count": 1,
+    "state_name": "MI",
+    "county": "Berrien",
+    "full_links": [
+      "https://www.michigan.gov/coronavirus/"
+    ]
+  },
+  {
+    "die_count": 1,
+    "state_name": "MI",
+    "county": "Dickinson",
+    "full_links": [
+      "https://content.govdelivery.com/accounts/ILLAKE/bulletins/283966a"
+    ],
+    "confirmed_date": "4/11"
+  },
+  {
+    "confirmed_date": "4/11",
+    "die_count": 5,
+    "state_name": "MI",
+    "county": "Genesee",
+    "full_links": [
+      "https://www.michigan.gov/coronavirus/0,9753,7-406-98163_98173---,00.html"
+    ]
+  },
+  {
+    "confirmed_date": "4/11",
+    "die_count": 21,
+    "state_name": "MI",
+    "county": "Wayne--Detroit",
+    "full_links": [
+      "\"https://www.michigan.gov/coronavirus/0,9753,7-406-98163_98173---,00.html\""
+    ]
+  },
+  {
+    "confirmed_date": "4/11",
+    "die_count": 1,
+    "state_name": "MI",
+    "county": "Isabella",
+    "full_links": [
+      "https://www.michigan.gov/coronavirus/0,9753,7-406-98163_98173---,00.html"
+    ]
+  },
+  {
+    "confirmed_date": "4/11",
+    "die_count": 12,
+    "state_name": "MI",
+    "county": "Macomb",
+    "full_links": [
+      "https://www.michigan.gov/coronavirus/0,9753,7-406-98163_98173---,00.html"
+    ]
+  },
+  {
+    "confirmed_date": "4/11",
+    "die_count": 1,
+    "state_name": "MI",
+    "county": "Monroe",
+    "full_links": [
+      "https://www.michigan.gov/coronavirus/0,9753,7-406-98163_98173---,00.html"
+    ]
+  },
+  {
+    "confirmed_date": "4/11",
+    "die_count": 34,
+    "state_name": "MI",
+    "county": "Oakland",
+    "full_links": [
+      "https://www.michigan.gov/coronavirus/0,9753,7-406-98163_98173---,00.html"
+    ]
+  },
+  {
+    "confirmed_date": "4/11",
+    "die_count": 1,
+    "state_name": "MI",
+    "county": "Ottawa",
+    "full_links": [
+      "https://www.michigan.gov/coronavirus/0,9753,7-406-98163_98173---,00.html"
+    ]
+  },
+  {
+    "confirmed_date": "4/11",
+    "die_count": 1,
+    "state_name": "MI",
+    "county": "Tuscola",
+    "full_links": [
+      "https://www.michigan.gov/coronavirus/0,9753,7-406-98163_98173---,00.html"
+    ]
+  },
+  {
+    "confirmed_date": "4/11",
+    "die_count": 5,
+    "state_name": "MI",
+    "county": "Unassigned",
+    "full_links": [
+      "\"https://www.michigan.gov/coronavirus/0,9753,7-406-98163_98173---,00.html\""
+    ]
+  },
+  {
+    "confirmed_date": "4/11",
+    "die_count": 3,
+    "state_name": "MI",
+    "county": "Washtenaw",
+    "full_links": [
+      "https://www.michigan.gov/coronavirus/0,9753,7-406-98163_98173---,00.html"
+    ]
+  },
+  {
+    "confirmed_date": "4/11",
+    "die_count": 22,
+    "state_name": "MI",
+    "county": "Wayne",
+    "full_links": [
+      "\"https://www.michigan.gov/coronavirus/0,9753,7-406-98163_98173---,00.html\""
+    ]
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.michigan.gov/coronavirus/0,9753,7-406-98163_98173---,00.html"
+    ],
+    "confirmed_date": "4/11",
+    "state_name": "MI",
+    "county": "Wexford"
+  },
+  {
+    "confirmed_date": "4/11",
+    "die_count": 3,
+    "state_name": "MI",
+    "county": "Michigan Department of Corrections (MDOC)",
+    "full_links": [
+      "https://www.michigan.gov/coronavirus/0,9753,7-406-98163_98173---,00.html"
+    ]
+  },
+  {
+    "full_links": [
+      "https://khap2.kdhe.state.ks.us/NewsRelease/COVID19/4-11-20_update_numbers.pdf"
+    ],
+    "confirmed_date": "4/11",
+    "state_name": "KS",
+    "county": "Unassigned",
+    "die_count": 5
+  },
+  {
+    "confirmed_date": "4/11",
+    "die_count": 7,
+    "state_name": "RI",
+    "county": "Unassigned",
+    "full_links": [
+      "https://health.ri.gov/data/covid-19/"
+    ]
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://coronavirus.utah.gov/case-counts/"
+    ],
+    "state_name": "UT",
+    "county": "unassigned",
+    "confirmed_date": "4/11"
+  },
+  {
+    "die_count": 1,
+    "state_name": "AK",
+    "county": "Unassigned",
+    "full_links": [
+      "https://coronavirus-response-alaska-dhss.hub.arcgis.com/datasets/daily-cases-hospitalizations-and-deaths-04apr2020-1"
+    ],
+    "confirmed_date": "4/11"
   }
 ]
