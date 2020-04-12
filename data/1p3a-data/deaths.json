@@ -65078,5 +65078,86 @@
       "https://www.ndoh.navajo-nsn.gov/COVID-19"
     ],
     "confirmed_date": "4/12"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "http://www.yavapai.us/chs?fbclid=IwAR14dMi7FLNntMVPoy0NtUxmE55QJFDXZmhoBDzSvS7KXzhGj4rjG5o_f3E"
+    ],
+    "confirmed_date": "4/12",
+    "state_name": "AZ",
+    "county": "Yavapai"
+  },
+  {
+    "die_count": 6,
+    "state_name": "MD",
+    "county": "Montgomery",
+    "full_links": [
+      "https://coronavirus.maryland.gov/"
+    ],
+    "confirmed_date": "4/12"
+  },
+  {
+    "die_count": 4,
+    "full_links": [
+      "https://coronavirus.maryland.gov/"
+    ],
+    "state_name": "MD",
+    "county": "Baltimore",
+    "confirmed_date": "4/12"
+  },
+  {
+    "die_count": 8,
+    "state_name": "MD",
+    "county": "Anne Arundel",
+    "full_links": [
+      "https://coronavirus.maryland.gov/"
+    ],
+    "confirmed_date": "4/12"
+  },
+  {
+    "die_count": 2,
+    "state_name": "MD",
+    "county": "Baltimore City",
+    "full_links": [
+      "https://coronavirus.maryland.gov/"
+    ],
+    "confirmed_date": "4/12"
+  },
+  {
+    "die_count": 4,
+    "state_name": "MD",
+    "county": "Charles",
+    "full_links": [
+      "https://coronavirus.maryland.gov/"
+    ],
+    "confirmed_date": "4/12"
+  },
+  {
+    "die_count": 1,
+    "state_name": "MD",
+    "county": "Frederick",
+    "full_links": [
+      "https://coronavirus.maryland.gov/"
+    ],
+    "confirmed_date": "4/12"
+  },
+  {
+    "die_count": 5,
+    "state_name": "MD",
+    "county": "Prince George's",
+    "full_links": [
+      "https://coronavirus.maryland.gov/"
+    ],
+    "confirmed_date": "4/12"
+  },
+  {
+    "die_count": 1,
+    "state_name": "VT",
+    "county": "Chittenden",
+    "full_links": [
+      "https://www.healthvermont.gov/response/infectious-disease/2019-novel-coronavirus"
+    ],
+    "confirmed_date": "4/12"
   }
 ]
