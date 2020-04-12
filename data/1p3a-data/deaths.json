@@ -49711,15 +49711,6 @@
     "confirmed_date": "4/8",
     "die_count": 1,
     "state_name": "OH",
-    "county": "Clinton",
-    "full_links": [
-      "https://coronavirus.ohio.gov/wps/portal/gov/covid-19/dashboards/overview/"
-    ]
-  },
-  {
-    "confirmed_date": "4/8",
-    "die_count": 1,
-    "state_name": "OH",
     "county": "Columbiana",
     "full_links": [
       "https://coronavirus.ohio.gov/wps/portal/gov/covid-19/dashboards/overview/"
@@ -65845,5 +65836,104 @@
     "full_links": [
       "https://www.nj.gov/health/cd/topics/covid2019_dashboard.shtml"
     ]
+  },
+  {
+    "confirmed_date": "4/12",
+    "die_count": 7,
+    "state_name": "RI",
+    "county": "Unassigned",
+    "full_links": [
+      "https://health.ri.gov/data/covid-19/"
+    ]
+  },
+  {
+    "die_count": 1,
+    "state_name": "CA",
+    "county": "San Francisco",
+    "full_links": [
+      "https://www.sfdph.org/dph/alerts/coronavirus.asp"
+    ],
+    "confirmed_date": "4/12"
+  },
+  {
+    "confirmed_date": "4/12",
+    "die_count": 1,
+    "state_name": "KS",
+    "county": "Johnson",
+    "full_links": [
+      "https://www.kshb.com/news/coronavirus/covid-19-case-tracker-where-we-stand-in-mo-ks-nationwide"
+    ]
+  },
+  {
+    "die_count": 1,
+    "state_name": "MO",
+    "county": "Clay",
+    "full_links": [
+      "https://www.kshb.com/news/coronavirus/covid-19-case-tracker-where-we-stand-in-mo-ks-nationwide"
+    ],
+    "confirmed_date": "4/12"
+  },
+  {
+    "die_count": 7,
+    "state_name": "MO",
+    "county": "Jackson",
+    "full_links": [
+      "https://www.kshb.com/news/coronavirus/covid-19-case-tracker-where-we-stand-in-mo-ks-nationwide"
+    ],
+    "confirmed_date": "4/12"
+  },
+  {
+    "confirmed_date": "4/12",
+    "die_count": 1,
+    "state_name": "OH",
+    "county": "Allen",
+    "full_links": [
+      "https://coronavirus.ohio.gov/wps/portal/gov/covid-19/dashboards"
+    ]
+  },
+  {
+    "confirmed_date": "4/12",
+    "die_count": 2,
+    "full_links": [
+      "https://coronavirus.ohio.gov/wps/portal/gov/covid-19/home/dashboard"
+    ],
+    "state_name": "OH",
+    "county": "Ashtabula"
+  },
+  {
+    "confirmed_date": "4/12",
+    "die_count": 1,
+    "state_name": "OH",
+    "county": "Cuyahoga",
+    "full_links": [
+      "https://coronavirus.ohio.gov/wps/portal/gov/covid-19/dashboards/overview/"
+    ]
+  },
+  {
+    "confirmed_date": "4/12",
+    "die_count": 1,
+    "state_name": "OH",
+    "county": "Portage",
+    "full_links": [
+      "https://coronavirus.ohio.gov/wps/portal/gov/covid-19/dashboards"
+    ]
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://coronavirus.ohio.gov/wps/portal/gov/covid-19/dashboards"
+    ],
+    "confirmed_date": "4/12",
+    "state_name": "OH",
+    "county": "Warren"
+  },
+  {
+    "confirmed_date": "4/12",
+    "die_count": 1,
+    "full_links": [
+      "https://coronavirus.ohio.gov/wps/portal/gov/covid-19/dashboards"
+    ],
+    "state_name": "OH",
+    "county": "Washington"
   }
 ]
