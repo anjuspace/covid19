@@ -28002,7 +28002,7 @@
     "die_count": 1,
     "age_range": "60+",
     "state_name": "GA",
-    "county": "Unknown",
+    "county": "Unassigned",
     "full_links": [
       "https://dph.georgia.gov/covid-19-daily-status-report",
       "https://www.11alive.com/article/news/health/coronavirus/coronavirus-deaths-in-georgia/85-e9bb2324-2e27-43ca-a347-ced78cbb186b"
@@ -28711,7 +28711,7 @@
     "die_count": 1,
     "age_range": "90+",
     "state_name": "GA",
-    "county": "Unknown",
+    "county": "Unassigned",
     "full_links": [
       "https://dph.georgia.gov/covid-19-daily-status-report",
       "https://www.11alive.com/article/news/health/coronavirus/coronavirus-deaths-in-georgia/85-e9bb2324-2e27-43ca-a347-ced78cbb186b"
@@ -28723,7 +28723,7 @@
     "die_count": 1,
     "age_range": "60+",
     "state_name": "GA",
-    "county": "Unknown",
+    "county": "Unassigned",
     "full_links": [
       "https://dph.georgia.gov/covid-19-daily-status-report",
       "https://www.11alive.com/article/news/health/coronavirus/coronavirus-deaths-in-georgia/85-e9bb2324-2e27-43ca-a347-ced78cbb186b"
@@ -28735,7 +28735,7 @@
     "die_count": 1,
     "age_range": "80+",
     "state_name": "GA",
-    "county": "Unknown",
+    "county": "Unassigned",
     "full_links": [
       "https://dph.georgia.gov/covid-19-daily-status-report",
       "https://www.11alive.com/article/news/health/coronavirus/coronavirus-deaths-in-georgia/85-e9bb2324-2e27-43ca-a347-ced78cbb186b"
@@ -65319,7 +65319,8 @@
     "state_name": "NY",
     "county": "Unassigned",
     "full_links": [
-      "https://twitter.com/NYGovCuomo?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
+      "https://twitter.com/NYGovCuomo?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+      "https://www.cnn.com/world/live-news/coronavirus-pandemic-04-12-20/index.html"
     ],
     "confirmed_date": "4/12",
     "comments_en": "Due to some counties' daily report, we may have more deaths than NY.gov.\nBy 4/12 noon, New York reported 9,385 total deaths, placeholder."
@@ -65354,5 +65355,15 @@
       "https://msdh.ms.gov/msdhsite/_static/14"
     ],
     "confirmed_date": "4/12"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.health.nd.gov/diseases-conditions/coronavirus/north-dakota-coronavirus-cases"
+    ],
+    "confirmed_date": "4/12",
+    "state_name": "ND",
+    "county": "Unassigned",
+    "comments_en": "Will update residence county when information is released"
   }
 ]
