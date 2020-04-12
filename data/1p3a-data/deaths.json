@@ -1,16 +1,5 @@
 [
   {
-    "confirmed_date": "1/1",
-    "gender": "男",
-    "die_count": 1,
-    "age_range": "40+",
-    "state_name": "GA",
-    "county": "Ware",
-    "full_links": [
-      "https://dph.georgia.gov/covid-19-daily-status-report"
-    ]
-  },
-  {
     "confirmed_date": "2/28",
     "gender": "女",
     "comments": " 美国第63例确诊患者、湾区/北加第二例不明传染源患者，65岁的女性，没有去过疫区，没有跟确诊患者接触过。【更新】该患者于3/9病逝。",
@@ -25625,6 +25614,17 @@
     "county": "Rockland",
     "full_links": [
       "https://www.lohud.com/story/news/coronavirus/2020/04/01/rockland-coronavirus-deaths-numbers-municipality/5101958002/"
+    ]
+  },
+  {
+    "confirmed_date": "4/1",
+    "gender": "男",
+    "die_count": 1,
+    "age_range": "40+",
+    "state_name": "GA",
+    "county": "Ware",
+    "full_links": [
+      "https://dph.georgia.gov/covid-19-daily-status-report"
     ]
   },
   {
@@ -65279,7 +65279,7 @@
     "comments_en": "Broken down by residence county once data are available"
   },
   {
-    "die_count": 100,
+    "die_count": 40,
     "state_name": "NY",
     "county": "Unassigned",
     "full_links": [
@@ -65935,5 +65935,51 @@
     ],
     "state_name": "OH",
     "county": "Washington"
+  },
+  {
+    "die_count": 1,
+    "state_name": "WI",
+    "county": "Kenosha",
+    "full_links": [
+      "https://www.dhs.wisconsin.gov/covid-19/county.htm"
+    ],
+    "confirmed_date": "4/12"
+  },
+  {
+    "die_count": 3,
+    "state_name": "WI",
+    "county": "Milwaukee",
+    "full_links": [
+      "https://www.dhs.wisconsin.gov/covid-19/county.htm"
+    ],
+    "confirmed_date": "4/12"
+  },
+  {
+    "die_count": 1,
+    "state_name": "WI",
+    "county": "Rock",
+    "full_links": [
+      "https://www.dhs.wisconsin.gov/covid-19/county.htm"
+    ],
+    "confirmed_date": "4/12"
+  },
+  {
+    "die_count": 1,
+    "state_name": "WI",
+    "county": "Waukesha",
+    "full_links": [
+      "https://www.dhs.wisconsin.gov/covid-19/county.htm"
+    ],
+    "confirmed_date": "4/12"
+  },
+  {
+    "die_count": 60,
+    "state_name": "NY",
+    "county": "Suffolk",
+    "full_links": [
+      "https://suffolkcountyny.gov/Departments/Health-Services/Health-Bulletins/Novel-Coronavirus/covid-19-case-update-april-12-2020-230-pm"
+    ],
+    "confirmed_date": "4/12",
+    "comments_en": "518 individuals have died, up 60 from 458 on April 11."
   }
 ]
