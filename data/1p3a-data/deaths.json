@@ -52534,7 +52534,7 @@
   },
   {
     "confirmed_date": "4/9",
-    "die_count": 8,
+    "die_count": 4,
     "state_name": "AZ",
     "county": "Unassigned",
     "full_links": [
@@ -57210,6 +57210,15 @@
     ]
   },
   {
+    "die_count": 4,
+    "state_name": "AZ",
+    "county": "Pima",
+    "full_links": [
+      "https://raw.githubusercontent.com/nytimes/covid-19-data/master/us-counties.csv"
+    ],
+    "confirmed_date": "4/9"
+  },
+  {
     "confirmed_date": "4/10",
     "die_count": 1,
     "state_name": "CA",
@@ -57911,7 +57920,7 @@
   },
   {
     "confirmed_date": "4/10",
-    "die_count": 6,
+    "die_count": 1,
     "state_name": "AZ",
     "county": "Unassigned",
     "full_links": [
@@ -58102,15 +58111,6 @@
     "county": "Philadelphia",
     "full_links": [
       "https://www.phila.gov/programs/coronavirus-disease-2019-covid-19/"
-    ]
-  },
-  {
-    "confirmed_date": "4/10",
-    "die_count": 1,
-    "state_name": "PA",
-    "county": "Susquehanna",
-    "full_links": [
-      "https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx"
     ]
   },
   {
@@ -61158,15 +61158,6 @@
   },
   {
     "confirmed_date": "4/11",
-    "die_count": 1,
-    "state_name": "MN",
-    "county": "Unassigned",
-    "full_links": [
-      "https://www.health.state.mn.us/diseases/coronavirus/situation.html"
-    ]
-  },
-  {
-    "confirmed_date": "4/11",
     "die_count": 2,
     "state_name": "PA",
     "county": "Monroe",
@@ -61817,7 +61808,7 @@
   },
   {
     "confirmed_date": "4/11",
-    "die_count": 10,
+    "die_count": 9,
     "state_name": "PA",
     "county": "Delaware",
     "full_links": [
@@ -62187,7 +62178,7 @@
   },
   {
     "confirmed_date": "4/11",
-    "die_count": 5,
+    "die_count": 1,
     "state_name": "LA",
     "county": "Jefferson Davis",
     "full_links": [
@@ -62223,16 +62214,7 @@
   },
   {
     "confirmed_date": "4/11",
-    "die_count": 1,
-    "state_name": "LA",
-    "county": "Unassigned",
-    "full_links": [
-      "http://ldh.la.gov/coronavirus/"
-    ]
-  },
-  {
-    "confirmed_date": "4/11",
-    "die_count": 3,
+    "die_count": 2,
     "state_name": "LA",
     "county": "Plaquemines",
     "full_links": [
@@ -62352,7 +62334,7 @@
   {
     "confirmed_date": "4/11",
     "comments_en": "Westchester County death number is consistent with NY.gov's residence of individual fatalities.",
-    "die_count": 72,
+    "die_count": 50,
     "state_name": "NY",
     "county": "Westchester",
     "full_links": [
@@ -62361,7 +62343,7 @@
   },
   {
     "confirmed_date": "4/11",
-    "die_count": 5,
+    "die_count": 1,
     "state_name": "AZ",
     "county": "Unassigned",
     "full_links": [
@@ -64982,15 +64964,6 @@
   },
   {
     "confirmed_date": "4/11",
-    "die_count": 3,
-    "state_name": "NV",
-    "county": "Unassigned",
-    "full_links": [
-      "https://app.powerbigov.us/view?r=eyJrIjoiMjA2ZThiOWUtM2FlNS00MGY5LWFmYjUtNmQwNTQ3Nzg5N2I2IiwidCI6ImU0YTM0MGU2LWI4OWUtNGU2OC04ZWFhLTE1NDRkMjcwMzk4MCJ9"
-    ]
-  },
-  {
-    "confirmed_date": "4/11",
     "gender": "女",
     "comments_en": "4/11, The county had three additional coronavirus-related deaths reported today, bringing the countywide total to 35. The decedents were an 89-year-old man, a 73-year-old woman and a 64-year-old man, all with underlying health conditions.",
     "die_count": 1,
@@ -65014,6 +64987,24 @@
     ]
   },
   {
+    "die_count": 2,
+    "state_name": "NN",
+    "county": "Unassigned",
+    "full_links": [
+      "https://www.ndoh.navajo-nsn.gov/COVID-19"
+    ],
+    "confirmed_date": "4/11"
+  },
+  {
+    "die_count": 9,
+    "state_name": "AZ",
+    "county": "Pima",
+    "full_links": [
+      "https://raw.githubusercontent.com/nytimes/covid-19-data/master/us-counties.csv"
+    ],
+    "confirmed_date": "4/11"
+  },
+  {
     "confirmed_date": "4/12",
     "die_count": 2,
     "state_name": "PR",
@@ -65021,15 +65012,6 @@
     "full_links": [
       "https://www.elnuevodia.com/noticias/locales/nota/subea42eltotaldevictimasmortalesporcoronavirusenpuertorico-2560281/"
     ]
-  },
-  {
-    "die_count": 1,
-    "state_name": "NV",
-    "county": "Unassigned",
-    "full_links": [
-      "https://app.powerbigov.us/view?r=eyJrIjoiMjA2ZThiOWUtM2FlNS00MGY5LWFmYjUtNmQwNTQ3Nzg5N2I2IiwidCI6ImU0YTM0MGU2LWI4OWUtNGU2OC04ZWFhLTE1NDRkMjcwMzk4MCJ9"
-    ],
-    "confirmed_date": "4/12"
   },
   {
     "die_count": 1,
@@ -65057,15 +65039,6 @@
     "confirmed_date": "4/12",
     "state_name": "AR",
     "county": "Phillips"
-  },
-  {
-    "die_count": 2,
-    "state_name": "NN",
-    "county": "Unassigned",
-    "full_links": [
-      "https://www.ndoh.navajo-nsn.gov/COVID-19"
-    ],
-    "confirmed_date": "4/12"
   },
   {
     "die_count": 1,
@@ -65315,7 +65288,7 @@
     "comments_en": "Broken down by residence county once data are available"
   },
   {
-    "die_count": 735,
+    "die_count": 100,
     "state_name": "NY",
     "county": "Unassigned",
     "full_links": [
@@ -65365,5 +65338,512 @@
     "state_name": "ND",
     "county": "Unassigned",
     "comments_en": "Will update residence county when information is released"
+  },
+  {
+    "die_count": 531,
+    "state_name": "NY",
+    "county": "New York",
+    "full_links": [
+      "https://covid19tracker.health.ny.gov/views/NYS-COVID19-Tracker/NYSDOHCOVID-19Tracker-Fatalities?%3Aembed=yes&%3Atoolbar=no"
+    ],
+    "confirmed_date": "4/12",
+    "comments_en": "According to New York State Department of Health, NYC reached 6,898 deaths in total."
+  },
+  {
+    "die_count": 72,
+    "state_name": "NY",
+    "county": "Westchester",
+    "full_links": [
+      "https://covid19tracker.health.ny.gov/views/NYS-COVID19-Tracker/NYSDOHCOVID-19Tracker-Fatalities?%3Aembed=yes&%3Atoolbar=no"
+    ],
+    "confirmed_date": "4/12",
+    "comments_en": "Westchester County death number is consistent with NY.gov's residence of individual fatalities."
+  },
+  {
+    "die_count": 54,
+    "state_name": "NY",
+    "county": "Nassau",
+    "full_links": [
+      "https://covid19tracker.health.ny.gov/views/NYS-COVID19-Tracker/NYSDOHCOVID-19Tracker-Fatalities?%3Aembed=yes&%3Atoolbar=no"
+    ],
+    "confirmed_date": "4/12",
+    "comments_en": "Nassau County death number is consistent with NY.gov's residence of individual fatalities."
+  },
+  {
+    "die_count": 1,
+    "state_name": "TX",
+    "county": "Washington",
+    "full_links": [
+      "https://txdshs.maps.arcgis.com/apps/opsdashboard/index.html#/ed483ecd702b4298ab01e8b9cafc8b83"
+    ],
+    "confirmed_date": "4/12"
+  },
+  {
+    "die_count": 2,
+    "full_links": [
+      "https://coronavirus.health.ok.gov/"
+    ],
+    "confirmed_date": "4/12",
+    "state_name": "OK",
+    "county": "Tulsa"
+  },
+  {
+    "die_count": 1,
+    "state_name": "PA",
+    "county": "Berks",
+    "full_links": [
+      "https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx"
+    ],
+    "confirmed_date": "4/12"
+  },
+  {
+    "confirmed_date": "4/12",
+    "die_count": 1,
+    "state_name": "PA",
+    "county": "Butler",
+    "full_links": [
+      "https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx"
+    ]
+  },
+  {
+    "confirmed_date": "4/12",
+    "die_count": 2,
+    "state_name": "PA",
+    "county": "Chester",
+    "full_links": [
+      "https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx"
+    ]
+  },
+  {
+    "confirmed_date": "4/12",
+    "die_count": 1,
+    "state_name": "PA",
+    "county": "Columbia",
+    "full_links": [
+      "https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx"
+    ]
+  },
+  {
+    "confirmed_date": "4/12",
+    "die_count": 1,
+    "state_name": "PA",
+    "county": "Dauphin",
+    "full_links": [
+      "https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx"
+    ]
+  },
+  {
+    "confirmed_date": "4/12",
+    "die_count": 1,
+    "state_name": "PA",
+    "county": "Lancaster",
+    "full_links": [
+      "https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx"
+    ]
+  },
+  {
+    "confirmed_date": "4/12",
+    "die_count": 2,
+    "state_name": "PA",
+    "county": "Lehigh",
+    "full_links": [
+      "https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx"
+    ]
+  },
+  {
+    "confirmed_date": "4/12",
+    "die_count": 1,
+    "state_name": "PA",
+    "county": "Monroe",
+    "full_links": [
+      "https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx"
+    ]
+  },
+  {
+    "confirmed_date": "4/12",
+    "die_count": 3,
+    "state_name": "PA",
+    "county": "Montgomery",
+    "full_links": [
+      "https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx"
+    ]
+  },
+  {
+    "confirmed_date": "4/12",
+    "die_count": 16,
+    "state_name": "PA",
+    "county": "Philadelphia",
+    "full_links": [
+      "https://www.phila.gov/programs/coronavirus-disease-2019-covid-19/"
+    ]
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "confirmed_date": "4/12",
+    "state_name": "LA",
+    "county": "Acadia"
+  },
+  {
+    "die_count": 3,
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "confirmed_date": "4/12",
+    "state_name": "LA",
+    "county": "Ascension"
+  },
+  {
+    "die_count": 4,
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "confirmed_date": "4/12",
+    "state_name": "LA",
+    "county": "Calcasieu"
+  },
+  {
+    "die_count": 4,
+    "state_name": "MN",
+    "county": "Hennepin",
+    "full_links": [
+      "https://www.health.state.mn.us/diseases/coronavirus/situation.html"
+    ],
+    "confirmed_date": "4/12"
+  },
+  {
+    "die_count": 4,
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "confirmed_date": "4/12",
+    "state_name": "LA",
+    "county": "East Baton Rouge"
+  },
+  {
+    "die_count": 2,
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "confirmed_date": "4/12",
+    "state_name": "LA",
+    "county": "Iberville"
+  },
+  {
+    "die_count": 7,
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "confirmed_date": "4/12",
+    "state_name": "LA",
+    "county": "Jefferson"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "confirmed_date": "4/12",
+    "state_name": "LA",
+    "county": "Lafayette"
+  },
+  {
+    "die_count": 1,
+    "state_name": "MN",
+    "county": "St. Louis",
+    "full_links": [
+      "https://www.health.state.mn.us/diseases/coronavirus/situation.html"
+    ],
+    "confirmed_date": "4/12"
+  },
+  {
+    "die_count": 3,
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "confirmed_date": "4/12",
+    "state_name": "LA",
+    "county": "Orleans"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "confirmed_date": "4/12",
+    "state_name": "LA",
+    "county": "Parish Under Investigation"
+  },
+  {
+    "die_count": 1,
+    "state_name": "MN",
+    "county": "Washington",
+    "full_links": [
+      "https://www.health.state.mn.us/diseases/coronavirus/situation.html"
+    ],
+    "confirmed_date": "4/12"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "confirmed_date": "4/12",
+    "state_name": "LA",
+    "county": "Red River"
+  },
+  {
+    "die_count": 1,
+    "state_name": "MN",
+    "county": "Winona",
+    "full_links": [
+      "https://www.health.state.mn.us/diseases/coronavirus/situation.html"
+    ],
+    "confirmed_date": "4/12"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "confirmed_date": "4/12",
+    "state_name": "LA",
+    "county": "St. Charles"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "confirmed_date": "4/12",
+    "state_name": "LA",
+    "county": "St. James"
+  },
+  {
+    "die_count": 2,
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "confirmed_date": "4/12",
+    "state_name": "LA",
+    "county": "St. Landry"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "confirmed_date": "4/12",
+    "state_name": "LA",
+    "county": "St. Martin"
+  },
+  {
+    "die_count": 7,
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "confirmed_date": "4/12",
+    "state_name": "LA",
+    "county": "St. Tammany"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "http://ldh.la.gov/coronavirus/"
+    ],
+    "confirmed_date": "4/12",
+    "state_name": "LA",
+    "county": "Tangipahoa"
+  },
+  {
+    "die_count": 4,
+    "state_name": "NV",
+    "county": "Clark",
+    "full_links": [
+      "http://media.southernnevadahealthdistrict.org/download/COVID-19/updates/20200411-Daily-Aggregate-COVID19.pdf"
+    ],
+    "confirmed_date": "4/12"
+  },
+  {
+    "die_count": 6,
+    "state_name": "AZ",
+    "county": "Unassigned",
+    "full_links": [
+      "https://www.azdhs.gov/preparedness/epidemiology-disease-control/infectious-disease-epidemiology/index.php#novel-coronavirus-home"
+    ],
+    "confirmed_date": "4/12"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://vtdigger.org/2020/04/02/covid-19-update-state-models-scenarios-cases-reach-338-17-deaths/"
+    ],
+    "confirmed_date": "4/12",
+    "state_name": "VT",
+    "county": "Addison"
+  },
+  {
+    "confirmed_date": "4/12",
+    "die_count": 1,
+    "state_name": "NJ",
+    "county": "Atlantic",
+    "full_links": [
+      "https://www.nj.gov/health/cd/topics/covid2019_dashboard.shtml"
+    ]
+  },
+  {
+    "confirmed_date": "4/12",
+    "die_count": 18,
+    "state_name": "NJ",
+    "county": "Bergen",
+    "full_links": [
+      "https://www.nj.gov/health/cd/topics/covid2019_dashboard.shtml"
+    ]
+  },
+  {
+    "confirmed_date": "4/12",
+    "die_count": 1,
+    "state_name": "NJ",
+    "county": "Burlington",
+    "full_links": [
+      "https://www.nj.gov/health/cd/topics/covid2019_dashboard.shtml"
+    ]
+  },
+  {
+    "confirmed_date": "4/12",
+    "die_count": 3,
+    "state_name": "NJ",
+    "county": "Camden",
+    "full_links": [
+      "https://www.nj.gov/health/cd/topics/covid2019_dashboard.shtml"
+    ]
+  },
+  {
+    "confirmed_date": "4/12",
+    "die_count": 4,
+    "state_name": "NJ",
+    "county": "Cape May",
+    "full_links": [
+      "https://www.nj.gov/health/cd/topics/covid2019_dashboard.shtml"
+    ]
+  },
+  {
+    "confirmed_date": "4/12",
+    "die_count": 16,
+    "state_name": "NJ",
+    "county": "Essex",
+    "full_links": [
+      "https://covid19.nj.gov/index.html#live-updates"
+    ]
+  },
+  {
+    "confirmed_date": "4/12",
+    "die_count": 43,
+    "state_name": "NJ",
+    "county": "Hudson",
+    "full_links": [
+      "https://www.nj.gov/health/cd/topics/covid2019_dashboard.shtml"
+    ]
+  },
+  {
+    "confirmed_date": "4/12",
+    "die_count": 1,
+    "state_name": "NJ",
+    "county": "Mercer",
+    "full_links": [
+      "https://www.nj.gov/health/cd/topics/covid2019_dashboard.shtml"
+    ]
+  },
+  {
+    "confirmed_date": "4/12",
+    "die_count": 16,
+    "state_name": "NJ",
+    "county": "Middlesex",
+    "full_links": [
+      "https://www.nj.gov/health/cd/topics/covid2019_dashboard.shtml"
+    ]
+  },
+  {
+    "confirmed_date": "4/12",
+    "die_count": 8,
+    "state_name": "NJ",
+    "county": "Monmouth",
+    "full_links": [
+      "https://www.nj.gov/health/cd/topics/covid2019_dashboard.shtml"
+    ]
+  },
+  {
+    "confirmed_date": "4/12",
+    "die_count": 10,
+    "state_name": "NJ",
+    "county": "Morris",
+    "full_links": [
+      "https://www.nj.gov/health/cd/topics/covid2019_dashboard.shtml"
+    ]
+  },
+  {
+    "confirmed_date": "4/12",
+    "die_count": 6,
+    "state_name": "NJ",
+    "county": "Ocean",
+    "full_links": [
+      "https://www.nj.gov/health/cd/topics/covid2019_dashboard.shtml"
+    ]
+  },
+  {
+    "confirmed_date": "4/12",
+    "die_count": 12,
+    "state_name": "NJ",
+    "county": "Passaic",
+    "full_links": [
+      "https://www.nj.gov/health/cd/topics/covid2019_dashboard.shtml"
+    ]
+  },
+  {
+    "confirmed_date": "4/12",
+    "die_count": 1,
+    "state_name": "NJ",
+    "county": "Salem",
+    "full_links": [
+      "https://www.nj.gov/health/cd/topics/covid2019_dashboard.shtml"
+    ]
+  },
+  {
+    "confirmed_date": "4/12",
+    "die_count": 1,
+    "state_name": "NJ",
+    "county": "Somerset",
+    "full_links": [
+      "https://www.nj.gov/health/cd/topics/covid2019_dashboard.shtml"
+    ]
+  },
+  {
+    "confirmed_date": "4/12",
+    "die_count": 8,
+    "state_name": "NJ",
+    "county": "Sussex",
+    "full_links": [
+      "https://www.nj.gov/health/cd/topics/covid2019_dashboard.shtml"
+    ]
+  },
+  {
+    "confirmed_date": "4/12",
+    "die_count": 14,
+    "state_name": "NJ",
+    "county": "Union",
+    "full_links": [
+      "https://www.nj.gov/health/cd/topics/covid2019_dashboard.shtml"
+    ]
+  },
+  {
+    "confirmed_date": "4/12",
+    "die_count": 4,
+    "state_name": "NJ",
+    "county": "Warren",
+    "full_links": [
+      "https://www.nj.gov/health/cd/topics/covid2019_dashboard.shtml"
+    ]
   }
 ]
