@@ -65024,5 +65024,59 @@
     "full_links": [
       "http://www.buckscounty.org/news/2020News/2020/04/12/pa-health-official-sounds-hopeful-note-as-covid-19-numbers-slow-down"
     ]
+  },
+  {
+    "confirmed_date": "4/12",
+    "die_count": 2,
+    "state_name": "PR",
+    "county": "Puerto Rico",
+    "full_links": [
+      "https://www.elnuevodia.com/noticias/locales/nota/subea42eltotaldevictimasmortalesporcoronavirusenpuertorico-2560281/"
+    ]
+  },
+  {
+    "die_count": 1,
+    "state_name": "NV",
+    "county": "Unassigned",
+    "full_links": [
+      "https://app.powerbigov.us/view?r=eyJrIjoiMjA2ZThiOWUtM2FlNS00MGY5LWFmYjUtNmQwNTQ3Nzg5N2I2IiwidCI6ImU0YTM0MGU2LWI4OWUtNGU2OC04ZWFhLTE1NDRkMjcwMzk4MCJ9"
+    ],
+    "confirmed_date": "4/12"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.kshb.com/news/coronavirus/covid-19-case-tracker-where-we-stand-in-mo-ks-nationwide"
+    ],
+    "state_name": "MO",
+    "county": "Unassigned",
+    "confirmed_date": "4/12"
+  },
+  {
+    "die_count": 1,
+    "state_name": "AR",
+    "county": "Jefferson",
+    "full_links": [
+      "https://www.healthy.arkansas.gov/programs-services/topics/novel-coronavirus"
+    ],
+    "confirmed_date": "4/12"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.healthy.arkansas.gov/programs-services/topics/novel-coronavirus"
+    ],
+    "confirmed_date": "4/12",
+    "state_name": "AR",
+    "county": "Phillips"
+  },
+  {
+    "die_count": 2,
+    "state_name": "NN",
+    "county": "Unassigned",
+    "full_links": [
+      "https://www.ndoh.navajo-nsn.gov/COVID-19"
+    ],
+    "confirmed_date": "4/12"
   }
 ]
