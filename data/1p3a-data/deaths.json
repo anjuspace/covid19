@@ -64644,18 +64644,6 @@
   },
   {
     "confirmed_date": "4/11",
-    "gender": "Unknown",
-    "die_count": 1,
-    "age_range": "70+",
-    "state_name": "FL",
-    "county": "Miami-Dade",
-    "full_links": [
-      "http://www.floridahealth.gov/diseases-and-conditions/COVID-19/",
-      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-04-11-1725.pdf"
-    ]
-  },
-  {
-    "confirmed_date": "4/11",
     "gender": "男",
     "die_count": 1,
     "age_range": "30+",
@@ -65157,6 +65145,213 @@
     "county": "Chittenden",
     "full_links": [
       "https://www.healthvermont.gov/response/infectious-disease/2019-novel-coronavirus"
+    ],
+    "confirmed_date": "4/12"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://coronavirus.in.gov/"
+    ],
+    "confirmed_date": "4/12",
+    "state_name": "IN",
+    "county": "Adams"
+  },
+  {
+    "die_count": 1,
+    "state_name": "IN",
+    "county": "Hamilton",
+    "full_links": [
+      "https://coronavirus.in.gov/"
+    ],
+    "confirmed_date": "4/12"
+  },
+  {
+    "die_count": 1,
+    "state_name": "IN",
+    "county": "Hendricks",
+    "full_links": [
+      "https://coronavirus.in.gov/"
+    ],
+    "confirmed_date": "4/12"
+  },
+  {
+    "die_count": 1,
+    "state_name": "IN",
+    "county": "Johnson",
+    "full_links": [
+      "https://coronavirus.in.gov/"
+    ],
+    "confirmed_date": "4/12"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://coronavirus.in.gov/"
+    ],
+    "confirmed_date": "4/12",
+    "state_name": "IN",
+    "county": "Madison"
+  },
+  {
+    "die_count": 5,
+    "state_name": "IN",
+    "county": "Marion",
+    "full_links": [
+      "https://coronavirus.in.gov/"
+    ],
+    "confirmed_date": "4/12"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://coronavirus.in.gov/"
+    ],
+    "confirmed_date": "4/12",
+    "state_name": "IN",
+    "county": "Monroe"
+  },
+  {
+    "die_count": 1,
+    "state_name": "IN",
+    "county": "Porter",
+    "full_links": [
+      "https://coronavirus.in.gov/"
+    ],
+    "confirmed_date": "4/12"
+  },
+  {
+    "die_count": 1,
+    "state_name": "IN",
+    "county": "Putnam",
+    "full_links": [
+      "https://coronavirus.in.gov/"
+    ],
+    "confirmed_date": "4/12"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://www.summitdaily.com/news/summit-county-man-who-died-later-tests-positive-for-coronavirus/"
+    ],
+    "confirmed_date": "4/12",
+    "state_name": "CO",
+    "county": "Summit",
+    "gender": "男",
+    "age_range": "60+"
+  },
+  {
+    "die_count": 2,
+    "full_links": [
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-04-12-1001.pdf"
+    ],
+    "confirmed_date": "4/12",
+    "state_name": "FL",
+    "county": "Miami-Dade",
+    "age_range": "60+",
+    "gender": "女"
+  },
+  {
+    "die_count": 2,
+    "full_links": [
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-04-12-1001.pdf"
+    ],
+    "confirmed_date": "4/12",
+    "state_name": "FL",
+    "county": "Miami-Dade",
+    "age_range": "70+",
+    "gender": "男"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-04-12-1001.pdf"
+    ],
+    "confirmed_date": "4/12",
+    "state_name": "FL",
+    "county": "Miami-Dade",
+    "age_range": "80+",
+    "gender": "男"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-04-12-1001.pdf"
+    ],
+    "confirmed_date": "4/12",
+    "state_name": "FL",
+    "county": "Pasco",
+    "age_range": "80+",
+    "gender": "女"
+  },
+  {
+    "die_count": 1,
+    "full_links": [
+      "https://floridadisaster.org/globalassets/covid19/dailies/covid-19-data---daily-report-2020-04-12-1001.pdf"
+    ],
+    "confirmed_date": "4/12",
+    "state_name": "FL",
+    "county": "Pinellas",
+    "age_range": "70+",
+    "gender": "男"
+  },
+  {
+    "die_count": 3,
+    "state_name": "DC",
+    "county": "District of Columbia",
+    "full_links": [
+      "https://coronavirus.dc.gov/page/coronavirus-data"
+    ],
+    "confirmed_date": "4/12"
+  },
+  {
+    "die_count": 11,
+    "full_links": [
+      "http://www.vdh.virginia.gov/coronavirus/"
+    ],
+    "confirmed_date": "4/12",
+    "state_name": "VA",
+    "county": "Unassigned",
+    "comments_en": "Broken down by residence county once data are available"
+  },
+  {
+    "die_count": 735,
+    "state_name": "NY",
+    "county": "Unassigned",
+    "full_links": [
+      "https://twitter.com/NYGovCuomo?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
+    ],
+    "confirmed_date": "4/12",
+    "comments_en": "Due to some counties' daily report, we may have more deaths than NY.gov.\nBy 4/12 noon, New York reported 9,385 total deaths, placeholder."
+  },
+  {
+    "die_count": 1,
+    "state_name": "MS",
+    "county": "Lee",
+    "full_links": [
+      "https://msdh.ms.gov/msdhsite/_static/14,0,420.html#Mississippi"
+    ],
+    "confirmed_date": "4/12"
+  },
+  {
+    "die_count": 1,
+    "state_name": "MS",
+    "county": "Lincoln",
+    "full_links": [
+      "420.html",
+      "0",
+      "https://msdh.ms.gov/msdhsite/_static/14"
+    ],
+    "confirmed_date": "4/12"
+  },
+  {
+    "die_count": 1,
+    "state_name": "MS",
+    "county": "Pearl River",
+    "full_links": [
+      "420.html",
+      "0",
+      "https://msdh.ms.gov/msdhsite/_static/14"
     ],
     "confirmed_date": "4/12"
   }
