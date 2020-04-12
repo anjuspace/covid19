@@ -11341,6 +11341,18 @@
     ]
   },
   {
+    "die_count": 2,
+    "state_name": "VA",
+    "county": "Henrico",
+    "full_links": [
+      "https://www.wsls.com/news/2020/03/26/fourth-person-at-henrico-county-rehab-center-dies-from-coronavirus/"
+    ],
+    "confirmed_date": "3/26",
+    "comments_en": "Fourth person at Henrico County rehab center dies from coronavirus",
+    "gender": "男",
+    "age_range": "70+"
+  },
+  {
     "confirmed_date": "3/27",
     "gender": "女",
     "comments": "3/27， 48岁女性患者为第三例死亡病例。 ",
@@ -15876,19 +15888,6 @@
   },
   {
     "confirmed_date": "3/29",
-    "comments_en": "There are now 890 confirmed COVID-19 cases in Virginia with 122 patients hospitalized and at least 22 people dead.",
-    "die_count": 5,
-    "full_links": [
-      "https://www.washingtonpost.com/graphics/local/dc-maryland-virginia-coronavirus-cases/",
-      "http://www.vdh.virginia.gov/coronavirus/",
-      "https://www.nbc12.com/2020/03/29/almost-covid-cases-virginia-with-deaths/",
-      "https://www.wtvr.com/news/coronavirus/covid-19-in-virginia-live-updates-for-sunday-march-29"
-    ],
-    "state_name": "VA",
-    "county": "Henrico"
-  },
-  {
-    "confirmed_date": "3/29",
     "gender": "男",
     "comments": "We're sad to confirm a 4th COVID-19 death in WyCo, a man in his 90s.",
     "comments_en": "Wyandotte County health officials are reporting their fourth death related to coronavirus COVID-19. This also marks the six death in Kansas with one death in Johnson County, Kansas and one death in Shawnee County.\n\nWe're sad to confirm a 4th COVID-19 death in WyCo, a man in his 90s.\n",
@@ -17443,7 +17442,7 @@
     ]
   },
   {
-    "die_count": 1,
+    "die_count": 4,
     "state_name": "VA",
     "county": "Henrico",
     "full_links": [
@@ -25947,7 +25946,7 @@
   },
   {
     "confirmed_date": "4/1",
-    "die_count": 3,
+    "die_count": 4,
     "state_name": "VA",
     "county": "Henrico",
     "full_links": [
@@ -29512,7 +29511,7 @@
   },
   {
     "confirmed_date": "4/3",
-    "die_count": 5,
+    "die_count": 4,
     "state_name": "VA",
     "county": "Unassigned",
     "full_links": [
