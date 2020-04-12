@@ -58177,7 +58177,7 @@
   {
     "confirmed_date": "4/10",
     "comments_en": "Nassau County death number is consistent with NY.gov's residence of individual fatalities.",
-    "die_count": 90,
+    "die_count": 70,
     "state_name": "NY",
     "county": "Nassau",
     "full_links": [
@@ -58683,7 +58683,7 @@
   {
     "confirmed_date": "4/10",
     "comments_en": "Reported by Rockland County Coronavirus COVID-19 Dashboard, may not include in NY total death right now.",
-    "die_count": 28,
+    "die_count": 3,
     "state_name": "NY",
     "county": "Rockland",
     "full_links": [
@@ -59459,12 +59459,12 @@
   {
     "confirmed_date": "4/10",
     "comments_en": "Reported by Orange County Health Department, may not include in NY total death right now.",
-    "die_count": 17,
     "state_name": "NY",
     "county": "Orange",
     "full_links": [
       "https://www.orangecountygov.com/1936/Coronavirus"
-    ]
+    ],
+    "die_count": 17
   },
   {
     "confirmed_date": "4/10",
@@ -62218,7 +62218,7 @@
     "comments_en": "According to New York State Department of Health, NYC reached 6,367 deaths in total."
   },
   {
-    "die_count": 69,
+    "die_count": 89,
     "state_name": "NY",
     "county": "Nassau",
     "full_links": [
@@ -62228,14 +62228,14 @@
     "comments_en": "Nassau County death number is consistent with NY.gov's residence of individual fatalities."
   },
   {
-    "die_count": 72,
     "state_name": "NY",
     "county": "Westchester",
     "full_links": [
       "https://covid19tracker.health.ny.gov/views/NYS-COVID19-Tracker/NYSDOHCOVID-19Tracker-Fatalities?%3Aembed=yes&%3Atoolbar=no"
     ],
     "confirmed_date": "4/11",
-    "comments_en": "Westchester County death number is consistent with NY.gov's residence of individual fatalities."
+    "comments_en": "Westchester County death number is consistent with NY.gov's residence of individual fatalities.",
+    "die_count": 72
   },
   {
     "die_count": 5,
@@ -64042,14 +64042,14 @@
     "county": "Washoe"
   },
   {
-    "die_count": 13,
     "state_name": "NY",
     "county": "Orange",
     "full_links": [
       "https://www.facebook.com/336752263752/posts/10157377047208753/?vh=e&d=n"
     ],
     "confirmed_date": "4/11",
-    "comments_en": "Reported by Orange County Health Department, may not include in NY total death right now."
+    "comments_en": "Reported by Orange County Health Department, may not include in NY total death right now.",
+    "die_count": 13
   },
   {
     "die_count": 2,
@@ -64819,5 +64819,33 @@
     "full_links": [
       "https://coronavirus.maryland.gov/"
     ]
+  },
+  {
+    "die_count": 1,
+    "state_name": "WA",
+    "county": "Yakima",
+    "full_links": [
+      "https://www.yakimacounty.us/2323/COVID-19"
+    ],
+    "confirmed_date": "4/11"
+  },
+  {
+    "die_count": 25,
+    "state_name": "NY",
+    "county": "Rockland",
+    "full_links": [
+      "http://rockland.maps.arcgis.com/apps/opsdashboard/index.html#/d074e0336e81449393a76d1768ceb096"
+    ],
+    "confirmed_date": "4/11",
+    "comments_en": "Reported by Rockland County Coronavirus COVID-19 Dashboard, may not include in NY total death right now."
+  },
+  {
+    "die_count": 1,
+    "state_name": "CA",
+    "county": "San Diego",
+    "full_links": [
+      "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/status.html#Table"
+    ],
+    "confirmed_date": "4/11"
   }
 ]
