@@ -62,7 +62,10 @@ data_files.forEach((data_file) => {
         if (countryEnglish !== 'Russia' || regionEnglish === '') return
 
         const regionCode = Object.keys(russia_subjects).find((x) => russia_subjects[x].en === regionEnglish)
+        if (russia_subjects[regionCode] == null) return
+
         const region = russia_subjects[regionCode].zh
+
         assert(region != null, `${regionEnglish} does not exist!`)
 
         if (!(region in output_russia)) {
