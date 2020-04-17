@@ -53,3 +53,6 @@
 [submodule "data/pakistan-data"]
 	path = data/pakistan-data
 	url = https://github.com/ShahrozTanveer/covid19-pakistan
+[submodule "data/italy-dpc-data"]
+	path = data/italy-dpc-data
+	url = https://github.com/pcm-dpc/COVID-19
