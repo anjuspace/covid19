@@ -27,8 +27,12 @@ const name_changes = {
     Jazan: 'Jizan',
     'Al Baha': 'Al Bahah',
     Madina: 'Medina',
+    Median: 'Medina',
     Hail: "Ha'il",
-    Asie: 'Asir'
+    Asie: 'Asir',
+    Aseer: 'Asir',
+    'Al Jouf': 'Jawf',
+    'Uglat as Suqur': 'Qassim'
 }
 
 data.forEach((record) => {
